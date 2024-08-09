@@ -1,0 +1,45 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+成東の停車場をおりて、町形をした家並みを出る。,-1,20001.0,N1,0.0,0.0,0.0,成東の停車場をおりて、町形をした家並みを出る。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_obj (PROPN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl (NOUN_obj NOUN_compound ADP_case) AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['成東', 'の', '停車場', 'を', 'おり', 'て', '、', '町', '形', 'を', 'し', 'た', '家並み', 'を', '出る', '。']",,,,,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N5
+この道はどこに出ますか。,286076,,N5,1.0,0.6387241,0.8193620443344116,この道はどこに出ますか。,"(VERB_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  (PRON_obl ADP_case)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['この', '道', 'は', 'どこ', 'に', '出', 'ます', 'か', '。']",0.8,0.97,0.885,0.8521810221672058,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N5
+駅を出て、あの道をまっすぐ行ってください。,377865,,N5,1.0,0.68034357,0.8401717841625214,駅を出て、あの道をまっすぐ行ってください。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark PUNCT_punct)
+  (NOUN_obj DET_det ADP_case)
+  ADV_advmod
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['駅', 'を', '出', 'て', '、', 'あの', '道', 'を', 'まっすぐ', '行っ', 'て', 'ください', '。']",0.7177445461473997,0.9204887218045112,0.8191166339759555,0.8296442090692384,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N5
+この道を行くとそこへ出ます。,286056,,N5,1.0,0.7606731,0.8803365528583527,この道を行くとそこへ出ます。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark)
+  (PRON_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['この', '道', 'を', '行く', 'と', 'そこ', 'へ', '出', 'ます', '。']",0.6340069396274131,0.8887310606060606,0.7613690001167368,0.8208527764875447,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N5
+私が出るとき、駐車場でトムを見ました。,322281,,N5,1.0,0.6394055,0.8197027444839478,私が出るとき、駐車場でトムを見ました。,"(VERB_ROOT
+  (NOUN_obl (VERB_acl (PRON_nsubj ADP_case)) PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['私', 'が', '出る', 'とき', '、', '駐車場', 'で', 'トム', 'を', '見', 'まし', 'た', '。']",0.6401303914741063,0.8919789227166277,0.766054657095367,0.7928787007896574,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N5
+ここを出るとき、自分の傘を持って行くことを忘れないでください。,290019,,N5,1.0,0.70171195,0.8508559763431549,ここを出るとき、自分の傘を持って行くことを忘れないでください。,"(VERB_ROOT
+  (NOUN_obj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl (VERB_acl (PRON_obj ADP_case)) PUNCT_punct)
+        (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+        SCONJ_mark))
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['ここ', 'を', '出る', 'とき', '、', '自分', 'の', '傘', 'を', '持っ', 'て', '行く', 'こと', 'を', '忘れ', 'ない', 'で', 'ください', '。']",0.6002519181829966,0.8630465023847377,0.7316492102838672,0.791252593313511,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N5

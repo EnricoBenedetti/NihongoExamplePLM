@@ -1,0 +1,36 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+味噌を食事の一部にすることは非常に良いと考えられている。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,味噌を食事の一部にすることは非常に良いと考えられている。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj ADP_case)
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+    ADP_case)
+  (ADJ_ccomp (ADJ_advcl AUX_aux) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['味噌', 'を', '食事', 'の', '一部', 'に', 'する', 'こと', 'は', '非常', 'に', '良い', 'と', '考え', 'られ', 'て', 'いる', '。']",,,,,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N5
+それは、良い反応です。,338016,,N5,1.0,0.6719993,0.8359996378421783,それは、良い反応です。,"(NOUN_ROOT
+  (PRON_nsubj ADP_case PUNCT_punct)
+  ADJ_acl
+  AUX_cop
+  PUNCT_punct)","['それ', 'は', '、', '良い', '反応', 'です', '。']",0.8,0.96,0.88,0.8579998189210891,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N5
+脂肪の取りすぎは良くありません。,52218,,N5,1.0,0.725705,0.8628525137901306,脂肪の取りすぎは良くありません。,"(VERB_ROOT
+  (ADJ_advcl (VERB_advcl (NOUN_nmod ADP_case) PART_mark ADP_case))
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['脂肪', 'の', '取り', 'すぎ', 'は', '良く', 'あり', 'ませ', 'ん', '。']",0.7006343243341226,0.95,0.8253171621670613,0.8440848379785959,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N5
+風邪に一番良い薬はなんですか。,163777,,N5,1.0,0.7525424,0.8762711882591248,風邪に一番良い薬はなんですか。,"(PRON_ROOT
+  (NOUN_nsubj (ADJ_acl (NOUN_obl ADP_case) ADV_advmod) ADP_case)
+  AUX_cop
+  PART_mark
+  PUNCT_punct)","['風邪', 'に', '一番', '良い', '薬', 'は', 'なん', 'です', 'か', '。']",0.6610166031098583,0.9333333333333332,0.7971749682215958,0.8367230782403603,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N5
+ポテトチップスは健康に良くないです。,306739,,N5,1.0,0.74562836,0.8728141784667969,ポテトチップスは健康に良くないです。,"(ADJ_ROOT
+  (ADJ_advcl (NOUN_nsubj ADP_case) (ADJ_advcl AUX_aux))
+  AUX_aux
+  PUNCT_punct)","['ポテトチップス', 'は', '健康', 'に', '良く', 'ない', 'です', '。']",0.6324759008492542,0.9146029874213836,0.7735394441353189,0.8231768113010579,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N5
+いいものは気分が良いですね。,119666,,N5,1.0,0.7124021,0.8562010526657104,いいものは気分が良いですね。,"(ADJ_ROOT
+  (NOUN_dislocated ADJ_acl ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['いい', 'もの', 'は', '気分', 'が', '良い', 'です', 'ね', '。']",0.6153965478345078,0.9108582949308756,0.7631274213826917,0.8096642370242011,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N5

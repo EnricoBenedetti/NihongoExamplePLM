@@ -1,0 +1,41 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,-1,20001.0,N1,0.0,0.0,0.0,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,"(NOUN_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+  (ADJ_acl (NOUN_obl ADP_case) AUX_aux AUX_aux)
+  AUX_cop
+  SCONJ_mark
+  AUX_cop
+  PUNCT_punct)","['この', '闘い', 'は', '今日', 'の', '場合', 'で', 'は', '大概', 'は', '容易', 'なら', 'ぬ', '苦闘', 'だ', 'から', 'だ', '。']",,,,,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N4
+この場合もうまく行くでしょう。,119789,,N4,1.0,0.6769938,0.8384968936443329,この場合もうまく行くでしょう。,"(VERB_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  ADJ_advcl
+  AUX_aux
+  PUNCT_punct)","['この', '場合', 'も', 'うまく', '行く', 'でしょう', '。']",0.7142857142857143,0.94,0.8271428571428572,0.832819875393595,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N4
+当選した場合は講習を受けないと駄目なようです。,53828,,N4,1.0,0.54109395,0.7705469727516174,当選した場合は講習を受けないと駄目なようです。,"(ADJ_ROOT
+  (NOUN_obl (VERB_acl AUX_aux AUX_aux) ADP_case)
+  (VERB_advcl (NOUN_obj ADP_case) AUX_aux SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['当選', 'し', 'た', '場合', 'は', '講習', 'を', '受け', 'ない', 'と', '駄目', 'な', 'よう', 'です', '。']",0.7229752726429779,0.94375,0.833362636321489,0.8019548045365532,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N4
+運動量がの場合は有名なの式になっている。,547051,,N4,1.0,0.57672065,0.7883603274822235,運動量がの場合は有名なの式になっている。,"(VERB_ROOT
+  (NOUN_obl
+    (ADJ_nmod
+      (NOUN_obl (NOUN_nmod ADP_case ADP_case) ADP_case)
+      AUX_aux
+      ADP_case)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['運動量', 'が', 'の', '場合', 'は', '有名', 'な', 'の', '式', 'に', 'なっ', 'て', 'いる', '。']",0.7154443775230799,0.9205555555555556,0.8179999665393177,0.8031801470107707,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N4
+火事の場合、階段を使いなさい。,252728,,N4,1.0,0.61601925,0.8080096244812012,火事の場合、階段を使いなさい。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADP_case) PUNCT_punct)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['火事', 'の', '場合', '、', '階段', 'を', '使い', 'なさい', '。']",0.6700234928313864,0.911672140120416,0.7908478164759012,0.7994287204785512,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N4
+明日、雨降る場合は車で行きます。,337309,,N4,1.0,0.5762565,0.7881282567977905,明日、雨降る場合は車で行きます。,"(VERB_ROOT
+  (ADV_advmod PUNCT_punct)
+  (NOUN_obl (VERB_acl NOUN_obl) ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['明日', '、', '雨', '降る', '場合', 'は', '車', 'で', '行き', 'ます', '。']",0.6410033355161033,0.9042130365659776,0.7726081860410405,0.7803682214194155,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N4

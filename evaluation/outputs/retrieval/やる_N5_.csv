@@ -1,0 +1,46 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+画家はただ自分の本当の仕事だけをやればよい事となってしまった。,-1,20001.0,N1,0.0,0.0,0.0,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_nmod ADP_case)
+        (NOUN_nmod ADP_case)
+        ADP_case
+        ADP_case)
+      (SCONJ_mark AUX_fixed))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['画家', 'は', 'ただ', '自分', 'の', '本当', 'の', '仕事', 'だけ', 'を', 'やれ', 'ば', 'よい', '事', 'と', 'なっ', 'て', 'しまっ', 'た', '。']",,,,,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N5
+好きなこと何でもやっていいよ。,351999,,N5,1.0,0.7008909,0.8504454493522644,好きなこと何でもやっていいよ。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl (ADJ_acl AUX_aux))
+    (PRON_obl ADP_case ADP_case)
+    SCONJ_mark)
+  PART_mark
+  PUNCT_punct)","['好き', 'な', 'こと', '何', 'で', 'も', 'やっ', 'て', 'いい', 'よ', '。']",0.8209941547694222,0.9758064516129032,0.8984003031911627,0.8744228762717136,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N5
+夕方までにこの仕事をやらなければなりません。,380175,,N5,1.0,0.72414964,0.8620748221874237,夕方までにこの仕事をやらなければなりません。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (VERB_advcl (NOUN_obj DET_det ADP_case) AUX_aux SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['夕方', 'まで', 'に', 'この', '仕事', 'を', 'やら', 'なけれ', 'ば', 'なり', 'ませ', 'ん', '。']",0.7175054338287783,0.9602272727272728,0.8388663532780255,0.8504705877327245,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N5
+自分が仕事をやるときも同じです。,138997,,N5,1.0,0.73864734,0.8693236708641052,自分が仕事をやるときも同じです。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl (NOUN_nsubj ADP_case) (NOUN_obj ADP_case))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['自分', 'が', '仕事', 'を', 'やる', 'とき', 'も', '同じ', 'です', '。']",0.6534021810358668,0.9394444444444444,0.7964233127401557,0.8328734918021304,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N5
+どこで何をやるか。,146751,,N5,1.0,0.679142,0.8395709991455078,どこで何をやるか。,"(VERB_ROOT
+  (PRON_obl ADP_case)
+  (PRON_obj ADP_case)
+  PART_mark
+  PUNCT_punct)","['どこ', 'で', '何', 'を', 'やる', 'か', '。']",0.6705366958607821,0.9213992974238876,0.7959679966423349,0.8177694978939214,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N5
+あなたのために、この仕事をやりますから。,316588,,N5,1.0,0.725577,0.8627884984016418,あなたのために、この仕事をやりますから。,"(VERB_ROOT
+  (NOUN_obl (PRON_nmod ADP_case) ADP_case PUNCT_punct)
+  (NOUN_obj DET_det ADP_case)
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['あなた', 'の', 'ため', 'に', '、', 'この', '仕事', 'を', 'やり', 'ます', 'から', '。']",0.6354366127170865,0.9022091429222628,0.7688228778196746,0.8158056881106582,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N5

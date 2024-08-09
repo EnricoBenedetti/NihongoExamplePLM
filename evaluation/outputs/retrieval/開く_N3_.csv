@@ -1,0 +1,73 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+当駅ではすべてのドアが開く。,-1,20001.0,N3,1.0,0.0,0.5,当駅ではすべてのドアが開く。,"(VERB_ROOT
+  (NOUN_obl NOUN_compound ADP_case ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  PUNCT_punct)","['当', '駅', 'で', 'は', 'すべて', 'の', 'ドア', 'が', '開く', '。']",,,,,1,当駅ではすべてのドアが開く。,開く,N3,17,E
+また、当駅に発着する井高野方面の列車は、今里筋線の途中駅で唯一、進行方向に向かって左側の扉が開く。,6092701,,N3,1.0,0.92195475,0.9609773755073548,また、当駅に発着する井高野方面の列車は、今里筋線の途中駅で唯一、進行方向に向かって左側の扉が開く。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (VERB_acl (NOUN_obl NOUN_compound ADP_case) AUX_aux)
+      PROPN_compound
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod PROPN_compound NOUN_compound ADP_case)
+    ADP_case)
+  (ADV_advmod PUNCT_punct)
+  (VERB_advcl (NOUN_obl NOUN_compound ADP_case) SCONJ_mark)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  PUNCT_punct)","['また', '、', '当', '駅', 'に', '発着', 'する', '井高野', '方面', 'の', '列車', 'は', '、', '今里', '筋', '線', 'の', '途中駅', 'で', '唯一', '、', '進行', '方向', 'に', '向かっ', 'て', '左側', 'の', '扉', 'が', '開く', '。']",0.5515390200443673,0.8972901002506266,0.7244145601474969,0.8426959678274258,1,当駅ではすべてのドアが開く。,開く,N3,17,E
+無人駅であるが、ワンマン列車は全てのドアが開く。,2270831,,N3,1.0,0.9520286,0.9760142862796783,無人駅であるが、ワンマン列車は全てのドアが開く。,"(VERB_ROOT
+  (NOUN_advcl (AUX_cop VERB_fixed) SCONJ_mark PUNCT_punct)
+  (NOUN_dislocated NOUN_compound ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  PUNCT_punct)","['無人駅', 'で', 'ある', 'が', '、', 'ワンマン', '列車', 'は', '全て', 'の', 'ドア', 'が', '開く', '。']",0.5886082447766938,0.8289472816424844,0.7087777632095891,0.8423960247446337,1,当駅ではすべてのドアが開く。,開く,N3,17,E
+平日朝ラッシュ時の貝塚行きのみ全てのドアが開く。,3302866,,N3,1.0,0.94856685,0.9742834270000458,平日朝ラッシュ時の貝塚行きのみ全てのドアが開く。,"(VERB_ROOT
+  (ADV_obl NOUN_compound)
+  (NOUN_nsubj
+    (NOUN_nmod (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+    (NOUN_nmod ADP_case)
+    ADP_case)
+  PUNCT_punct)","['平日', '朝', 'ラッシュ時', 'の', '貝塚', '行き', 'のみ', '全て', 'の', 'ドア', 'が', '開く', '。']",0.5757345409470032,0.7865876380187817,0.6811610894828924,0.8277222582414692,1,当駅ではすべてのドアが開く。,開く,N3,17,E
+当駅は終日有人駅であるため諫早駅、島原駅と同様に2両編成ではホーム側の全てのドアが開く。,2621281,,N3,1.0,0.9541096,0.9770548045635224,当駅は終日有人駅であるため諫早駅、島原駅と同様に2両編成ではホーム側の全てのドアが開く。,"(VERB_ROOT
+  (PROPN_advcl
+    (NOUN_nmod
+      (NOUN_acl
+        (NOUN_nsubj NOUN_compound ADP_case)
+        NOUN_compound
+        NOUN_compound
+        (AUX_cop VERB_fixed)))
+    PUNCT_punct)
+  (ADJ_advcl (ADV_obl ADP_case) AUX_aux)
+  (NOUN_obl NUM_compound NOUN_compound ADP_case ADP_case)
+  (NOUN_nsubj
+    (NOUN_nmod NOUN_compound ADP_case)
+    (NOUN_nmod ADP_case)
+    ADP_case)
+  PUNCT_punct)","['当', '駅', 'は', '終日', '有人', '駅', 'で', 'ある', 'ため', '諫早駅', '、', '島原駅', 'と', '同様', 'に', '2', '両', '編成', 'で', 'は', 'ホーム', '側', 'の', '全て', 'の', 'ドア', 'が', '開く', '。']",0.550003542503009,0.7627749612370123,0.6563892518700106,0.8167220282167664,1,当駅ではすべてのドアが開く。,開く,N3,17,E
+6号線のホーム階は地下4階にあり、単式ホーム1面1線を有しており、電車の進行方向左側のドアが開く。,4163983,,N3,1.0,0.8940065,0.9470032453536988,6号線のホーム階は地下4階にあり、単式ホーム1面1線を有しており、電車の進行方向左側のドアが開く。,"(VERB_ROOT
+  NUM_dep
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+      (NOUN_obl NOUN_compound NUM_nummod ADP_case)
+      PUNCT_punct)
+    (NOUN_obj
+      NOUN_compound
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      NUM_nummod
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (NOUN_nmod ADP_case)
+      NOUN_compound
+      NOUN_compound
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['6', '号線', 'の', 'ホーム', '階', 'は', '地下', '4', '階', 'に', 'あり', '、', '単式', 'ホーム', '1', '面', '1', '線', 'を', '有し', 'て', 'おり', '、', '電車', 'の', '進行', '方向', '左側', 'の', 'ドア', 'が', '開く', '。']",0.5599960760402953,0.7625009057328261,0.6612484908865608,0.8041258681201298,1,当駅ではすべてのドアが開く。,開く,N3,17,E

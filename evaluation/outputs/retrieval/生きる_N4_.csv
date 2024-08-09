@@ -1,0 +1,54 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,-1,15761.0,N1,0.0,0.0,0.0,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark)
+      (PRON_obj ADP_case)
+      PART_mark)
+    (NOUN_obj ADP_case)
+    (NOUN_compound ADP_fixed AUX_fixed)
+    AUX_aux
+    AUX_aux)
+  PUNCT_punct)","['私', 'は', 'この', '力', 'を', '以', 'て', '己れ', 'を', '鞭', 'ち', '他', 'を', '生きる', '事', 'が', '出来る', 'よう', 'に', '思う', '。']",,,,,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N4
+2023年、宮崎駿の『君たちはどう生きるか』が公開された。,4670628,,N4,1.0,0.72979057,0.8648952841758728,2023年、宮崎駿の『君たちはどう生きるか』が公開された。,"(VERB_ROOT
+  (NOUN_obl NUM_nummod PUNCT_punct)
+  (PROPN_obl PROPN_compound ADP_case)
+  (VERB_csubj
+    (NOUN_nsubj PUNCT_punct PRON_nmod ADP_case)
+    ADV_advmod
+    PART_mark
+    PUNCT_punct
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['2023', '年', '、', '宮崎', '駿', 'の', '『', '君', 'たち', 'は', 'どう', '生きる', 'か', '』', 'が', '公開', 'さ', 'れ', 'た', '。']",0.8571428571428572,0.9634146341463414,0.9102787456445992,0.8875870149102361,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N4
+この世で強く生きてください」という内容である。,2716834,,N4,1.0,0.77866614,0.8893330693244934,この世で強く生きてください」という内容である。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl ADP_case)
+    ADJ_advcl
+    (SCONJ_mark AUX_fixed)
+    PUNCT_punct
+    (ADP_case VERB_fixed))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['この世', 'で', '強く', '生き', 'て', 'ください', '」', 'と', 'いう', '内容', 'で', 'ある', '。']",0.7771993389168795,0.9583333333333334,0.8677663361251065,0.8785497027247999,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N4
+誰かのために生きるのはまだ先でいい。,133032,,N4,1.0,0.81931186,0.9096559286117554,誰かのために生きるのはまだ先でいい。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl (PRON_nmod ADP_case ADP_case) ADP_case)
+    SCONJ_mark
+    ADP_case)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['誰', 'か', 'の', 'ため', 'に', '生きる', 'の', 'は', 'まだ', '先', 'で', 'いい', '。']",0.7337311778738309,0.9365671641791044,0.8351491710264677,0.8724025498191115,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N4
+私は生きることは素晴らしいと思い直すのでした。,130414,,N4,1.0,0.8233916,0.911695808172226,私は生きることは素晴らしいと思い直すのでした。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (ADJ_advcl (NOUN_nsubj VERB_acl ADP_case) ADP_case)
+  SCONJ_mark
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['私', 'は', '生きる', 'こと', 'は', '素晴らしい', 'と', '思い直す', 'の', 'でし', 'た', '。']",0.721669085886637,0.9141293191926104,0.8178992025396237,0.8647975053559248,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N4
+生きる意味を教えてくれ。,155645,,N4,1.0,0.7902538,0.8951269090175629,生きる意味を教えてくれ。,"(VERB_ROOT
+  (NOUN_obj VERB_acl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['生きる', '意味', 'を', '教え', 'て', 'くれ', '。']",0.7063216058356373,0.9094476744186046,0.8078846401271209,0.8515057745723419,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N4

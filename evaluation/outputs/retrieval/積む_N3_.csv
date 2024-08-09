@@ -1,0 +1,70 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,-1,7297.0,N3,1.0,0.0,0.5,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (PROPN_obj NOUN_compound ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    AUX_aux)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['その', '後', 'プロ', 'に', '転向', 'する', 'と', '、', '地元', '大阪', 'を', '中心', 'に', '大会', 'へ', '出場', 'し', '経験', 'を', '積む', '。']",,,,,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N3
+2015年-2022年）2016年からは4年連続で、レゲエタウン大阪へ1人修行に足を運ぶなどの様々なキャリアを積む。,12445568,,N3,1.0,0.87022275,0.9351113736629486,2015年-2022年）2016年からは4年連続で、レゲエタウン大阪へ1人修行に足を運ぶなどの様々なキャリアを積む。,"(NOUN_ROOT
+  (NOUN_acl
+    (NOUN_obl
+      (NOUN_nmod
+        NUM_nummod
+        SYM_dep
+        NUM_compound
+        NOUN_nmod
+        PUNCT_punct)
+      NUM_nummod
+      ADP_case
+      ADP_case)
+    NUM_compound
+    NOUN_compound
+    ADP_case
+    PUNCT_punct)
+  NOUN_compound)","['2015', '年', '-', '2022', '年', '）', '2016', '年', 'から', 'は', '4', '年', '連続', 'で', '、', 'レゲエ', 'タウン', '大阪', 'へ', '1人', '修行', 'に', '足', 'を', '運ぶ', 'など', 'の', '様々', 'な', 'キャリア', 'を', '積む', '。']",0.9458631054578374,0.9251994301994302,0.9355312678286338,0.9353213207457912,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N3
+帰国後、舞台女優としての経験を積む。,8872889,,N3,1.0,0.8605824,0.9302912056446077,帰国後、舞台女優としての経験を積む。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod PUNCT_punct)
+    (NOUN_nmod
+      PROPN_compound
+      (ADP_case AUX_fixed SCONJ_fixed)
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['帰国後', '、', '舞台', '女優', 'と', 'し', 'て', 'の', '経験', 'を', '積む', '。']",0.8521627486301808,0.8837273107009949,0.8679450296655878,0.8991181176550977,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N3
+15歳から18歳までカートで経験を積むと、1995年にオーストラリアのフォーミュラ・フォードにフル参戦した。,1567486,,N3,1.0,0.8503914,0.9251956939697266,15歳から18歳までカートで経験を積むと、1995年にオーストラリアのフォーミュラ・フォードにフル参戦した。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod NUM_nummod ADP_case) NUM_nummod ADP_case)
+    (NOUN_obl ADP_case)
+    (NOUN_obj ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl NUM_nummod ADP_case)
+  (PROPN_obl
+    (PROPN_nmod ADP_case)
+    NOUN_compound
+    SYM_compound
+    ADP_case)
+  NOUN_obl
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['15', '歳', 'から', '18', '歳', 'まで', 'カート', 'で', '経験', 'を', '積む', 'と', '、', '1995', '年', 'に', 'オーストラリア', 'の', 'フォーミュラ', '・', 'フォード', 'に', 'フル', '参戦', 'し', 'た', '。']",0.8248844395018355,0.8685909427468248,0.8467376911243302,0.8859666925470284,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N3
+しばらくは下部大会に出場し、下積み経験を積む。,6181505,,N3,1.0,0.942166,0.9710829854011536,しばらくは下部大会に出場し、下積み経験を積む。,"(VERB_ROOT
+  (VERB_advcl
+    (ADV_advmod ADP_case)
+    (NOUN_obl NOUN_compound ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obj NOUN_compound ADP_case)
+  PUNCT_punct)","['しばらく', 'は', '下部', '大会', 'に', '出場', 'し', '、', '下積み', '経験', 'を', '積む', '。']",0.754235006123382,0.8430454487367667,0.7986402274300743,0.884861606415614,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N3
+以降、同大会でキャリアを積む。,6812698,,N3,1.0,0.93611544,0.9680577218532562,以降、同大会でキャリアを積む。,"(VERB_ROOT
+  (ADV_advmod PUNCT_punct)
+  (NOUN_obl NOUN_compound ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['以降', '、', '同', '大会', 'で', 'キャリア', 'を', '積む', '。']",0.7010164311288554,0.8254034175233179,0.7632099243260866,0.8656338230896714,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N3

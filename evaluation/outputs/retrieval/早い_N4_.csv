@@ -1,0 +1,41 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一番早く人口が20万人に到達した都市であったと思われる。,-1,19676.0,N3,0.6,0.0,0.3,一番早く人口が20万人に到達した都市であったと思われる。,"(VERB_ROOT
+  (NOUN_advcl
+    (VERB_acl
+      (ADJ_advcl ADV_advmod)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl NUM_compound ADP_case)
+      AUX_aux
+      AUX_aux)
+    (AUX_cop VERB_fixed)
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['一番', '早く', '人口', 'が', '20万', '人', 'に', '到達', 'し', 'た', '都市', 'で', 'あっ', 'た', 'と', '思わ', 'れる', '。']",,,,,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N4
+ナイトスクープ』の依頼「世界一指を早く回せる男」に出演している。,1757553,,N4,1.0,0.61745065,0.8087253272533417,ナイトスクープ』の依頼「世界一指を早く回せる男」に出演している。,(NOUN_ROOT (NOUN_nmod NOUN_compound PUNCT_punct ADP_case)),"['ナイト', 'スクープ', '』', 'の', '依頼', '「', '世界', '一指', 'を', '早く', '回せる', '男', '」', 'に', '出演', 'し', 'て', 'いる', '。']",1.0,0.9662162162162162,0.983108108108108,0.8959167176807249,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N4
+トムは、車よりも自転車の方が早く職場に行けるんだ。,393599,,N4,1.0,0.640432,0.8202160000801086,トムは、車よりも自転車の方が早く職場に行けるんだ。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  (ADJ_advcl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case))
+  (NOUN_obl ADP_case)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['トム', 'は', '、', '車', 'より', 'も', '自転車', 'の', '方', 'が', '早く', '職場', 'に', '行ける', 'ん', 'だ', '。']",0.9067895252732656,0.9537037037037036,0.9302466144884848,0.8752313072842967,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N4
+より早く成功する事がより良い。,8751755,,N4,1.0,0.6964412,0.8482205867767334,より早く成功する事がより良い。,"(ADJ_ROOT
+  (NOUN_nsubj (VERB_acl (ADJ_advcl ADV_advmod) AUX_aux) ADP_case)
+  ADV_advmod
+  PUNCT_punct)","['より', '早く', '成功', 'する', '事', 'が', 'より', '良い', '。']",0.8291391502353168,0.9404761904761904,0.8848076703557537,0.8665141285662435,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N4
+光ファイバーの家庭での利用も意外に早く普及するかもしれません。,33105,,N4,1.0,0.7157646,0.8578822910785675,光ファイバーの家庭での利用も意外に早く普及するかもしれません。,"(VERB_ROOT
+  (NOUN_nsubj
+    (NOUN_nmod (NOUN_nmod NOUN_compound ADP_case) ADP_case ADP_case)
+    ADP_case)
+  (ADJ_advcl (ADJ_advcl AUX_aux))
+  AUX_aux
+  (PART_mark ADP_fixed VERB_fixed AUX_fixed AUX_fixed)
+  PUNCT_punct)","['光', 'ファイバー', 'の', '家庭', 'で', 'の', '利用', 'も', '意外', 'に', '早く', '普及', 'する', 'か', 'も', 'しれ', 'ませ', 'ん', '。']",0.7798986673868172,0.923780487804878,0.8518395775958476,0.8548609343372076,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N4
+ずいぶん早く来たみたいですね。,134127,,N4,1.0,0.6641662,0.8320831060409546,ずいぶん早く来たみたいですね。,"(VERB_ROOT
+  (ADJ_advcl ADV_advmod)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['ずいぶん', '早く', '来', 'た', 'みたい', 'です', 'ね', '。']",0.7528314935276239,0.9222222222222224,0.8375268578749231,0.8348049819579388,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N4

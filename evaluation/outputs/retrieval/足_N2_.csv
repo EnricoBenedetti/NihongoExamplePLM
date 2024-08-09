@@ -1,0 +1,83 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+ハードルに手や足をかけても問題ない。,-1,16615.0,N3,0.8,0.0,0.4,ハードルに手や足をかけても問題ない。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    ADP_case)
+  NOUN_compound
+  PUNCT_punct)","['ハードル', 'に', '手', 'や', '足', 'を', 'かけ', 'て', 'も', '問題', 'ない', '。']",,,,,1,ハードルに手や足をかけても問題ない。,足,N2
+フッカーの名称はスクラムに投げ入れられたボールを足を使って後ろに掻き込む（フックする）伝統的な役割から来ている。,11182347,,N2,1.0,0.78171396,0.8908569812774658,フッカーの名称はスクラムに投げ入れられたボールを足を使って後ろに掻き込む（フックする）伝統的な役割から来ている。,"(NOUN_ROOT
+  (NOUN_nsubj (PROPN_nmod ADP_case) ADP_case)
+  (VERB_acl
+    (NOUN_obj
+      (VERB_acl (NOUN_obl ADP_case) AUX_aux AUX_aux)
+      ADP_case)
+    (NOUN_obj ADP_case)
+    SCONJ_mark)
+  (NOUN_obl ADP_case)
+  PUNCT_punct
+  VERB_compound
+  AUX_aux
+  PUNCT_punct)","['フッカー', 'の', '名称', 'は', 'スクラム', 'に', '投げ入れ', 'られ', 'た', 'ボール', 'を', '足', 'を', '使っ', 'て', '後ろ', 'に', '掻き込む', '（', 'フック', 'する', '）', '伝統的', 'な', '役割', 'から', '来', 'て', 'いる', '。']",0.8091363157390977,0.9461309523809524,0.877633634060025,0.8842453076687454,1,ハードルに手や足をかけても問題ない。,足,N2
+さらに上半身、足を紐で吊す。,11276651,,N2,1.0,0.78735125,0.8936756253242493,さらに上半身、足を紐で吊す。,"(NOUN_ROOT
+  CCONJ_cc
+  (NOUN_nmod PUNCT_punct)
+  (NOUN_obj ADP_case)
+  (NOUN_nmod ADP_case)
+  PUNCT_punct)","['さらに', '上半身', '、', '足', 'を', '紐', 'で', '吊す', '。']",0.7673425134521334,0.9356617647058824,0.8515021390790078,0.8725888822016286,1,ハードルに手や足をかけても問題ない。,足,N2
+手、足、頭突き等による打撃も許されてはいるが、実際にはあまり行われないという。,8546997,,N2,1.0,0.8424991,0.9212495386600494,手、足、頭突き等による打撃も許されてはいるが、実際にはあまり行われないという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_nsubj
+          (NOUN_obl
+            (NOUN_nmod (NOUN_nmod PUNCT_punct) PUNCT_punct)
+            NOUN_compound
+            (ADP_case VERB_fixed))
+          ADP_case)
+        AUX_aux
+        SCONJ_mark
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_obl ADP_case ADP_case)
+    ADV_advmod
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['手', '、', '足', '、', '頭突き', '等', 'に', 'よる', '打撃', 'も', '許さ', 'れ', 'て', 'は', 'いる', 'が', '、', '実際', 'に', 'は', 'あまり', '行わ', 'れ', 'ない', 'と', 'いう', '。']",0.7369117065274433,0.9065315315315317,0.8217216190294874,0.8714855788447684,1,ハードルに手や足をかけても問題ない。,足,N2
+この方式は運転操作を容易にし、操作盤の上になにもないことから、運転士は足を投げ出しても運転できる、とも言われた。,5951549,,N2,1.0,0.8285482,0.9142740964889526,この方式は運転操作を容易にし、操作盤の上になにもないことから、運転士は足を投げ出しても運転できる、とも言われた。,"(VERB_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  (VERB_ccomp
+    (NOUN_obl
+      (ADJ_acl
+        (VERB_advcl
+          (NOUN_obj NOUN_compound ADP_case)
+          (ADJ_advcl AUX_aux)
+          PUNCT_punct)
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+        (PRON_nsubj ADP_case))
+      ADP_case
+      PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark ADP_case)
+    AUX_aux
+    PUNCT_punct
+    ADP_case
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['この', '方式', 'は', '運転', '操作', 'を', '容易', 'に', 'し', '、', '操作盤', 'の', '上', 'に', 'なに', 'も', 'ない', 'こと', 'から', '、', '運転士', 'は', '足', 'を', '投げ出し', 'て', 'も', '運転', 'できる', '、', 'と', 'も', '言わ', 'れ', 'た', '。']",0.7196479730207475,0.8832689521970063,0.8014584626088769,0.8578662795489147,1,ハードルに手や足をかけても問題ない。,足,N2
+自らの手や足を使いよじ登ることであるが、補助的に登攀道具を使うこともある。,4475935,,N2,1.0,0.8423269,0.9211634397506714,自らの手や足を使いよじ登ることであるが、補助的に登攀道具を使うこともある。,"(VERB_ROOT
+  (NOUN_advcl
+    (VERB_acl
+      (NOUN_obj (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+      NOUN_aux)
+    (AUX_cop VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_advcl PART_mark AUX_cop)
+  (NOUN_obj NOUN_compound ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['自ら', 'の', '手', 'や', '足', 'を', '使い', 'よじ登る', 'こと', 'で', 'ある', 'が', '、', '補助', '的', 'に', '登攀', '道具', 'を', '使う', 'こと', 'も', 'ある', '。']",0.7006613109525555,0.8627725233703495,0.7817169171614524,0.8514401784560619,1,ハードルに手や足をかけても問題ない。,足,N2

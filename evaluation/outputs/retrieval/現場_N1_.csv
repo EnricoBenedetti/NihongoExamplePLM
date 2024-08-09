@@ -1,0 +1,80 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+這入りこんで現場を見届けてやろう。,-1,14743.0,N2,0.8,0.0,0.4,這入りこんで現場を見届けてやろう。,"(VERB_ROOT
+  (PRON_obl NOUN_compound ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['這入り', 'こん', 'で', '現場', 'を', '見届け', 'て', 'やろう', '。']",,,,,1,這入りこんで現場を見届けてやろう。,現場,N1
+現場に到着するや、数秒以内に警察官はパウエルを射殺した。,11863642,,N1,1.0,0.74883115,0.8744155764579773,現場に到着するや、数秒以内に警察官はパウエルを射殺した。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obl ADP_case) AUX_aux PART_mark PUNCT_punct)
+  (NOUN_obl NUM_compound NOUN_compound ADP_case)
+  (NOUN_nsubj ADP_case)
+  (PROPN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['現場', 'に', '到着', 'する', 'や', '、', '数', '秒', '以内', 'に', '警察官', 'は', 'パウエル', 'を', '射殺', 'し', 'た', '。']",0.8571428571428572,0.962962962962963,0.91005291005291,0.8922342432554438,1,這入りこんで現場を見届けてやろう。,現場,N1
+と嘆き悲しみ現場にひれ伏したという。,4061156,,N1,1.0,0.80196655,0.9009832739830016,と嘆き悲しみ現場にひれ伏したという。,"(VERB_ROOT
+  (VERB_ccomp
+    ADP_case
+    (NOUN_obl VERB_compound ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['と', '嘆き悲しみ', '現場', 'に', 'ひれ伏し', 'た', 'と', 'いう', '。']",0.8038644990330757,0.9299242424242424,0.866894370728659,0.8839388223558304,1,這入りこんで現場を見届けてやろう。,現場,N1
+2人は現場へと急行するが、オクラホマ州は管轄外であるために、現場に入ることすらできない。,11017147,,N1,1.0,0.81730354,0.9086517691612244,2人は現場へと急行するが、オクラホマ州は管轄外であるために、現場に入ることすらできない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obl ADP_case ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (NOUN_advcl
+    NOUN_compound
+    (AUX_cop VERB_fixed)
+    (SCONJ_mark SCONJ_fixed)
+    PUNCT_punct)
+  (NOUN_obl (VERB_acl (NOUN_obl ADP_case)) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['2人', 'は', '現場', 'へ', 'と', '急行', 'する', 'が', '、', 'オクラホマ州', 'は', '管轄', '外', 'で', 'ある', 'ため', 'に', '、', '現場', 'に', '入る', 'こと', 'すら', 'でき', 'ない', '。']",0.7405261598523801,0.9067018909899888,0.8236140254211846,0.8661328972912045,1,這入りこんで現場を見届けてやろう。,現場,N1
+また、列車が現場に近づくや時速10キロ程度にスピードを落としたのはなぜか、と疑問を投げかけている。,1834764,,N1,1.0,0.81707454,0.9085372686386108,また、列車が現場に近づくや時速10キロ程度にスピードを落としたのはなぜか、と疑問を投げかけている。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (ADV_advmod
+    (VERB_csubj
+      (VERB_advcl
+        (NOUN_nsubj ADP_case)
+        (NOUN_obl ADP_case)
+        PART_mark)
+      (NOUN_obl NOUN_compound NUM_compound NOUN_compound ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux
+      SCONJ_mark
+      ADP_case)
+    PART_case
+    PUNCT_punct
+    ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '、', '列車', 'が', '現場', 'に', '近づく', 'や', '時速', '10', 'キロ', '程度', 'に', 'スピード', 'を', '落とし', 'た', 'の', 'は', 'なぜ', 'か', '、', 'と', '疑問', 'を', '投げかけ', 'て', 'いる', '。']",0.7141944952539303,0.8951252236135957,0.8046598594337631,0.856598564036187,1,這入りこんで現場を見届けてやろう。,現場,N1
+現場に駆け付けたものの、寸でのところで制止が間に合わなかった理佳子の前で、圭介は己の罪を告白した末に亡くなる。,9334445,,N1,1.0,0.81335205,0.906676024198532,現場に駆け付けたものの、寸でのところで制止が間に合わなかった理佳子の前で、圭介は己の罪を告白した末に亡くなる。,"(VERB_ROOT
+  (NOUN_obl
+    (PROPN_nmod
+      (VERB_acl
+        (VERB_advcl
+          (NOUN_obl ADP_case)
+          AUX_aux
+          (SCONJ_mark SCONJ_fixed)
+          PUNCT_punct)
+        (NOUN_obl (NOUN_nmod ADP_case ADP_case) ADP_case)
+        (VERB_nsubj ADP_case)
+        AUX_aux
+        AUX_aux)
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obj (PRON_nmod ADP_case) ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['現場', 'に', '駆け付け', 'た', 'もの', 'の', '、', '寸', 'で', 'の', 'ところ', 'で', '制止', 'が', '間に合わ', 'なかっ', 'た', '理佳子', 'の', '前', 'で', '、', '圭介', 'は', '己', 'の', '罪', 'を', '告白', 'し', 'た', '末', 'に', '亡くなる', '。']",0.6944797070859472,0.8804563492063492,0.7874680281461481,0.8470720261723401,1,這入りこんで現場を見届けてやろう。,現場,N1

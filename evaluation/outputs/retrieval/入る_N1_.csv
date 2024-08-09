@@ -1,0 +1,87 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分の意思で、内部に入ろうと思わなければ、中には入れない。,-1,20001.0,N3,0.6,0.0,0.3,自分の意思で、内部に入ろうと思わなければ、中には入れない。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_ccomp
+      (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop PUNCT_punct)
+      (NOUN_obl ADP_case)
+      ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['自分', 'の', '意思', 'で', '、', '内部', 'に', '入ろう', 'と', '思わ', 'なけれ', 'ば', '、', '中', 'に', 'は', '入れ', 'ない', '。']",,,,,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N1
+彼女を助けるべくエボンの教えを無視して無理矢理寺院に入り、そこで初めてユウナと出会う。,2097620,,N1,1.0,0.6659636,0.8329817950725555,彼女を助けるべくエボンの教えを無視して無理矢理寺院に入り、そこで初めてユウナと出会う。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl (PRON_obj ADP_case) AUX_aux)
+      (NOUN_obj (PROPN_nmod ADP_case) ADP_case)
+      AUX_aux
+      SCONJ_mark)
+    ADV_advmod
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (PRON_obl ADP_case)
+  ADV_advmod
+  (PROPN_obl ADP_case)
+  PUNCT_punct)","['彼女', 'を', '助ける', 'べく', 'エボン', 'の', '教え', 'を', '無視', 'し', 'て', '無理矢理', '寺院', 'に', '入り', '、', 'そこ', 'で', '初めて', 'ユウナ', 'と', '出会う', '。']",0.7481759878550328,0.9464285714285714,0.8473022796418022,0.8401420373571789,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N1
+臥し給へる二、三間が中へ入る者、あつさ堪へ難ければ、近く有る者希也。,2003912,,N1,1.0,0.7069148,0.8534573912620544,臥し給へる二、三間が中へ入る者、あつさ堪へ難ければ、近く有る者希也。,"(NOUN_ROOT
+  (ADJ_advcl
+    (NOUN_obl
+      (ADJ_amod
+        (NOUN_obl
+          (NUM_nmod (VERB_acl NOUN_obl AUX_aux) PUNCT_punct)
+          (VERB_acl (NOUN_nsubj ADP_case) (NOUN_obl ADP_case))
+          PUNCT_punct))
+      PART_mark)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_acl ADV_advmod)
+  NOUN_compound
+  NOUN_compound
+  PUNCT_punct)","['臥し', '給へ', 'る', '二', '、', '三間', 'が', '中', 'へ', '入る', '者', '、', 'あつ', 'さ', '堪へ', '難けれ', 'ば', '、', '近く', '有る', '者', '希', '也', '。']",0.739756502168823,0.9354256854256854,0.8375910937972542,0.8455242425296543,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N1
+許可なしに部屋に入るな。,248311,,N1,1.0,0.77829695,0.889148473739624,許可なしに部屋に入るな。,"(VERB_ROOT
+  (NOUN_obl NOUN_compound ADP_case)
+  (NOUN_obl ADP_case)
+  PART_mark
+  PUNCT_punct)","['許可', 'なし', 'に', '部屋', 'に', '入る', 'な', '。']",0.6852804235489627,0.928861003861004,0.8070707137049833,0.8481095937223037,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N1
+また面会者は誰であろうとホテルで2週間の自宅隔離を命じられ、消毒剤が噴射されるトンネルを通過してようやく事務室に入ることが許される。,1247649,,N1,1.0,0.7609628,0.8804813921451569,また面会者は誰であろうとホテルで2週間の自宅隔離を命じられ、消毒剤が噴射されるトンネルを通過してようやく事務室に入ることが許される。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_nsubj
+            VERB_compound
+            ADP_case
+            (PRON_dep (AUX_cop VERB_fixed) ADP_case))
+          (NOUN_obl ADP_case)
+          (NOUN_obj
+            (NOUN_nmod NUM_nummod ADP_case)
+            NOUN_compound
+            ADP_case)
+          AUX_aux
+          PUNCT_punct)
+        (NOUN_obj
+          (VERB_acl (NOUN_nsubj ADP_case) AUX_aux AUX_aux)
+          ADP_case)
+        AUX_aux
+        SCONJ_mark)
+      ADV_advmod
+      (NOUN_obl ADP_case))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['また', '面会', '者', 'は', '誰', 'で', 'あろう', 'と', 'ホテル', 'で', '2', '週間', 'の', '自宅', '隔離', 'を', '命じ', 'られ', '、', '消毒剤', 'が', '噴射', 'さ', 'れる', 'トンネル', 'を', '通過', 'し', 'て', 'ようやく', '事務室', 'に', '入る', 'こと', 'が', '許さ', 'れる', '。']",0.676732088133384,0.9081692256341788,0.7924506568837815,0.8364660245144692,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N1
+物体は静止していたため、ボッタは意を決し中に入ることにした。,476949,,N1,1.0,0.76924455,0.8846222758293152,物体は静止していたため、ボッタは意を決し中に入ることにした。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_nsubj ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      AUX_aux)
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl (VERB_compound (NOUN_obj ADP_case)) ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  AUX_aux
+  PUNCT_punct)","['物体', 'は', '静止', 'し', 'て', 'い', 'た', 'ため', '、', 'ボッタ', 'は', '意', 'を', '決し', '中', 'に', '入る', 'こと', 'に', 'し', 'た', '。']",0.6618113883223931,0.8872640192989968,0.7745377038106949,0.829579989820005,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N1

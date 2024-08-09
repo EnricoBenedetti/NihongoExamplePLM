@@ -1,0 +1,66 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,-1,20001.0,N1,0.6,0.0,0.3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,"(NOUN_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+  (ADJ_acl (NOUN_obl ADP_case) AUX_aux AUX_aux)
+  AUX_cop
+  SCONJ_mark
+  AUX_cop
+  PUNCT_punct)","['この', '闘い', 'は', '今日', 'の', '場合', 'で', 'は', '大概', 'は', '容易', 'なら', 'ぬ', '苦闘', 'だ', 'から', 'だ', '。']",,,,,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N2
+それは我々の場合においてもそうだと思います。,102137,,N2,1.0,0.7999533,0.8999766409397125,それは我々の場合においてもそうだと思います。,"(VERB_ROOT
+  (ADV_advmod
+    (PRON_nsubj ADP_case)
+    (NOUN_obl
+      (PRON_nmod ADP_case)
+      (ADP_case VERB_fixed SCONJ_fixed)
+      ADP_case)
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['それ', 'は', '我々', 'の', '場合', 'に', 'おい', 'て', 'も', 'そう', 'だ', 'と', '思い', 'ます', '。']",0.8067823646369742,0.9313294232649072,0.8690558939509407,0.8845162674453266,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N2
+"それどころか（現代西洋医学の場合）「当の病気そのものよりも、""治療""の方がはるかに危険だということがしばしばある」とメンデルソンは述べている。",1072141,,N2,1.0,0.69401616,0.84700807929039,"それどころか（現代西洋医学の場合）「当の病気そのものよりも、""治療""の方がはるかに危険だということがしばしばある」とメンデルソンは述べている。","(PRON_ROOT
+  ADP_case
+  ADP_case
+  PUNCT_punct
+  NOUN_compound
+  NOUN_compound
+  NOUN_compound
+  ADP_case
+  NOUN_nmod
+  PUNCT_punct)","['それ', 'どころ', 'か', '（', '現代', '西洋', '医学', 'の', '場合', '）', '「', '当', 'の', '病気', 'その', 'もの', 'より', 'も', '、', '""', '治療', '""', 'の', '方', 'が', 'はるか', 'に', '危険', 'だ', 'と', 'いう', 'こと', 'が', 'しばしば', 'ある', '」', 'と', 'メンデルソン', 'は', '述べ', 'て', 'いる', '。']",0.8362973295604189,0.914068132660418,0.8751827311104186,0.8610954052004043,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N2
+例えば私の場合でしたら、自分のおるところが対策本部である。,105948,,N2,1.0,0.7470736,0.8735367953777313,例えば私の場合でしたら、自分のおるところが対策本部である。,"(NOUN_ROOT
+  (NOUN_advcl
+    ADV_advmod
+    (PRON_nmod ADP_case)
+    AUX_cop
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (NOUN_nmod ADP_case)) ADP_case)
+  NOUN_compound
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['例えば', '私', 'の', '場合', 'でし', 'たら', '、', '自分', 'の', 'おる', 'ところ', 'が', '対策', '本部', 'で', 'ある', '。']",0.7725621874457709,0.9054307116104868,0.8389964495281289,0.8562666224529301,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N2
+この場合はどうしようも無いかというと、そうでもない。,885795,,N2,1.0,0.73231447,0.8661572337150574,この場合はどうしようも無いかというと、そうでもない。,"(ADJ_ROOT
+  (VERB_advcl
+    (ADJ_ccomp
+      (NOUN_obl DET_det ADP_case)
+      (VERB_nsubj ADV_advmod ADP_case)
+      PART_mark
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (ADV_advmod AUX_aux ADP_case)
+  PUNCT_punct)","['この', '場合', 'は', 'どう', 'しよう', 'も', '無い', 'か', 'と', 'いう', 'と', '、', 'そう', 'で', 'も', 'ない', '。']",0.7644628625076572,0.888095238095238,0.8262790503014477,0.8462181420082525,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N2
+皮肉なことではあるが，いずれの場合でも，学校改革はうまくいかないのである。,38089,,N2,1.0,0.7717297,0.8858648538589478,皮肉なことではあるが，いずれの場合でも，学校改革はうまくいかないのである。,"(VERB_ROOT
+  (NOUN_advcl
+    (ADJ_acl AUX_aux)
+    AUX_cop
+    ADP_case
+    VERB_compound
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl (PRON_nmod ADP_case) ADP_case ADP_case PUNCT_punct)
+  (NOUN_nsubj NOUN_compound ADP_case)
+  ADJ_advcl
+  AUX_aux
+  (SCONJ_mark AUX_fixed VERB_fixed)
+  PUNCT_punct)","['皮肉', 'な', 'こと', 'で', 'は', 'ある', 'が', '，', 'いずれ', 'の', '場合', 'で', 'も', '，', '学校', '改革', 'は', 'うまく', 'いか', 'ない', 'の', 'で', 'ある', '。']",0.745687802561793,0.8624769658367997,0.8040823841992963,0.844973619029122,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N2

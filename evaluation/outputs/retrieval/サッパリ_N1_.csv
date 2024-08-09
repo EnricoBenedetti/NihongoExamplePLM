@@ -1,0 +1,99 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,-1,22.0,N2,0.8,0.0,0.4,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,"(ADV_ROOT
+  ADV_cc
+  (NOUN_obl
+    (VERB_acl (SCONJ_mark VERB_fixed) PRON_mark)
+    (NOUN_nmod ADP_case)
+    PUNCT_punct)
+  (ADJ_advcl (NOUN_obl ADP_case) SCONJ_mark)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '聞こえ', 'て', 'くる', '君', '尾', 'の', '笑い声', '、', 'はなやか', 'で', '明るく', 'て', 'サッパリ', 'し', 'て', 'いる', '。']",,,,,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N1
+お前の心づくしもサッパリ神様に通じないと見える。,9479700,,N1,1.0,0.59658116,0.7982905805110931,お前の心づくしもサッパリ神様に通じないと見える。,"(VERB_ROOT
+  (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+  ADV_advmod
+  (NOUN_advcl
+    NOUN_compound
+    (ADP_case VERB_fixed AUX_fixed)
+    SCONJ_mark)
+  PUNCT_punct)","['お前', 'の', '心づくし', 'も', 'サッパリ', '神', '様', 'に', '通じ', 'ない', 'と', '見える', '。']",0.8333333333333334,0.9596774193548387,0.896505376344086,0.8473979784275896,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N1
+曲調は当初サッパリした内容であったが、試行錯誤の末ロック調のキャッチーな内容に落ち着いたという。,9171620,,N2,0.8,0.7237799,0.7618899583816529,曲調は当初サッパリした内容であったが、試行錯誤の末ロック調のキャッチーな内容に落ち着いたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_advcl
+      (NOUN_nsubj ADP_case)
+      (ADV_acl ADV_advmod AUX_aux AUX_aux)
+      (AUX_cop VERB_fixed)
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_obl
+      (NOUN_nmod
+        (NOUN_nmod ADP_case)
+        NOUN_compound
+        NOUN_compound
+        ADP_case)
+      (ADJ_acl AUX_aux)
+      ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['曲調', 'は', '当初', 'サッパリ', 'し', 'た', '内容', 'で', 'あっ', 'た', 'が', '、', '試行錯誤', 'の', '末', 'ロック', '調', 'の', 'キャッチー', 'な', '内容', 'に', '落ち着い', 'た', 'と', 'いう', '。']",0.7861238743409114,0.92217868338558,0.8541512788632457,0.8080206186224492,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N1
+性格は至って鷹揚、天真爛漫でサッパリし、明るかったと生前に交流のあった人々は証言している。,545497,,N2,0.8,0.8309747,0.8154873490333557,性格は至って鷹揚、天真爛漫でサッパリし、明るかったと生前に交流のあった人々は証言している。,"(VERB_ROOT
+  (ADV_advcl
+    (ADJ_advcl (NOUN_nsubj ADP_case) ADV_advmod PUNCT_punct)
+    (ADJ_advcl AUX_aux)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (ADJ_advcl AUX_aux ADP_case)
+      (NOUN_obl ADP_case)
+      (NOUN_nmod ADP_case)
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['性格', 'は', '至って', '鷹揚', '、', '天真爛漫', 'で', 'サッパリ', 'し', '、', '明るかっ', 'た', 'と', '生前', 'に', '交流', 'の', 'あっ', 'た', '人々', 'は', '証言', 'し', 'て', 'いる', '。']",0.7099532098882289,0.8668833542188805,0.7884182820535547,0.8019528155434552,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N1
+一方、当時の『音楽之友』は「クルト・ヴェスのデレデレしたワルツよりサッパリしていて後味がいい」と、エドゥアルト2世の指揮を好意的に評している。,9781777,,N2,0.8,0.7361468,0.7680734038352967,一方、当時の『音楽之友』は「クルト・ヴェスのデレデレしたワルツよりサッパリしていて後味がいい」と、エドゥアルト2世の指揮を好意的に評している。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod ADP_case)
+    PUNCT_punct
+    ADP_case
+    NOUN_compound
+    PUNCT_punct
+    ADP_case)
+  (ADJ_advcl
+    (ADV_advcl
+      (NOUN_obl
+        (PROPN_nmod PUNCT_punct PROPN_compound SYM_compound ADP_case)
+        (ADV_advmod AUX_aux AUX_aux)
+        ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      SCONJ_mark)
+    (NOUN_nsubj ADP_case)
+    PUNCT_punct
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod PROPN_compound NUM_nummod ADP_case) ADP_case)
+  (ADJ_advcl AUX_cop)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['一方', '、', '当時', 'の', '『', '音楽', '之', '友', '』', 'は', '「', 'クルト', '・', 'ヴェス', 'の', 'デレデレ', 'し', 'た', 'ワルツ', 'より', 'サッパリ', 'し', 'て', 'い', 'て', '後味', 'が', 'いい', '」', 'と', '、', 'エドゥアルト', '2', '世', 'の', '指揮', 'を', '好意的', 'に', '評し', 'て', 'いる', '。']",0.711031783478981,0.8622684799370128,0.7866501317079969,0.7773617677716468,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N1
+1990年代頃に描いていた獣人要素が復活し、自身の画風もライトでサッパリとした画風に変化していく。,3600519,,N2,0.8,0.76802015,0.7840100765228272,1990年代頃に描いていた獣人要素が復活し、自身の画風もライトでサッパリとした画風に変化していく。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl NUM_compound NOUN_compound NOUN_compound ADP_case)
+        (SCONJ_mark VERB_fixed)
+        AUX_aux)
+      NOUN_compound
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obl
+    (VERB_acl (NOUN_obl ADP_case) (ADV_advmod ADP_case) AUX_aux)
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['1990', '年', '代', '頃', 'に', '描い', 'て', 'い', 'た', '獣人', '要素', 'が', '復活', 'し', '、', '自身', 'の', '画風', 'も', 'ライト', 'で', 'サッパリ', 'と', 'し', 'た', '画風', 'に', '変化', 'し', 'て', 'いく', '。']",0.6653702781063782,0.8520112313626106,0.7586907547344943,0.7713504156286608,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N1

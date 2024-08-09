@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 2 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 3 sentences:
+1. Difficulty: N4; Sense: "similar"; Reject: "No"
+2. Difficulty: N4; Sense: "similar"; Reject: "No"
+3. Difficulty: N4; Sense: "similar"; Reject: "No"
+4. Difficulty: N4; Sense: "similar"; Reject: "No"
+5. Difficulty: N4; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 2 > System 3 > System 1
+
+Comment: System 2 provides a good range of sentences that are all relevant to the target word "全然" and its usage at the N5 level, with a slightly higher diversity in sentence structure and context compared to System 1, making it more useful for learners. System 3, while still relevant and at a slightly higher difficulty level, offers sentences that could challenge an N5 learner and also shows a good variety in usage. System 1, although accurate and at the correct level, lacks diversity in sentence structure, making it the least beneficial in terms of exposing learners to a variety of sentence constructions.
+System 1 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 2 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 3 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "not similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 2 > System 3 > System 1
+
+Comment: System 2 provides a good variety of sentences that maintain the target word's sense and are appropriate for the N5 level, showcasing different contexts and structures. System 3 also offers diverse sentences but includes some that do not closely align with the original context's sense, reducing its overall usefulness. System 1, while all sentences are similar in sense and appropriate for N5, lacks diversity in sentence structure and context, making it the least beneficial for learners seeking varied examples.
+System 1 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 2 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 3 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 2 > System 3 > System 1
+
+Comment: All three systems provided sentences that are suitable for the N5 level, maintaining a similar sense to the target word "全然" in the context of negation or absence of something. System 2 and System 3 showed a slightly higher diversity in sentence structure and contexts compared to System 1, which used a very repetitive structure. System 2 is ranked highest due to its variety in contexts (e.g., weather, movies, food) that can help learners understand the use of "全然" in different situations. System 3 also provided diverse contexts but included a question, which adds a bit of variety but might be slightly less straightforward for absolute beginners compared to the declarative sentences in System 2. System 1, while accurate, offered less variety and thus is ranked last.

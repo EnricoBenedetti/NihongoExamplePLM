@@ -1,0 +1,114 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+現在の旅は非常に多様であり、さまざまに分類することが可能である。,-1,20001.0,N3,0.6,0.0,0.3,現在の旅は非常に多様であり、さまざまに分類することが可能である。,"(ADJ_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (ADJ_advcl AUX_aux)
+    (AUX_aux VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (ADJ_advcl AUX_aux) AUX_aux) ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['現在', 'の', '旅', 'は', '非常', 'に', '多様', 'で', 'あり', '、', 'さまざま', 'に', '分類', 'する', 'こと', 'が', '可能', 'で', 'ある', '。']",,,,,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N1
+しかし、現代において関連がないと思える国同士の言葉であっても、多くの史料による検証が可能で、文献学上の批判に堪えうる言語系統学上の仮説は語源俗解ではない。,1002600,,N1,1.0,0.74173737,0.8708686828613281,しかし、現代において関連がないと思える国同士の言葉であっても、多くの史料による検証が可能で、文献学上の批判に堪えうる言語系統学上の仮説は語源俗解ではない。,"(NOUN_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (ADJ_acl
+    (NOUN_advcl
+      (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed))
+      (VERB_acl (ADJ_advcl (NOUN_nsubj ADP_case) ADP_case))
+      (NOUN_nmod NOUN_compound ADP_case)
+      (AUX_cop VERB_fixed)
+      SCONJ_mark
+      ADP_case
+      PUNCT_punct)
+    (NOUN_nsubj
+      (NOUN_nmod (NOUN_nmod ADP_case) (ADP_case VERB_fixed))
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obl (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+        VERB_advcl)
+      NOUN_compound
+      NOUN_compound
+      ADP_case)
+    ADP_case)
+  NOUN_compound
+  (AUX_cop ADP_fixed AUX_fixed)
+  PUNCT_punct)","['しかし', '、', '現代', 'に', 'おい', 'て', '関連', 'が', 'ない', 'と', '思える', '国', '同士', 'の', '言葉', 'で', 'あっ', 'て', 'も', '、', '多く', 'の', '史料', 'に', 'よる', '検証', 'が', '可能', 'で', '、', '文献学', '上', 'の', '批判', 'に', '堪え', 'うる', '言語', '系統学', '上', 'の', '仮説', 'は', '語源', '俗解', 'で', 'は', 'ない', '。']",0.7461708112743131,0.8980032945639694,0.8220870529191413,0.8464778678902347,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N1
+同キャラクターの声優はテレビ朝日アナウンサーが務めており（誰かは非公表）、「アナウンサーが担当した吹き替え」とも解釈が可能となっている。,1951245,,N1,1.0,0.8293667,0.9146833419799804,同キャラクターの声優はテレビ朝日アナウンサーが務めており（誰かは非公表）、「アナウンサーが担当した吹き替え」とも解釈が可能となっている。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_dislocated (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+    (NOUN_nsubj PROPN_compound ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct
+    PRON_compound
+    ADP_case
+    ADP_case
+    NOUN_compound
+    NOUN_nmod
+    PUNCT_punct
+    PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl (NOUN_nsubj PUNCT_punct ADP_case) AUX_aux AUX_aux)
+    PUNCT_punct
+    ADP_case
+    ADP_case)
+  (ADJ_advcl (NOUN_nsubj ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['同', 'キャラクター', 'の', '声優', 'は', 'テレビ朝日', 'アナウンサー', 'が', '務め', 'て', 'おり', '（', '誰', 'か', 'は', '非', '公表', '）', '、', '「', 'アナウンサー', 'が', '担当', 'し', 'た', '吹き替え', '」', 'と', 'も', '解釈', 'が', '可能', 'と', 'なっ', 'て', 'いる', '。']",0.7011215060165087,0.8933829455944312,0.79725222580547,0.8559677838927252,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N1
+突き詰めて考察すると、還元主義の問題は哲学の歴史と同じほどに古いともされ、古代ギリシャまで遡ることも可能だという。,2494493,,N1,1.0,0.7830582,0.8915291130542755,突き詰めて考察すると、還元主義の問題は哲学の歴史と同じほどに古いともされ、古代ギリシャまで遡ることも可能だという。,"(VERB_ROOT
+  (ADJ_ccomp
+    (VERB_advcl
+      (VERB_advcl SCONJ_mark)
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj
+      (VERB_acl
+        (VERB_advcl
+          (ADJ_advcl
+            (NOUN_nsubj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+            (ADJ_advcl
+              (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+              ADP_case
+              ADP_case))
+          AUX_aux
+          PUNCT_punct)
+        (PROPN_obl NOUN_compound ADP_case))
+      ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['突き詰め', 'て', '考察', 'する', 'と', '、', '還元', '主義', 'の', '問題', 'は', '哲学', 'の', '歴史', 'と', '同じ', 'ほど', 'に', '古い', 'ともさ', 'れ', '、', '古代', 'ギリシャ', 'まで', '遡る', 'こと', 'も', '可能', 'だ', 'と', 'いう', '。']",0.7089248706470099,0.8917100416359025,0.8003174561414562,0.8459232845978659,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N1
+この各篇は、①書かれた内容の時代によるもの、②書かれた体裁によるもの、③文献学的見地によるもの、の三つの方法による分類が可能である。,439273,,N1,1.0,0.8720674,0.936033695936203,この各篇は、①書かれた内容の時代によるもの、②書かれた体裁によるもの、③文献学的見地によるもの、の三つの方法による分類が可能である。,"(ADJ_ROOT
+  (NOUN_dislocated DET_det ADP_case PUNCT_punct)
+  (NUM_obl
+    (NOUN_nmod
+      (NOUN_nmod
+        (NOUN_nmod
+          (NOUN_nmod (VERB_acl NUM_obl AUX_aux AUX_aux) ADP_case)
+          (ADP_case VERB_fixed))
+        PUNCT_punct)
+      NUM_compound
+      (NOUN_nmod (VERB_acl AUX_aux AUX_aux) (ADP_case VERB_fixed))
+      PUNCT_punct)
+    (NOUN_compound
+      (NOUN_obl PART_mark NOUN_compound (ADP_case VERB_fixed))
+      PUNCT_punct
+      ADP_case))
+  (NOUN_nsubj
+    (NOUN_nmod (NOUN_nmod NUM_nummod ADP_case) (ADP_case VERB_fixed))
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['この', '各篇', 'は', '、', '①', '書か', 'れ', 'た', '内容', 'の', '時代', 'に', 'よる', 'もの', '、', '②', '書か', 'れ', 'た', '体裁', 'に', 'よる', 'もの', '、', '③', '文献学', '的', '見地', 'に', 'よる', 'もの', '、', 'の', '三', 'つ', 'の', '方法', 'に', 'よる', '分類', 'が', '可能', 'で', 'ある', '。']",0.6839567689223308,0.840485058122157,0.762220913522244,0.8491273047292235,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N1
+この曲の持つ凄味は禁酒の決意からくる反応と説明することも可能といえる。,746294,,N1,1.0,0.8242168,0.9121083915233612,この曲の持つ凄味は禁酒の決意からくる反応と説明することも可能といえる。,"(VERB_ROOT
+  (NOUN_nsubj (VERB_acl (NOUN_nmod DET_det ADP_case)) ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (ADJ_advcl ADP_case)
+  PUNCT_punct)","['この', '曲', 'の', '持つ', '凄味', 'は', '禁酒', 'の', '決意', 'から', 'くる', '反応', 'と', '説明', 'する', 'こと', 'も', '可能', 'と', 'いえる', '。']",0.6523246802508624,0.8369509076430702,0.7446377939469664,0.8283730927351638,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N1

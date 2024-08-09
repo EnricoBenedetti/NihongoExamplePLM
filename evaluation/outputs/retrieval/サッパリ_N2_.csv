@@ -1,0 +1,112 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,-1,22.0,N2,1.0,0.0,0.5,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,"(ADV_ROOT
+  ADV_cc
+  (NOUN_obl
+    (VERB_acl (SCONJ_mark VERB_fixed) PRON_mark)
+    (NOUN_nmod ADP_case)
+    PUNCT_punct)
+  (ADJ_advcl (NOUN_obl ADP_case) SCONJ_mark)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '聞こえ', 'て', 'くる', '君', '尾', 'の', '笑い声', '、', 'はなやか', 'で', '明るく', 'て', 'サッパリ', 'し', 'て', 'いる', '。']",,,,,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N2
+曲調は当初サッパリした内容であったが、試行錯誤の末ロック調のキャッチーな内容に落ち着いたという。,9171620,,N2,1.0,0.7237799,0.8618899583816528,曲調は当初サッパリした内容であったが、試行錯誤の末ロック調のキャッチーな内容に落ち着いたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_advcl
+      (NOUN_nsubj ADP_case)
+      (ADV_acl ADV_advmod AUX_aux AUX_aux)
+      (AUX_cop VERB_fixed)
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_obl
+      (NOUN_nmod
+        (NOUN_nmod ADP_case)
+        NOUN_compound
+        NOUN_compound
+        ADP_case)
+      (ADJ_acl AUX_aux)
+      ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['曲調', 'は', '当初', 'サッパリ', 'し', 'た', '内容', 'で', 'あっ', 'た', 'が', '、', '試行錯誤', 'の', '末', 'ロック', '調', 'の', 'キャッチー', 'な', '内容', 'に', '落ち着い', 'た', 'と', 'いう', '。']",0.8016802395257241,0.9275193798449612,0.8645998096853427,0.8632448840334978,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N2
+一方、当時の『音楽之友』は「クルト・ヴェスのデレデレしたワルツよりサッパリしていて後味がいい」と、エドゥアルト2世の指揮を好意的に評している。,9781777,,N2,1.0,0.7361468,0.8680734038352966,一方、当時の『音楽之友』は「クルト・ヴェスのデレデレしたワルツよりサッパリしていて後味がいい」と、エドゥアルト2世の指揮を好意的に評している。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod ADP_case)
+    PUNCT_punct
+    ADP_case
+    NOUN_compound
+    PUNCT_punct
+    ADP_case)
+  (ADJ_advcl
+    (ADV_advcl
+      (NOUN_obl
+        (PROPN_nmod PUNCT_punct PROPN_compound SYM_compound ADP_case)
+        (ADV_advmod AUX_aux AUX_aux)
+        ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      SCONJ_mark)
+    (NOUN_nsubj ADP_case)
+    PUNCT_punct
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod PROPN_compound NUM_nummod ADP_case) ADP_case)
+  (ADJ_advcl AUX_cop)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['一方', '、', '当時', 'の', '『', '音楽', '之', '友', '』', 'は', '「', 'クルト', '・', 'ヴェス', 'の', 'デレデレ', 'し', 'た', 'ワルツ', 'より', 'サッパリ', 'し', 'て', 'い', 'て', '後味', 'が', 'いい', '」', 'と', '、', 'エドゥアルト', '2', '世', 'の', '指揮', 'を', '好意的', 'に', '評し', 'て', 'いる', '。']",0.7445229268599629,0.8910281074735881,0.8177755171667755,0.8429244605010361,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N2
+性格は至って鷹揚、天真爛漫でサッパリし、明るかったと生前に交流のあった人々は証言している。,545497,,N2,1.0,0.8309747,0.9154873490333556,性格は至って鷹揚、天真爛漫でサッパリし、明るかったと生前に交流のあった人々は証言している。,"(VERB_ROOT
+  (ADV_advcl
+    (ADJ_advcl (NOUN_nsubj ADP_case) ADV_advmod PUNCT_punct)
+    (ADJ_advcl AUX_aux)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (ADJ_advcl AUX_aux ADP_case)
+      (NOUN_obl ADP_case)
+      (NOUN_nmod ADP_case)
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['性格', 'は', '至って', '鷹揚', '、', '天真爛漫', 'で', 'サッパリ', 'し', '、', '明るかっ', 'た', 'と', '生前', 'に', '交流', 'の', 'あっ', 'た', '人々', 'は', '証言', 'し', 'て', 'いる', '。']",0.6665007146261541,0.8577721546323684,0.7621364346292613,0.8388118918313086,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N2
+1990年代頃に描いていた獣人要素が復活し、自身の画風もライトでサッパリとした画風に変化していく。,3600519,,N2,1.0,0.76802015,0.8840100765228271,1990年代頃に描いていた獣人要素が復活し、自身の画風もライトでサッパリとした画風に変化していく。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl NUM_compound NOUN_compound NOUN_compound ADP_case)
+        (SCONJ_mark VERB_fixed)
+        AUX_aux)
+      NOUN_compound
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obl
+    (VERB_acl (NOUN_obl ADP_case) (ADV_advmod ADP_case) AUX_aux)
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['1990', '年', '代', '頃', 'に', '描い', 'て', 'い', 'た', '獣人', '要素', 'が', '復活', 'し', '、', '自身', 'の', '画風', 'も', 'ライト', 'で', 'サッパリ', 'と', 'し', 'た', '画風', 'に', '変化', 'し', 'て', 'いく', '。']",0.6166218053382786,0.8492954480423197,0.7329586266902992,0.8084843516065632,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N2
+炭は吸着性が良いのでご飯を炊くときに一緒に入れるとお米の旨味成分までも吸着してしまい、サッパリしたご飯になってしまう。,4989079,,N2,1.0,0.675614,0.8378069996833801,炭は吸着性が良いのでご飯を炊くときに一緒に入れるとお米の旨味成分までも吸着してしまい、サッパリしたご飯になってしまう。,"(VERB_ROOT
+  (VERB_advcl
+    (ADJ_advcl
+      (NOUN_dislocated ADP_case)
+      (NOUN_nsubj ADP_case)
+      (SCONJ_mark AUX_fixed))
+    (VERB_advcl
+      (NOUN_obl (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+      (NOUN_obl ADP_case)
+      SCONJ_mark)
+    (NOUN_obl
+      (NOUN_nmod NOUN_compound ADP_case)
+      NOUN_compound
+      ADP_case
+      ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_obl (ADV_advmod AUX_aux AUX_aux) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['炭', 'は', '吸着性', 'が', '良い', 'の', 'で', 'ご飯', 'を', '炊く', 'とき', 'に', '一緒', 'に', '入れる', 'と', 'お', '米', 'の', '旨味', '成分', 'まで', 'も', '吸着', 'し', 'て', 'しまい', '、', 'サッパリ', 'し', 'た', 'ご飯', 'に', 'なっ', 'て', 'しまう', '。']",0.6080252809051794,0.8468061008145242,0.7274156908598518,0.7826113452716159,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N2

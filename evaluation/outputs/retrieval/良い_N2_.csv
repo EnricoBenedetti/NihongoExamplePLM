@@ -1,0 +1,74 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+味噌を食事の一部にすることは非常に良いと考えられている。,-1,20001.0,N3,0.8,0.0,0.4,味噌を食事の一部にすることは非常に良いと考えられている。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj ADP_case)
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+    ADP_case)
+  (ADJ_ccomp (ADJ_advcl AUX_aux) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['味噌', 'を', '食事', 'の', '一部', 'に', 'する', 'こと', 'は', '非常', 'に', '良い', 'と', '考え', 'られ', 'て', 'いる', '。']",,,,,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N2
+ハーブ処方の古典『バンクスの本草書』には、肝臓の痛み、頭痛、偏頭痛などに効能があり、ワインと共に飲むと良いと書かれている。,4840091,,N2,1.0,0.854813,0.9274064898490906,ハーブ処方の古典『バンクスの本草書』には、肝臓の痛み、頭痛、偏頭痛などに効能があり、ワインと共に飲むと良いと書かれている。,(NOUN_ROOT (NOUN_nmod NOUN_compound ADP_case)),"['ハーブ', '処方', 'の', '古典', '『', 'バンクス', 'の', '本', '草書', '』', 'に', 'は', '、', '肝臓', 'の', '痛み', '、', '頭痛', '、', '偏頭痛', 'など', 'に', '効能', 'が', 'あり', '、', 'ワイン', 'と', '共', 'に', '飲む', 'と', '良い', 'と', '書か', 'れ', 'て', 'いる', '。']",0.934262631211238,0.9026992868105084,0.9184809590108732,0.9229437244299818,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N2
+江戸時代後期には適度な肉食は体に良いという認識もあり、ももんじ屋が現れ、都市部においても肉食が流行した。,1238358,,N2,1.0,0.87395644,0.9369782209396362,江戸時代後期には適度な肉食は体に良いという認識もあり、ももんじ屋が現れ、都市部においても肉食が流行した。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (ADJ_acl
+        (NOUN_nsubj
+          (ADJ_acl
+            (NOUN_obl PROPN_compound NOUN_compound ADP_case ADP_case)
+            AUX_aux)
+          ADP_case)
+        (NOUN_obl ADP_case)
+        (ADP_case VERB_fixed))
+      ADP_case)
+    PUNCT_punct
+    ADP_case)
+  AUX_aux)","['江戸', '時代', '後期', 'に', 'は', '適度', 'な', '肉食', 'は', '体', 'に', '良い', 'と', 'いう', '認識', 'も', 'あり', '、', 'も', 'もん', 'じ', '屋', 'が', '現れ', '、', '都市部', 'に', 'おい', 'て', 'も', '肉食', 'が', '流行', 'し', 'た', '。']",0.8869710584220571,0.8807224076133977,0.8838467330177274,0.910412476978682,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N2
+繊維質を摂取することが健康に良いとの観点から、目を粗くした別のザルが付属する機種もある。,4842267,,N2,1.0,0.8446841,0.92234206199646,繊維質を摂取することが健康に良いとの観点から、目を粗くした別のザルが付属する機種もある。,"(VERB_ROOT
+  (NOUN_obl
+    (ADJ_nmod
+      (NOUN_nsubj
+        (VERB_acl (NOUN_obj NOUN_compound ADP_case) AUX_aux)
+        ADP_case)
+      (ADJ_advcl AUX_aux)
+      ADP_case
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj
+        (VERB_acl (NOUN_obj ADP_case) AUX_aux AUX_aux)
+        (ADJ_nmod ADP_case)
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['繊維', '質', 'を', '摂取', 'する', 'こと', 'が', '健康', 'に', '良い', 'と', 'の', '観点', 'から', '、', '目', 'を', '粗く', 'し', 'た', '別', 'の', 'ザル', 'が', '付属', 'する', '機種', 'も', 'ある', '。']",0.8780299322108301,0.8646779602615171,0.8713539462361737,0.8968480041163168,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N2
+また、鶏肉そのものに含まれる動物性タンパク質は、脳の健康に良いとされている。,2360874,,N2,1.0,0.8613084,0.9306541979312896,また、鶏肉そのものに含まれる動物性タンパク質は、脳の健康に良いとされている。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl (DET_det NOUN_nmod) ADP_case) AUX_aux)
+    NOUN_compound
+    ADP_case
+    PUNCT_punct)
+  (ADJ_advcl (NOUN_obl (NOUN_nmod ADP_case) ADP_case) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '、', '鶏肉', 'その', 'もの', 'に', '含ま', 'れる', '動物性', 'タンパク質', 'は', '、', '脳', 'の', '健康', 'に', '良い', 'と', 'さ', 'れ', 'て', 'いる', '。']",0.8239216645530296,0.8400992955680118,0.8320104800605207,0.8813323389959051,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N2
+イタチを黒焼にして飲めば、こわばりなどに良いという伝承が長野県にある。,2088036,,N2,1.0,0.83195543,0.9159777164459229,イタチを黒焼にして飲めば、こわばりなどに良いという伝承が長野県にある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (ADJ_acl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obj ADP_case)
+          (NOUN_obl ADP_case)
+          SCONJ_mark)
+        SCONJ_mark
+        PUNCT_punct)
+      (NOUN_obl ADP_case ADP_case)
+      (ADP_case VERB_fixed))
+    ADP_case)
+  (PROPN_obl ADP_case)
+  PUNCT_punct)","['イタチ', 'を', '黒焼', 'に', 'し', 'て', '飲め', 'ば', '、', 'こわばり', 'など', 'に', '良い', 'と', 'いう', '伝承', 'が', '長野県', 'に', 'ある', '。']",0.8122678562881078,0.8264725551525841,0.819370205720346,0.8676739610831344,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N2

@@ -1,0 +1,55 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,-1,20001.0,N4,1.0,0.0,0.5,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,"(VERB_ROOT
+  ADV_cc
+  (PRON_nsubj ADP_case)
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_nsubj
+          (VERB_acl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case))
+          (NOUN_nmod ADP_case)
+          ADP_case)
+        AUX_aux))
+    ADV_advmod
+    PART_case)
+  (PRON_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['但し', 'これ', 'も', '人類', 'の', '文化', 'が', '進み', '人類', 'の', '感情', 'が', '進ん', 'だ', 'とき', 'どう', '変る', 'か', 'それ', 'は', 'わかり', 'ませ', 'ん', '。']",,,,,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N4
+文化の違いですよ。,134756,,N4,1.0,0.6870017,0.8435008525848389,文化の違いですよ。,(NOUN_ROOT (NOUN_nmod ADP_case) AUX_cop PART_mark PUNCT_punct),"['文化', 'の', '違い', 'です', 'よ', '。']",0.8031061497933398,0.9410714285714286,0.8720887891823842,0.8577948208836115,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N4
+科学技術が一つの文化になったのです。,117332,,N4,1.0,0.7373564,0.8686782121658325,科学技術が一つの文化になったのです。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+  AUX_aux
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['科学技術', 'が', '一', 'つ', 'の', '文化', 'に', 'なっ', 'た', 'の', 'です', '。']",0.7084976116819703,0.9157509157509156,0.812124263716443,0.8404012379411377,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N4
+いろんな文化があって、たくさんの物語があって、可愛い女の子もいる。,294160,,N4,1.0,0.7016219,0.8508109450340271,いろんな文化があって、たくさんの物語があって、可愛い女の子もいる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADJ_amod ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj (ADJ_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADJ_acl ADP_case)
+  PUNCT_punct)","['いろんな', '文化', 'が', 'あっ', 'て', '、', 'たくさん', 'の', '物語', 'が', 'あっ', 'て', '、', '可愛い', '女の子', 'も', 'いる', '。']",0.7094973836499072,0.8708905677655677,0.7901939757077374,0.8205024603708823,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N4
+写真は、日本の文化や伝統を理解するのにとても役立ちました。,113019,,N4,1.0,0.70972604,0.8548630177974701,写真は、日本の文化や伝統を理解するのにとても役立ちました。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod (PROPN_nmod ADP_case) ADP_case) ADP_case)
+    AUX_aux
+    SCONJ_mark
+    ADP_case)
+  ADV_advmod
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['写真', 'は', '、', '日本', 'の', '文化', 'や', '伝統', 'を', '理解', 'する', 'の', 'に', 'とても', '役立ち', 'まし', 'た', '。']",0.6611782608883613,0.8717574841668315,0.7664678725275964,0.8106654451625332,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N4
+地球上にはたくさんの国とたくさんの文化があります。,205785,,N4,1.0,0.7448634,0.8724316954612732,地球上にはたくさんの国とたくさんの文化があります。,"(VERB_ROOT
+  (NOUN_obl NOUN_compound ADP_case ADP_case)
+  (NOUN_nsubj
+    (NOUN_nmod (ADJ_nmod ADP_case) ADP_case)
+    (ADJ_nmod ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['地球', '上', 'に', 'は', 'たくさん', 'の', '国', 'と', 'たくさん', 'の', '文化', 'が', 'あり', 'ます', '。']",0.6283968353594465,0.8536476743707,0.7410222548650732,0.8067269751631732,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N4

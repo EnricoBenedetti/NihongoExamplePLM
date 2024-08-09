@@ -1,0 +1,78 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,-1,18305.0,N2,0.8,0.0,0.4,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl INTJ_advmod (NOUN_nsubj ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl PRON_nmod (ADJ_acl AUX_aux) ADP_case AUX_cop ADP_case)
+  PUNCT_punct)","['いざ', '金', 'が', 'いる', 'と', 'なる', 'と', '、', 'ポルジイ', 'は', 'どんな', '危険', 'な', '相談', 'に', 'で', 'も', '乗る', '。']",,,,,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N1
+アルメレイラの妻ユリディス（マリー・ヴァレラ）は女優を夢見ており、ガスパールはその相談に乗る。,7031039,,N2,0.8,0.7961186,0.7980593085289002,アルメレイラの妻ユリディス（マリー・ヴァレラ）は女優を夢見ており、ガスパールはその相談に乗る。,(NOUN_ROOT (NOUN_nmod ADP_case)),"['アルメレイラ', 'の', '妻', 'ユリディス', '（', 'マリー', '・', 'ヴァレラ', '）', 'は', '女優', 'を', '夢見', 'て', 'おり', '、', 'ガスパール', 'は', 'その', '相談', 'に', '乗る', '。']",1.0,0.9398809523809524,0.9699404761904762,0.8839998923596881,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N1
+だから、その選手の専属コーチだと思って相談にも乗るし、助言もしていくから必然と個々にかける言葉も変わってくる。,3953483,,N1,1.0,0.80947906,0.9047395288944244,だから、その選手の専属コーチだと思って相談にも乗るし、助言もしていくから必然と個々にかける言葉も変わってくる。,"(VERB_ROOT
+  (AUX_dep SCONJ_fixed PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_ccomp
+          (NOUN_nmod DET_det ADP_case)
+          NOUN_compound
+          AUX_cop
+          ADP_case)
+        SCONJ_mark)
+      (NOUN_obl ADP_case ADP_case)
+      AUX_mark
+      PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl ADP_case) (NOUN_obl ADP_case))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['だ', 'から', '、', 'その', '選手', 'の', '専属', 'コーチ', 'だ', 'と', '思っ', 'て', '相談', 'に', 'も', '乗る', 'し', '、', '助言', 'も', 'し', 'て', 'いく', 'から', '必然', 'と', '個々', 'に', 'かける', '言葉', 'も', '変わっ', 'て', 'くる', '。']",0.8611809956930803,0.8955773955773956,0.8783791956352379,0.8915593622648312,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N1
+必ずしも事業契約と結び付かなくてもその場で相談に乗ることが本来の社会福祉協議会らしい仕事。,70120,,N1,1.0,0.769492,0.8847459852695465,必ずしも事業契約と結び付かなくてもその場で相談に乗ることが本来の社会福祉協議会らしい仕事。,"(NOUN_ROOT
+  (PROPN_nmod
+    (NOUN_nsubj
+      (VERB_acl
+        (VERB_advcl
+          (ADV_advmod ADP_case)
+          (NOUN_obl NOUN_compound ADP_case)
+          AUX_aux
+          SCONJ_mark
+          ADP_case)
+        (NOUN_obl DET_det ADP_case)
+        (NOUN_obl ADP_case))
+      ADP_case)
+    (NOUN_nmod ADP_case)
+    AUX_aux)
+  PUNCT_punct)","['必ず', 'しも', '事業', '契約', 'と', '結び付か', 'なく', 'て', 'も', 'その', '場', 'で', '相談', 'に', '乗る', 'こと', 'が', '本来', 'の', '社会福祉協議会', 'らしい', '仕事', '。']",0.8104927925660835,0.8841576086956522,0.8473252006308678,0.8660355929502072,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N1
+また、経営者個人やチームの悩み相談に乗ることも行っており、組織の心に火を灯している。,12179662,,N1,1.0,0.7805602,0.8902800977230072,また、経営者個人やチームの悩み相談に乗ることも行っており、組織の心に火を灯している。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl
+          (NOUN_nmod (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+          NOUN_compound
+          ADP_case))
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '、', '経営者', '個人', 'や', 'チーム', 'の', '悩み', '相談', 'に', '乗る', 'こと', 'も', '行っ', 'て', 'おり', '、', '組織', 'の', '心', 'に', '火', 'を', '灯し', 'て', 'いる', '。']",0.7742873227831847,0.8584121484538583,0.8163497356185214,0.8533149166707643,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N1
+日清紡績の事業や従業員のこと、工場長や役員の人事まで、鷲尾勇平は喜んで相談に乗った。,12456682,,N1,1.0,0.7505828,0.8752914071083069,日清紡績の事業や従業員のこと、工場長や役員の人事まで、鷲尾勇平は喜んで相談に乗った。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod (NOUN_nmod PROPN_compound ADP_case) ADP_case)
+      (NOUN_nmod ADP_case)
+      PUNCT_punct)
+    (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (PROPN_nsubj PROPN_compound ADP_case)
+  (VERB_advcl SCONJ_mark)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['日清', '紡績', 'の', '事業', 'や', '従業員', 'の', 'こと', '、', '工場長', 'や', '役員', 'の', '人事', 'まで', '、', '鷲尾', '勇平', 'は', '喜ん', 'で', '相談', 'に', '乗っ', 'た', '。']",0.7468083152037228,0.8544289583445671,0.800618636774145,0.837955021941226,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N1

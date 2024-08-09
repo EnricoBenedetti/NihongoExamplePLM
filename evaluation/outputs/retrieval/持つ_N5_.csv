@@ -1,0 +1,41 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (VERB_ccomp
+      (NOUN_nsubj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+      AUX_aux
+      PART_mark
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl ADV_advmod (NOUN_obl ADP_case) SCONJ_mark PUNCT_punct)
+  (VERB_advcl ADV_advmod SCONJ_mark)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['また', 'お', '箸', 'の', '手', 'が', '違っ', 'た', 'よ', 'と', 'いえ', 'ば', '、', 'すぐ', '右', 'に', '直す', 'けれど', '、', '少し', 'する', 'と', 'また', '左', 'に', '持つ', '。']",,,,,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28,E
+私は杖を持つ。,64865,,N5,1.0,0.7061591,0.8530795574188232,私は杖を持つ。,(VERB_ROOT (PRON_nsubj ADP_case) (NOUN_obj ADP_case) PUNCT_punct),"['私', 'は', '杖', 'を', '持つ', '。']",0.8571428571428572,0.9464809384164224,0.9018118977796398,0.8774457275992316,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28,E
+それを逆さまに持ってはいけません。,270472,,N5,1.0,0.7474929,0.8737464547157288,それを逆さまに持ってはいけません。,"(VERB_ROOT
+  (PRON_obj ADP_case)
+  (VERB_advcl ADP_case)
+  SCONJ_mark
+  ADP_case
+  VERB_advcl
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['それ', 'を', '逆さま', 'に', '持っ', 'て', 'は', 'いけ', 'ませ', 'ん', '。']",0.8084446881439576,0.9370842572062084,0.872764472675083,0.8732554636954059,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28,E
+箸の正しい持ち方って知ってる？,358404,,N5,1.0,0.7440987,0.8720493614673615,箸の正しい持ち方って知ってる？,"(VERB_ROOT
+  (NOUN_obl (ADJ_acl (NOUN_nmod ADP_case)) VERB_nmod ADP_case)
+  AUX_aux
+  PUNCT_punct)","['箸', 'の', '正しい', '持ち', '方', 'って', '知っ', 'てる', '？']",0.7689221120141907,0.9331921447824412,0.8510571283983159,0.8615532449328387,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28,E
+私は左手で箸を持ちます。,378102,,N5,1.0,0.75848323,0.8792416155338287,私は左手で箸を持ちます。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私', 'は', '左手', 'で', '箸', 'を', '持ち', 'ます', '。']",0.6957963103752106,0.9142614601018676,0.8050288852385391,0.8421352503861839,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28,E
+箸の持ち方が分かりません。,371541,,N5,1.0,0.7418766,0.8709383010864258,箸の持ち方が分かりません。,"(VERB_ROOT
+  (NOUN_nsubj (VERB_acl (NOUN_nmod ADP_case)) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['箸', 'の', '持ち', '方', 'が', '分かり', 'ませ', 'ん', '。']",0.6797856748787352,0.877290339166682,0.7785380070227086,0.8247381540545672,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28,E

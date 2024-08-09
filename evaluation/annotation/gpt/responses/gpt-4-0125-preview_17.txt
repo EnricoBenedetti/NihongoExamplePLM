@@ -1,0 +1,273 @@
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 開く; target level: N3; context sentence: 当駅ではすべてのドアが開く。
+System 1 sentences:
+会議は午後2時に始まる予定ですが、時間が遅れた場合には別の会議室が開く可能性があります。
+春になると公園には美しい花が開くので、散歩するのが楽しみです。
+パソコンの新しいソフトウェアをインストールするために、セットアップウィザードを開いてください。
+山の景色は美しく、眺めが開く。
+今度のイベントで新しい交流のチャンスが開くかもしれない。
+System 2 sentences:
+また、当駅に発着する井高野方面の列車は、今里筋線の途中駅で唯一、進行方向に向かって左側の扉が開く。
+無人駅であるが、ワンマン列車は全てのドアが開く。
+平日朝ラッシュ時の貝塚行きのみ全てのドアが開く。
+当駅は終日有人駅であるため諫早駅、島原駅と同様に2両編成ではホーム側の全てのドアが開く。
+6号線のホーム階は地下4階にあり、単式ホーム1面1線を有しており、電車の進行方向左側のドアが開く。
+System 3 sentences:
+「開いている」という意味で使われます。
+電車内のすべてのドアが開きました。
+開いている店は多い。
+開いたままにしておくべきだった。
+「開かれた会議室で議論することによって、より良いアイデアや解決策を生み出すことができます。」
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "not similar"; Reject: "Yes"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 offers the most diverse set of sentences, covering different contexts and uses of the word 開く, which is beneficial for learners at the N3 level. System 2 provides sentences that are all related to train stations and doors opening, which is relevant but lacks diversity. System 3 has a mix of relevant and irrelevant sentences, with one being rejected due to not maintaining a close sense to the original context and another for being too basic and not fitting the target level. Overall, System 1 is the best for learners looking for varied examples to understand the usage of 開く in different contexts.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 開く; target level: N3; context sentence: 当駅ではすべてのドアが開く。
+System 1 sentences:
+会議は午後2時に始まる予定ですが、時間が遅れた場合には別の会議室が開く可能性があります。
+春になると公園には美しい花が開くので、散歩するのが楽しみです。
+パソコンの新しいソフトウェアをインストールするために、セットアップウィザードを開いてください。
+山の景色は美しく、眺めが開く。
+今度のイベントで新しい交流のチャンスが開くかもしれない。
+System 2 sentences:
+また、当駅に発着する井高野方面の列車は、今里筋線の途中駅で唯一、進行方向に向かって左側の扉が開く。
+無人駅であるが、ワンマン列車は全てのドアが開く。
+平日朝ラッシュ時の貝塚行きのみ全てのドアが開く。
+当駅は終日有人駅であるため諫早駅、島原駅と同様に2両編成ではホーム側の全てのドアが開く。
+6号線のホーム階は地下4階にあり、単式ホーム1面1線を有しており、電車の進行方向左側のドアが開く。
+System 3 sentences:
+「開いている」という意味で使われます。
+電車内のすべてのドアが開きました。
+開いている店は多い。
+開いたままにしておくべきだった。
+「開かれた会議室で議論することによって、より良いアイデアや解決策を生み出すことができます。」
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 offers the highest diversity in sentence structure and usage of the target word 開く, making it the most beneficial for learners at the N3 level. It covers a range of contexts from meetings to software, providing a broad understanding of the word's application. System 2, while consistent in difficulty level and relevance to the context sentence, lacks diversity, focusing mainly on train station scenarios. System 3 has the most varied contexts but includes a rejected sentence due to lack of similarity in sense and a generally lower difficulty level, making it less suitable for N3 learners.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 開く; target level: N3; context sentence: 当駅ではすべてのドアが開く。
+System 1 sentences:
+会議は午後2時に始まる予定ですが、時間が遅れた場合には別の会議室が開く可能性があります。
+春になると公園には美しい花が開くので、散歩するのが楽しみです。
+パソコンの新しいソフトウェアをインストールするために、セットアップウィザードを開いてください。
+山の景色は美しく、眺めが開く。
+今度のイベントで新しい交流のチャンスが開くかもしれない。
+System 2 sentences:
+また、当駅に発着する井高野方面の列車は、今里筋線の途中駅で唯一、進行方向に向かって左側の扉が開く。
+無人駅であるが、ワンマン列車は全てのドアが開く。
+平日朝ラッシュ時の貝塚行きのみ全てのドアが開く。
+当駅は終日有人駅であるため諫早駅、島原駅と同様に2両編成ではホーム側の全てのドアが開く。
+6号線のホーム階は地下4階にあり、単式ホーム1面1線を有しており、電車の進行方向左側のドアが開く。
+System 3 sentences:
+「開いている」という意味で使われます。
+電車内のすべてのドアが開きました。
+開いている店は多い。
+開いたままにしておくべきだった。
+「開かれた会議室で議論することによって、より良いアイデアや解決策を生み出すことができます。」
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 offers the highest diversity in sentence structure and usage of the target word 開く, making it the most beneficial for learners at the N3 level. It provides examples that span from N2 to N4, closely aligning with the target difficulty and showing the word in various contexts. System 2, while consistent in difficulty, lacks diversity, offering limited learning value beyond understanding the specific context of train stations and doors opening. System 3 has a mix of levels but includes a rejected sentence due to lack of similarity in sense, and overall, it presents less coherence and usefulness compared to the others.
++++++END_RESPONSE+++++

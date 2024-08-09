@@ -1,0 +1,118 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+子供らは古い時計のかかった茶の間に集まった。,-1,20001.0,N3,0.8,0.0,0.4,子供らは古い時計のかかった茶の間に集まった。,"(VERB_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (NOUN_obl (VERB_acl (NOUN_nmod ADJ_acl ADP_case) AUX_aux) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['子供', 'ら', 'は', '古い', '時計', 'の', 'かかっ', 'た', '茶の間', 'に', '集まっ', 'た', '。']",,,,,1,子供らは古い時計のかかった茶の間に集まった。,子供,N2
+子供がよく人形や玩具を離さずに持ち続ける様を「安心毛布」であると言える。,4259537,,N2,1.0,0.7920981,0.8960490524768829,子供がよく人形や玩具を離さずに持ち続ける様を「安心毛布」であると言える。,"(VERB_ROOT
+  (NOUN_advcl
+    (VERB_acl
+      (NOUN_nsubj ADP_case)
+      ADV_advmod
+      (VERB_advcl
+        (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+        AUX_aux
+        ADP_case)
+      VERB_advcl
+      NOUN_aux
+      ADP_case)
+    PUNCT_punct
+    NOUN_compound
+    PUNCT_punct
+    (AUX_cop VERB_fixed)
+    ADP_case)
+  PUNCT_punct)","['子供', 'が', 'よく', '人形', 'や', '玩具', 'を', '離さ', 'ず', 'に', '持ち', '続ける', '様', 'を', '「', '安心', '毛布', '」', 'で', 'ある', 'と', '言える', '。']",0.725662795333599,0.9652777777777778,0.8454702865556885,0.8707596695162857,1,子供らは古い時計のかかった茶の間に集まった。,子供,N2
+また自らの幼少時に落語や浪曲に触れた経験から、とくに1992年（平成4年）ころより、子供を対象にした落語会も多数開いている。,4191051,,N2,1.0,0.7951947,0.8975973427295685,また自らの幼少時に落語や浪曲に触れた経験から、とくに1992年（平成4年）ころより、子供を対象にした落語会も多数開いている。,"(VERB_ROOT
+  ADV_cc
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  ADV_advmod
+  (NOUN_obl
+    NUM_nummod
+    PUNCT_punct
+    PROPN_compound
+    NUM_compound
+    NOUN_compound
+    PUNCT_punct
+    NOUN_compound
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obj ADP_case) (NOUN_obl ADP_case) AUX_aux)
+    NOUN_compound
+    ADP_case)
+  ADV_advmod
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '自ら', 'の', '幼少', '時', 'に', '落語', 'や', '浪曲', 'に', '触れ', 'た', '経験', 'から', '、', 'とくに', '1992', '年', '（', '平成', '4', '年', '）', 'ころ', 'より', '、', '子供', 'を', '対象', 'に', 'し', 'た', '落語', '会', 'も', '多数', '開い', 'て', 'いる', '。']",0.7676276787924294,0.9407894736842104,0.85420857623832,0.8759029594839443,1,子供らは古い時計のかかった茶の間に集まった。,子供,N2
+客である子供らは商品を手にとって店主に声を掛け、店主がそれらを合算して値段を伝え、その金額を子供らが支払うというものである。,3970296,,N2,1.0,0.8624019,0.9312009513378144,客である子供らは商品を手にとって店主に声を掛け、店主がそれらを合算して値段を伝え、その金額を子供らが支払うというものである。,"(NOUN_ROOT
+  (NOUN_nsubj (NOUN_acl (AUX_cop VERB_fixed)) NOUN_compound ADP_case)
+  (VERB_acl
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_obj ADP_case)
+        (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed))
+        (NOUN_obl ADP_case)
+        (NOUN_obj ADP_case)
+        PUNCT_punct)
+      (NOUN_nsubj ADP_case)
+      (VERB_advcl (NOUN_obj PRON_nmod ADP_case) AUX_aux SCONJ_mark)
+      (NOUN_obj ADP_case)
+      PUNCT_punct)
+    (NOUN_obj DET_det ADP_case)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    (ADP_case VERB_fixed))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['客', 'で', 'ある', '子供', 'ら', 'は', '商品', 'を', '手', 'に', 'とっ', 'て', '店主', 'に', '声', 'を', '掛け', '、', '店主', 'が', 'それ', 'ら', 'を', '合算', 'し', 'て', '値段', 'を', '伝え', '、', 'その', '金額', 'を', '子供', 'ら', 'が', '支払う', 'と', 'いう', 'もの', 'で', 'ある', '。']",0.7258522556055668,0.892340367404306,0.8090963115049363,0.8701486314213753,1,子供らは古い時計のかかった茶の間に集まった。,子供,N2
+ファミン子全員集合』というテレビ番組が収録された際、スタジオ観覧に訪れた子供へ『マイティ文珍ジャック』と称したソフトがごく少数配布された。,4667411,,N2,1.0,0.8137489,0.9068744480609894,ファミン子全員集合』というテレビ番組が収録された際、スタジオ観覧に訪れた子供へ『マイティ文珍ジャック』と称したソフトがごく少数配布された。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_nsubj
+        (NOUN_nmod
+          (NOUN_advmod NOUN_compound NOUN_compound)
+          PUNCT_punct
+          (ADP_case VERB_fixed))
+        NOUN_compound
+        ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl (NOUN_obl NOUN_compound ADP_case) AUX_aux)
+        ADP_case)
+      (PROPN_obl
+        PUNCT_punct
+        PROPN_compound
+        NOUN_compound
+        PUNCT_punct
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (ADV_advmod ADV_advmod)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ファミン', '子', '全員', '集合', '』', 'と', 'いう', 'テレビ', '番組', 'が', '収録', 'さ', 'れ', 'た', '際', '、', 'スタジオ', '観覧', 'に', '訪れ', 'た', '子供', 'へ', '『', 'マイティ', '文珍', 'ジャック', '』', 'と', '称し', 'た', 'ソフト', 'が', 'ごく', '少数', '配布', 'さ', 'れ', 'た', '。']",0.7233280261365418,0.8844985793827126,0.8039133027596272,0.8553938754103083,1,子供らは古い時計のかかった茶の間に集まった。,子供,N2
+当時は世界恐慌の暗い時代でもあり、子供には楽しい気持ちになってもらおうと開発したという。,3800053,,N2,1.0,0.81660867,0.9083043336868286,当時は世界恐慌の暗い時代でもあり、子供には楽しい気持ちになってもらおうと開発したという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_advcl
+      (NOUN_obl ADP_case)
+      (ADJ_acl (NOUN_nmod NOUN_compound ADP_case))
+      (AUX_cop ADP_fixed VERB_fixed)
+      PUNCT_punct)
+    (VERB_advcl
+      (NOUN_obl ADP_case ADP_case)
+      (NOUN_obl ADJ_acl ADP_case)
+      (SCONJ_mark VERB_fixed)
+      ADP_case)
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['当時', 'は', '世界', '恐慌', 'の', '暗い', '時代', 'で', 'も', 'あり', '、', '子供', 'に', 'は', '楽しい', '気持ち', 'に', 'なっ', 'て', 'もらおう', 'と', '開発', 'し', 'た', 'と', 'いう', '。']",0.716760035691619,0.8755762575701397,0.7961681466308793,0.8522362401588539,1,子供らは古い時計のかかった茶の間に集まった。,子供,N2

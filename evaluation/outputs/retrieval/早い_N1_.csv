@@ -1,0 +1,88 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+一番早く人口が20万人に到達した都市であったと思われる。,-1,19676.0,N3,0.6,0.0,0.3,一番早く人口が20万人に到達した都市であったと思われる。,"(VERB_ROOT
+  (NOUN_advcl
+    (VERB_acl
+      (ADJ_advcl ADV_advmod)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl NUM_compound ADP_case)
+      AUX_aux
+      AUX_aux)
+    (AUX_cop VERB_fixed)
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['一番', '早く', '人口', 'が', '20万', '人', 'に', '到達', 'し', 'た', '都市', 'で', 'あっ', 'た', 'と', '思わ', 'れる', '。']",,,,,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6,A
+後年1950年代までオート三輪やオートバイの零細メーカーが群生した名古屋でも早い時期のオート三輪メーカー設立であった。,6827747,,N1,1.0,0.68806154,0.8440307676792145,後年1950年代までオート三輪やオートバイの零細メーカーが群生した名古屋でも早い時期のオート三輪メーカー設立であった。,NOUN_ROOT,"['後年', '1950', '年', '代', 'まで', 'オート', '三', '輪', 'や', 'オートバイ', 'の', '零細', 'メーカー', 'が', '群生', 'し', 'た', '名古屋', 'で', 'も', '早い', '時期', 'の', 'オート', '三', '輪', 'メーカー', '設立', 'で', 'あっ', 'た', '。']",1.0,0.8930887681159421,0.946544384057971,0.8952875758685928,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6,A
+その成立は1929年に遡り、安徽大学の最も早く成立した学部の一つである。,12457429,,N1,1.0,0.8183088,0.9091543853282928,その成立は1929年に遡り、安徽大学の最も早く成立した学部の一つである。,"(NOUN_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  (VERB_acl (NOUN_obl NUM_nummod ADP_case) PUNCT_punct)
+  (NOUN_nmod
+    (VERB_acl
+      (NOUN_obl PROPN_compound ADP_case)
+      (ADJ_advcl ADV_advmod)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['その', '成立', 'は', '1929', '年', 'に', '遡り', '、', '安徽', '大学', 'の', '最も', '早く', '成立', 'し', 'た', '学部', 'の', '一', 'つ', 'で', 'ある', '。']",0.9192070099261216,0.8889169611823465,0.904061985554234,0.9066081854412634,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6,A
+北極海がコラ半島北部周辺までは通年航行可能で、それ以東も海氷の発達が比較的弱く、北東航路が北西航路よりも早く開通・一部実用化されたのも、この暖流によるところが大きい。,1557485,,N1,1.0,0.7852533,0.8926266431808472,北極海がコラ半島北部周辺までは通年航行可能で、それ以東も海氷の発達が比較的弱く、北東航路が北西航路よりも早く開通・一部実用化されたのも、この暖流によるところが大きい。,"(ADJ_ROOT
+  (VERB_advcl
+    (ADJ_acl
+      (NOUN_obl
+        (VERB_acl (PROPN_nsubj ADP_case))
+        NOUN_compound
+        NOUN_compound
+        ADP_case
+        ADP_case
+        (ADJ_punct NOUN_obl NOUN_compound AUX_aux PUNCT_punct))
+      (NOUN_nsubj PRON_nmod ADP_case)
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      NOUN_obl
+      PUNCT_punct)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    (ADJ_acl (NOUN_obl NOUN_compound ADP_case ADP_case))
+    (SYM_nmod NOUN_compound)
+    ADV_advmod
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (NOUN_obl DET_det ADP_case)) ADP_case)
+  PUNCT_punct)","['北極海', 'が', 'コラ', '半島', '北部', '周辺', 'まで', 'は', '通年', '航行', '可能', 'で', '、', 'それ', '以東', 'も', '海氷', 'の', '発達', 'が', '比較的', '弱く', '、', '北東', '航路', 'が', '北西', '航路', 'より', 'も', '早く', '開通', '・', '一部', '実用化', 'さ', 'れ', 'た', 'の', 'も', '、', 'この', '暖流', 'に', 'よる', 'ところ', 'が', '大きい', '。']",0.8378316144472931,0.8927382362547102,0.8652849253510017,0.8789557842659244,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6,A
+18世紀後半、世界で最も早く工場制機械工業を導入したイギリスでは、その後「世界の工場」と称されるまでに至った。,5419905,,N1,1.0,0.812696,0.9063479900360109,18世紀後半、世界で最も早く工場制機械工業を導入したイギリスでは、その後「世界の工場」と称されるまでに至った。,"(VERB_ROOT
+  (PROPN_obl
+    (VERB_acl
+      (ADV_advmod NUM_compound NOUN_compound PUNCT_punct)
+      (ADJ_advcl (NOUN_obl ADP_case) ADV_advmod)
+      (NOUN_obj NOUN_compound NOUN_compound NOUN_compound ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (VERB_advcl
+    NOUN_obl
+    (NOUN_obl (NOUN_nmod PUNCT_punct ADP_case) PUNCT_punct ADP_case)
+    AUX_aux
+    PART_mark
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['18', '世紀', '後半', '、', '世界', 'で', '最も', '早く', '工場', '制', '機械', '工業', 'を', '導入', 'し', 'た', 'イギリス', 'で', 'は', '、', 'その後', '「', '世界', 'の', '工場', '」', 'と', '称さ', 'れる', 'まで', 'に', '至っ', 'た', '。']",0.7924040342435023,0.8823157058551234,0.8373598700493128,0.8718539300426618,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6,A
+小惑星番号187531を付されたこの天体は、5つのうちもっとも早く小惑星番号付与に至ったものである。,10284128,,N1,1.0,0.8088734,0.9044367074966432,小惑星番号187531を付されたこの天体は、5つのうちもっとも早く小惑星番号付与に至ったものである。,"(NOUN_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NUM_obj NUM_compound NOUN_compound ADP_case)
+      AUX_aux
+      AUX_aux)
+    DET_det
+    ADP_case
+    PUNCT_punct)
+  (VERB_acl
+    (ADJ_advcl (NOUN_obl (NOUN_nmod NUM_nummod ADP_case)) ADV_advmod)
+    (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+    AUX_aux)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['小惑星', '番号', '187531', 'を', '付さ', 'れ', 'た', 'この', '天体', 'は', '、', '5', 'つ', 'の', 'うち', 'もっとも', '早く', '小惑星', '番号', '付与', 'に', '至っ', 'た', 'もの', 'で', 'ある', '。']",0.752487434590615,0.863629679459369,0.808058557024992,0.8562476322608175,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6,A

@@ -1,0 +1,273 @@
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 持つ; target level: N5; context sentence: またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。
+System 1 sentences:
+「その本は重いので、私は持って帰ることができない。」
+「今日は朝から雨が降っているので、傘を持って行った方がいいだろう。」
+「今度会うときには、必ずハンカチを持ってきてね。
+右手で持っている鉛筆を左手でも持とうとすることはできない。
+私は彼女の携帯電話を持たせてもらうだけだ。
+System 2 sentences:
+私は杖を持つ。
+それを逆さまに持ってはいけません。
+箸の正しい持ち方って知ってる？
+私は左手で箸を持ちます。
+箸の持ち方が分かりません。
+System 3 sentences:
+彼はいつも頭に帽子を持つ。
+子犬はおもちゃを口に持って遊ぶ。
+友達と一緒に荷物を持って駅まで行く。
+彼はカメラを手に持って風景を撮影する。
+ペンを右手で持つ。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides sentences that are most closely aligned with the target level (N5) and maintains a consistent sense of the target word "持つ" across all examples, making it the most useful for learners at this level despite its low diversity. System 1 offers a good mix of sentences at the N5 and N4 levels, with a medium diversity in sentence structure, making it the second choice. System 3, while offering sentences at the N4 and N5 levels, includes one sentence that does not maintain the target word's sense in the given context, leading to its lower ranking.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 持つ; target level: N5; context sentence: またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。
+System 1 sentences:
+「その本は重いので、私は持って帰ることができない。」
+「今日は朝から雨が降っているので、傘を持って行った方がいいだろう。」
+「今度会うときには、必ずハンカチを持ってきてね。
+右手で持っている鉛筆を左手でも持とうとすることはできない。
+私は彼女の携帯電話を持たせてもらうだけだ。
+System 2 sentences:
+私は杖を持つ。
+それを逆さまに持ってはいけません。
+箸の正しい持ち方って知ってる？
+私は左手で箸を持ちます。
+箸の持ち方が分かりません。
+System 3 sentences:
+彼はいつも頭に帽子を持つ。
+子犬はおもちゃを口に持って遊ぶ。
+友達と一緒に荷物を持って駅まで行く。
+彼はカメラを手に持って風景を撮影する。
+ペンを右手で持つ。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System "2" > System "1" > System "3"
+
+Comment: System 2 provides sentences that are most closely aligned with the target difficulty level (N5) and maintains a consistent sense of the target word "持つ" as used in the context sentence. Although the sentence diversity is low, for beginners at the N5 level, consistency and clarity are more crucial for understanding basic usage. System 1 offers a good variety of sentences but includes some that might be slightly more complex (N4), making it the second choice. System 3, while offering diverse sentences, includes one that does not maintain the target word's sense appropriately and thus is ranked last.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 持つ; target level: N5; context sentence: またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。
+System 1 sentences:
+「その本は重いので、私は持って帰ることができない。」
+「今日は朝から雨が降っているので、傘を持って行った方がいいだろう。」
+「今度会うときには、必ずハンカチを持ってきてね。
+右手で持っている鉛筆を左手でも持とうとすることはできない。
+私は彼女の携帯電話を持たせてもらうだけだ。
+System 2 sentences:
+私は杖を持つ。
+それを逆さまに持ってはいけません。
+箸の正しい持ち方って知ってる？
+私は左手で箸を持ちます。
+箸の持ち方が分かりません。
+System 3 sentences:
+彼はいつも頭に帽子を持つ。
+子犬はおもちゃを口に持って遊ぶ。
+友達と一緒に荷物を持って駅まで行く。
+彼はカメラを手に持って風景を撮影する。
+ペンを右手で持つ。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides sentences that are most closely aligned with the target level (N5) and maintain a consistent sense of the target word "持つ" as used in the context sentence. Although the sentence diversity is low, the consistency and appropriateness for the target level make it the most useful for learners. System 1 offers a good variety of sentences but slightly ventures into N4 territory, making it slightly less ideal for strict N5 learners. System 3, while offering diverse sentences, includes one that does not maintain the target word's sense as in the original context, leading to its lower ranking.
++++++END_RESPONSE+++++

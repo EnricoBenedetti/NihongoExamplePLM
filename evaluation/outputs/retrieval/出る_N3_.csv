@@ -1,0 +1,66 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+成東の停車場をおりて、町形をした家並みを出る。,-1,20001.0,N1,0.1999999999999999,0.0,0.0999999999999999,成東の停車場をおりて、町形をした家並みを出る。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_obj (PROPN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl (NOUN_obj NOUN_compound ADP_case) AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['成東', 'の', '停車場', 'を', 'おり', 'て', '、', '町', '形', 'を', 'し', 'た', '家並み', 'を', '出る', '。']",,,,,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N3
+駅前広場を出ると旧東海道（旧国道1号線）があり、すぐそばには西友松長店がある。,1201937,,N3,1.0,0.80710995,0.9035549759864808,駅前広場を出ると旧東海道（旧国道1号線）があり、すぐそばには西友松長店がある。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_nsubj
+      (VERB_acl (NOUN_obj NOUN_compound ADP_case) SCONJ_mark)
+      NOUN_compound
+      PUNCT_punct
+      NOUN_compound
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      PUNCT_punct
+      ADP_case)
+    PUNCT_punct)
+  ADV_advmod
+  (NOUN_obl ADP_case ADP_case VERB_dep)
+  (NOUN_nsubj PROPN_compound ADP_case)
+  PUNCT_punct)","['駅前', '広場', 'を', '出る', 'と', '旧', '東海道', '（', '旧', '国道', '1', '号線', '）', 'が', 'あり', '、', 'すぐ', 'そば', 'に', 'は', '西友', '松長', '店', 'が', 'ある', '。']",0.7907186618560594,0.9461309523809524,0.8684248071185059,0.8859898915524933,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N3
+田代駅を出ると県道246号を潜り、鳥栖駅に到着する。,836850,,N3,1.0,0.7707995,0.8853997588157654,田代駅を出ると県道246号を潜り、鳥栖駅に到着する。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+    (NOUN_obj NOUN_compound NUM_nummod ADP_case)
+    PUNCT_punct)
+  (PROPN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['田代駅', 'を', '出る', 'と', '県道', '246', '号', 'を', '潜り', '、', '鳥栖駅', 'に', '到着', 'する', '。']",0.7375391102239401,0.9154196766425868,0.8264793934332635,0.8559395761245144,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N3
+徒歩3分ほどで岩村町商店街に出る。,1540806,,N3,1.0,0.80032325,0.900161623954773,徒歩3分ほどで岩村町商店街に出る。,"(VERB_ROOT
+  (NOUN_obl NOUN_compound NUM_nummod ADP_case ADP_case)
+  (NOUN_obl PROPN_compound ADP_case)
+  PUNCT_punct)","['徒歩', '3', '分', 'ほど', 'で', '岩村町', '商店街', 'に', '出る', '。']",0.7048806662230813,0.9127255168869132,0.8088030915549973,0.8544823577548851,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N3
+竜ヶ崎ニュータウンや、最も近い旧宿場町の若柴宿とは住宅街がつながっておらず、駅周辺の住宅地を東へ出ると田園地帯が広がる。,1374097,,N3,1.0,0.8302619,0.9151309430599212,竜ヶ崎ニュータウンや、最も近い旧宿場町の若柴宿とは住宅街がつながっておらず、駅周辺の住宅地を東へ出ると田園地帯が広がる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl PROPN_compound NOUN_compound ADP_case PUNCT_punct)
+    (NOUN_obl
+      (PROPN_nmod (ADJ_acl ADV_advmod) NOUN_compound ADP_case)
+      PROPN_compound
+      ADP_case
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    SCONJ_mark)
+  (NOUN_nsubj NOUN_compound ADP_case)
+  PUNCT_punct)","['竜ヶ崎', 'ニュー', 'タウン', 'や', '、', '最も', '近い', '旧', '宿場町', 'の', '若柴', '宿', 'と', 'は', '住宅街', 'が', 'つながっ', 'て', 'おら', 'ず', '、', '駅', '周辺', 'の', '住宅地', 'を', '東', 'へ', '出る', 'と', '田園', '地帯', 'が', '広がる', '。']",0.6462875794399745,0.9059646382084884,0.7761261088242314,0.8456285259420764,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N3
+進行方向東側の車窓に高原山を見ながら下野大沢駅を出る。,698954,,N3,1.0,0.8398476,0.9199238121509552,進行方向東側の車窓に高原山を見ながら下野大沢駅を出る。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod NOUN_compound NOUN_compound ADP_case)
+      ADP_case)
+    (NOUN_obj VERB_compound ADP_case)
+    SCONJ_mark)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['進行', '方向', '東側', 'の', '車窓', 'に', '高原', '山', 'を', '見', 'ながら', '下野大沢駅', 'を', '出る', '。']",0.5984185522431742,0.8982757482757483,0.7483471502594612,0.8341354812052082,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N3

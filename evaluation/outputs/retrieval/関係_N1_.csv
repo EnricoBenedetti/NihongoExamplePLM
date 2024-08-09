@@ -1,0 +1,132 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,-1,20001.0,N1,1.0,0.0,0.5,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obl (PRON_nmod ADP_case) NOUN_compound)
+        (VERB_advcl SCONJ_mark)
+        (NOUN_obl NOUN_compound ADP_case))
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod DET_det ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['あなた', 'の', '御', '関係', 'なすっ', 'て', 'お', 'いで', 'に', 'なる', '男', 'の', '事', 'を', '、', 'ある', '偶然', 'の', '機会', 'で', '承知', 'し', 'まし', 'た', '。']",,,,,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N1
+用心棒の伸介には、富貴子の監視をさせるだけでなく、自身に代わって大隈家の血筋を遺すべく、富貴子との関係を無理矢理持たせようとする。,2389067,,N1,1.0,0.7496201,0.8748100399971008,用心棒の伸介には、富貴子の監視をさせるだけでなく、自身に代わって大隈家の血筋を遺すべく、富貴子との関係を無理矢理持たせようとする。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        (PROPN_obl
+          (NOUN_nmod ADP_case)
+          ADP_case
+          ADP_case
+          PUNCT_punct)
+        (NOUN_obj (PROPN_nmod ADP_case) ADP_case)
+        AUX_aux
+        (PART_mark AUX_fixed AUX_fixed)
+        PUNCT_punct)
+      (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+      (NOUN_obj (NOUN_nmod PROPN_compound ADP_case) ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obj (PROPN_nmod ADP_case ADP_case) ADP_case)
+    ADV_advmod
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['用心棒', 'の', '伸介', 'に', 'は', '、', '富貴子', 'の', '監視', 'を', 'さ', 'せる', 'だけ', 'で', 'なく', '、', '自身', 'に', '代わっ', 'て', '大隈', '家', 'の', '血筋', 'を', '遺す', 'べく', '、', '富貴子', 'と', 'の', '関係', 'を', '無理矢理', '持た', 'せよう', 'と', 'する', '。']",0.8047468209945448,0.917842741935484,0.8612947814650143,0.8680524107310575,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N1
+そして、刀子娘は天皇崩御後に某男との関係を持った事からその身分を剥奪される事件なども起こしている。,1620248,,N1,1.0,0.74179566,0.8708978295326233,そして、刀子娘は天皇崩御後に某男との関係を持った事からその身分を剥奪される事件なども起こしている。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+          (NOUN_obj
+            (NOUN_nmod NOUN_compound ADP_case ADP_case)
+            ADP_case)
+          AUX_aux)
+        ADP_case)
+      (NOUN_obj DET_det ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['そして', '、', '刀子', '娘', 'は', '天皇', '崩御', '後', 'に', '某', '男', 'と', 'の', '関係', 'を', '持っ', 'た', '事', 'から', 'その', '身分', 'を', '剥奪', 'さ', 'れる', '事件', 'など', 'も', '起こし', 'て', 'いる', '。']",0.7935572809349561,0.892276526387344,0.8429169036611501,0.8569073665968867,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N1
+サンドラは、勤め先のアンティークショップに客として訪れた英国紳士グレッグ・ローランドと恋に落ち、ほどなく婚約するが、グレッグは精神的にもろいサンドラを盾にとってジェルミに肉体関係を迫る。,1172439,,N1,1.0,0.7231842,0.8615921139717102,サンドラは、勤め先のアンティークショップに客として訪れた英国紳士グレッグ・ローランドと恋に落ち、ほどなく婚約するが、グレッグは精神的にもろいサンドラを盾にとってジェルミに肉体関係を迫る。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_nsubj ADP_case PUNCT_punct)
+    (VERB_advcl
+      (NOUN_obl
+        (PROPN_nmod
+          (NOUN_compound
+            (VERB_acl
+              (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+              (NOUN_obl (ADP_case AUX_fixed SCONJ_fixed))
+              AUX_aux)
+            PROPN_compound)
+          PROPN_compound
+          SYM_compound
+          ADP_case)
+        ADP_case)
+      PUNCT_punct)
+    (ADJ_advcl PART_advmod)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (PROPN_obj (VERB_acl (ADJ_advcl AUX_cop)) ADP_case)
+  (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed))
+  (PROPN_obl ADP_case)
+  (NOUN_obj NOUN_compound ADP_case)
+  PUNCT_punct)","['サンドラ', 'は', '、', '勤め先', 'の', 'アンティークショップ', 'に', '客', 'と', 'し', 'て', '訪れ', 'た', '英国', '紳士', 'グレッグ', '・', 'ローランド', 'と', '恋', 'に', '落ち', '、', 'ほど', 'なく', '婚約', 'する', 'が', '、', 'グレッグ', 'は', '精神的', 'に', 'もろい', 'サンドラ', 'を', '盾', 'に', 'とっ', 'て', 'ジェルミ', 'に', '肉体', '関係', 'を', '迫る', '。']",0.7893863816681983,0.8804496792964035,0.834918030482301,0.8482550722270056,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N1
+スポトーによると、1964年2月末のある日には、ヒッチコックは控え室でヘドレンに性的関係を求め、やがてヘドレンのキャリアを台無しにすると脅迫めいたことを言ったという。,579228,,N1,1.0,0.7326374,0.8663187026977539,スポトーによると、1964年2月末のある日には、ヒッチコックは控え室でヘドレンに性的関係を求め、やがてヘドレンのキャリアを台無しにすると脅迫めいたことを言ったという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed) PUNCT_punct)
+    (VERB_advcl
+      (NOUN_obl
+        (NOUN_nmod
+          NUM_compound
+          NOUN_compound
+          NUM_compound
+          NOUN_compound
+          ADP_case)
+        VERB_acl
+        ADP_case
+        ADP_case
+        PUNCT_punct)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl ADP_case)
+      (PROPN_obl ADP_case)
+      (NOUN_obj ADJ_amod ADP_case)
+      PUNCT_punct)
+    (VERB_advcl
+      ADV_advmod
+      (NOUN_obj (PROPN_nmod ADP_case) ADP_case)
+      (NOUN_obl ADP_case)
+      SCONJ_mark)
+    (NOUN_obj (VERB_acl PART_mark AUX_aux) ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['スポトー', 'に', 'よる', 'と', '、', '1964', '年', '2', '月', '末', 'の', 'ある', '日', 'に', 'は', '、', 'ヒッチコック', 'は', '控え室', 'で', 'ヘドレン', 'に', '性的', '関係', 'を', '求め', '、', 'やがて', 'ヘドレン', 'の', 'キャリア', 'を', '台無し', 'に', 'する', 'と', '脅迫', 'めい', 'た', 'こと', 'を', '言っ', 'た', 'と', 'いう', '。']",0.7631573559231067,0.87103390227605,0.8170956290995783,0.8417071658986661,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N1
+行きずりでリカと関係してしまった完治だがリカは全く意に介していなかった。,1216479,,N1,1.0,0.74173725,0.8708686232566833,行きずりでリカと関係してしまった完治だがリカは全く意に介していなかった。,"(VERB_ROOT
+  (NOUN_advcl
+    (VERB_acl
+      (PROPN_obl ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      AUX_aux)
+    AUX_cop
+    SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['行きずり', 'で', 'リカ', 'と', '関係', 'し', 'て', 'しまっ', 'た', '完治', 'だ', 'が', 'リカ', 'は', '全く', '意', 'に', '介し', 'て', 'い', 'なかっ', 'た', '。']",0.7428701402180979,0.8672250331902486,0.8050475867041733,0.8379581049804283,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N1

@@ -1,0 +1,84 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+ハードルに手や足をかけても問題ない。,-1,16615.0,N3,0.6,0.0,0.3,ハードルに手や足をかけても問題ない。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    ADP_case)
+  NOUN_compound
+  PUNCT_punct)","['ハードル', 'に', '手', 'や', '足', 'を', 'かけ', 'て', 'も', '問題', 'ない', '。']",,,,,1,ハードルに手や足をかけても問題ない。,足,N4
+中国のフットボールの試合では、選手達は足と胴体を使い、手は使っていませんでした。,205464,,N4,1.0,0.76396006,0.8819800317287445,中国のフットボールの試合では、選手達は足と胴体を使い、手は使っていませんでした。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod (PROPN_nmod ADP_case) ADP_case)
+      ADP_case
+      ADP_case
+      PUNCT_punct)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['中国', 'の', 'フットボール', 'の', '試合', 'で', 'は', '、', '選手', '達', 'は', '足', 'と', '胴体', 'を', '使い', '、', '手', 'は', '使っ', 'て', 'い', 'ませ', 'ん', 'でし', 'た', '。']",0.8071344459436185,0.9423076923076924,0.8747210691256554,0.8783505504272,1,ハードルに手や足をかけても問題ない。,足,N4
+みんな足を下に降ろして。,260873,,N4,1.0,0.77404726,0.8870236277580261,みんな足を下に降ろして。,"(VERB_ROOT
+  ADV_advmod
+  (NOUN_obj ADP_case)
+  (NOUN_obl ADP_case)
+  SCONJ_mark
+  PUNCT_punct)","['みんな', '足', 'を', '下', 'に', '降ろし', 'て', '。']",0.7400498571849901,0.9198500967117988,0.8299499769483945,0.8584868023532103,1,ハードルに手や足をかけても問題ない。,足,N4
+2004年2月頃に2号に改造し、2004年9月下旬に目の渦巻きだけマイナーチェンジし、2008年8月4日に3号になり、手と足が動けるようになった。,1802402,,N4,1.0,0.79037833,0.8951891660690308,2004年2月頃に2号に改造し、2004年9月下旬に目の渦巻きだけマイナーチェンジし、2008年8月4日に3号になり、手と足が動けるようになった。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_advcl
+      (VERB_advcl
+        (NOUN_obl
+          NUM_compound
+          NOUN_compound
+          NUM_compound
+          NOUN_compound
+          ADP_case)
+        (NOUN_obl NUM_nummod ADP_case)
+        AUX_aux
+        PUNCT_punct)
+      (NOUN_obl
+        NUM_compound
+        NOUN_compound
+        NUM_compound
+        NOUN_compound
+        ADP_case)
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obl
+      NUM_compound
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      NUM_nummod
+      ADP_case)
+    (NOUN_obl NUM_nummod ADP_case)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  PUNCT_punct)","['2004', '年', '2', '月', '頃', 'に', '2', '号', 'に', '改造', 'し', '、', '2004', '年', '9', '月', '下旬', 'に', '目', 'の', '渦巻き', 'だけ', 'マイナーチェンジ', 'し', '、', '2008', '年', '8', '月', '4', '日', 'に', '3', '号', 'に', 'なり', '、', '手', 'と', '足', 'が', '動ける', 'よう', 'に', 'なっ', 'た', '。']",0.7070116469999104,0.8849290780141844,0.7959703625070473,0.845579764288039,1,ハードルに手や足をかけても問題ない。,足,N4
+湯沸かし器で体を、排気管で腕や足を、フライパンで顔を作った。,803756,,N4,1.0,0.77366626,0.886833131313324,湯沸かし器で体を、排気管で腕や足を、フライパンで顔を作った。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['湯沸かし器', 'で', '体', 'を', '、', '排気管', 'で', '腕', 'や', '足', 'を', '、', 'フライパン', 'で', '顔', 'を', '作っ', 'た', '。']",0.7041682716296112,0.8660175877398147,0.7850929296847129,0.8359630304990184,1,ハードルに手や足をかけても問題ない。,足,N4
+誰かに足を踏まれた。,397700,,N4,1.0,0.78053755,0.8902687728404999,誰かに足を踏まれた。,"(VERB_ROOT
+  (PRON_obl ADP_case ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['誰', 'か', 'に', '足', 'を', '踏ま', 'れ', 'た', '。']",0.6777968476173981,0.8612094660568375,0.7695031568371178,0.8298859648388088,1,ハードルに手や足をかけても問題ない。,足,N4

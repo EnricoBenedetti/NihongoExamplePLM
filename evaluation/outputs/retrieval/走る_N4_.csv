@@ -1,0 +1,70 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,-1,20001.0,N3,0.6,0.0,0.3,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod
+        (VERB_acl (PROPN_obl ADP_case) (SCONJ_mark VERB_fixed))
+        ADP_case)
+      ADP_case
+      PUNCT_punct)
+    (VERB_advcl (NOUN_nsubj ADP_case) SCONJ_mark)
+    (NOUN_obl ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['新之助', 'に', '向っ', 'て', 'いる', '輪', 'の', '中', 'から', '、', '一人', 'が', '抜け', 'て', '前方', 'に', '走ろう', 'と', 'し', 'た', '。']",,,,,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N4
+それから私の左手にいた丘の人々もそちらに向かって走り出していました。,2370696,,N4,1.0,0.7417939,0.8708969354629517,それから私の左手にいた丘の人々もそちらに向かって走り出していました。,"(VERB_ROOT
+  (PRON_cc ADP_fixed)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (VERB_acl (NOUN_obl (PRON_nmod ADP_case) ADP_case) AUX_aux)
+      ADP_case)
+    ADP_case)
+  (VERB_advcl (PRON_obl ADP_case) SCONJ_mark)
+  VERB_advcl
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['それ', 'から', '私', 'の', '左手', 'に', 'い', 'た', '丘', 'の', '人々', 'も', 'そちら', 'に', '向かっ', 'て', '走り', '出し', 'て', 'い', 'まし', 'た', '。']",0.7044803675140993,0.9201839826839828,0.812332175099041,0.8416145552809964,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N4
+対向車がバーストしたらしく、フラフラとジグザグに走って来る。,25123,,N4,1.0,0.7577286,0.8788642883300781,対向車がバーストしたらしく、フラフラとジグザグに走って来る。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      PUNCT_punct)
+    (VERB_advcl (ADV_advmod ADP_case) ADP_case)
+    SCONJ_mark)
+  PUNCT_punct)","['対向車', 'が', 'バースト', 'し', 'た', 'らしく', '、', 'フラフラ', 'と', 'ジグザグ', 'に', '走っ', 'て', '来る', '。']",0.710392615391342,0.902088377723971,0.8062404965576565,0.8425523924438674,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N4
+私たちは角を左に曲がり、車を北へと走らせた。,364021,,N4,1.0,0.77941775,0.8897088766098022,私たちは角を左に曲がり、車を北へと走らせた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obj ADP_case)
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (NOUN_obj ADP_case)
+  (NOUN_obl ADP_case ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['私たち', 'は', '角', 'を', '左', 'に', '曲がり', '、', '車', 'を', '北', 'へ', 'と', '走ら', 'せ', 'た', '。']",0.6701876151258357,0.9007675438596492,0.7854775794927424,0.8375932280512723,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N4
+遠くからこちらに走ってくる二人。,128097,,N4,1.0,0.7697785,0.8848892450332642,遠くからこちらに走ってくる二人。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl (NOUN_obl ADP_case) (PRON_obl ADP_case) SCONJ_mark))
+  PUNCT_punct)","['遠く', 'から', 'こちら', 'に', '走っ', 'て', 'くる', '二人', '。']",0.651507074520171,0.8869240196078432,0.7692155470640071,0.8270523960486356,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N4
+何祗は馬が走ろうとしないのは、あなたが鞭を打とうしないからですと答えた。,10981690,,N4,1.0,0.79208314,0.8960415720939636,何祗は馬が走ろうとしないのは、あなたが鞭を打とうしないからですと答えた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj PRON_nummod ADP_case)
+    (VERB_advcl (NOUN_nsubj ADP_case) ADP_case)
+    AUX_aux
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (VERB_ccomp
+    (PRON_nsubj ADP_case)
+    (NOUN_obj ADP_case)
+    (AUX_aux AUX_aux)
+    SCONJ_mark
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['何', '祗', 'は', '馬', 'が', '走ろう', 'と', 'し', 'ない', 'の', 'は', '、', 'あなた', 'が', '鞭', 'を', '打とう', 'し', 'ない', 'から', 'です', 'と', '答え', 'た', '。']",0.6312584120758981,0.864172434708149,0.7477154233920236,0.8218784977429936,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N4

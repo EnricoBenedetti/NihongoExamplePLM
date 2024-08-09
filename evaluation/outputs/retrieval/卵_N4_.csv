@@ -1,0 +1,74 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+卵から産まれて成虫になるまでの間の成長過程のものを指す。,-1,9574.0,N3,0.6,0.0,0.3,卵から産まれて成虫になるまでの間の成長過程のものを指す。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod
+        (VERB_nmod
+          (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+          (NOUN_obl ADP_case)
+          PART_mark
+          ADP_case)
+        ADP_case)
+      NOUN_compound
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['卵', 'から', '産まれ', 'て', '成虫', 'に', 'なる', 'まで', 'の', '間', 'の', '成長', '過程', 'の', 'もの', 'を', '指す', '。']",,,,,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N4
+卵は一個五十グラムぐらいです。,378020,,N4,1.0,0.76516163,0.8825808167457581,卵は一個五十グラムぐらいです。,"(NOUN_ROOT
+  (NOUN_nsubj ADP_case)
+  NUM_compound
+  NOUN_compound
+  NUM_nummod
+  ADP_case
+  AUX_cop
+  PUNCT_punct)","['卵', 'は', '一', '個', '五十', 'グラム', 'ぐらい', 'です', '。']",0.8571428571428572,0.962962962962963,0.91005291005291,0.8963168633993341,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N4
+めんどりは孵化するまで卵を抱きます。,310848,,N4,1.0,0.80770975,0.903854876756668,めんどりは孵化するまで卵を抱きます。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (VERB_advcl AUX_aux PART_mark)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['めんどり', 'は', '孵化', 'する', 'まで', '卵', 'を', '抱き', 'ます', '。']",0.8125856285084164,0.9391891891891893,0.8758874088488029,0.8898711428027355,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N4
+扉や、卵の孵化を意味する）から来ている。,7149393,,N4,1.0,0.82072663,0.9103633165359496,扉や、卵の孵化を意味する）から来ている。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj
+      (NOUN_nmod ADP_case PUNCT_punct)
+      (NOUN_nmod ADP_case)
+      ADP_case)
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['扉', 'や', '、', '卵', 'の', '孵化', 'を', '意味', 'する', '）', 'から', '来', 'て', 'いる', '。']",0.7567994442971613,0.9182692307692308,0.8375343375331961,0.8739488270345729,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N4
+地上へ回収後、この卵から33匹の子供を誕生させる事に成功した。,7601206,,N4,1.0,0.807785,0.9038924872875214,地上へ回収後、この卵から33匹の子供を誕生させる事に成功した。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl (NOUN_obl ADP_case) NOUN_compound PUNCT_punct)
+      (NOUN_obj
+        (NOUN_nmod DET_det ADP_case)
+        (NOUN_nmod NUM_nummod ADP_case)
+        ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['地上', 'へ', '回収', '後', '、', 'この', '卵', 'から', '33', '匹', 'の', '子供', 'を', '誕生', 'さ', 'せる', '事', 'に', '成功', 'し', 'た', '。']",0.7223846106649754,0.915295730513122,0.8188401705890487,0.861366328938285,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N4
+寄ってきた虫がボードの中に住み着いたり、中に産みつけられた卵が、孵って成長したりする。,2996520,,N4,1.0,0.8113719,0.9056859612464904,寄ってきた虫がボードの中に住み着いたり、中に産みつけられた卵が、孵って成長したりする。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (VERB_advcl
+          (NOUN_nsubj
+            (VERB_acl (VERB_advcl SCONJ_mark) AUX_aux)
+            ADP_case)
+          (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+          PART_mark
+          PUNCT_punct)
+        (NOUN_obl ADP_case)
+        AUX_aux
+        AUX_aux)
+      ADP_case
+      PUNCT_punct)
+    (VERB_advcl SCONJ_mark)
+    AUX_aux
+    PART_mark)
+  PUNCT_punct)","['寄っ', 'て', 'き', 'た', '虫', 'が', 'ボード', 'の', '中', 'に', '住み着い', 'たり', '、', '中', 'に', '産みつけ', 'られ', 'た', '卵', 'が', '、', '孵っ', 'て', '成長', 'し', 'たり', 'する', '。']",0.6943359067123691,0.8943014705882353,0.7943186886503022,0.8500023249483963,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N4

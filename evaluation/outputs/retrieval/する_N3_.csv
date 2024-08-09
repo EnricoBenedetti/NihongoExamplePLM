@@ -1,0 +1,45 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分が自分の心でするべき事だ。,-1,20001.0,N3,1.0,0.0,0.5,自分が自分の心でするべき事だ。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['自分', 'が', '自分', 'の', '心', 'で', 'する', 'べき', '事', 'だ', '。']",,,,,1,自分が自分の心でするべき事だ。,する,N3
+ご自身が何をしたいのか、をしっかり見極められると良いですね。,17866,,N3,1.0,0.80991334,0.9049566686153412,ご自身が何をしたいのか、をしっかり見極められると良いですね。,"(ADJ_ROOT
+  (VERB_advcl
+    (VERB_obj
+      (PRON_nsubj ADP_case)
+      (PRON_obj ADP_case)
+      AUX_aux
+      SCONJ_mark
+      PART_mark
+      PUNCT_punct
+      ADP_case)
+    ADV_advmod
+    AUX_aux
+    SCONJ_mark)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['ご自身', 'が', '何', 'を', 'し', 'たい', 'の', 'か', '、', 'を', 'しっかり', '見極め', 'られる', 'と', '良い', 'です', 'ね', '。']",0.75,0.956896551724138,0.853448275862069,0.8792024722387051,1,自分が自分の心でするべき事だ。,する,N3
+このような中、私たちは何をすればよいのだろう。,37725,,N3,1.0,0.7541446,0.8770723044872284,このような中、私たちは何をすればよいのだろう。,"(VERB_ROOT
+  (NOUN_obl (NOUN_acl DET_det AUX_cop) PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (PRON_obj ADP_case)
+  (SCONJ_mark AUX_fixed)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['この', 'よう', 'な', '中', '、', '私たち', 'は', '何', 'を', 'すれ', 'ば', 'よい', 'の', 'だろう', '。']",0.7744902494682367,0.9370842572062084,0.8557872533372226,0.8664297789122255,1,自分が自分の心でするべき事だ。,する,N3
+私たち世代がしなくちゃいけないこと。,19658,,N3,1.0,0.8304307,0.9152153432369232,私たち世代がしなくちゃいけないこと。,"(NOUN_ROOT
+  NOUN_dep
+  (VERB_acl
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed AUX_fixed))
+  PUNCT_punct)","['私たち', '世代', 'が', 'し', 'なく', 'ちゃ', 'いけ', 'ない', 'こと', '。']",0.7218430131358551,0.9301851851851852,0.8260140991605202,0.8706147211987216,1,自分が自分の心でするべき事だ。,する,N3
+今やるべきことをすること。,48452,,N3,1.0,0.79719657,0.8985982835292816,今やるべきことをすること。,"(NOUN_ROOT
+  (VERB_acl (NOUN_obj (VERB_acl ADV_advmod AUX_aux) ADP_case))
+  PUNCT_punct)","['今', 'やる', 'べき', 'こと', 'を', 'する', 'こと', '。']",0.6993475981531301,0.910582908885116,0.8049652535191231,0.8517817685242024,1,自分が自分の心でするべき事だ。,する,N3
+何をするべきかわかっている。,48186,,N3,1.0,0.8113123,0.9056561589241028,何をするべきかわかっている。,"(VERB_ROOT
+  (VERB_advcl (PRON_obj ADP_case) AUX_aux PART_mark)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['何', 'を', 'する', 'べき', 'か', 'わかっ', 'て', 'いる', '。']",0.6740753582522291,0.8892199349945829,0.7816476466234059,0.8436519027737543,1,自分が自分の心でするべき事だ。,する,N3

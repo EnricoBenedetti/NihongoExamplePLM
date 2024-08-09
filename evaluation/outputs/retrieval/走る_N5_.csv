@@ -1,0 +1,44 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod
+        (VERB_acl (PROPN_obl ADP_case) (SCONJ_mark VERB_fixed))
+        ADP_case)
+      ADP_case
+      PUNCT_punct)
+    (VERB_advcl (NOUN_nsubj ADP_case) SCONJ_mark)
+    (NOUN_obl ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['新之助', 'に', '向っ', 'て', 'いる', '輪', 'の', '中', 'から', '、', '一人', 'が', '抜け', 'て', '前方', 'に', '走ろう', 'と', 'し', 'た', '。']",,,,,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N5
+もっとゆっくり走ってください。,259278,,N5,1.0,0.65723026,0.828615128993988,もっとゆっくり走ってください。,(VERB_ROOT ADV_advmod ADV_advmod (SCONJ_mark AUX_fixed) PUNCT_punct),"['もっと', 'ゆっくり', '走っ', 'て', 'ください', '。']",0.7074029090843121,0.962962962962963,0.8351829360236376,0.8318990325088128,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N5
+アメリカでは、車は右を走ります。,321513,,N5,1.0,0.706532,0.8532660007476807,アメリカでは、車は右を走ります。,"(VERB_ROOT
+  (PROPN_obl ADP_case ADP_case PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['アメリカ', 'で', 'は', '、', '車', 'は', '右', 'を', '走り', 'ます', '。']",0.6911084121172539,0.9539473684210528,0.8225278902691533,0.837896945508417,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N5
+前向いちゃって、走っちゃって、転んじゃって〜こんな自分です。,8376868,,N5,1.0,0.6559813,0.8279906511306763,前向いちゃって、走っちゃって、転んじゃって〜こんな自分です。,"(NOUN_ROOT
+  (VERB_acl ADV_advmod AUX_aux SCONJ_mark PUNCT_punct)
+  (VERB_acl
+    (VERB_advcl AUX_aux SCONJ_mark PUNCT_punct)
+    AUX_aux
+    SCONJ_mark
+    SYM_dep)
+  PRON_nmod
+  AUX_cop
+  PUNCT_punct)","['前', '向い', 'ちゃっ', 'て', '、', '走っ', 'ちゃっ', 'て', '、', '転ん', 'じゃっ', 'て', '〜', 'こんな', '自分', 'です', '。']",0.7357455880638568,0.916695111313384,0.8262203496886205,0.8271055004096484,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N5
+みんな、外に走ってった。,385507,,N5,1.0,0.70220757,0.8511037826538086,みんな、外に走ってった。,"(VERB_ROOT
+  (ADV_advmod PUNCT_punct)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['みんな', '、', '外', 'に', '走っ', 'てっ', 'た', '。']",0.693268711382502,0.9029869050200864,0.7981278082012943,0.8246157954275515,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N5
+彼はどれくらい速く走りますか。,190984,,N5,1.0,0.63765293,0.8188264667987823,彼はどれくらい速く走りますか。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  ADJ_advcl
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['彼', 'は', 'どれ', 'くらい', '速く', '走り', 'ます', 'か', '。']",0.7066235853661125,0.8973484848484848,0.8019860351072987,0.8104062509530405,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N5

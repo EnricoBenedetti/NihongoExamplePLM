@@ -1,0 +1,273 @@
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 出す; target level: N1; context sentence: 音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。
+System 1 sentences:
+出かける前に、チケットを出しておかなければならない。
+彼の提案に賛成して、手を挙げて意見を出した。
+レストランで新しいメニューが出されたので、早速試してみた。
+学校のプレゼンテーションで、彼は素晴らしいスピーチを出した。
+彼は毎朝ランニングして汗をたくさん出す。
+System 2 sentences:
+声を出す練習でもありますが、ただ見て流すよりは理解力が増しました。
+喉頭の位置に基づいて、ネアンデルタール人ですら現生人類が作り出す全ての音を完全に出すのに必要な解剖学的構造を具えていないと信じている学者もいる。
+得られる音高はその知覚のためには上音に依存するところが大きいが、熟練した奏者の手にかかれば、ペダルトーンは制御することができ、楽器に特徴的な音を出すことができる。
+ダンスには作者不明の古い特徴的な曲調の音楽をという太鼓とというとても大きな音を出すオーボエの一種で伴奏する。
+グランドピアノにあっては弦を打つ位置をずらすことにより、アップライトピアノにあっては弦を叩く距離を短くすることによって、弱い音を出す。
+System 3 sentences:
+音楽に使うものであれば、楽器以外でも音を出す道具はすべて音具という。
+彼は手紙を出す前に郵便局で切手を買った。
+彼女はその紙切れを封筒に入れて出した。
+あなたはその本を出してください。
+私は彼女に電話を出してほしい。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most complex and diverse sentences that are closely related to the target word's usage in the context sentence, making it the most suitable for N1 learners. System 1 offers a medium range of sentence diversity with slightly simpler sentences but still maintains relevance to the target word's sense. System 3, while still relevant, offers the least diversity and complexity in its sentences, making it less ideal for N1 learners seeking to challenge their understanding of advanced Japanese.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 出す; target level: N1; context sentence: 音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。
+System 1 sentences:
+出かける前に、チケットを出しておかなければならない。
+彼の提案に賛成して、手を挙げて意見を出した。
+レストランで新しいメニューが出されたので、早速試してみた。
+学校のプレゼンテーションで、彼は素晴らしいスピーチを出した。
+彼は毎朝ランニングして汗をたくさん出す。
+System 2 sentences:
+声を出す練習でもありますが、ただ見て流すよりは理解力が増しました。
+喉頭の位置に基づいて、ネアンデルタール人ですら現生人類が作り出す全ての音を完全に出すのに必要な解剖学的構造を具えていないと信じている学者もいる。
+得られる音高はその知覚のためには上音に依存するところが大きいが、熟練した奏者の手にかかれば、ペダルトーンは制御することができ、楽器に特徴的な音を出すことができる。
+ダンスには作者不明の古い特徴的な曲調の音楽をという太鼓とというとても大きな音を出すオーボエの一種で伴奏する。
+グランドピアノにあっては弦を打つ位置をずらすことにより、アップライトピアノにあっては弦を叩く距離を短くすることによって、弱い音を出す。
+System 3 sentences:
+音楽に使うものであれば、楽器以外でも音を出す道具はすべて音具という。
+彼は手紙を出す前に郵便局で切手を買った。
+彼女はその紙切れを封筒に入れて出した。
+あなたはその本を出してください。
+私は彼女に電話を出してほしい。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most diverse and contextually rich sentences that align well with the target difficulty level of N1, showcasing complex structures and abstract concepts. System 1 offers sentences that are generally simpler than the target level but maintains relevance and a variety of contexts. System 3, while providing sentences that are easy to understand, lacks the complexity and diversity expected at the N1 level, making it the least suitable for learners aiming for high proficiency.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 出す; target level: N1; context sentence: 音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。
+System 1 sentences:
+出かける前に、チケットを出しておかなければならない。
+彼の提案に賛成して、手を挙げて意見を出した。
+レストランで新しいメニューが出されたので、早速試してみた。
+学校のプレゼンテーションで、彼は素晴らしいスピーチを出した。
+彼は毎朝ランニングして汗をたくさん出す。
+System 2 sentences:
+声を出す練習でもありますが、ただ見て流すよりは理解力が増しました。
+喉頭の位置に基づいて、ネアンデルタール人ですら現生人類が作り出す全ての音を完全に出すのに必要な解剖学的構造を具えていないと信じている学者もいる。
+得られる音高はその知覚のためには上音に依存するところが大きいが、熟練した奏者の手にかかれば、ペダルトーンは制御することができ、楽器に特徴的な音を出すことができる。
+ダンスには作者不明の古い特徴的な曲調の音楽をという太鼓とというとても大きな音を出すオーボエの一種で伴奏する。
+グランドピアノにあっては弦を打つ位置をずらすことにより、アップライトピアノにあっては弦を叩く距離を短くすることによって、弱い音を出す。
+System 3 sentences:
+音楽に使うものであれば、楽器以外でも音を出す道具はすべて音具という。
+彼は手紙を出す前に郵便局で切手を買った。
+彼女はその紙切れを封筒に入れて出した。
+あなたはその本を出してください。
+私は彼女に電話を出してほしい。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most complex and relevant sentences for an N1 target level, with a high diversity in sentence structure and usage of the target word "出す" that aligns closely with the context sentence's sense. System 1 offers sentences that are somewhat relevant but are generally of a lower difficulty level than required, with medium diversity. System 3, while providing sentences that use "出す," often strays from the target sense and includes sentences that are too basic for the N1 level, showing low diversity in usage and structure.
++++++END_RESPONSE+++++

@@ -1,0 +1,54 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+学校の外では「広場の王様」とあだ名されたという。,-1,20001.0,N3,0.6,0.0,0.3,学校の外では「広場の王様」とあだ名されたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    (NOUN_obl (NOUN_nmod PUNCT_punct ADP_case) PUNCT_punct ADP_case)
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['学校', 'の', '外', 'で', 'は', '「', '広場', 'の', '王様', '」', 'と', 'あだ名', 'さ', 'れ', 'た', 'と', 'いう', '。']",,,,,1,学校の外では「広場の王様」とあだ名されたという。,外,N4
+兄弟姉妹が外で遊んでいたのを憶えています…そして私は中にいてピアノを弾いていました。,589277,,N4,1.0,0.69046384,0.8452319204807281,兄弟姉妹が外で遊んでいたのを憶えています…そして私は中にいてピアノを弾いていました。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    SCONJ_mark
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  SYM_dep)","['兄弟姉妹', 'が', '外', 'で', '遊ん', 'で', 'い', 'た', 'の', 'を', '憶え', 'て', 'い', 'ます', '…', 'そして', '私', 'は', '中', 'に', 'い', 'て', 'ピアノ', 'を', '弾い', 'て', 'い', 'まし', 'た', '。']",0.9850030565958314,0.9057971014492754,0.9454000790225534,0.8953159997516408,1,学校の外では「広場の王様」とあだ名されたという。,外,N4
+外に人がいっぱいいるよ。,375617,,N4,1.0,0.7159736,0.8579868078231812,外に人がいっぱいいるよ。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  PART_mark
+  PUNCT_punct)","['外', 'に', '人', 'が', 'いっぱい', 'いる', 'よ', '。']",0.8956541030711411,0.9012803234501348,0.8984672132606379,0.8782270105419095,1,学校の外では「広場の王様」とあだ名されたという。,外,N4
+外で花火をしたり、友人や近所を尋ねる人もいる。,1028463,,N4,1.0,0.73636854,0.8681842684745789,外で花火をしたり、友人や近所を尋ねる人もいる。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl ADP_case)
+        (NOUN_obj ADP_case)
+        PART_mark
+        PUNCT_punct)
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case))
+    ADP_case)
+  PUNCT_punct)","['外', 'で', '花火', 'を', 'し', 'たり', '、', '友人', 'や', '近所', 'を', '尋ねる', '人', 'も', 'いる', '。']",0.8047492798601051,0.8952205882352942,0.8499849340476997,0.8590846012611393,1,学校の外では「広場の王様」とあだ名されたという。,外,N4
+事務所の外で１時間待たされた。,219019,,N4,1.0,0.7578873,0.8789436519145966,事務所の外で１時間待たされた。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obl NUM_nummod)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['事務所', 'の', '外', 'で', '１', '時間', '待たさ', 'れ', 'た', '。']",0.7660634305901168,0.873190748952944,0.8196270897715304,0.8492853708430634,1,学校の外では「広場の王様」とあだ名されたという。,外,N4
+マンションの外では、雨が降って、遠くの桜が濡れていた。,3871063,,N4,1.0,0.80088854,0.9004442691802979,マンションの外では、雨が降って、遠くの桜が濡れていた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['マンション', 'の', '外', 'で', 'は', '、', '雨', 'が', '降っ', 'て', '、', '遠く', 'の', '桜', 'が', '濡れ', 'て', 'い', 'た', '。']",0.7137251704680405,0.839640231092437,0.7766827007802388,0.8385634849802683,1,学校の外では「広場の王様」とあだ名されたという。,外,N4

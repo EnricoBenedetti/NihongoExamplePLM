@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N4; Sense: similar; Reject: No
+5. Difficulty: N4; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N5; Sense: not similar; Reject: Yes
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N3; Sense: not similar; Reject: Yes
+Sentence diversity: Low
+
+System 3 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: similar; Reject: No
+Sentence diversity: Low
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides a good range of sentences that use "汚い" in contexts appropriate for N5 learners, with a slight increase in complexity towards N4, offering a bit of a challenge. System 3 sticks closely to the original context, which is good for sense similarity but results in low sentence diversity. System 2 has a couple of sentences that don't quite capture the target word's sense appropriately for learners, and one sentence was rejected due to not maintaining a similar sense, indicating a lower overall usefulness.
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides a good range of contexts for the use of "汚い" (dirty) that align well with the target N5 level, while also introducing slightly more complex sentences that could serve as a bridge to N4. System 3 sticks closely to the original context, which is good for sense similarity but results in low sentence diversity. System 2, while mostly maintaining the target word's sense, includes a sentence that diverges in sense and overall shows less diversity in usage contexts compared to System 1.
+System 1 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N4; Sense: similar; Reject: No
+5. Difficulty: N4; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N4; Sense: not similar; Reject: Yes
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N3; Sense: not similar; Reject: Yes
+Sentence diversity: Low
+
+System 3 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: similar; Reject: No
+Sentence diversity: Low
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides a good range of sentences that use the target word "汚い" in contexts appropriate for N5 learners, with a slight increase in complexity towards N4 in some sentences, offering a bit of a challenge. The diversity is medium, showing different scenarios where "汚い" can be applied. System 3 sticks closely to the context of the original sentence, providing variations of it, which is good for understanding that specific context but lacks diversity in usage. System 2 has the lowest diversity and includes sentences that don't maintain the sense of "汚い" as used in the context sentence or are unnatural, leading to its lower ranking.

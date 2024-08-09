@@ -1,0 +1,93 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+十一月の初めだった。,-1,15130.0,N4,0.3999999999999999,0.0,0.1999999999999999,十一月の初めだった。,"(NOUN_ROOT
+  (NOUN_nmod NUM_compound ADP_case)
+  AUX_cop
+  AUX_aux
+  PUNCT_punct)","['十一', '月', 'の', '初め', 'だっ', 'た', '。']",,,,,1,十一月の初めだった。,初め,N1
+1850年代の初めに両者はオスマン皇帝に判定を求めた結果、1853年オスマン皇帝は正教側の猛烈な反対を押し切ってカトリック教徒側を支持する判定を下した。,4136617,,N1,1.0,0.6508769,0.8254384398460388,1850年代の初めに両者はオスマン皇帝に判定を求めた結果、1853年オスマン皇帝は正教側の猛烈な反対を押し切ってカトリック教徒側を支持する判定を下した。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+        ADP_case)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl NOUN_compound ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    PUNCT_punct)
+  NUM_compound)","['1850', '年', '代', 'の', '初め', 'に', '両者', 'は', 'オスマン', '皇帝', 'に', '判定', 'を', '求め', 'た', '結果', '、', '1853', '年', 'オスマン', '皇帝', 'は', '正教', '側', 'の', '猛烈', 'な', '反対', 'を', '押し切っ', 'て', 'カトリック', '教', '徒', '側', 'を', '支持', 'する', '判定', 'を', '下し', 'た', '。']",0.9113707624063996,0.8991666666666667,0.905268714536533,0.8653535771912859,1,十一月の初めだった。,初め,N1
+お前が言うメディア人なる者は、彼も、その国も、その王たちもやがて滅ぶであろう」治世第３年の初め（紀元前553年夏）、神はアンシャンの王キュロスを興した。,5905253,,N1,1.0,0.7451788,0.8725894093513489,お前が言うメディア人なる者は、彼も、その国も、その王たちもやがて滅ぶであろう」治世第３年の初め（紀元前553年夏）、神はアンシャンの王キュロスを興した。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl (VERB_acl (PRON_nsubj ADP_case)) NOUN_compound))
+    ADP_case
+    PUNCT_punct)
+  (PRON_nsubj ADP_case PUNCT_punct)
+  (NOUN_nsubj DET_det ADP_case PUNCT_punct)
+  (NOUN_nsubj DET_det NOUN_compound ADP_case)
+  ADV_advmod
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['お前', 'が', '言う', 'メディア', '人', 'なる', '者', 'は', '、', '彼', 'も', '、', 'その', '国', 'も', '、', 'その', '王', 'たち', 'も', 'やがて', '滅ぶ', 'で', 'あろう', '」', '治世', '第', '３', '年', 'の', '初め', '（', '紀元前', '553', '年', '夏', '）', '、', '神', 'は', 'アンシャン', 'の', '王', 'キュロス', 'を', '興し', 'た', '。']",0.8581200542520233,0.8894952832391538,0.8738076687455886,0.8731985390484687,1,十一月の初めだった。,初め,N1
+満員電車に揺られて上京すること数度、10月初めに内閣情報局から用紙割当の許可が下る。,10231777,,N1,1.0,0.7078592,0.8539296090602875,満員電車に揺られて上京すること数度、10月初めに内閣情報局から用紙割当の許可が下る。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_obl
+      (VERB_acl
+        (VERB_advcl (NOUN_obl NOUN_compound ADP_case) SCONJ_mark)
+        AUX_aux))
+    PUNCT_punct)
+  (NOUN_obl NUM_compound NOUN_compound ADP_case)
+  (NOUN_obl NOUN_compound ADP_case)
+  (NOUN_nsubj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+  PUNCT_punct)","['満員', '電車', 'に', '揺られ', 'て', '上京', 'する', 'こと', '数度', '、', '10', '月', '初め', 'に', '内閣', '情報局', 'から', '用紙', '割当', 'の', '許可', 'が', '下る', '。']",0.8093189437388382,0.8885752865074606,0.8489471151231494,0.8514383620917184,1,十一月の初めだった。,初め,N1
+紀元前368年の初め、アレクサンドロスに対する訴えの結果、再びペロピダスがテッサリアに送られたが、迂闊にもペロピダスは一人の交渉者と自分だけでアレクサンドロスの許へ行き、捕えられた。,6878114,,N1,1.0,0.7147991,0.8573995530605316,紀元前368年の初め、アレクサンドロスに対する訴えの結果、再びペロピダスがテッサリアに送られたが、迂闊にもペロピダスは一人の交渉者と自分だけでアレクサンドロスの許へ行き、捕えられた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (NOUN_nmod PROPN_nmod NUM_nummod ADP_case)
+        PUNCT_punct)
+      (NOUN_obl
+        (NOUN_nmod (PROPN_nmod (ADP_case VERB_fixed)) ADP_case)
+        PUNCT_punct)
+      ADV_advmod
+      (PROPN_nsubj ADP_case)
+      (PROPN_obl ADP_case)
+      AUX_aux
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (ADJ_advcl
+      AUX_aux
+      ADP_case
+      (PROPN_dep ADP_case (NOUN_punct (NOUN_nmod ADP_case) ADP_case)))
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_obl (PROPN_nmod ADP_case) ADP_case)
+    PUNCT_punct)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['紀元前', '368', '年', 'の', '初め', '、', 'アレクサンドロス', 'に', '対する', '訴え', 'の', '結果', '、', '再び', 'ペロピダス', 'が', 'テッサリア', 'に', '送ら', 'れ', 'た', 'が', '、', '迂闊', 'に', 'も', 'ペロピダス', 'は', '一人', 'の', '交渉者', 'と', '自分', 'だけ', 'で', 'アレクサンドロス', 'の', '許', 'へ', '行き', '、', '捕え', 'られ', 'た', '。']",0.7800019676955747,0.8734601450554894,0.8267310563755321,0.8420653047180319,1,十一月の初めだった。,初め,N1
+7月の初め、物資と水の補給、およびフランスの砲台によって被った損傷の修理のために、彼はジブラルタルに行くことを余儀なくされた。,6107657,,N1,1.0,0.71952456,0.8597622811794281,7月の初め、物資と水の補給、およびフランスの砲台によって被った損傷の修理のために、彼はジブラルタルに行くことを余儀なくされた。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod NUM_nummod ADP_case) PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod
+          (VERB_acl
+            (NOUN_obl
+              (NOUN_nmod
+                (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+                PUNCT_punct)
+              CCONJ_cc
+              (PROPN_nmod ADP_case)
+              (ADP_case VERB_fixed SCONJ_fixed))
+            AUX_aux)
+          (NOUN_nmod ADP_case)
+          ADP_case)
+        ADP_case
+        PUNCT_punct)
+      (PRON_nsubj ADP_case)
+      (NOUN_obl ADP_case))
+    ADP_case)
+  (ADJ_advcl NOUN_compound)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['7', '月', 'の', '初め', '、', '物資', 'と', '水', 'の', '補給', '、', 'および', 'フランス', 'の', '砲台', 'に', 'よっ', 'て', '被っ', 'た', '損傷', 'の', '修理', 'の', 'ため', 'に', '、', '彼', 'は', 'ジブラルタル', 'に', '行く', 'こと', 'を', '余儀', 'なく', 'さ', 'れ', 'た', '。']",0.7360845343251126,0.8601288429646639,0.7981066886448882,0.8289344849121582,1,十一月の初めだった。,初め,N1

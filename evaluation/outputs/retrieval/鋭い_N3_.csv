@@ -1,0 +1,67 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,-1,3950.0,N2,0.6,0.0,0.3,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl ADJ_acl ADP_case)
+    (ADJ_advcl (NOUN_nsubj PRON_nmod ADP_case))
+    (NOUN_obl NUM_nummod ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark)
+  (VERB_obl ADP_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['鋭い', '鎌', 'で', 'どんな', '物', 'も', '真っ', '二', 'つ', 'に', 'し', 'て', 'しまう', 'が', 'こんにゃく', 'だけ', 'は', '切れ', 'ない', '。']",,,,,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N3
+氷を割る性能を維持するためには、鋭い先端を刃物と同様に適宜研ぐ必要がある｡,3425525,,N3,1.0,0.8240281,0.9120140373706818,氷を割る性能を維持するためには、鋭い先端を刃物と同様に適宜研ぐ必要がある｡,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+    AUX_aux
+    (SCONJ_mark SCONJ_fixed)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (ADJ_advcl
+        (NOUN_obj ADJ_acl ADP_case)
+        (NOUN_obl ADP_case)
+        AUX_aux)
+      ADV_advmod)
+    ADP_case)
+  SYM_dep)","['氷', 'を', '割る', '性能', 'を', '維持', 'する', 'ため', 'に', 'は', '、', '鋭い', '先端', 'を', '刃物', 'と', '同様', 'に', '適宜', '研ぐ', '必要', 'が', 'ある', '｡']",0.9311158833409108,0.9602272727272728,0.945671578034092,0.9288428077023868,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N3
+つま先の鋭い爪は効果的な武器である。,4831420,,N3,1.0,0.88175255,0.9408762753009796,つま先の鋭い爪は効果的な武器である。,"(NOUN_ROOT
+  (NOUN_nsubj (ADJ_acl (NOUN_nmod ADP_case)) ADP_case)
+  (ADJ_acl AUX_cop)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['つま先', 'の', '鋭い', '爪', 'は', '効果的', 'な', '武器', 'で', 'ある', '。']",0.8658913361586238,0.9454545454545454,0.9056729408065848,0.923274608053782,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N3
+鋭い牙でなんでも噛み砕く習性を持つ。,10209400,,N3,1.0,0.87800705,0.9390035271644592,鋭い牙でなんでも噛み砕く習性を持つ。,"(VERB_ROOT
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obl ADJ_acl ADP_case)
+      (PRON_obl ADP_case ADP_case))
+    ADP_case)
+  PUNCT_punct)","['鋭い', '牙', 'で', 'なん', 'で', 'も', '噛み砕く', '習性', 'を', '持つ', '。']",0.818739543011972,0.931818181818182,0.8752788624150769,0.907141194789768,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N3
+戦闘になれば、アケイライは鋭い爪で相手を切り裂いたり、嘴でついばんだりする。,9326408,,N3,1.0,0.8924103,0.9462051391601562,戦闘になれば、アケイライは鋭い爪で相手を切り裂いたり、嘴でついばんだりする。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark PUNCT_punct)
+  (ADV_advmod ADP_case)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl ADJ_acl ADP_case)
+      (NOUN_obj ADP_case)
+      PART_mark
+      PUNCT_punct)
+    (NOUN_obl ADP_case)
+    PART_mark)
+  PUNCT_punct)","['戦闘', 'に', 'なれ', 'ば', '、', 'アケイライ', 'は', '鋭い', '爪', 'で', '相手', 'を', '切り裂い', 'たり', '、', '嘴', 'で', 'ついばん', 'だり', 'する', '。']",0.7804787134256089,0.9136178861788616,0.8470482998022353,0.8966267194811958,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N3
+シャプレー星人とともにヒロユキを鋭いナイフのような武器で襲い、湊カツミと戦うが、グリムドが復活すると逃げ出してしまった。,2551442,,N3,1.0,0.87481284,0.9374064207077026,シャプレー星人とともにヒロユキを鋭いナイフのような武器で襲い、湊カツミと戦うが、グリムドが復活すると逃げ出してしまった。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (PROPN_nmod NOUN_compound ADP_case) ADP_case)
+    (PROPN_obj ADP_case)
+    (NOUN_obl
+      (NOUN_acl (NOUN_nmod ADJ_acl ADP_case) AUX_cop)
+      ADP_case)
+    PUNCT_punct)
+  (VERB_advcl
+    (PROPN_obl PROPN_compound ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl (ADJ_nsubj ADP_case) AUX_aux ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['シャプレー', '星人', 'と', 'とも', 'に', 'ヒロユキ', 'を', '鋭い', 'ナイフ', 'の', 'よう', 'な', '武器', 'で', '襲い', '、', '湊', 'カツミ', 'と', '戦う', 'が', '、', 'グリムド', 'が', '復活', 'する', 'と', '逃げ出し', 'て', 'しまっ', 'た', '。']",0.7734712375340471,0.8943877277980914,0.8339294826660693,0.885667951686886,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N3

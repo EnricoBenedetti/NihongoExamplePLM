@@ -1,0 +1,60 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+子供らは古い時計のかかった茶の間に集まった。,-1,20001.0,N3,1.0,0.0,0.5,子供らは古い時計のかかった茶の間に集まった。,"(VERB_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (NOUN_obl (VERB_acl (NOUN_nmod ADJ_acl ADP_case) AUX_aux) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['子供', 'ら', 'は', '古い', '時計', 'の', 'かかっ', 'た', '茶の間', 'に', '集まっ', 'た', '。']",,,,,1,子供らは古い時計のかかった茶の間に集まった。,子供,N3
+20日の夕方以降に本町通り（後述）の夜店に出かけるのは、子供や若者にとって楽しみの一つである。,3185917,,N3,1.0,0.82237977,0.9111898839473724,20日の夕方以降に本町通り（後述）の夜店に出かけるのは、子供や若者にとって楽しみの一つである。,"(NOUN_ROOT
+  (VERB_csubj
+    (NOUN_obl (NOUN_nmod NUM_nummod ADP_case) NOUN_compound ADP_case)
+    (NOUN_obl
+      (NOUN_nmod
+        PROPN_compound
+        PUNCT_punct
+        NOUN_compound
+        PUNCT_punct
+        ADP_case)
+      ADP_case)
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADP_case) (ADP_case VERB_fixed SCONJ_fixed))
+  (NOUN_nmod ADP_case)
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['20', '日', 'の', '夕方', '以降', 'に', '本町', '通り', '（', '後述', '）', 'の', '夜店', 'に', '出かける', 'の', 'は', '、', '子供', 'や', '若者', 'に', 'とっ', 'て', '楽しみ', 'の', '一', 'つ', 'で', 'ある', '。']",0.7472911251973139,0.9375,0.842395562598657,0.8767927232730147,1,子供らは古い時計のかかった茶の間に集まった。,子供,N3
+その後、子供ばかりでなく、大人の交流も増加していったという。,3874740,,N3,1.0,0.824608,0.912304013967514,その後、子供ばかりでなく、大人の交流も増加していったという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl DET_det PUNCT_punct)
+    (NOUN_advcl ADP_case (AUX_cop AUX_fixed) PUNCT_punct)
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['その', '後', '、', '子供', 'ばかり', 'で', 'なく', '、', '大人', 'の', '交流', 'も', '増加', 'し', 'て', 'いっ', 'た', 'と', 'いう', '。']",0.7502487751950948,0.9216828893442623,0.8359658322696786,0.8741349231185963,1,子供らは古い時計のかかった茶の間に集まった。,子供,N3
+また、子供らも、遊具で遊ぶことをとても好む。,3085261,,N3,1.0,0.83807373,0.919036865234375,また、子供らも、遊具で遊ぶことをとても好む。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_nsubj NOUN_compound ADP_case PUNCT_punct)
+  (NOUN_obj (VERB_acl (NOUN_obl ADP_case)) ADP_case)
+  ADV_advmod
+  PUNCT_punct)","['また', '、', '子供', 'ら', 'も', '、', '遊具', 'で', '遊ぶ', 'こと', 'を', 'とても', '好む', '。']",0.7355544866739814,0.9065315315315317,0.8210430091027565,0.8700399371685658,1,子供らは古い時計のかかった茶の間に集まった。,子供,N3
+客席にいる子供を舞台に上げ、ナポレオンズが演じたマジックに挑戦してもらっていた。,4007355,,N3,1.0,0.82319665,0.9115983247756958,客席にいる子供を舞台に上げ、ナポレオンズが演じたマジックに挑戦してもらっていた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj (VERB_acl (NOUN_obl ADP_case)) ADP_case)
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (NOUN_obl (VERB_acl (PROPN_nsubj ADP_case) AUX_aux) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['客席', 'に', 'いる', '子供', 'を', '舞台', 'に', '上げ', '、', 'ナポレオンズ', 'が', '演じ', 'た', 'マジック', 'に', '挑戦', 'し', 'て', 'もらっ', 'て', 'い', 'た', '。']",0.7382374331081732,0.8929197607260726,0.815578596917123,0.8635884608464094,1,子供らは古い時計のかかった茶の間に集まった。,子供,N3
+子供だけでなく大人も仮装をし、賑やかな遊びに浮かれる。,2837731,,N3,1.0,0.8549938,0.9274969100952148,子供だけでなく大人も仮装をし、賑やかな遊びに浮かれる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_nmod (ADP_case AUX_fixed AUX_fixed)) ADP_case)
+    (NOUN_obj ADP_case)
+    PUNCT_punct)
+  (NOUN_obl (ADJ_acl AUX_aux) ADP_case)
+  PUNCT_punct)","['子供', 'だけ', 'で', 'なく', '大人', 'も', '仮装', 'を', 'し', '、', '賑やか', 'な', '遊び', 'に', '浮かれる', '。']",0.7116876987961812,0.883922383922384,0.7978050413592825,0.8626509757272487,1,子供らは古い時計のかかった茶の間に集まった。,子供,N3

@@ -1,0 +1,55 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一方で投機にも手を出しては失敗を重ねていた。,-1,20001.0,N1,0.0,0.0,0.0,一方で投機にも手を出しては失敗を重ねていた。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (VERB_advcl
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_obj ADP_case)
+    SCONJ_mark
+    ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['一方', 'で', '投機', 'に', 'も', '手', 'を', '出し', 'て', 'は', '失敗', 'を', '重ね', 'て', 'い', 'た', '。']",,,,,1,一方で投機にも手を出しては失敗を重ねていた。,手,N4
+あの男は手が早いから気をつけた方がいいよ。,314204,,N4,1.0,0.54000974,0.7700048685073853,あの男は手が早いから気をつけた方がいいよ。,"(ADJ_ROOT
+  (NOUN_dislocated DET_det ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (ADJ_advcl (NOUN_nsubj ADP_case) SCONJ_mark)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    ADP_case)
+  PART_mark
+  PUNCT_punct)","['あの', '男', 'は', '手', 'が', '早い', 'から', '気', 'を', 'つけ', 'た', '方', 'が', 'いい', 'よ', '。']",0.7881639896635506,0.9393939393939394,0.863778964528745,0.8168919165180651,1,一方で投機にも手を出しては失敗を重ねていた。,手,N4
+もう少し時間やお金や心にゆとりができたら、株にも手をだしちゃいそう。,20327,,N4,1.0,0.8271525,0.9135762453079224,もう少し時間やお金や心にゆとりができたら、株にも手をだしちゃいそう。,"(VERB_ROOT
+  (VERB_advcl
+    (ADV_advmod ADV_advmod)
+    (NOUN_obl (PROPN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['もう', '少し', '時間', 'や', 'お金', 'や', '心', 'に', 'ゆとり', 'が', 'でき', 'たら', '、', '株', 'に', 'も', '手', 'を', 'だし', 'ちゃい', 'そう', '。']",0.6144342399020897,0.8972107861083016,0.7558225130051957,0.834699379156559,1,一方で投機にも手を出しては失敗を重ねていた。,手,N4
+椎名が負けてからは手を出すのをやめた。,3333551,,N4,1.0,0.643838,0.8219189941883087,椎名が負けてからは手を出すのをやめた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl (PROPN_nsubj ADP_case) SCONJ_mark ADP_case ADP_case)
+    (NOUN_obj ADP_case)
+    SCONJ_mark
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['椎名', 'が', '負け', 'て', 'から', 'は', '手', 'を', '出す', 'の', 'を', 'やめ', 'た', '。']",0.6313338015716095,0.8737606805543933,0.7525472410630014,0.7872331176256551,1,一方で投機にも手を出しては失敗を重ねていた。,手,N4
+卸売り業者は取引から手を引こうとするかもしれません。,254360,,N4,1.0,0.649198,0.8245989978313446,卸売り業者は取引から手を引こうとするかもしれません。,"(VERB_ROOT
+  (NOUN_nsubj NOUN_compound NOUN_compound ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obl (NOUN_obj ADP_case) ADP_case)
+  (PART_mark ADP_fixed VERB_fixed AUX_fixed AUX_fixed)
+  PUNCT_punct)","['卸売り', '業', '者', 'は', '取引', 'から', '手', 'を', '引こう', 'と', 'する', 'か', 'も', 'しれ', 'ませ', 'ん', '。']",0.6108713881793578,0.8781787085296432,0.7445250483545005,0.7845620230929226,1,一方で投機にも手を出しては失敗を重ねていた。,手,N4
+彼は雑誌を取るために手を伸ばしました。,371632,,N4,1.0,0.67654216,0.8382710814476013,彼は雑誌を取るために手を伸ばしました。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (VERB_advcl (NOUN_obj ADP_case) (SCONJ_mark SCONJ_fixed))
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['彼', 'は', '雑誌', 'を', '取る', 'ため', 'に', '手', 'を', '伸ばし', 'まし', 'た', '。']",0.5955513634236367,0.8710133094634391,0.7332823364435379,0.7857767089455696,1,一方で投機にも手を出しては失敗を重ねていた。,手,N4

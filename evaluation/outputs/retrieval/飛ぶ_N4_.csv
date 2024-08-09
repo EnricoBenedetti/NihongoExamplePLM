@@ -1,0 +1,45 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,-1,6600.0,N1,0.0,0.0,0.0,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (NOUN_nmod ADP_case)
+      AUX_aux
+      ADP_case)
+    (NOUN_obj (NOUN_nmod DET_det ADP_case) ADP_case)
+    VERB_advmod
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (PRON_obj ADP_case)) ADP_case)
+  (ADJ_aux AUX_aux PUNCT_punct))","['心', 'は', '光り', 'の', '飛ぶ', 'ごとく', 'に', 'あらゆる', '道理', 'の', '中', 'を', '駈', '巡っ', 'た', 'が', '、', '何', 'を', 'とらえる', 'こと', 'も', '出来', '無かっ', 'た', '。']",,,,,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N4
+これがとてもよく飛ぶんです。,147668,,N4,1.0,0.60201627,0.8010081350803375,これがとてもよく飛ぶんです。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  ADV_advmod
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['これ', 'が', 'とても', 'よく', '飛ぶ', 'ん', 'です', '。']",1.0,0.9558823529411764,0.9779411764705882,0.8894746557754629,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N4
+何かとても明るいものが夜空を横切って飛ぶのが見えた。,254106,,N4,1.0,0.6605412,0.8302705883979797,何かとても明るいものが夜空を横切って飛ぶのが見えた。,"(VERB_ROOT
+  (VERB_csubj
+    (PRON_obl ADP_case)
+    (NOUN_nsubj (ADJ_acl ADV_advmod) ADP_case)
+    (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+    SCONJ_mark
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['何', 'か', 'とても', '明るい', 'もの', 'が', '夜空', 'を', '横切っ', 'て', '飛ぶ', 'の', 'が', '見え', 'た', '。']",0.9031433467162356,0.9196808510638298,0.9114120988900328,0.8708413436440062,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N4
+飛ぶ前に見よ。,165528,,N4,1.0,0.58856016,0.794280081987381,飛ぶ前に見よ。,(VERB_ROOT (NOUN_obl VERB_acl ADP_case) PART_mark PUNCT_punct),"['飛ぶ', '前', 'に', '見', 'よ', '。']",0.862682784469229,0.9148351648351648,0.8887589746521969,0.8415195283197889,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N4
+象が飛ぶのを見たことがある？,214651,,N4,1.0,0.6537142,0.8268570899963379,象が飛ぶのを見たことがある？,"(VERB_ROOT
+  (VERB_advcl (NOUN_nsubj ADP_case) SCONJ_mark ADP_case)
+  AUX_aux
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['象', 'が', '飛ぶ', 'の', 'を', '見', 'た', 'こと', 'が', 'ある', '？']",0.8033459837886733,0.8949205584978335,0.8491332711432533,0.8379951805697956,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N4
+そしてハウルの動く城は、皆を乗せて青空を飛んでいくのだった。,2207231,,N4,1.0,0.59571207,0.7978560328483582,そしてハウルの動く城は、皆を乗せて青空を飛んでいくのだった。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_nsubj (VERB_acl (PROPN_nmod ADP_case)) ADP_case PUNCT_punct)
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (SCONJ_mark AUX_fixed)
+  AUX_aux
+  PUNCT_punct)","['そして', 'ハウル', 'の', '動く', '城', 'は', '、', '皆', 'を', '乗せ', 'て', '青空', 'を', '飛ん', 'で', 'いく', 'の', 'だっ', 'た', '。']",0.794515334715094,0.8901660280970626,0.8423406814060783,0.8200983571272182,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N4

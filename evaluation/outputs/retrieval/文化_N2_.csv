@@ -1,0 +1,146 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,-1,20001.0,N4,0.6,0.0,0.3,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,"(VERB_ROOT
+  ADV_cc
+  (PRON_nsubj ADP_case)
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_nsubj
+          (VERB_acl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case))
+          (NOUN_nmod ADP_case)
+          ADP_case)
+        AUX_aux))
+    ADV_advmod
+    PART_case)
+  (PRON_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['但し', 'これ', 'も', '人類', 'の', '文化', 'が', '進み', '人類', 'の', '感情', 'が', '進ん', 'だ', 'とき', 'どう', '変る', 'か', 'それ', 'は', 'わかり', 'ませ', 'ん', '。']",,,,,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N2
+クロード・レヴィ＝ストロースは蜂蜜酒の発明を、「自然から文化への移行であり、人間の行動を決定づける行為である」と分析している。,2418067,,N2,1.0,0.7743759,0.8871879577636719,クロード・レヴィ＝ストロースは蜂蜜酒の発明を、「自然から文化への移行であり、人間の行動を決定づける行為である」と分析している。,"(NOUN_ROOT
+  (NOUN_acl
+    (PROPN_nsubj
+      PROPN_compound
+      SYM_compound
+      PROPN_compound
+      SYM_compound
+      ADP_case)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+    (NOUN_nmod (NOUN_nmod PUNCT_punct ADP_case) ADP_case ADP_case)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  VERB_advcl)","['クロード', '・', 'レヴィ', '＝', 'ストロース', 'は', '蜂蜜酒', 'の', '発明', 'を', '、', '「', '自然', 'から', '文化', 'へ', 'の', '移行', 'で', 'あり', '、', '人間', 'の', '行動', 'を', '決定', 'づける', '行為', 'で', 'ある', '」', 'と', '分析', 'し', 'て', 'いる', '。']",0.9663870583817068,0.9465823839955544,0.9564847211886304,0.9218363394761512,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N2
+最後に、人間文化（特に言語）の複雑化は、文化的進化が生物学的進化よりも急速に発生するという進化速度を助長したという。,3803831,,N2,1.0,0.81474507,0.9073725342750548,最後に、人間文化（特に言語）の複雑化は、文化的進化が生物学的進化よりも急速に発生するという進化速度を助長したという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl ADP_case PUNCT_punct)
+    (NOUN_nsubj
+      (NOUN_nmod
+        NOUN_compound
+        PUNCT_punct
+        ADV_advmod
+        NOUN_compound
+        PUNCT_punct
+        ADP_case)
+      ADP_case
+      PUNCT_punct)
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_nsubj NOUN_compound ADP_case)
+        (NOUN_obl PART_mark NOUN_compound ADP_case ADP_case)
+        (ADJ_advcl AUX_aux)
+        AUX_aux
+        (ADP_case VERB_fixed))
+      NOUN_compound
+      ADP_case)
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['最後', 'に', '、', '人間', '文化', '（', '特に', '言語', '）', 'の', '複雑化', 'は', '、', '文化的', '進化', 'が', '生物学', '的', '進化', 'より', 'も', '急速', 'に', '発生', 'する', 'と', 'いう', '進化', '速度', 'を', '助長', 'し', 'た', 'と', 'いう', '。']",0.9074006214428436,0.9172790085545076,0.9123398149986756,0.9098561746368652,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N2
+これに対して、人間における文化は、人間の生活のあり方そのものを変えるほどに広範囲にわたり、それが世代を重ねるにつれ、次第に蓄積されるところにも特徴がある。,3650449,,N2,1.0,0.82194316,0.9109715819358826,これに対して、人間における文化は、人間の生活のあり方そのものを変えるほどに広範囲にわたり、それが世代を重ねるにつれ、次第に蓄積されるところにも特徴がある。,"(VERB_ROOT
+  (PRON_obl (ADP_case VERB_fixed SCONJ_fixed) PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_nsubj
+          (NOUN_nmod (ADP_case VERB_fixed AUX_fixed))
+          ADP_case
+          PUNCT_punct)
+        (VERB_advcl
+          (NOUN_obj
+            (NOUN_nmod
+              (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+              VERB_compound)
+            DET_det
+            ADP_case)
+          PART_mark
+          ADP_case)
+        (NOUN_obl (ADP_case VERB_fixed) PUNCT_punct)
+        (PRON_nsubj ADP_case)
+        (NOUN_obj ADP_case)
+        (SCONJ_mark SCONJ_fixed)
+        PUNCT_punct)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case
+    ADP_case)
+  (NOUN_nsubj ADP_case)
+  PUNCT_punct)","['これ', 'に', '対し', 'て', '、', '人間', 'に', 'おけ', 'る', '文化', 'は', '、', '人間', 'の', '生活', 'の', 'あり', '方', 'その', 'もの', 'を', '変える', 'ほど', 'に', '広範囲', 'に', 'わたり', '、', 'それ', 'が', '世代', 'を', '重ねる', 'に', 'つれ', '、', '次第', 'に', '蓄積', 'さ', 'れる', 'ところ', 'に', 'も', '特徴', 'が', 'ある', '。']",0.8512325742283444,0.8874879728950559,0.8693602735617001,0.8901659277487913,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N2
+人類の文化の至る所で、ミシェル・フーコーの述べるには、「性の真実」（）は二つの過程によって生み出され共有されてきた。,1933407,,N2,1.0,0.81051725,0.9052586257457732,人類の文化の至る所で、ミシェル・フーコーの述べるには、「性の真実」（）は二つの過程によって生み出され共有されてきた。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl
+    (PROPN_nmod NOUN_compound SYM_compound ADP_case)
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod PUNCT_punct ADP_case)
+    PUNCT_punct
+    PUNCT_punct
+    PUNCT_punct
+    ADP_case)
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod NUM_nummod ADP_case)
+      (ADP_case VERB_fixed SCONJ_fixed))
+    AUX_aux)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['人類', 'の', '文化', 'の', '至る所', 'で', '、', 'ミシェル', '・', 'フーコー', 'の', '述べる', 'に', 'は', '、', '「', '性', 'の', '真実', '」', '（', '）', 'は', '二', 'つ', 'の', '過程', 'に', 'よっ', 'て', '生み出さ', 'れ', '共有', 'さ', 'れ', 'て', 'き', 'た', '。']",0.8310056547863403,0.8703502648117282,0.8506779597990342,0.8779682927724037,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N2
+進化主義的な人類学および民族学はまた、人類の文化に共通する現象として進化をとらえ、人類が基本的心性においては同一であるという点に注意を向けさせる側面があった。,1944876,,N2,1.0,0.82898927,0.9144946336746216,進化主義的な人類学および民族学はまた、人類の文化に共通する現象として進化をとらえ、人類が基本的心性においては同一であるという点に注意を向けさせる側面があった。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        (ADJ_acl
+          (VERB_advcl
+            (NOUN_obj
+              (NOUN_acl NOUN_compound PART_mark AUX_cop)
+              NOUN_nmod
+              CCONJ_cc
+              ADP_case
+              (CCONJ_punct PUNCT_punct))
+            (NOUN_obl
+              (VERB_acl
+                (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+                AUX_aux)
+              (ADP_case AUX_fixed SCONJ_fixed))
+            (NOUN_obj ADP_case)
+            PUNCT_punct)
+          (NOUN_nsubj ADP_case)
+          (NOUN_obl
+            NOUN_compound
+            (ADP_case VERB_fixed SCONJ_fixed)
+            ADP_case)
+          (AUX_aux VERB_fixed)
+          (ADP_case VERB_fixed))
+        ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['進化', '主義', '的', 'な', '人類学', 'および', '民族学', 'は', 'また', '、', '人類', 'の', '文化', 'に', '共通', 'する', '現象', 'と', 'し', 'て', '進化', 'を', 'とらえ', '、', '人類', 'が', '基本的', '心性', 'に', 'おい', 'て', 'は', '同一', 'で', 'ある', 'と', 'いう', '点', 'に', '注意', 'を', '向け', 'させる', '側面', 'が', 'あっ', 'た', '。']",0.7967002862393091,0.8570673357006131,0.8268838109699611,0.8706892223222913,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N2

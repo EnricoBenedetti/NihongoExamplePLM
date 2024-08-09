@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides a variety of sentences that are all relevant to the target word "開く" at the N5 level, with a high diversity in sentence structure and contexts, making it the most useful for learners. System 1 also sticks to the target level and maintains the sense similarity, but with slightly less diversity in sentence construction compared to System 2. System 3, while offering high sentence diversity and creative uses of "開く," strays too far from the target word's basic meaning and the target proficiency level, making it less suitable for N5 learners.
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System "2" > System "1" > System "3"
+
+Comment: System 2 provides a high diversity of sentences that are all relevant to the target word "開く" at the N5 level, making it the most useful for learners. System 1 also provides sentences at the appropriate level with a similar sense to the context sentence but with slightly less diversity in sentence structure compared to System 2. System 3, while offering high sentence diversity, uses the target word in contexts that are too advanced and not closely related to the original context, making it less suitable for N5 learners.
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides a variety of sentences that are all relevant to the target word "開く" at the N5 level, with a high diversity in sentence structure and contexts. System 1 also provides sentences at the appropriate level with similar meanings, but with slightly less diversity in usage compared to System 2. System 3, while offering high sentence diversity, uses the target word in contexts and meanings that are too advanced and not closely related to the original context, making it less suitable for N5 learners.

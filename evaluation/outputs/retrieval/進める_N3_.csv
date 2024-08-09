@@ -1,0 +1,61 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,-1,20001.0,N1,0.1999999999999999,0.0,0.0999999999999999,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    (ADP_case SCONJ_fixed SCONJ_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj DET_det ADP_case)
+  AUX_aux
+  AUX_aux
+  (AUX_aux SCONJ_fixed ADP_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['写実', 'の', '歩', 'を', '進める', 'と', 'すれ', 'ば', '、', 'この', '点', 'も', '考慮', 'せ', 'られ', 'なく', 'て', 'は', 'なら', 'ぬ', '。']",,,,,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N3
+を王国宰相に任命したエマヌエーレ2世は、統一事業をいかに進めるか、対策を協議することになった。,1367116,,N3,1.0,0.67677814,0.8383890688419342,を王国宰相に任命したエマヌエーレ2世は、統一事業をいかに進めるか、対策を協議することになった。,ADP_ROOT,"['を', '王国', '宰相', 'に', '任命', 'し', 'た', 'エマヌエーレ', '2', '世', 'は', '、', '統一', '事業', 'を', 'いかに', '進める', 'か', '、', '対策', 'を', '協議', 'する', 'こと', 'に', 'なっ', 'た', '。']",1.0,0.9489795918367347,0.9744897959183674,0.9064394323801508,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N3
+この論法をもっと先に進める者もいる。,2249903,,N3,1.0,0.7366018,0.8683009147644043,この論法をもっと先に進める者もいる。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj DET_det ADP_case)
+      ADV_advmod
+      (NOUN_obl ADP_case))
+    ADP_case)
+  PUNCT_punct)","['この', '論法', 'を', 'もっと', '先', 'に', '進める', '者', 'も', 'いる', '。']",0.916379975687342,0.9333333333333332,0.9248566545103376,0.896578784637371,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N3
+現在では進化に関わる問題は、多くの場合は分子生物学の手法によって研究を進めることができる。,702356,,N3,1.0,0.6857423,0.8428711593151093,現在では進化に関わる問題は、多くの場合は分子生物学の手法によって研究を進めることができる。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_punct (VERB_acl (NOUN_obl ADP_case)) ADP_case PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obl
+    (NOUN_nmod NOUN_compound ADP_case)
+    (ADP_case VERB_fixed SCONJ_fixed))
+  (NOUN_obj ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['現在', 'で', 'は', '進化', 'に', '関わる', '問題', 'は', '、', '多く', 'の', '場合', 'は', '分子', '生物学', 'の', '手法', 'に', 'よっ', 'て', '研究', 'を', '進める', 'こと', 'が', 'できる', '。']",0.8895380215112239,0.9106425702811244,0.9000902958961742,0.8714807276056418,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N3
+そろそろ技術を前に進める時期だと感じたからです。,113683,,N3,1.0,0.72183424,0.8609171211719513,そろそろ技術を前に進める時期だと感じたからです。,"(VERB_ROOT
+  (NOUN_advcl
+    ADV_advmod
+    (VERB_acl (NOUN_obj ADP_case) (NOUN_obl ADP_case))
+    AUX_cop
+    ADP_case)
+  AUX_aux
+  SCONJ_mark
+  AUX_aux
+  PUNCT_punct)","['そろそろ', '技術', 'を', '前', 'に', '進める', '時期', 'だ', 'と', '感じ', 'た', 'から', 'です', '。']",0.8320303738163366,0.9055538366336634,0.868792105225,0.8648546131984757,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N3
+しかし、海外工場（中国など）との包装設計の共有化を進めるには効果的である。,2430856,,N3,1.0,0.6792766,0.8396382927894592,しかし、海外工場（中国など）との包装設計の共有化を進めるには効果的である。,"(ADJ_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_obl
+    (NOUN_obj
+      (NOUN_nmod
+        (NOUN_nmod
+          NOUN_compound
+          PUNCT_punct
+          PROPN_compound
+          ADP_case
+          PUNCT_punct
+          ADP_case
+          ADP_case)
+        NOUN_compound
+        ADP_case)
+      NOUN_compound
+      ADP_case)
+    ADP_case
+    ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['しかし', '、', '海外', '工場', '（', '中国', 'など', '）', 'と', 'の', '包装', '設計', 'の', '共有', '化', 'を', '進める', 'に', 'は', '効果的', 'で', 'ある', '。']",0.8273877433853267,0.9007996172772006,0.8640936803312637,0.8518659865603615,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N3

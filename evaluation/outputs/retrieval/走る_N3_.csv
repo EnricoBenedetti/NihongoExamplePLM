@@ -1,0 +1,79 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,-1,20001.0,N3,1.0,0.0,0.5,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod
+        (VERB_acl (PROPN_obl ADP_case) (SCONJ_mark VERB_fixed))
+        ADP_case)
+      ADP_case
+      PUNCT_punct)
+    (VERB_advcl (NOUN_nsubj ADP_case) SCONJ_mark)
+    (NOUN_obl ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['新之助', 'に', '向っ', 'て', 'いる', '輪', 'の', '中', 'から', '、', '一人', 'が', '抜け', 'て', '前方', 'に', '走ろう', 'と', 'し', 'た', '。']",,,,,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N3
+173周目に入った直後、ウィルソンが佐藤とエド・カーペンターに抜かれ、このときコース外側を走ることになったカナーンとキンボールがスピードを落とす。,8510438,,N3,1.0,0.7166392,0.8583196103572845,173周目に入った直後、ウィルソンが佐藤とエド・カーペンターに抜かれ、このときコース外側を走ることになったカナーンとキンボールがスピードを落とす。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_obl NUM_compound NOUN_compound ADP_case)
+        AUX_aux)
+      PUNCT_punct)
+    (PROPN_nsubj ADP_case)
+    (PROPN_obl
+      (PROPN_nmod ADP_case)
+      PROPN_compound
+      SYM_compound
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nmod DET_det))","['173', '周', '目', 'に', '入っ', 'た', '直後', '、', 'ウィルソン', 'が', '佐藤', 'と', 'エド', '・', 'カーペンター', 'に', '抜か', 'れ', '、', 'この', 'とき', 'コース', '外側', 'を', '走る', 'こと', 'に', 'なっ', 'た', 'カナーン', 'と', 'キンボール', 'が', 'スピード', 'を', '落とす', '。']",0.9108321848346816,0.9353448275862069,0.9230885062104442,0.8907040582838643,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N3
+入口に走ろうとしてハウンドに止められるが、兵士に見つかって二人は宿屋に入る。,9408609,,N3,1.0,0.86118317,0.9305915832519532,入口に走ろうとしてハウンドに止められるが、兵士に見つかって二人は宿屋に入る。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl (NOUN_obl ADP_case) ADP_case AUX_aux SCONJ_mark)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['入口', 'に', '走ろう', 'と', 'し', 'て', 'ハウンド', 'に', '止め', 'られる', 'が', '、', '兵士', 'に', '見つかっ', 'て', '二人', 'は', '宿屋', 'に', '入る', '。']",0.8402059392647827,0.8956068567424201,0.8679063980036015,0.8992489906277773,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N3
+そこへもうひとり走ってきたのは貢である。,7560502,,N3,1.0,0.75577974,0.87788987159729,そこへもうひとり走ってきたのは貢である。,"(NOUN_ROOT
+  (PRON_nmod ADP_case)
+  (VERB_csubj
+    (VERB_advcl (ADV_advmod ADV_advmod) SCONJ_mark)
+    AUX_aux
+    SCONJ_mark
+    ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['そこ', 'へ', 'もう', 'ひとり', '走っ', 'て', 'き', 'た', 'の', 'は', '貢', 'で', 'ある', '。']",0.8293457315578806,0.8976975497117663,0.8635216406348234,0.8707057561160567,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N3
+決められた距離を直進した後、遠いサイドラインのパイロンへ向かって（フィールドを横切って）走る。,9079545,,N3,1.0,0.74044204,0.8702210187911987,決められた距離を直進した後、遠いサイドラインのパイロンへ向かって（フィールドを横切って）走る。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obj (VERB_acl AUX_aux AUX_aux) ADP_case)
+      AUX_aux
+      AUX_aux)
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADJ_acl ADP_case) ADP_case)
+  SCONJ_mark
+  PUNCT_punct
+  NOUN_compound
+  ADP_case
+  VERB_compound
+  SCONJ_mark
+  PUNCT_punct)","['決め', 'られ', 'た', '距離', 'を', '直進', 'し', 'た', '後', '、', '遠い', 'サイドライン', 'の', 'パイロン', 'へ', '向かっ', 'て', '（', 'フィールド', 'を', '横切っ', 'て', '）', '走る', '。']",0.836056123862357,0.8918000932683737,0.8639281085653654,0.8670745636782821,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N3
+翌朝、ウォーレンはやはりボンパールの後ろにしっかりとついており、それぞれが不規則な線を描きながら走っていた。,8770155,,N3,1.0,0.7467467,0.8733733594417572,翌朝、ウォーレンはやはりボンパールの後ろにしっかりとついており、それぞれが不規則な線を描きながら走っていた。,"(VERB_ROOT
+  (ADV_advmod PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (VERB_advcl
+    ADV_advmod
+    (NOUN_obl (PROPN_nmod ADP_case) ADP_case)
+    (ADV_advmod ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (VERB_advcl (NOUN_obj (ADJ_acl AUX_cop) ADP_case) SCONJ_mark)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['翌朝', '、', 'ウォーレン', 'は', 'やはり', 'ボンパール', 'の', '後ろ', 'に', 'しっかり', 'と', 'つい', 'て', 'おり', '、', 'それぞれ', 'が', '不規則', 'な', '線', 'を', '描き', 'ながら', '走っ', 'て', 'い', 'た', '。']",0.8261915426819025,0.8867812384176277,0.856486390549765,0.8649298749957611,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N3

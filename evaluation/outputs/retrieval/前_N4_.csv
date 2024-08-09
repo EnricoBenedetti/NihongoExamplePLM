@@ -1,0 +1,61 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,-1,20001.0,N2,0.1999999999999999,0.0,0.0999999999999999,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_nmod NOUN_compound ADP_case)
+    (AUX_cop ADP_fixed VERB_fixed)
+    PUNCT_punct)
+  (NOUN_obl (PROPN_nmod ADP_case) ADP_case ADP_case)
+  (NOUN_obj (VERB_acl AUX_aux AUX_aux) ADP_case)
+  PUNCT_punct)","['原作', 'で', 'は', '創造', '主', 'の', '下僕', 'で', 'も', 'あり', '、', 'モコナ', 'の', '前', 'で', 'は', '謙遜', 'し', 'た', '態度', 'を', 'とる', '。']",,,,,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N4
+教授の前でゲップしてしまい顔をしかめられました。,364051,,N4,1.0,0.73898613,0.8694930672645569,教授の前でゲップしてしまい顔をしかめられました。,"(VERB_ROOT
+  (NOUN_obj
+    (VERB_advcl
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['教授', 'の', '前', 'で', 'ゲップ', 'し', 'て', 'しまい', '顔', 'を', 'しかめ', 'られ', 'まし', 'た', '。']",0.7311768642550716,0.8994453044375645,0.815311084346318,0.8424020758054375,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N4
+ペート先生は百人の人間の前で喋るのが怖い気がした。,262795,,N4,1.0,0.82902753,0.9145137667655944,ペート先生は百人の人間の前で喋るのが怖い気がした。,"(VERB_ROOT
+  (NOUN_dislocated PROPN_compound ADP_case)
+  (NOUN_nsubj
+    (ADJ_acl
+      (VERB_csubj
+        (NOUN_obl
+          (NOUN_nmod (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+          ADP_case)
+        SCONJ_mark
+        ADP_case))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ペート', '先生', 'は', '百', '人', 'の', '人間', 'の', '前', 'で', '喋る', 'の', 'が', '怖い', '気', 'が', 'し', 'た', '。']",0.6384335889114621,0.8656834078660705,0.7520584983887663,0.8332861325771803,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N4
+彼の前では煙草を吸わない方がいいですよ。,196075,,N4,1.0,0.8210614,0.910530686378479,彼の前では煙草を吸わない方がいいですよ。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl (PRON_nmod ADP_case) ADP_case ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['彼', 'の', '前', 'で', 'は', '煙草', 'を', '吸わ', 'ない', '方', 'が', 'いい', 'です', 'よ', '。']",0.5917486008910615,0.8462214052287582,0.7189850030599099,0.8147578447191944,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N4
+ママの前では、自分を抑えて辛抱しなくちゃなりません。,952719,,N4,1.0,0.8249545,0.9124772548675536,ママの前では、自分を抑えて辛抱しなくちゃなりません。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+    AUX_aux
+    AUX_aux
+    SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ママ', 'の', '前', 'で', 'は', '、', '自分', 'を', '抑え', 'て', '辛抱', 'し', 'なく', 'ちゃ', 'なり', 'ませ', 'ん', '。']",0.5549857581838217,0.8335702614379086,0.6942780098108652,0.8033776323392094,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N4
+トムは友達の前で私に恥ずかしい思いをさせた。,343120,,N4,1.0,0.7479879,0.8739939630031586,トムは友達の前で私に恥ずかしい思いをさせた。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obj (ADJ_acl (PRON_obl ADP_case)) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['トム', 'は', '友達', 'の', '前', 'で', '私', 'に', '恥ずかしい', '思い', 'を', 'さ', 'せ', 'た', '。']",0.5420013905459851,0.830269724096198,0.6861355573210915,0.7800647601621251,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N4

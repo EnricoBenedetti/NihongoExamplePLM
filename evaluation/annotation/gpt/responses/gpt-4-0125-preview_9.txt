@@ -1,0 +1,273 @@
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 汚い; target level: N1; context sentence: 貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。
+System 1 sentences:
+汚い衣類が山積みになっている部屋で、彼は探し物をしていた。
+駅の周りは、たばこの吸い殻やごみで汚い状態だった。
+レストランのトイレは、臭いがきつくて汚い印象を与えた。
+彼女は手で泥を掴んで、顔に汚い模様を描いた。
+町の川は、工場からの排水で汚いままだった。
+System 2 sentences:
+そこは社長の住まいとは思えぬ汚い安マンションの一室だった。
+一方トムは、飲んだくれで乱暴者の父親を持ち、汚いあばら家に住み、金も無い為にパン一つ買う事すら出来ず、常に寒さに震え、飢えと乾きに苛まれていた。
+1855年1月26日、ヴィエイユ＝ランテルヌ（古いランタン）通り――ボードレールに言わせると見出し得る最も汚い一角――の下水道の鉄格子で首を吊っているネルヴァルが発見された。
+東京オリンピックに合わせ、暗くて汚いイメージが強い公共トイレのイメージを刷新すべく、日本財団が著名な建築家やデザイナーを起用して新設するプロジェクトが進行中である。
+対照的に南部の者達は自由労働者のことを「グリースにまみれた機械工、汚い運転者、拳の小さい（けちな）農夫、および気の触れた理論家達」と呼んでいた。
+System 3 sentences:
+この場所はとても汚かった。
+ここは本当に汚いところだ。
+この店はとても汚くて、食べ物も不味かった。
+彼の部屋はとても臭いし、掃除してもすぐに汚くなる。
+彼女のアパートはとても汚くて、まるでゴミ捨て場のようだ。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N3; Sense: similar; Reject: no
+2. Difficulty: N3; Sense: similar; Reject: no
+3. Difficulty: N3; Sense: similar; Reject: no
+4. Difficulty: N3; Sense: similar; Reject: no
+5. Difficulty: N3; Sense: similar; Reject: no
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N2; Sense: similar; Reject: no
+2. Difficulty: N1; Sense: similar; Reject: no
+3. Difficulty: N1; Sense: similar; Reject: no
+4. Difficulty: N2; Sense: similar; Reject: no
+5. Difficulty: N2; Sense: similar; Reject: no
+Sentence diversity: High
+
+System 3 sentences:
+1. Difficulty: N4; Sense: similar; Reject: no
+2. Difficulty: N4; Sense: similar; Reject: no
+3. Difficulty: N4; Sense: similar; Reject: no
+4. Difficulty: N4; Sense: similar; Reject: no
+5. Difficulty: N4; Sense: similar; Reject: no
+Sentence diversity: Low
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the highest diversity in sentence structure and complexity, closely aligning with the target N1 level, especially with sentences 2 and 3, which are rich in context and complexity. System 1 offers a medium diversity with sentences more suited for N3 level learners, focusing on everyday situations that are easier to understand but not quite reaching the N1 complexity. System 3, while maintaining the target word's sense, offers the least diversity and presents sentences that are significantly simpler, more suited for N4 learners, thus not meeting the N1 target level's expectations.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 汚い; target level: N1; context sentence: 貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。
+System 1 sentences:
+汚い衣類が山積みになっている部屋で、彼は探し物をしていた。
+駅の周りは、たばこの吸い殻やごみで汚い状態だった。
+レストランのトイレは、臭いがきつくて汚い印象を与えた。
+彼女は手で泥を掴んで、顔に汚い模様を描いた。
+町の川は、工場からの排水で汚いままだった。
+System 2 sentences:
+そこは社長の住まいとは思えぬ汚い安マンションの一室だった。
+一方トムは、飲んだくれで乱暴者の父親を持ち、汚いあばら家に住み、金も無い為にパン一つ買う事すら出来ず、常に寒さに震え、飢えと乾きに苛まれていた。
+1855年1月26日、ヴィエイユ＝ランテルヌ（古いランタン）通り――ボードレールに言わせると見出し得る最も汚い一角――の下水道の鉄格子で首を吊っているネルヴァルが発見された。
+東京オリンピックに合わせ、暗くて汚いイメージが強い公共トイレのイメージを刷新すべく、日本財団が著名な建築家やデザイナーを起用して新設するプロジェクトが進行中である。
+対照的に南部の者達は自由労働者のことを「グリースにまみれた機械工、汚い運転者、拳の小さい（けちな）農夫、および気の触れた理論家達」と呼んでいた。
+System 3 sentences:
+この場所はとても汚かった。
+ここは本当に汚いところだ。
+この店はとても汚くて、食べ物も不味かった。
+彼の部屋はとても臭いし、掃除してもすぐに汚くなる。
+彼女のアパートはとても汚くて、まるでゴミ捨て場のようだ。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most diverse and contextually rich sentences that are closest to the target N1 level, with a high degree of syntactic variety and complexity. System 1 offers sentences that are more in the N3 range, with medium diversity but still relevant uses of the target word. System 3, while maintaining relevance to the target word, offers sentences that are simpler and more repetitive, making it the least suitable for N1 learners looking for complex and varied examples.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 汚い; target level: N1; context sentence: 貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。
+System 1 sentences:
+汚い衣類が山積みになっている部屋で、彼は探し物をしていた。
+駅の周りは、たばこの吸い殻やごみで汚い状態だった。
+レストランのトイレは、臭いがきつくて汚い印象を与えた。
+彼女は手で泥を掴んで、顔に汚い模様を描いた。
+町の川は、工場からの排水で汚いままだった。
+System 2 sentences:
+そこは社長の住まいとは思えぬ汚い安マンションの一室だった。
+一方トムは、飲んだくれで乱暴者の父親を持ち、汚いあばら家に住み、金も無い為にパン一つ買う事すら出来ず、常に寒さに震え、飢えと乾きに苛まれていた。
+1855年1月26日、ヴィエイユ＝ランテルヌ（古いランタン）通り――ボードレールに言わせると見出し得る最も汚い一角――の下水道の鉄格子で首を吊っているネルヴァルが発見された。
+東京オリンピックに合わせ、暗くて汚いイメージが強い公共トイレのイメージを刷新すべく、日本財団が著名な建築家やデザイナーを起用して新設するプロジェクトが進行中である。
+対照的に南部の者達は自由労働者のことを「グリースにまみれた機械工、汚い運転者、拳の小さい（けちな）農夫、および気の触れた理論家達」と呼んでいた。
+System 3 sentences:
+この場所はとても汚かった。
+ここは本当に汚いところだ。
+この店はとても汚くて、食べ物も不味かった。
+彼の部屋はとても臭いし、掃除してもすぐに汚くなる。
+彼女のアパートはとても汚くて、まるでゴミ捨て場のようだ。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N3; Sense: similar; Reject: No
+2. Difficulty: N3; Sense: similar; Reject: No
+3. Difficulty: N3; Sense: similar; Reject: No
+4. Difficulty: N3; Sense: similar; Reject: No
+5. Difficulty: N2; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N2; Sense: similar; Reject: No
+2. Difficulty: N1; Sense: similar; Reject: No
+3. Difficulty: N1; Sense: similar; Reject: No
+4. Difficulty: N2; Sense: similar; Reject: No
+5. Difficulty: N2; Sense: similar; Reject: No
+Sentence diversity: High
+
+System 3 sentences:
+1. Difficulty: N4; Sense: similar; Reject: No
+2. Difficulty: N4; Sense: similar; Reject: No
+3. Difficulty: N4; Sense: similar; Reject: No
+4. Difficulty: N4; Sense: similar; Reject: No
+5. Difficulty: N4; Sense: similar; Reject: No
+Sentence diversity: Low
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most diverse and contextually rich sentences that are closest to the target N1 level, with a high sense similarity to the original context. System 1 offers sentences that are generally simpler and more suited to N3 learners, with medium sentence diversity. System 3, while maintaining sense similarity, presents sentences that are too basic for the target N1 level and lacks diversity in sentence structure, making it the least useful for advanced learners.
++++++END_RESPONSE+++++

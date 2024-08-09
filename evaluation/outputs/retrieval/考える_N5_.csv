@@ -1,0 +1,34 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+私は母の愛というものに就いて考える。,-1,20001.0,N1,0.0,0.0,0.0,私は母の愛というものに就いて考える。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_nmod ADP_case) (ADP_case VERB_fixed))
+    ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['私', 'は', '母', 'の', '愛', 'と', 'いう', 'もの', 'に', '就いて', '考える', '。']",,,,,1,私は母の愛というものに就いて考える。,考える,N5
+あなたなら、これをどう考えますか。,299427,,N5,1.0,0.6731266,0.8365632891654968,あなたなら、これをどう考えますか。,"(VERB_ROOT
+  (PRON_advcl AUX_cop PUNCT_punct)
+  (PRON_obj ADP_case)
+  ADV_advmod
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['あなた', 'なら', '、', 'これ', 'を', 'どう', '考え', 'ます', 'か', '。']",0.8333333333333334,0.9886363636363636,0.9109848484848484,0.8737740688251727,1,私は母の愛というものに就いて考える。,考える,N5
+考える時間をください。,232415,,N5,1.0,0.7099587,0.8549793362617493,考える時間をください。,(VERB_ROOT (NOUN_obj VERB_acl ADP_case) PUNCT_punct),"['考える', '時間', 'を', 'ください', '。']",0.8055555555555556,0.962962962962963,0.8842592592592593,0.8696192977605043,1,私は母の愛というものに就いて考える。,考える,N5
+誰でも考える事は一緒ですな。,121708,,N5,1.0,0.71545744,0.8577287197113037,誰でも考える事は一緒ですな。,"(NOUN_ROOT
+  (NOUN_nsubj (VERB_acl (PRON_obl ADP_case ADP_case)) ADP_case)
+  AUX_cop
+  PART_mark
+  PUNCT_punct)","['誰', 'で', 'も', '考える', '事', 'は', '一緒', 'です', 'な', '。']",0.763888888888889,0.9527027027027029,0.8582957957957958,0.8580122577535498,1,私は母の愛というものに就いて考える。,考える,N5
+最後に、職業の問題を考えなければなりません。,81253,,N5,1.0,0.74019563,0.870097815990448,最後に、職業の問題を考えなければなりません。,"(VERB_ROOT
+  (NOUN_obl ADP_case PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux
+    SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['最後', 'に', '、', '職業', 'の', '問題', 'を', '考え', 'なけれ', 'ば', 'なり', 'ませ', 'ん', '。']",0.7369071757621096,0.9362745098039216,0.8365908427830155,0.8533443293867318,1,私は母の愛というものに就いて考える。,考える,N5
+よく考える必要があると思います。,116328,,N5,1.0,0.7052268,0.8526133894920349,よく考える必要があると思います。,"(VERB_ROOT
+  (VERB_ccomp (NOUN_nsubj (VERB_acl ADV_advmod) ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['よく', '考える', '必要', 'が', 'ある', 'と', '思い', 'ます', '。']",0.7102971515338543,0.9291666666666668,0.8197319091002605,0.8361726492961477,1,私は母の愛というものに就いて考える。,考える,N5

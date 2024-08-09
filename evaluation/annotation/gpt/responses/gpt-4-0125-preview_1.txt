@@ -1,0 +1,273 @@
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 相手; target level: N1; context sentence: また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。
+System 1 sentences:
+東京と大阪はライバル同士であるため、それぞれの地域では互いに相手を非難するプロパガンダ放送を流し合っていた。
+これまでずっと、両国間では互いに相手を非難するプロパガンダ放送を流し合ってきた。
+彼と彼女の関係がうまくいかないときは、私たちは常に相手を責める。
+だから、彼らは互いに相手を非難するプロパガンダ放送を流し合っていた。
+私たちは互いに相手を尊重し合わなければならない。
+System 2 sentences:
+外交経験が無い素人2人組の外交は半年が空費され、相手から一方的に条件を呑まされる寸前になり失敗に終わった。
+ドイツの戦略爆撃機とイギリス、アメリカの戦略爆撃機の合計の多い国家が少ない国家（ドイツ又はイギリス）を攻撃することになり、相手国家の工業力を低下させる。
+これはその言葉を発した側が、その発言を持って相手を貶めようとしているためである。
+カトコフの主張は、一般的に穏健なものではあったが、ひとたびや筆を執るや否や、痛烈に相手を批判せずにはいられなかった。
+また、両派ともに相手の絶滅を主張し、小型の出刃包丁やハンマーなどを使用した襲撃を続けたため逮捕者や離脱者が多数出て、組織の維持すら危うくなった。
+System 3 sentences:
+彼は相手の発言に敏感に反応し、即座に的を得た反論を返した。
+相手の心情を察しつつ、適切なアドバイスを提供することが大切です。
+ディベートでは相手の弱点を見つけ、巧妙に攻撃することが求められます。
+相手の意図を読み取りながら、戦術的な効果的な問いかけをする必要があります。
+相手の動きを見極めて、適切なタイミングで反応することが勝利の鍵です。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "no"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "no"
+3. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "no"
+5. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N1"; Sense: "not similar"; Reject: "no"
+2. Difficulty: "N1"; Sense: "not similar"; Reject: "no"
+3. Difficulty: "N2"; Sense: "not similar"; Reject: "no"
+4. Difficulty: "N1"; Sense: "not similar"; Reject: "no"
+5. Difficulty: "N1"; Sense: "not similar"; Reject: "no"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+2. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+3. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+4. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+5. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides sentences that are closest to the target level and maintain a similar sense to the context sentence, making it the most useful for learners at the N1 level, despite some sentences being slightly easier (N2). System 2 offers high sentence diversity and complexity appropriate for N1, but the sense similarity is not maintained, making the sentences less relevant for learners looking for examples closely related to the context sentence. System 3's sentences are too easy for the target level and do not maintain sense similarity, offering the least utility for N1 learners.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 相手; target level: N1; context sentence: また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。
+System 1 sentences:
+東京と大阪はライバル同士であるため、それぞれの地域では互いに相手を非難するプロパガンダ放送を流し合っていた。
+これまでずっと、両国間では互いに相手を非難するプロパガンダ放送を流し合ってきた。
+彼と彼女の関係がうまくいかないときは、私たちは常に相手を責める。
+だから、彼らは互いに相手を非難するプロパガンダ放送を流し合っていた。
+私たちは互いに相手を尊重し合わなければならない。
+System 2 sentences:
+外交経験が無い素人2人組の外交は半年が空費され、相手から一方的に条件を呑まされる寸前になり失敗に終わった。
+ドイツの戦略爆撃機とイギリス、アメリカの戦略爆撃機の合計の多い国家が少ない国家（ドイツ又はイギリス）を攻撃することになり、相手国家の工業力を低下させる。
+これはその言葉を発した側が、その発言を持って相手を貶めようとしているためである。
+カトコフの主張は、一般的に穏健なものではあったが、ひとたびや筆を執るや否や、痛烈に相手を批判せずにはいられなかった。
+また、両派ともに相手の絶滅を主張し、小型の出刃包丁やハンマーなどを使用した襲撃を続けたため逮捕者や離脱者が多数出て、組織の維持すら危うくなった。
+System 3 sentences:
+彼は相手の発言に敏感に反応し、即座に的を得た反論を返した。
+相手の心情を察しつつ、適切なアドバイスを提供することが大切です。
+ディベートでは相手の弱点を見つけ、巧妙に攻撃することが求められます。
+相手の意図を読み取りながら、戦術的な効果的な問いかけをする必要があります。
+相手の動きを見極めて、適切なタイミングで反応することが勝利の鍵です。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "no"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "no"
+3. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "no"
+5. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N1"; Sense: "not similar"; Reject: "no"
+2. Difficulty: "N1"; Sense: "not similar"; Reject: "no"
+3. Difficulty: "N1"; Sense: "not similar"; Reject: "no"
+4. Difficulty: "N1"; Sense: "not similar"; Reject: "no"
+5. Difficulty: "N1"; Sense: "not similar"; Reject: "no"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N2"; Sense: "not similar"; Reject: "no"
+2. Difficulty: "N2"; Sense: "not similar"; Reject: "no"
+3. Difficulty: "N2"; Sense: "not similar"; Reject: "no"
+4. Difficulty: "N2"; Sense: "not similar"; Reject: "no"
+5. Difficulty: "N2"; Sense: "not similar"; Reject: "no"
+Sentence diversity: "Medium"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides sentences that are most aligned with the target N1 difficulty level, despite the sense not being closely similar to the context sentence. It offers high sentence diversity, showcasing various complex structures and contexts. System 1 offers sentences closer in sense to the context sentence but at a lower difficulty level, with medium diversity. System 3, while providing sentences at an appropriate difficulty level, does not maintain a similar sense to the context sentence and also has medium diversity. For learners aiming for N1 proficiency, System 2's examples, despite their sense differences, would be more challenging and beneficial due to their complexity and diversity.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 相手; target level: N1; context sentence: また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。
+System 1 sentences:
+東京と大阪はライバル同士であるため、それぞれの地域では互いに相手を非難するプロパガンダ放送を流し合っていた。
+これまでずっと、両国間では互いに相手を非難するプロパガンダ放送を流し合ってきた。
+彼と彼女の関係がうまくいかないときは、私たちは常に相手を責める。
+だから、彼らは互いに相手を非難するプロパガンダ放送を流し合っていた。
+私たちは互いに相手を尊重し合わなければならない。
+System 2 sentences:
+外交経験が無い素人2人組の外交は半年が空費され、相手から一方的に条件を呑まされる寸前になり失敗に終わった。
+ドイツの戦略爆撃機とイギリス、アメリカの戦略爆撃機の合計の多い国家が少ない国家（ドイツ又はイギリス）を攻撃することになり、相手国家の工業力を低下させる。
+これはその言葉を発した側が、その発言を持って相手を貶めようとしているためである。
+カトコフの主張は、一般的に穏健なものではあったが、ひとたびや筆を執るや否や、痛烈に相手を批判せずにはいられなかった。
+また、両派ともに相手の絶滅を主張し、小型の出刃包丁やハンマーなどを使用した襲撃を続けたため逮捕者や離脱者が多数出て、組織の維持すら危うくなった。
+System 3 sentences:
+彼は相手の発言に敏感に反応し、即座に的を得た反論を返した。
+相手の心情を察しつつ、適切なアドバイスを提供することが大切です。
+ディベートでは相手の弱点を見つけ、巧妙に攻撃することが求められます。
+相手の意図を読み取りながら、戦術的な効果的な問いかけをする必要があります。
+相手の動きを見極めて、適切なタイミングで反応することが勝利の鍵です。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides sentences that are closest in difficulty to the target level (N1) and maintains a similar sense to the context sentence, though it slightly misses the target level. System 3 offers sentences that are easier (N3) but maintain a similar sense, making it useful for learners not yet at N1. System 2, while accurately hitting the N1 difficulty, diverges significantly in sense from the context sentence, focusing more on abstract and complex scenarios that don't closely align with the original context of propaganda broadcasting. System 2's sentences, though diverse and complex, may not be as helpful for learners specifically looking to understand the use of "相手" in contexts similar to the original.
++++++END_RESPONSE+++++

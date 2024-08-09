@@ -1,0 +1,38 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+這入りこんで現場を見届けてやろう。,-1,14743.0,N2,0.1999999999999999,0.0,0.0999999999999999,這入りこんで現場を見届けてやろう。,"(VERB_ROOT
+  (PRON_obl NOUN_compound ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['這入り', 'こん', 'で', '現場', 'を', '見届け', 'て', 'やろう', '。']",,,,,1,這入りこんで現場を見届けてやろう。,現場,N4
+現場へと走った。,378595,,N4,1.0,0.84131795,0.9206589758396148,現場へと走った。,(VERB_ROOT (NOUN_obl ADP_case ADP_case) AUX_aux PUNCT_punct),"['現場', 'へ', 'と', '走っ', 'た', '。']",0.75,0.9666666666666668,0.8583333333333334,0.8894961545864741,1,這入りこんで現場を見届けてやろう。,現場,N4
+現場奥にあるアメリカ国旗は今も半旗のままです。,11725,,N4,1.0,0.7430698,0.871534913778305,現場奥にあるアメリカ国旗は今も半旗のままです。,"(NOUN_ROOT
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl NOUN_compound ADP_case))
+    PROPN_compound
+    ADP_case)
+  (ADV_advmod ADP_case)
+  (NOUN_nmod ADP_case)
+  AUX_cop
+  PUNCT_punct)","['現場', '奥', 'に', 'ある', 'アメリカ', '国旗', 'は', '今', 'も', '半旗', 'の', 'まま', 'です', '。']",0.7547963612812493,0.9655172413793104,0.8601568013302798,0.8658458575542924,1,這入りこんで現場を見届けてやろう。,現場,N4
+バダムも一緒に現場に来ていた可能性がある。,10983280,,N4,1.0,0.8066015,0.9033007621765136,バダムも一緒に現場に来ていた可能性がある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (PROPN_nsubj ADP_case)
+      (NOUN_obl ADP_case)
+      (NOUN_obl ADP_case)
+      (SCONJ_mark VERB_fixed)
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['バダム', 'も', '一緒', 'に', '現場', 'に', '来', 'て', 'い', 'た', '可能性', 'が', 'ある', '。']",0.6945087684165836,0.9302325581395348,0.8123706632780592,0.8578357127272864,1,這入りこんで現場を見届けてやろう。,現場,N4
+その後、車に乗って現場を去った。,4818771,,N4,1.0,0.83757305,0.9187865257263184,その後、車に乗って現場を去った。,"(VERB_ROOT
+  (NOUN_obl DET_det PUNCT_punct)
+  (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['その', '後', '、', '車', 'に', '乗っ', 'て', '現場', 'を', '去っ', 'た', '。']",0.659470883534657,0.9081818181818182,0.7838263508582376,0.8513064382922779,1,這入りこんで現場を見届けてやろう。,現場,N4
+ここでも現場の声は聞こえてこない。,37147,,N4,1.0,0.7911468,0.8955734074115753,ここでも現場の声は聞こえてこない。,"(VERB_ROOT
+  (PRON_obl ADP_case ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['ここ', 'で', 'も', '現場', 'の', '声', 'は', '聞こえ', 'て', 'こ', 'ない', '。']",0.642339651140294,0.8985196965989724,0.7704296738696332,0.8330015406406043,1,這入りこんで現場を見届けてやろう。,現場,N4

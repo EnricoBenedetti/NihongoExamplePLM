@@ -1,0 +1,85 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,-1,20001.0,N2,1.0,0.0,0.5,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl NOUN_compound ADP_case ADP_case)
+    (NOUN_obl
+      (NOUN_nmod (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+      PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    SCONJ_mark)
+  (NOUN_nmod
+    (VERB_acl (NOUN_obl ADP_case ADP_case) AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['音', '具', 'と', 'は', '音', 'を', '出す', '道具', 'の', 'うち', '、', '音', 'が', '出る', 'が', '楽器', 'と', 'は', '言い', 'にくい', '物', 'の', 'こと', '。']",,,,,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N2
+1体鳴楽器は、弦や膜などを用いることなく、弾性体によって作られた本体が振動して音を出す楽器である。,3371003,,N2,1.0,0.8828835,0.9414417445659636,1体鳴楽器は、弦や膜などを用いることなく、弾性体によって作られた本体が振動して音を出す楽器である。,(NOUN_ROOT NUM_nummod),"['1', '体鳴', '楽器', 'は', '、', '弦', 'や', '膜', 'など', 'を', '用いる', 'こと', 'なく', '、', '弾性', '体', 'に', 'よっ', 'て', '作ら', 'れ', 'た', '本体', 'が', '振動', 'し', 'て', '音', 'を', '出す', '楽器', 'で', 'ある', '。']",1.0,0.9000809615033752,0.9500404807516876,0.9457411126588255,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N2
+鍵盤楽器」という分類もあるが、「鍵盤」は音を出すためのメカニズムの形態を表しているに過ぎない。,3370977,,N2,1.0,0.8951449,0.9475724399089812,鍵盤楽器」という分類もあるが、「鍵盤」は音を出すためのメカニズムの形態を表しているに過ぎない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (NOUN_nmod NOUN_compound PUNCT_punct (ADP_case VERB_fixed))
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj PUNCT_punct PUNCT_punct ADP_case)
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod (NOUN_obj ADP_case) VERB_compound ADP_fixed)
+      ADP_case)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (ADP_case VERB_fixed AUX_fixed)
+  PUNCT_punct)","['鍵盤', '楽器', '」', 'と', 'いう', '分類', 'も', 'ある', 'が', '、', '「', '鍵盤', '」', 'は', '音', 'を', '出す', 'ため', 'の', 'メカニズム', 'の', '形態', 'を', '表し', 'て', 'いる', 'に', '過ぎ', 'ない', '。']",0.9175834293243385,0.8677693154783034,0.8926763724013209,0.9201244061551512,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N2
+楽器用法としては弦楽器に属し、弓を使わずにもっぱらはじいて音を出すため、撥弦楽器に分類される。,1511944,,N2,1.0,0.85297924,0.9264896214008332,楽器用法としては弦楽器に属し、弓を使わずにもっぱらはじいて音を出すため、撥弦楽器に分類される。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl
+          NOUN_compound
+          (ADP_case AUX_fixed SCONJ_fixed)
+          ADP_case)
+        (NOUN_obl ADP_case)
+        PUNCT_punct)
+      (VERB_advcl
+        (VERB_advcl (NOUN_obj ADP_case) AUX_aux ADP_case)
+        ADV_advmod
+        SCONJ_mark)
+      (NOUN_obj ADP_case))
+    PUNCT_punct)
+  (NOUN_obl NOUN_compound ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['楽器', '用法', 'と', 'し', 'て', 'は', '弦楽器', 'に', '属し', '、', '弓', 'を', '使わ', 'ず', 'に', 'もっぱら', 'はじい', 'て', '音', 'を', '出す', 'ため', '、', '撥弦', '楽器', 'に', '分類', 'さ', 'れる', '。']",0.86769838080229,0.8386399339191658,0.8531691573607278,0.8898293893807805,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N2
+口笛や指笛と称される場合もあるが、その演奏技術は異なり、手のみを用いて音を出すことから手笛（てぶえ）またはハンドオカリナなどと呼ばれている。,2047211,,N2,1.0,0.8783252,0.9391626119613647,口笛や指笛と称される場合もあるが、その演奏技術は異なり、手のみを用いて音を出すことから手笛（てぶえ）またはハンドオカリナなどと呼ばれている。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl (VERB_advcl SCONJ_mark) (NOUN_obl ADP_case) AUX_aux)
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj DET_det NOUN_compound ADP_case)
+    PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl (NOUN_obj ADP_case ADP_case) SCONJ_mark)
+      (NOUN_obj ADP_case))
+    ADP_case)
+  (NOUN_obl
+    (NOUN_nmod NOUN_compound)
+    (CCONJ_cc ADP_fixed)
+    NOUN_compound
+    ADP_case
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['口笛', 'や', '指笛', 'と', '称さ', 'れる', '場合', 'も', 'ある', 'が', '、', 'その', '演奏', '技術', 'は', '異なり', '、', '手', 'のみ', 'を', '用い', 'て', '音', 'を', '出す', 'こと', 'から', '手', '笛（てぶえ）', 'また', 'は', 'ハンド', 'オカリナ', 'など', 'と', '呼ば', 'れ', 'て', 'いる', '。']",0.7953018613762092,0.8215373631419797,0.8084196122590944,0.8737911121102295,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N2
+2膜鳴楽器は、開口に張った膜の振動によって音を出す楽器である。,3371004,,N2,1.0,0.8895232,0.9447616040706636,2膜鳴楽器は、開口に張った膜の振動によって音を出す楽器である。,"(NOUN_ROOT
+  NUM_dep
+  (NOUN_nsubj NOUN_compound ADP_case PUNCT_punct)
+  (VERB_acl
+    (NOUN_obl
+      (VERB_acl (NOUN_obl ADP_case) AUX_aux)
+      (NOUN_nmod ADP_case)
+      (ADP_case VERB_fixed SCONJ_fixed))
+    (NOUN_obj ADP_case))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['2', '膜鳴', '楽器', 'は', '、', '開口', 'に', '張っ', 'た', '膜', 'の', '振動', 'に', 'よっ', 'て', '音', 'を', '出す', '楽器', 'で', 'ある', '。']",0.7703323905412135,0.7827821869488536,0.7765572887450336,0.8606594464078485,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N2

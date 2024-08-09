@@ -1,0 +1,89 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,-1,20001.0,N4,0.8,0.0,0.4,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,"(VERB_ROOT
+  ADV_cc
+  (PRON_nsubj ADP_case)
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_nsubj
+          (VERB_acl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case))
+          (NOUN_nmod ADP_case)
+          ADP_case)
+        AUX_aux))
+    ADV_advmod
+    PART_case)
+  (PRON_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['但し', 'これ', 'も', '人類', 'の', '文化', 'が', '進み', '人類', 'の', '感情', 'が', '進ん', 'だ', 'とき', 'どう', '変る', 'か', 'それ', 'は', 'わかり', 'ませ', 'ん', '。']",,,,,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N3
+例えば哲学者で社会学者のゲオルク・ジンメルによると、戦争が無かった時代（市民的・商業交流的時代）の文化・社会は、悲しむべき状態にある。,2252289,,N3,1.0,0.7710802,0.885540097951889,例えば哲学者で社会学者のゲオルク・ジンメルによると、戦争が無かった時代（市民的・商業交流的時代）の文化・社会は、悲しむべき状態にある。,"(ADV_ROOT
+  (PROPN_dep
+    (PROPN_acl AUX_cop)
+    (NOUN_nmod NOUN_compound ADP_case)
+    PROPN_compound
+    SYM_compound
+    (ADP_case VERB_fixed SCONJ_fixed)
+    PUNCT_punct
+    (NOUN_case
+      (NOUN_nsubj ADP_case)
+      (ADJ_acl AUX_aux)
+      PUNCT_punct
+      NOUN_compound
+      SYM_compound
+      NOUN_compound
+      NOUN_compound
+      PART_mark
+      NOUN_compound
+      PUNCT_punct
+      ADP_case)))","['例えば', '哲学者', 'で', '社会学', '者', 'の', 'ゲオルク', '・', 'ジンメル', 'に', 'よる', 'と', '、', '戦争', 'が', '無かっ', 'た', '時代', '（', '市民的', '・', '商業', '交流', '的', '時代', '）', 'の', '文化', '・', '社会', 'は', '、', '悲しむ', 'べき', '状態', 'に', 'ある', '。']",0.9977099740076436,0.9352150537634408,0.9664625138855424,0.9260013059187155,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N3
+集団の文化が進むと、異なる集団は既存の技術に新しい知識を取り入れる。,3755006,,N3,1.0,0.9033147,0.9516573548316956,集団の文化が進むと、異なる集団は既存の技術に新しい知識を取り入れる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj VERB_acl ADP_case)
+  (NOUN_obj
+    (ADJ_acl (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+    ADP_case)
+  PUNCT_punct)","['集団', 'の', '文化', 'が', '進む', 'と', '、', '異なる', '集団', 'は', '既存', 'の', '技術', 'に', '新しい', '知識', 'を', '取り入れる', '。']",0.9198855584031734,0.9065669515669516,0.9132262549850624,0.932441804908379,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N3
+進歩（しんぽ）とは、望ましい方向へ物事や文化、文明などが進んでいくことである。,4071405,,N3,1.0,0.8102573,0.9051286578178406,進歩（しんぽ）とは、望ましい方向へ物事や文化、文明などが進んでいくことである。,"(NOUN_ROOT
+  (VERB_nmod
+    ADP_case
+    ADP_case
+    PUNCT_punct
+    (VERB_dep
+      (NOUN_obl ADJ_acl ADP_case)
+      (NOUN_obl
+        (NOUN_nmod (NOUN_nmod ADP_case) PUNCT_punct)
+        ADP_case
+        ADP_case)
+      (SCONJ_mark VERB_fixed)))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['進歩（しんぽ）', 'と', 'は', '、', '望ましい', '方向', 'へ', '物事', 'や', '文化', '、', '文明', 'など', 'が', '進ん', 'で', 'いく', 'こと', 'で', 'ある', '。']",0.8780477652552459,0.8911479485411186,0.8845978568981823,0.8948632573580114,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N3
+人間の文化と行動は社会化によって非常に大きく決定されると主張します。,1160280,,N3,1.0,0.83236885,0.916184425354004,人間の文化と行動は社会化によって非常に大きく決定されると主張します。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_nsubj (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed))
+    (ADJ_advcl (ADJ_advcl AUX_aux))
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['人間', 'の', '文化', 'と', '行動', 'は', '社会化', 'に', 'よっ', 'て', '非常', 'に', '大きく', '決定', 'さ', 'れる', 'と', '主張', 'し', 'ます', '。']",0.8171800060539367,0.8913214400255597,0.8542507230397482,0.8852175741968761,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N3
+典型的に、我々が力と呼ぶいくつかの過程が長い間に文化を変えるために同時に作用するであろう。,4888572,,N3,1.0,0.8310229,0.9155114591121674,典型的に、我々が力と呼ぶいくつかの過程が長い間に文化を変えるために同時に作用するであろう。,"(VERB_ROOT
+  (ADJ_advcl AUX_cop PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl
+      (ADJ_acl
+        (NOUN_nsubj
+          (VERB_acl (PRON_nsubj ADP_case) (NOUN_obl ADP_case))
+          (NOUN_nmod ADP_case ADP_case)
+          ADP_case))
+      ADP_case)
+    (NOUN_obj ADP_case)
+    (SCONJ_mark SCONJ_fixed))
+  (NOUN_obl ADP_case)
+  AUX_aux
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['典型的', 'に', '、', '我々', 'が', '力', 'と', '呼ぶ', 'いくつ', 'か', 'の', '過程', 'が', '長い', '間', 'に', '文化', 'を', '変える', 'ため', 'に', '同時', 'に', '作用', 'する', 'で', 'あろう', '。']",0.7707466992232345,0.8883133365424583,0.8295300178828464,0.8725207384975069,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N3

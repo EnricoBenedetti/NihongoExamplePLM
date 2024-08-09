@@ -1,0 +1,43 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+囚人虐待事件への対応などの影響から退任を求める声が出始めた。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod
+          (NOUN_nmod NOUN_compound NOUN_compound ADP_case ADP_case)
+          ADP_case
+          ADP_case)
+        ADP_case)
+      (NOUN_obj ADP_case))
+    ADP_case)
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['囚人', '虐待', '事件', 'へ', 'の', '対応', 'など', 'の', '影響', 'から', '退任', 'を', '求める', '声', 'が', '出', '始め', 'た', '。']",,,,,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N5
+彼は何を求めているのですか。,188902,,N5,1.0,0.42243353,0.7112167626619339,彼は何を求めているのですか。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (PRON_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (SCONJ_mark AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['彼', 'は', '何', 'を', '求め', 'て', 'いる', 'の', 'です', 'か', '。']",0.8333333333333334,0.9666666666666668,0.9,0.8056083813309669,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N5
+資格証を求めましょう。,62073,,N5,1.0,0.45609304,0.7280465215444565,資格証を求めましょう。,(VERB_ROOT (NOUN_obj ADP_case) AUX_aux PUNCT_punct),"['資格証', 'を', '求め', 'ましょう', '。']",0.7052055949938363,0.9421875,0.8236965474969181,0.7758715345206872,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N5
+遠慮しないで助言を求めなさい。,254663,,N5,1.0,0.4899269,0.7449634522199631,遠慮しないで助言を求めなさい。,"(VERB_ROOT
+  (VERB_advcl AUX_aux AUX_aux SCONJ_mark)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['遠慮', 'し', 'ない', 'で', '助言', 'を', '求め', 'なさい', '。']",0.5663167061049474,0.9306818181818182,0.7484992621433828,0.7467313571816729,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N5
+何を求めていますか。,306772,,N5,1.0,0.44121364,0.7206068187952042,何を求めていますか。,"(VERB_ROOT
+  (PRON_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['何', 'を', '求め', 'て', 'い', 'ます', 'か', '。']",0.5531233569963018,0.8725005107983832,0.7128119338973424,0.7167093763462733,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N5
+明日は、テルアビブ大学で大規模な撤退を求める集会があるらしい。,26240,,N4,0.6,0.7480126,0.6740063011646271,明日は、テルアビブ大学で大規模な撤退を求める集会があるらしい。,"(VERB_ROOT
+  (NOUN_obl ADP_case PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_advcl AUX_cop)
+      (NOUN_obj (ADJ_acl AUX_cop) ADP_case))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['明日', 'は', '、', 'テルアビブ大学', 'で', '大規模', 'な', '撤退', 'を', '求める', '集会', 'が', 'ある', 'らしい', '。']",0.5431112877666469,0.8750289732637946,0.7090701305152207,0.6915382158399239,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N5

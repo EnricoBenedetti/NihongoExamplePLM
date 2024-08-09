@@ -1,0 +1,63 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,-1,20001.0,N1,0.0,0.0,0.0,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,"(VERB_ROOT
+  (NOUN_dislocated PRON_nmod ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_acl
+          (VERB_advcl
+            (NOUN_obj
+              (NOUN_nmod ADP_case)
+              (NOUN_nmod DET_det ADP_case)
+              NOUN_compound
+              (ADP_case VERB_fixed SCONJ_fixed))
+            SCONJ_mark
+            ADP_case))
+        (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+        ADP_case))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark AUX_fixed VERB_fixed)
+  PUNCT_punct)","['彼', 'ら', 'は', 'じつ', 'に', 'その', '生涯', 'の', '勤勉', '努力', 'を', 'もっ', 'て', 'し', 'て', 'も', 'なおかつ', '三十', '円', '以上', 'の', '月給', 'を', '取る', 'こと', 'が', '許さ', 'れ', 'ない', 'の', 'で', 'ある', '。']",,,,,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N4
+なにか入場料を取られそうな雰囲気である。,79985,,N4,1.0,0.66864437,0.8343221843242645,なにか入場料を取られそうな雰囲気である。,"(NOUN_ROOT
+  (PRON_nmod ADP_case)
+  (VERB_acl (NOUN_obj ADP_case) AUX_aux AUX_aux AUX_aux)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['なに', 'か', '入場料', 'を', '取ら', 'れ', 'そう', 'な', '雰囲気', 'で', 'ある', '。']",0.8055663724056559,0.932274532047646,0.8689204522266509,0.8516213182754577,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N4
+何か相当高給を取っている人のようですけれども。,42158,,N4,1.0,0.7505059,0.8752529621124268,何か相当高給を取っている人のようですけれども。,"(AUX_ROOT
+  (NOUN_nmod
+    (VERB_acl
+      (PRON_obl ADP_case)
+      ADV_advmod
+      (NOUN_obj ADP_case)
+      (SCONJ_mark VERB_fixed))
+    ADP_case)
+  AUX_fixed
+  SCONJ_mark
+  ADP_case
+  PUNCT_punct)","['何', 'か', '相当', '高給', 'を', '取っ', 'て', 'いる', '人', 'の', 'よう', 'です', 'けれど', 'も', '。']",0.7224857823429589,0.9240984405458088,0.8232921114443839,0.8492725367784053,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N4
+今日のビールを取るか、明日の学位を取るか。,328236,,N4,1.0,0.70138425,0.8506921231746674,今日のビールを取るか、明日の学位を取るか。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    PART_mark
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  PART_mark
+  PUNCT_punct)","['今日', 'の', 'ビール', 'を', '取る', 'か', '、', '明日', 'の', '学位', 'を', '取る', 'か', '。']",0.7141799278302139,0.8934860184860185,0.8038329731581162,0.8272625481663918,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N4
+さもないと、来年また同じ授業を取らなくてはならなくなりますよ。,256391,,N4,1.0,0.6501798,0.8250899016857147,さもないと、来年また同じ授業を取らなくてはならなくなりますよ。,"(VERB_ROOT
+  (ADJ_advcl ADV_advmod SCONJ_mark PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    ADV_advmod
+    (NOUN_obj ADJ_amod ADP_case)
+    (AUX_aux SCONJ_fixed ADP_fixed VERB_fixed AUX_fixed))
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['さも', 'ない', 'と', '、', '来年', 'また', '同じ', '授業', 'を', '取ら', 'なく', 'て', 'は', 'なら', 'なく', 'なり', 'ます', 'よ', '。']",0.6974624143988333,0.8909089436926592,0.7941856790457462,0.8096377903657305,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N4
+これでお金取っちゃダメでしょ。,128750,,N4,1.0,0.6441636,0.8220818042755127,これでお金取っちゃダメでしょ。,"(VERB_ROOT
+  (PRON_obl ADP_case)
+  PROPN_obl
+  (SCONJ_mark ADJ_fixed)
+  AUX_aux
+  PUNCT_punct)","['これ', 'で', 'お金', '取っ', 'ちゃ', 'ダメ', 'でしょ', '。']",0.6808390389679988,0.8919588854213629,0.7863989621946809,0.8042403832350968,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N4

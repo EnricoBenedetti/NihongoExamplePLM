@@ -1,0 +1,96 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+そして弾丸が始終高い所ばかりを飛ぶようになった。,-1,20001.0,N2,0.8,0.0,0.4,そして弾丸が始終高い所ばかりを飛ぶようになった。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obj (ADJ_acl ADV_compound) ADP_case ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  PUNCT_punct)","['そして', '弾丸', 'が', '始終', '高い', '所', 'ばかり', 'を', '飛ぶ', 'よう', 'に', 'なっ', 'た', '。']",,,,,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N1
+いつも高いところにおり、群れで行動し、カラスの仲間とあって学習能力は高い。,1551097,,N1,1.0,0.83910275,0.9195513725280762,いつも高いところにおり、群れで行動し、カラスの仲間とあって学習能力は高い。,"(ADJ_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl NOUN_nsubj (NOUN_obl ADJ_acl ADP_case) PUNCT_punct)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark)
+  (NOUN_nsubj NOUN_compound ADP_case)
+  PUNCT_punct)","['いつも', '高い', 'ところ', 'に', 'おり', '、', '群れ', 'で', '行動', 'し', '、', 'カラス', 'の', '仲間', 'と', 'あっ', 'て', '学習', '能力', 'は', '高い', '。']",0.6930966911143281,0.9652777777777778,0.8291872344460529,0.8743693034870645,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N1
+高い場所へ登ったり、大きな声で鳴くことも少なく、発情期のオスであっても声を上げないことすらあるほどである。,1800553,,N1,1.0,0.84171337,0.9208566844463348,高い場所へ登ったり、大きな声で鳴くことも少なく、発情期のオスであっても声を上げないことすらあるほどである。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (VERB_advcl
+          (NOUN_obl ADJ_acl ADP_case)
+          PART_mark
+          PUNCT_punct)
+        (NOUN_obl ADJ_amod ADP_case))
+      ADP_case)
+    PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_advcl
+        (NOUN_nmod NOUN_compound ADP_case)
+        (AUX_cop VERB_fixed)
+        SCONJ_mark
+        ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    ADP_case)
+  PART_mark
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['高い', '場所', 'へ', '登っ', 'たり', '、', '大きな', '声', 'で', '鳴く', 'こと', 'も', '少なく', '、', '発情', '期', 'の', 'オス', 'で', 'あっ', 'て', 'も', '声', 'を', '上げ', 'ない', 'こと', 'すら', 'ある', 'ほど', 'で', 'ある', '。']",0.6516997186033668,0.9237483530961792,0.787724035849773,0.8542903601480539,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N1
+すると今度は高い所から低い方への流れが生じるが、ここにもエクマン輸送の影響が及び方向が曲げられる。,446733,,N1,1.0,0.8449793,0.9224896430969238,すると今度は高い所から低い方への流れが生じるが、ここにもエクマン輸送の影響が及び方向が曲げられる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl SCONJ_fixed)
+    (NOUN_obl ADP_case)
+    (NOUN_nsubj
+      (NOUN_nmod
+        (ADJ_acl (NOUN_obl ADJ_acl ADP_case))
+        ADP_case
+        ADP_case)
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (PRON_obl ADP_case ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADJ_amod ADP_case) ADP_case)
+  (NOUN_nsubj CCONJ_cc ADP_case)
+  AUX_aux
+  PUNCT_punct)","['する', 'と', '今度', 'は', '高い', '所', 'から', '低い', '方', 'へ', 'の', '流れ', 'が', '生じる', 'が', '、', 'ここ', 'に', 'も', 'エクマン', '輸送', 'の', '影響', 'が', '及び', '方向', 'が', '曲げ', 'られる', '。']",0.6207247660199899,0.9037214247740564,0.7622230953970232,0.8423563692469735,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N1
+只より高い物はない。,322980,,N1,1.0,0.7736168,0.8868083953857422,只より高い物はない。,"(ADJ_ROOT
+  NOUN_dep
+  (NOUN_nsubj (ADJ_acl ADV_advmod) ADP_case)
+  PUNCT_punct)","['只', 'より', '高い', '物', 'は', 'ない', '。']",0.6247198912248719,0.9005931253502708,0.7626565082875714,0.8247324518366568,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N1
+ただし夏に日照りが続くほど高いところで鳴き、雨が続くと里に下りてくること、その泣き声が哀調を帯びていて母を助けられなかった嘆きのようだとある。,1548249,,N1,1.0,0.79070854,0.8953542709350586,ただし夏に日照りが続くほど高いところで鳴き、雨が続くと里に下りてくること、その泣き声が哀調を帯びていて母を助けられなかった嘆きのようだとある。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl
+            (ADJ_acl
+              (VERB_advcl
+                (NOUN_obl ADP_case)
+                (NOUN_nsubj ADP_case)
+                PART_mark))
+            ADP_case)
+          PUNCT_punct)
+        (VERB_advcl (NOUN_nsubj ADP_case) SCONJ_mark)
+        (NOUN_obl ADP_case)
+        SCONJ_mark))
+    PUNCT_punct)
+  (NOUN_advcl
+    (VERB_acl
+      (NOUN_nsubj DET_det ADP_case)
+      (NOUN_obj ADP_case)
+      (SCONJ_mark VERB_fixed)
+      SCONJ_mark)
+    (NOUN_nmod
+      (VERB_acl (NOUN_obj ADP_case) AUX_aux AUX_aux AUX_aux)
+      ADP_case)
+    AUX_cop
+    ADP_case)
+  PUNCT_punct)","['ただし', '夏', 'に', '日照り', 'が', '続く', 'ほど', '高い', 'ところ', 'で', '鳴き', '、', '雨', 'が', '続く', 'と', '里', 'に', '下り', 'て', 'くる', 'こと', '、', 'その', '泣き声', 'が', '哀調', 'を', '帯び', 'て', 'い', 'て', '母', 'を', '助け', 'られ', 'なかっ', 'た', '嘆き', 'の', 'よう', 'だ', 'と', 'ある', '。']",0.6150159090801011,0.8836949075131308,0.749355408296616,0.8223548396158373,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N1

@@ -1,0 +1,71 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一間は這入って来た人に冷やかな、不愉快な印象を与える。,-1,20001.0,N2,0.6,0.0,0.3,一間は這入って来た人に冷やかな、不愉快な印象を与える。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_nsubj ADP_case)
+        SCONJ_mark
+        (VERB_advcl AUX_aux))
+      ADP_case)
+    PART_mark
+    PUNCT_punct)
+  (NOUN_obj (ADJ_acl AUX_aux) ADP_case)
+  PUNCT_punct)","['一間', 'は', '這入っ', 'て', '来', 'た', '人', 'に', '冷やか', 'な', '、', '不愉快', 'な', '印象', 'を', '与える', '。']",,,,,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N3
+体表はときおりにエボシガイなどの付着生物がくっついて、場合によってはウミグモの呼吸と運動に悪影響を与える。,2638907,,N3,1.0,0.71839815,0.8591990768909454,体表はときおりにエボシガイなどの付着生物がくっついて、場合によってはウミグモの呼吸と運動に悪影響を与える。,"(NOUN_ROOT
+  (NOUN_nsubj ADP_case)
+  (VERB_nmod (NOUN_obl ADP_case) PART_case ADP_case))","['体表', 'は', 'ときおり', 'に', 'エボシガイ', 'など', 'の', '付着', '生物', 'が', 'くっつい', 'て', '、', '場合', 'に', 'よっ', 'て', 'は', 'ウミグモ', 'の', '呼吸', 'と', '運動', 'に', '悪影響', 'を', '与える', '。']",0.9107308982414604,0.9100523098254238,0.910391604033442,0.8847953404621938,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N3
+むしろ、不快感を与える。,2069785,,N3,1.0,0.84974736,0.9248736798763276,むしろ、不快感を与える。,(VERB_ROOT (ADV_advmod PUNCT_punct) (NOUN_obj ADP_case) PUNCT_punct),"['むしろ', '、', '不快感', 'を', '与える', '。']",0.7687176915019607,0.8847222222222222,0.8267199568620914,0.8757968183692095,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N3
+人間に近いと認識される動物は脊椎動物にまとめられるため、無脊椎動物は「異様」な印象や「不思議」な印象を与えるものが多いことになる。,1907719,,N3,1.0,0.7731465,0.8865732550621033,人間に近いと認識される動物は脊椎動物にまとめられるため、無脊椎動物は「異様」な印象や「不思議」な印象を与えるものが多いことになる。,"(ADJ_ROOT
+  (NOUN_dislocated
+    (VERB_acl
+      (ADJ_advcl (NOUN_obl ADP_case) ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  (NOUN_obl (VERB_acl (NOUN_obl ADP_case) AUX_aux) PUNCT_punct)
+  (NOUN_dislocated ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_nmod
+          (ADV_acl PUNCT_punct PUNCT_punct AUX_aux)
+          ADP_case)
+        (NOUN_acl PUNCT_punct PUNCT_punct AUX_aux)
+        ADP_case))
+    ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['人間', 'に', '近い', 'と', '認識', 'さ', 'れる', '動物', 'は', '脊椎動物', 'に', 'まとめ', 'られる', 'ため', '、', '無脊椎動物', 'は', '「', '異様', '」', 'な', '印象', 'や', '「', '不思議', '」', 'な', '印象', 'を', '与える', 'もの', 'が', '多い', 'こと', 'に', 'なる', '。']",0.779657051500007,0.8577089029391661,0.8186829772195865,0.8526281161408449,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N3
+ただし、パートカラーが採用され、赤い服の女の子（シンドラーに心理的影響を与える）、蝋燭の赤い炎などが登場する。,1998965,,N3,1.0,0.7166759,0.858337938785553,ただし、パートカラーが採用され、赤い服の女の子（シンドラーに心理的影響を与える）、蝋燭の赤い炎などが登場する。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj NOUN_compound ADP_case)
+    AUX_aux
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod ADJ_acl ADP_case)
+      PUNCT_punct
+      PROPN_compound
+      ADP_case
+      NOUN_compound
+      NOUN_compound
+      ADP_case
+      VERB_compound
+      PUNCT_punct
+      PUNCT_punct)
+    (ADJ_acl (NOUN_nmod ADP_case))
+    ADP_case
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ただし', '、', 'パート', 'カラー', 'が', '採用', 'さ', 'れ', '、', '赤い', '服', 'の', '女の子', '（', 'シンドラー', 'に', '心理的', '影響', 'を', '与える', '）', '、', '蝋燭', 'の', '赤い', '炎', 'など', 'が', '登場', 'する', '。']",0.7914892869101726,0.8633581032420397,0.8274236950761061,0.8428808169308295,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N3
+他人に対して使われた場合には強い侮蔑感を与える。,2129350,,N3,1.0,0.84254056,0.9212702810764312,他人に対して使われた場合には強い侮蔑感を与える。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed))
+      AUX_aux
+      AUX_aux)
+    ADP_case
+    ADP_case)
+  (NOUN_obj ADJ_acl NOUN_compound ADP_case)
+  PUNCT_punct)","['他人', 'に', '対し', 'て', '使わ', 'れ', 'た', '場合', 'に', 'は', '強い', '侮蔑', '感', 'を', '与える', '。']",0.717264221908075,0.8530669200550085,0.7851655709815417,0.8532179260289865,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N3

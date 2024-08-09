@@ -1,0 +1,67 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+水の色が真赤になる情報があったであります。,-1,20001.0,N2,1.0,0.0,0.5,水の色が真赤になる情報があったであります。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obl ADP_case))
+    ADP_case)
+  AUX_aux
+  (AUX_aux VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['水', 'の', '色', 'が', '真赤', 'に', 'なる', '情報', 'が', 'あっ', 'た', 'で', 'あり', 'ます', '。']",,,,,1,水の色が真赤になる情報があったであります。,情報,N2
+周囲に人気のない無人駅周辺では熊などの野生動物が昼夜を問わず出没しているという情報があり、駅に泊まり込んでいる人間に危害を加える可能性が懸念される。,2668401,,N2,1.0,0.68538606,0.842693030834198,周囲に人気のない無人駅周辺では熊などの野生動物が昼夜を問わず出没しているという情報があり、駅に泊まり込んでいる人間に危害を加える可能性が懸念される。,(NOUN_ROOT (ADJ_acl (NOUN_obl ADP_case) (NOUN_nmod ADP_case))),"['周囲', 'に', '人気', 'の', 'ない', '無人駅', '周辺', 'で', 'は', '熊', 'など', 'の', '野生', '動物', 'が', '昼夜', 'を', '問わ', 'ず', '出没', 'し', 'て', 'いる', 'と', 'いう', '情報', 'が', 'あり', '、', '駅', 'に', '泊まり込ん', 'で', 'いる', '人間', 'に', '危害', 'を', '加える', '可能性', 'が', '懸念', 'さ', 'れる', '。']",0.9421096509966718,0.929022988505747,0.9355663197512094,0.8891296752927037,1,水の色が真赤になる情報があったであります。,情報,N2
+との情報を得る。,3632185,,N2,1.0,0.66660726,0.8333036303520203,との情報を得る。,(VERB_ROOT (NOUN_obj (ADP_nmod ADP_case) ADP_case) PUNCT_punct),"['と', 'の', '情報', 'を', '得る', '。']",0.914036550332224,0.9164862914862916,0.9152614209092578,0.874282525630639,1,水の色が真赤になる情報があったであります。,情報,N2
+この情報が公開されると、相次いで国や地方公共団体等は吃音が発達障害者支援法に含まれると周知を開始した。,3921508,,N2,1.0,0.6859156,0.8429577946662903,この情報が公開されると、相次いで国や地方公共団体等は吃音が発達障害者支援法に含まれると周知を開始した。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj DET_det ADP_case)
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_acl NOUN_compound SCONJ_mark)
+  (NOUN_dislocated (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+  (NOUN_nsubj ADP_case))","['この', '情報', 'が', '公開', 'さ', 'れる', 'と', '、', '相', '次い', 'で', '国', 'や', '地方公共団体', '等', 'は', '吃音', 'が', '発達', '障害者', '支援法', 'に', '含ま', 'れる', 'と', '周知', 'を', '開始', 'し', 'た', '。']",0.9193170501206744,0.893886487085689,0.9066017686031818,0.874779781634736,1,水の色が真赤になる情報があったであります。,情報,N2
+近年は温暖化の影響もあり、奄美群島でも実をつけていると言う情報がある。,2160101,,N2,1.0,0.7619503,0.8809751570224762,近年は温暖化の影響もあり、奄美群島でも実をつけていると言う情報がある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl ADP_case)
+        (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+        PUNCT_punct)
+      (NOUN_obl PROPN_compound ADP_case ADP_case)
+      (NOUN_obj ADP_case)
+      (SCONJ_mark VERB_fixed)
+      (ADP_case VERB_fixed))
+    ADP_case)
+  PUNCT_punct)","['近年', 'は', '温暖化', 'の', '影響', 'も', 'あり', '、', '奄美', '群島', 'で', 'も', '実', 'を', 'つけ', 'て', 'いる', 'と', '言う', '情報', 'が', 'ある', '。']",0.837169365971512,0.8761693017127801,0.856669333842146,0.8688222454323111,1,水の色が真赤になる情報があったであります。,情報,N2
+一方、1940年夏頃にはキリスト教会(プロテスタント・カトリックともに)は「安楽死」が行われていることを知っており、同年秋以降になると詳細な情報が入ってくるようになった。,2090475,,N2,1.0,0.70079577,0.8503978848457336,一方、1940年夏頃にはキリスト教会(プロテスタント・カトリックともに)は「安楽死」が行われていることを知っており、同年秋以降になると詳細な情報が入ってくるようになった。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_obl NUM_compound NOUN_compound ADP_case ADP_case)
+        (NOUN_obl
+          PROPN_compound
+          PUNCT_punct
+          NOUN_compound
+          SYM_compound
+          NOUN_compound
+          NOUN_compound
+          ADP_case
+          PUNCT_punct
+          ADP_case)
+        (NOUN_nsubj PUNCT_punct PUNCT_punct ADP_case)
+        AUX_aux
+        (SCONJ_mark VERB_fixed))
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+    SCONJ_mark)
+  (VERB_advcl
+    (VERB_advcl (NOUN_nsubj (ADJ_acl AUX_aux) ADP_case) SCONJ_mark)
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  PUNCT_punct)","['一方', '、', '1940', '年', '夏頃', 'に', 'は', 'キリスト', '教会', '(', 'プロテスタント', '・', 'カトリック', 'とも', 'に', ')', 'は', '「', '安楽死', '」', 'が', '行わ', 'れ', 'て', 'いる', 'こと', 'を', '知っ', 'て', 'おり', '、', '同年', '秋', '以降', 'に', 'なる', 'と', '詳細', 'な', '情報', 'が', '入っ', 'て', 'くる', 'よう', 'に', 'なっ', 'た', '。']",0.8255936133120572,0.8764524394786537,0.8510230263953554,0.8507104556205445,1,水の色が真赤になる情報があったであります。,情報,N2

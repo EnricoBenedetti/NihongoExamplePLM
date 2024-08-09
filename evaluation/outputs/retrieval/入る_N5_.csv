@@ -1,0 +1,38 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分の意思で、内部に入ろうと思わなければ、中には入れない。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,自分の意思で、内部に入ろうと思わなければ、中には入れない。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_ccomp
+      (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop PUNCT_punct)
+      (NOUN_obl ADP_case)
+      ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['自分', 'の', '意思', 'で', '、', '内部', 'に', '入ろう', 'と', '思わ', 'なけれ', 'ば', '、', '中', 'に', 'は', '入れ', 'ない', '。']",,,,,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N5
+君は入ってはいけない。,244869,,N5,1.0,0.69375324,0.8468766212463379,君は入ってはいけない。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (SCONJ_mark ADP_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['君', 'は', '入っ', 'て', 'は', 'いけ', 'ない', '。']",0.75,0.9344444444444444,0.8422222222222222,0.84454942173428,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N5
+日本人は部屋に入るとき靴を脱ぎます。,201230,,N5,1.0,0.74748623,0.8737431168556213,日本人は部屋に入るとき靴を脱ぎます。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl (VERB_acl (NOUN_obl ADP_case)))
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['日本人', 'は', '部屋', 'に', '入る', 'とき', '靴', 'を', '脱ぎ', 'ます', '。']",0.6620512052987306,0.9336466165413534,0.797848910920042,0.8357960138878316,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N5
+彼は体育館に歩いて入って行きませんでした。,182150,,N5,1.0,0.67353946,0.8367697298526764,彼は体育館に歩いて入って行きませんでした。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (VERB_advcl (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark) SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['彼', 'は', '体育館', 'に', '歩い', 'て', '入っ', 'て', '行き', 'ませ', 'ん', 'でし', 'た', '。']",0.6730950378480709,0.9174679487179488,0.7952814932830098,0.816025611567843,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N5
+中に入ってもいいですか？,388148,,N5,1.0,0.75331336,0.8766566812992096,中に入ってもいいですか？,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (SCONJ_mark ADP_fixed AUX_fixed)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['中', 'に', '入っ', 'て', 'も', 'いい', 'です', 'か', '？']",0.6139295977245248,0.9042740046838408,0.7591018012041828,0.8178792412516962,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N5
+風呂に入ろう。,142009,,N5,1.0,0.7000441,0.8500220477581024,風呂に入ろう。,(VERB_ROOT (NOUN_obl ADP_case) PUNCT_punct),"['風呂', 'に', '入ろう', '。']",0.6233030357950586,0.8941981747066493,0.7587506052508539,0.8043863265044782,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N5

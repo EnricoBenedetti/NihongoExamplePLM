@@ -1,0 +1,273 @@
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 合う; target level: N3; context sentence: この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。
+System 1 sentences:
+彼とは趣味が合うので、よく一緒に遊びます。
+食べ物と好みが合わない友人と一緒に食事するのは難しい。
+話し合いの結果、意見が合ったのでプロジェクトを進めることになった。
+二人の考え方が全く合わず、意見の対立が生じた。
+彼との意見が合わなくて、議論が続いている。
+System 2 sentences:
+私にはその人に合う洋服が分からない。
+彼と彼女は性格が合わない。
+彼女は服選びに時間がかかり、店員さんとも意見が合わなかった。
+ここまで来るのに時間がかかったけど、やっと自分に合う服を見つけたんだ。
+もし合わないところがあったら言ってね。
+System 3 sentences:
+反射したビームの位相が合っているとき（上図）、結果生じるビームは比較的強くなる。
+このように、実際にはピントが合っていてもいなくても点光源からの光が結像面上で結ぶ像は円形となり、この円のことを錯乱円と呼ぶ。
+一方、下の写真では花の「シベ」の部分にしか焦点が合っておらず、花びらでさえ奥側と手前側はぼけている。
+調整前の段階では、それぞれの主鏡を構成する18個のセグメントは位置や焦点が合っていないため、画像にはぼやけた18個の撮像が見られる。
+被写界深度が深く、近景から遠景まですべてピントが合って見える。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides the most diverse and complex sentences, closely matching the target difficulty level of N3 and offering a deeper understanding of the target word 合う in various contexts, especially related to focus and alignment, which is more aligned with the original context sentence. System 1 offers a good range of sentences around the N3-N4 level, with a focus on agreement and matching in social contexts, which is useful but less directly related to the technical context of the original sentence. System 2, while providing sentences that are easy to understand, lacks diversity and complexity, making it the least useful for learners aiming for N3 proficiency.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 合う; target level: N3; context sentence: この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。
+System 1 sentences:
+彼とは趣味が合うので、よく一緒に遊びます。
+食べ物と好みが合わない友人と一緒に食事するのは難しい。
+話し合いの結果、意見が合ったのでプロジェクトを進めることになった。
+二人の考え方が全く合わず、意見の対立が生じた。
+彼との意見が合わなくて、議論が続いている。
+System 2 sentences:
+私にはその人に合う洋服が分からない。
+彼と彼女は性格が合わない。
+彼女は服選びに時間がかかり、店員さんとも意見が合わなかった。
+ここまで来るのに時間がかかったけど、やっと自分に合う服を見つけたんだ。
+もし合わないところがあったら言ってね。
+System 3 sentences:
+反射したビームの位相が合っているとき（上図）、結果生じるビームは比較的強くなる。
+このように、実際にはピントが合っていてもいなくても点光源からの光が結像面上で結ぶ像は円形となり、この円のことを錯乱円と呼ぶ。
+一方、下の写真では花の「シベ」の部分にしか焦点が合っておらず、花びらでさえ奥側と手前側はぼけている。
+調整前の段階では、それぞれの主鏡を構成する18個のセグメントは位置や焦点が合っていないため、画像にはぼやけた18個の撮像が見られる。
+被写界深度が深く、近景から遠景まですべてピントが合って見える。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 3 sentences:
+1. Difficulty: "N2"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides a good range of sentences that are closely related to the target word's sense in the context sentence and are appropriate for learners around the N3 level, with a medium diversity in sentence structure and usage. System 2 also offers sentences that are relevant and similar in difficulty but slightly less diverse in context, skewing a bit towards easier levels. System 3, while technically accurate and offering complex sentences, diverges significantly in the sense of the target word, focusing more on physical alignment and optics, which might not be as useful for learners aiming to understand the word in more everyday contexts.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 合う; target level: N3; context sentence: この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。
+System 1 sentences:
+彼とは趣味が合うので、よく一緒に遊びます。
+食べ物と好みが合わない友人と一緒に食事するのは難しい。
+話し合いの結果、意見が合ったのでプロジェクトを進めることになった。
+二人の考え方が全く合わず、意見の対立が生じた。
+彼との意見が合わなくて、議論が続いている。
+System 2 sentences:
+私にはその人に合う洋服が分からない。
+彼と彼女は性格が合わない。
+彼女は服選びに時間がかかり、店員さんとも意見が合わなかった。
+ここまで来るのに時間がかかったけど、やっと自分に合う服を見つけたんだ。
+もし合わないところがあったら言ってね。
+System 3 sentences:
+反射したビームの位相が合っているとき（上図）、結果生じるビームは比較的強くなる。
+このように、実際にはピントが合っていてもいなくても点光源からの光が結像面上で結ぶ像は円形となり、この円のことを錯乱円と呼ぶ。
+一方、下の写真では花の「シベ」の部分にしか焦点が合っておらず、花びらでさえ奥側と手前側はぼけている。
+調整前の段階では、それぞれの主鏡を構成する18個のセグメントは位置や焦点が合っていないため、画像にはぼやけた18個の撮像が見られる。
+被写界深度が深く、近景から遠景まですべてピントが合って見える。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides a good range of sentences that are close to the target level (N3) and maintains a similar sense to the context sentence, with a medium diversity in sentence structure and usage. System 3, while offering sentences that are technically more complex and closer to the context in terms of subject matter, overshoots the target difficulty level, making it less ideal for N3 learners. System 2 offers sentences that are generally easier and less diverse, making it the least preferable for learners aiming to reach or improve at the N3 level.
++++++END_RESPONSE+++++

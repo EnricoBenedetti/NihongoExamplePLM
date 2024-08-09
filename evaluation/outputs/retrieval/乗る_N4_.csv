@@ -1,0 +1,54 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,-1,18305.0,N2,0.1999999999999999,0.0,0.0999999999999999,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl INTJ_advmod (NOUN_nsubj ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl PRON_nmod (ADJ_acl AUX_aux) ADP_case AUX_cop ADP_case)
+  PUNCT_punct)","['いざ', '金', 'が', 'いる', 'と', 'なる', 'と', '、', 'ポルジイ', 'は', 'どんな', '危険', 'な', '相談', 'に', 'で', 'も', '乗る', '。']",,,,,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N4
+ちょっと相談に乗ってくれないか？」,153544,,N4,1.0,0.6935279,0.84676393866539,ちょっと相談に乗ってくれないか？」,"(VERB_ROOT
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PART_mark
+  PUNCT_punct
+  PUNCT_punct)","['ちょっと', '相談', 'に', '乗っ', 'て', 'くれ', 'ない', 'か', '？', '」']",0.7681105576336626,0.9648786717752236,0.866494614704443,0.8566292766849165,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N4
+どんなことでも相談に乗るので、いつでも連絡してほしいと思います。,119269,,N4,1.0,0.8229847,0.9114923477172852,どんなことでも相談に乗るので、いつでも連絡してほしいと思います。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (NOUN_obl PRON_nmod ADP_case ADP_case)
+      (NOUN_obl ADP_case)
+      (SCONJ_mark AUX_fixed)
+      PUNCT_punct)
+    (PRON_obl ADP_case ADP_case)
+    AUX_aux
+    (SCONJ_mark AUX_fixed)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['どんな', 'こと', 'で', 'も', '相談', 'に', '乗る', 'の', 'で', '、', 'いつ', 'で', 'も', '連絡', 'し', 'て', 'ほしい', 'と', '思い', 'ます', '。']",0.6944406295999388,0.8987234042553192,0.796582016927629,0.8540371823224571,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N4
+色々相談に乗っていたのを思い出しました。,118910,,N4,1.0,0.69433475,0.8471673727035522,色々相談に乗っていたのを思い出しました。,"(VERB_ROOT
+  (VERB_advcl
+    ADV_advmod
+    (NOUN_obl ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    SCONJ_mark
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['色々', '相談', 'に', '乗っ', 'て', 'い', 'た', 'の', 'を', '思い出し', 'まし', 'た', '。']",0.641825261609827,0.8650762719057834,0.7534507667578052,0.8003090697306787,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N4
+ニュース番組を作るので相談に乗ってください。,1347855,,N4,1.0,0.64015555,0.8200777769088745,ニュース番組を作るので相談に乗ってください。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj NOUN_compound ADP_case)
+    (SCONJ_mark AUX_fixed))
+  (NOUN_obl ADP_case)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['ニュース', '番組', 'を', '作る', 'の', 'で', '相談', 'に', '乗っ', 'て', 'ください', '。']",0.6229766598030898,0.8336630036630037,0.7283198317330468,0.7741988043209607,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N4
+調子に乗りすぎるなよ。,204979,,N4,1.0,0.55330676,0.776653379201889,調子に乗りすぎるなよ。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  VERB_advcl
+  PART_mark
+  PART_mark
+  PUNCT_punct)","['調子', 'に', '乗り', 'すぎる', 'な', 'よ', '。']",0.621444580455424,0.8380590386026041,0.7297518095290141,0.7532025943654516,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N4

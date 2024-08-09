@@ -1,0 +1,66 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,-1,20001.0,N2,0.6,0.0,0.3,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,"(VERB_ROOT
+  (ADJ_advcl
+    (VERB_advcl
+      (NOUN_nsubj NOUN_compound ADP_case)
+      (NOUN_obj (NOUN_nmod NUM_compound ADP_case) ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (ADJ_advcl AUX_aux)
+    (NOUN_nsubj ADP_case))
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['婆', 'さん', 'は', '三百', '弗', 'の', '小切手', 'を', '見る', 'と', '、', '急', 'に', '愛想', 'が', 'よく', 'なり', 'まし', 'た', '。']",,,,,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N3
+わたしはこの写真を見るたび、父を思い出す。,257816,,N3,1.0,0.75224596,0.8761229813098907,わたしはこの写真を見るたび、父を思い出す。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl (VERB_acl (NOUN_obj DET_det ADP_case)) PUNCT_punct)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['わたし', 'は', 'この', '写真', 'を', '見る', 'たび', '、', '父', 'を', '思い出す', '。']",0.6729851836310976,0.9447916666666668,0.8088884251488822,0.8425057032293864,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N3
+ジャックは彼女を見るとすぐにワッと泣き出した。,281587,,N3,1.0,0.7430228,0.8715113997459412,ジャックは彼女を見るとすぐにワッと泣き出した。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case)
+  (VERB_advcl (PRON_obj ADP_case) SCONJ_mark)
+  (ADV_advmod ADP_case)
+  (ADJ_advmod ADP_case)
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['ジャック', 'は', '彼女', 'を', '見る', 'と', 'すぐ', 'に', 'ワッ', 'と', '泣き', '出し', 'た', '。']",0.7376597120445287,0.8944072295247725,0.8160334707846506,0.8437724352652959,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N3
+トムは値札を見て、お金が足りないことに気づいた。,345221,,N3,1.0,0.8071931,0.9035965502262115,トムは値札を見て、お金が足りないことに気づいた。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark PUNCT_punct)
+      (PROPN_nsubj ADP_case)
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['トム', 'は', '値札', 'を', '見', 'て', '、', 'お金', 'が', '足り', 'ない', 'こと', 'に', '気づい', 'た', '。']",0.6524830295880328,0.8891412268776007,0.7708121282328168,0.8372043392295141,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N3
+その金を見ると彼はふっと盗みたくなった。,277175,,N3,1.0,0.8636762,0.9318380951881408,その金を見ると彼はふっと盗みたくなった。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark)
+  (NOUN_advcl (PRON_nsubj ADP_case) (ADV_advmod ADP_case) AUX_aux)
+  AUX_aux
+  PUNCT_punct)","['その', '金', 'を', '見る', 'と', '彼', 'は', 'ふっ', 'と', '盗み', 'たく', 'なっ', 'た', '。']",0.5734499607078415,0.8721499651818406,0.7227999629448411,0.8273190290664909,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N3
+トールキンは白紙の解答用紙を見ると、ふと思いついてそこに「地面の穴のなかに、ひとりのホビットが住んでいました」と書いた。,514023,,N3,1.0,0.7873166,0.893658310174942,トールキンは白紙の解答用紙を見ると、ふと思いついてそこに「地面の穴のなかに、ひとりのホビットが住んでいました」と書いた。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (PROPN_nsubj ADP_case)
+      (NOUN_obj
+        (NOUN_nmod ADP_case)
+        NOUN_compound
+        NOUN_compound
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (VERB_advcl ADV_advmod SCONJ_mark)
+    (PRON_obl ADP_case)
+    (NOUN_obl
+      (NOUN_nmod (NOUN_nmod PUNCT_punct ADP_case) ADP_case)
+      ADP_case
+      PUNCT_punct)
+    (PROPN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['トールキン', 'は', '白紙', 'の', '解答', '用', '紙', 'を', '見る', 'と', '、', 'ふと', '思いつい', 'て', 'そこ', 'に', '「', '地面', 'の', '穴', 'の', 'なか', 'に', '、', 'ひとり', 'の', 'ホビット', 'が', '住ん', 'で', 'い', 'まし', 'た', '」', 'と', '書い', 'た', '。']",0.572636811723471,0.8544291437335169,0.713532977728494,0.803595643951718,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N3

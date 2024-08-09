@@ -1,0 +1,42 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+このような動物は頭の真ん中に角が生えている。,-1,20001.0,N3,0.6,0.0,0.3,このような動物は頭の真ん中に角が生えている。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_acl DET_det AUX_cop) ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['この', 'よう', 'な', '動物', 'は', '頭', 'の', '真ん中', 'に', '角', 'が', '生え', 'て', 'いる', '。']",,,,,1,このような動物は頭の真ん中に角が生えている。,頭,N4
+しっぽか頭か分からないが、スイッチを入れると上下に激しい運動をします。,80778,,N4,1.0,0.7547453,0.8773726522922516,しっぽか頭か分からないが、スイッチを入れると上下に激しい運動をします。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (ADJ_acl ADP_case) ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+  (NOUN_obj (ADJ_acl (NOUN_advcl AUX_aux)) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['しっぽ', 'か', '頭', 'か', '分から', 'ない', 'が', '、', 'スイッチ', 'を', '入れる', 'と', '上下', 'に', '激しい', '運動', 'を', 'し', 'ます', '。']",0.7419327981739537,0.9571428571428572,0.8495378276584055,0.8634552399753286,1,このような動物は頭の真ん中に角が生えている。,頭,N4
+頭が重い。,202846,,N4,1.0,0.760988,0.8804939985275269,頭が重い。,(ADJ_ROOT (NOUN_nsubj ADP_case) PUNCT_punct),"['頭', 'が', '重い', '。']",0.713977599391318,0.9423076923076924,0.8281426458495051,0.854318322188516,1,このような動物は頭の真ん中に角が生えている。,頭,N4
+それは頭の真ん中に一本の角を持っている。,703630,,N4,1.0,0.9406811,0.9703405499458312,それは頭の真ん中に一本の角を持っている。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obj (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['それ', 'は', '頭', 'の', '真ん中', 'に', '一', '本', 'の', '角', 'を', '持っ', 'て', 'いる', '。']",0.6648785002922188,0.8437635150678628,0.7543210076800408,0.8623307788129361,1,このような動物は頭の真ん中に角が生えている。,頭,N4
+頭のてっぺんに柔らかそうな角が1本だけ生えている。,2886434,,N4,1.0,0.91631836,0.9581591784954072,頭のてっぺんに柔らかそうな角が1本だけ生えている。,"(VERB_ROOT
+  (PROPN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_nsubj (ADJ_acl AUX_aux AUX_aux) ADP_case)
+  (NOUN_obl NUM_nummod ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['頭', 'の', 'てっぺん', 'に', '柔らか', 'そう', 'な', '角', 'が', '1', '本', 'だけ', '生え', 'て', 'いる', '。']",0.5916518815917285,0.8083416583416583,0.6999967699666934,0.8290779742310502,1,このような動物は頭の真ん中に角が生えている。,頭,N4
+黄色い実を食べると頭から蔓が伸び、木に絡みつき動けなくなってしまった。,5571326,,N4,1.0,0.8239242,0.91196209192276,黄色い実を食べると頭から蔓が伸び、木に絡みつき動けなくなってしまった。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl (NOUN_obj ADJ_acl ADP_case) SCONJ_mark)
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      PUNCT_punct)
+    (NOUN_obl ADP_case)
+    VERB_advcl
+    AUX_aux)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['黄色い', '実', 'を', '食べる', 'と', '頭', 'から', '蔓', 'が', '伸び', '、', '木', 'に', '絡みつき', '動け', 'なく', 'なっ', 'て', 'しまっ', 'た', '。']",0.58409480077157,0.8312428873057806,0.7076688440386754,0.8098154679807177,1,このような動物は頭の真ん中に角が生えている。,頭,N4

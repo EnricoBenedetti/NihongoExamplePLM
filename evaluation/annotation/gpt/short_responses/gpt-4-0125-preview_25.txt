@@ -1,0 +1,90 @@
+System 1 sentences:
+1. Difficulty: N5; Sense: similar; Reject: ""
+2. Difficulty: N5; Sense: similar; Reject: ""
+3. Difficulty: N5; Sense: similar; Reject: ""
+4. Difficulty: N5; Sense: similar; Reject: ""
+5. Difficulty: Reject; Sense: not similar; Reject: "Reject"
+
+Sentence diversity: Low
+
+System 2 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N1; Sense: similar; Reject: ""
+3. Difficulty: N1; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N4; Sense: similar; Reject: ""
+
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+
+Sentence diversity: Medium
+
+System ranking: System 3 > System 2 > System 1
+
+Comment: System 3 provides a good range of sentences that are slightly above the target level but are useful for learners to understand diverse contexts in which "場合" can be used, maintaining a good sense similarity. System 2 also offers diverse sentences but varies more in difficulty, with some sentences being too advanced for the target level. System 1 stays closest to the target level but lacks diversity in sentence structure and complexity, and one sentence was rejected due to unnatural phrasing, impacting its overall usefulness.
+System 1 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "no"
+2. Difficulty: N5; Sense: "similar"; Reject: "no"
+3. Difficulty: N5; Sense: "similar"; Reject: "no"
+4. Difficulty: N5; Sense: "similar"; Reject: "no"
+5. Difficulty: Reject; Sense: "not similar"; Reject: "yes"
+
+Sentence diversity: Low
+
+System 2 sentences:
+1. Difficulty: N3; Sense: "similar"; Reject: "no"
+2. Difficulty: N1; Sense: "similar"; Reject: "no"
+3. Difficulty: N1; Sense: "similar"; Reject: "no"
+4. Difficulty: N3; Sense: "similar"; Reject: "no"
+5. Difficulty: N4; Sense: "similar"; Reject: "no"
+
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N3; Sense: "similar"; Reject: "no"
+2. Difficulty: N3; Sense: "similar"; Reject: "no"
+3. Difficulty: N3; Sense: "similar"; Reject: "no"
+4. Difficulty: N3; Sense: "similar"; Reject: "no"
+5. Difficulty: N3; Sense: "similar"; Reject: "no"
+
+Sentence diversity: Low
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides sentences that are most appropriate for the target N5 level, despite one sentence being rejected due to unnatural phrasing and lack of sense similarity. System 3 offers consistent use of the target word at a slightly higher difficulty level than requested, with all sentences being relevant but lacking diversity. System 2, while providing sentences that maintain a close sense to the original context, includes examples that are too advanced for an N5 learner, thus ranking it last in terms of usefulness for the target proficiency level.
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "no"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "no"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "no"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "no"
+5. Difficulty: "Reject"; Sense: "not similar"; Reject: "yes"
+
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "no"
+2. Difficulty: "N1"; Sense: "similar"; Reject: "no"
+3. Difficulty: "N1"; Sense: "similar"; Reject: "no"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "no"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "no"
+
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "no"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "no"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "no"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "no"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "no"
+
+Sentence diversity: "Medium"
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides sentences that are most appropriate for the target level (N5), with simple structures and clear use of the target word "場合". Although one sentence was rejected due to being unnatural, the rest are good examples for beginners. System 3 offers a variety of contexts and slightly more complex sentences, suitable for learners looking to progress beyond N5, but still maintains a good sense similarity. System 2, while providing sentences that are relevant and maintain sense similarity, includes examples that are too advanced for an N5 learner, with sentences more appropriate for N1 to N3 levels, thus making it the least suitable for the target proficiency level.

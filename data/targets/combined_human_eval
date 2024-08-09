@@ -1,0 +1,2178 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering,split
+外交経験が無い素人2人組の外交は半年が空費され、相手から一方的に条件を呑まされる寸前になり失敗に終わった。,1684583.0,,N1,1.0,0.72510344,0.8625517189502716,外交経験が無い素人2人組の外交は半年が空費され、相手から一方的に条件を呑まされる寸前になり失敗に終わった。,(ADJ_ROOT (NOUN_nsubj NOUN_compound ADP_case)),"['外交', '経験', 'が', '無い', '素人', '2', '人組', 'の', '外交', 'は', '半年', 'が', '空費', 'さ', 'れ', '、', '相手', 'から', '一方的', 'に', '条件', 'を', '呑まさ', 'れる', '寸前', 'に', 'なり', '失敗', 'に', '終わっ', 'た', '。']",1.0,0.9397916666666668,0.9698958333333334,0.9162237761418024,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,E,test
+ドイツの戦略爆撃機とイギリス、アメリカの戦略爆撃機の合計の多い国家が少ない国家（ドイツ又はイギリス）を攻撃することになり、相手国家の工業力を低下させる。,5505912.0,,N1,1.0,0.72894824,0.8644741177558899,ドイツの戦略爆撃機とイギリス、アメリカの戦略爆撃機の合計の多い国家が少ない国家（ドイツ又はイギリス）を攻撃することになり、相手国家の工業力を低下させる。,"(NOUN_ROOT
+  (PROPN_nmod
+    (PROPN_nmod
+      (NOUN_nmod (PROPN_nmod ADP_case) NOUN_compound ADP_case)
+      PUNCT_punct)
+    ADP_case))","['ドイツ', 'の', '戦略', '爆撃機', 'と', 'イギリス', '、', 'アメリカ', 'の', '戦略', '爆撃機', 'の', '合計', 'の', '多い', '国家', 'が', '少ない', '国家', '（', 'ドイツ', '又', 'は', 'イギリス', '）', 'を', '攻撃', 'する', 'こと', 'に', 'なり', '、', '相手', '国家', 'の', '工業', '力', 'を', '低下', 'さ', 'せる', '。']",1.0,0.8906567750877632,0.9453283875438816,0.9049012526498856,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,E,test
+これはその言葉を発した側が、その発言を持って相手を貶めようとしているためである。,1508529.0,,N1,1.0,0.7732476,0.8866237998008728,これはその言葉を発した側が、その発言を持って相手を貶めようとしているためである。,"(NOUN_ROOT
+  (VERB_acl
+    (PRON_nsubj ADP_case)
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_nsubj
+          (VERB_acl (NOUN_obj DET_det ADP_case) AUX_aux)
+          ADP_case
+          PUNCT_punct)
+        (NOUN_obj DET_det ADP_case)
+        SCONJ_mark)
+      (NOUN_obj ADP_case)
+      ADP_case)
+    (SCONJ_mark VERB_fixed))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['これ', 'は', 'その', '言葉', 'を', '発し', 'た', '側', 'が', '、', 'その', '発言', 'を', '持っ', 'て', '相手', 'を', '貶めよう', 'と', 'し', 'て', 'いる', 'ため', 'で', 'ある', '。']",0.9461913799765672,0.88499310680399,0.9155922433902786,0.9011080215955756,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,E,test
+カトコフの主張は、一般的に穏健なものではあったが、ひとたびや筆を執るや否や、痛烈に相手を批判せずにはいられなかった。,3917741.0,,N1,1.0,0.77894247,0.8894712328910828,カトコフの主張は、一般的に穏健なものではあったが、ひとたびや筆を執るや否や、痛烈に相手を批判せずにはいられなかった。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+    (ADJ_acl (ADJ_advcl AUX_cop) AUX_aux)
+    (AUX_cop ADP_fixed VERB_fixed)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (ADV_advmod ADP_case)
+    (NOUN_obj ADP_case)
+    (ADP_case SCONJ_fixed ADP_fixed)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obj ADP_case)
+    AUX_aux
+    (AUX_aux ADP_fixed)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['カトコフ', 'の', '主張', 'は', '、', '一般的', 'に', '穏健', 'な', 'もの', 'で', 'は', 'あっ', 'た', 'が', '、', 'ひとたび', 'や', '筆', 'を', '執る', 'や', '否', 'や', '、', '痛烈', 'に', '相手', 'を', '批判', 'せ', 'ず', 'に', 'は', 'い', 'られ', 'なかっ', 'た', '。']",0.9067525748979268,0.8718710162576596,0.8893117955777932,0.889391514234438,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,E,test
+また、両派ともに相手の絶滅を主張し、小型の出刃包丁やハンマーなどを使用した襲撃を続けたため逮捕者や離脱者が多数出て、組織の維持すら危うくなった。,1694412.0,,N1,1.0,0.7810908,0.8905453979969025,また、両派ともに相手の絶滅を主張し、小型の出刃包丁やハンマーなどを使用した襲撃を続けたため逮捕者や離脱者が多数出て、組織の維持すら危うくなった。,"(VERB_ROOT
+  (VERB_obl
+    CCONJ_cc
+    PUNCT_punct
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_obl NOUN_nmod ADP_case)
+            (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+            AUX_aux
+            PUNCT_punct)
+          (NOUN_obj
+            (VERB_acl
+              (PROPN_obj
+                (NOUN_nmod (ADJ_nmod ADP_case) ADP_case)
+                ADP_case
+                ADP_case)
+              AUX_aux
+              AUX_aux)
+            ADP_case)
+          AUX_aux))
+      (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+      ADV_advmod
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+  AUX_aux
+  PUNCT_punct)","['また', '、', '両派', 'とも', 'に', '相手', 'の', '絶滅', 'を', '主張', 'し', '、', '小型', 'の', '出刃包丁', 'や', 'ハンマー', 'など', 'を', '使用', 'し', 'た', '襲撃', 'を', '続け', 'た', 'ため', '逮捕者', 'や', '離脱', '者', 'が', '多数', '出', 'て', '、', '組織', 'の', '維持', 'すら', '危うく', 'なっ', 'た', '。']",0.8557034570198441,0.8662599699913133,0.8609817135055786,0.8757635557512405,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,E,test
+またマクロレンズと違い無限遠にピントが合わなくなる等、ピントあわせに制約がある。,2715561.0,,N2,0.8,0.7946419,0.797320955991745,またマクロレンズと違い無限遠にピントが合わなくなる等、ピントあわせに制約がある。,"(NOUN_ROOT
+  CCONJ_dep
+  (NOUN_nmod
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl (NOUN_nmod ADP_case))
+        (NOUN_obl ADP_case)
+        (NOUN_nsubj ADP_case)
+        AUX_aux))
+    PUNCT_punct))","['また', 'マクロレンズ', 'と', '違い', '無限遠', 'に', 'ピント', 'が', '合わ', 'なく', 'なる', '等', '、', 'ピント', 'あわせ', 'に', '制約', 'が', 'ある', '。']",0.9070999251733736,0.9534883720930232,0.9302941486331984,0.8638075523124717,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,I,test
+そのような状態は実現できないのであるが、実用上は仮想的な点光源からの光が結像面上でもっとも強く収束するような条件をもって、ピントが合っていると考える。,3082867.0,,N1,1.0,0.87095696,0.9354784786701202,そのような状態は実現できないのであるが、実用上は仮想的な点光源からの光が結像面上でもっとも強く収束するような条件をもって、ピントが合っていると考える。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_acl DET_det AUX_cop) ADP_case)
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark AUX_fixed VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_ccomp
+    (VERB_advcl
+      (NOUN_nsubj NOUN_compound ADP_case)
+      (NOUN_obj
+        (VERB_acl
+          (NOUN_nsubj
+            (NOUN_nmod
+              (ADJ_acl AUX_aux)
+              NOUN_compound
+              ADP_case
+              ADP_case)
+            ADP_case)
+          (ADJ_advcl (NOUN_obl NOUN_compound ADP_case) ADV_advmod)
+          AUX_aux
+          AUX_aux
+          AUX_aux)
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    ADP_case)
+  PUNCT_punct)","['その', 'よう', 'な', '状態', 'は', '実現', 'でき', 'ない', 'の', 'で', 'ある', 'が', '、', '実用', '上', 'は', '仮想的', 'な', '点', '光源', 'から', 'の', '光', 'が', '結像', '面上', 'で', 'もっとも', '強く', '収束', 'する', 'よう', 'な', '条件', 'を', 'もっ', 'て', '、', 'ピント', 'が', '合っ', 'て', 'いる', 'と', '考える', '。']",0.8312548196472812,0.9041024301019076,0.8676786248745944,0.9015785517723574,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,I,test
+ただし、自キャラとマンホールの間に地形がある場合、座標が合っていても障害物ごしに開閉は出来ない。,4480060.0,,N1,1.0,0.7801082,0.8900541067123413,ただし、自キャラとマンホールの間に地形がある場合、座標が合っていても障害物ごしに開閉は出来ない。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod NOUN_compound ADP_case (NOUN_dep ADP_case))
+        ADP_case)
+      (NOUN_nsubj ADP_case))
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark
+    ADP_case)
+  (NOUN_obl NOUN_compound ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ただし', '、', '自', 'キャラ', 'と', 'マンホール', 'の', '間', 'に', '地形', 'が', 'ある', '場合', '、', '座標', 'が', '合っ', 'て', 'い', 'て', 'も', '障害', '物ごし', 'に', '開閉', 'は', '出来', 'ない', '。']",0.7932859548202659,0.8782600762306383,0.8357730155254521,0.8629135611188967,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,I,test
+しかしながら、東急では2020年までに各駅へ可動式ホーム柵を設置することとなり、扉の位置が合わない田園都市線の6扉車は廃止を余儀なくされた。,2390181.0,,N1,1.0,0.72915196,0.864575982093811,しかしながら、東急では2020年までに各駅へ可動式ホーム柵を設置することとなり、扉の位置が合わない田園都市線の6扉車は廃止を余儀なくされた。,"(VERB_ROOT
+  (CCONJ_cc SCONJ_fixed PUNCT_punct)
+  (VERB_advcl
+    (PROPN_obl ADP_case ADP_case)
+    (NOUN_obl NUM_nummod ADP_case ADP_case)
+    (NOUN_obl ADP_case)
+    (NOUN_obj NOUN_compound NOUN_compound NOUN_compound ADP_case)
+    AUX_aux
+    (NOUN_compound ADP_fixed VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case) AUX_aux)
+    (PROPN_nmod ADP_case)
+    NUM_compound
+    NOUN_compound
+    ADP_case)
+  (NOUN_obj ADP_case)
+  (ADJ_advcl NOUN_compound)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['しかし', 'ながら', '、', '東急', 'で', 'は', '2020', '年', 'まで', 'に', '各駅', 'へ', '可動', '式', 'ホーム', '柵', 'を', '設置', 'する', 'こと', 'と', 'なり', '、', '扉', 'の', '位置', 'が', '合わ', 'ない', '田園都市線', 'の', '6', '扉', '車', 'は', '廃止', 'を', '余儀', 'なく', 'さ', 'れ', 'た', '。']",0.7657895850281732,0.8749735004413957,0.8203815427347845,0.8424787624142978,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,I,test
+と怒るのだが、毎回カメラのスイッチングのタイミングが合わず、タイミングが合ったら合ったでピンボケを起こしている。,4903833.0,,N1,1.0,0.68181133,0.8409056663513184,と怒るのだが、毎回カメラのスイッチングのタイミングが合わず、タイミングが合ったら合ったでピンボケを起こしている。,"(VERB_ROOT
+  ADP_dep
+  (VERB_advcl (SCONJ_mark AUX_fixed) SCONJ_mark PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    (NOUN_nsubj (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl (NOUN_nsubj ADP_case) AUX_aux)
+    AUX_aux
+    SCONJ_mark)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['と', '怒る', 'の', 'だ', 'が', '、', '毎回', 'カメラ', 'の', 'スイッチング', 'の', 'タイミング', 'が', '合わ', 'ず', '、', 'タイミング', 'が', '合っ', 'たら', '合っ', 'た', 'で', 'ピンボケ', 'を', '起こし', 'て', 'いる', '。']",0.7558567818531307,0.8595765947599825,0.8077166883065565,0.8243111773289374,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,I,test
+そして６時間の待ち時間を経て、いざドイツへ。,21982.0,,N1,1.0,0.79155046,0.8957752287387848,そして６時間の待ち時間を経て、いざドイツへ。,"(PROPN_ROOT
+  CCONJ_cc
+  (VERB_acl
+    (NOUN_obj (NOUN_nmod NUM_nummod ADP_case) VERB_compound ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  INTJ_advmod
+  ADP_case
+  PUNCT_punct)","['そして', '６', '時間', 'の', '待ち', '時間', 'を', '経', 'て', '、', 'いざ', 'ドイツ', 'へ', '。']",0.8333333333333334,0.97,0.9016666666666666,0.8987209477027257,1,俺はそこで二時間ほど調べられた。,時間,N1,3.0,E,test
+シリーズ終了後の時にはメンバー全員と1時間ずつ面接を行い「チェキッ娘の名を語ってヌードにはなるな」と言っていたという。,2362403.0,,N1,1.0,0.76771265,0.883856326341629,シリーズ終了後の時にはメンバー全員と1時間ずつ面接を行い「チェキッ娘の名を語ってヌードにはなるな」と言っていたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_ccomp
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl
+            (NOUN_nmod NOUN_compound NOUN_compound ADP_case)
+            ADP_case
+            ADP_case)
+          (NOUN_obl NOUN_compound ADP_case)
+          (NOUN_obl NUM_nummod ADP_case)
+          (NOUN_obj ADP_case))
+        (NOUN_obj
+          (NOUN_nmod PUNCT_punct NOUN_compound ADP_case)
+          ADP_case)
+        SCONJ_mark)
+      (NOUN_obl ADP_case ADP_case)
+      PART_mark
+      PUNCT_punct
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['シリーズ', '終了', '後', 'の', '時', 'に', 'は', 'メンバー', '全員', 'と', '1', '時間', 'ずつ', '面接', 'を', '行い', '「', 'チェキッ', '娘', 'の', '名', 'を', '語っ', 'て', 'ヌード', 'に', 'は', 'なる', 'な', '」', 'と', '言っ', 'て', 'い', 'た', 'と', 'いう', '。']",0.7986538049298333,0.928373015873016,0.8635134104014246,0.8736848683715268,1,俺はそこで二時間ほど調べられた。,時間,N1,3.0,E,test
+竹宮は一夜にして物語のプロットを頭に描き、翌日増山に8時間かけてストーリーを話した。,1274424.0,,N1,1.0,0.82613987,0.9130699336528778,竹宮は一夜にして物語のプロットを頭に描き、翌日増山に8時間かけてストーリーを話した。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    (NOUN_obl NOUN_compound ADP_case)
+    (NOUN_obl NUM_nummod)
+    SCONJ_mark)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['竹宮', 'は', '一夜', 'に', 'し', 'て', '物語', 'の', 'プロット', 'を', '頭', 'に', '描き', '、', '翌日', '増', '山', 'に', '8', '時間', 'かけ', 'て', 'ストーリー', 'を', '話し', 'た', '。']",0.7303149213351554,0.9108527131782944,0.820583817256725,0.8668268754548014,1,俺はそこで二時間ほど調べられた。,時間,N1,3.0,E,test
+原稿用紙１枚にも満たないメールに２時間かけるなんていうのは褒められたことではない。,314254.0,,N1,1.0,0.7806364,0.8903182148933411,原稿用紙１枚にも満たないメールに２時間かけるなんていうのは褒められたことではない。,"(NOUN_ROOT
+  (VERB_csubj
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obl
+            NOUN_compound
+            NOUN_compound
+            NOUN_compound
+            NUM_nummod
+            ADP_case
+            ADP_case)
+          AUX_aux)
+        ADP_case)
+      (NOUN_obl NUM_nummod)
+      PART_mark)
+    SCONJ_mark
+    ADP_case)
+  (VERB_acl AUX_aux AUX_aux)
+  (AUX_cop ADP_fixed AUX_fixed)
+  PUNCT_punct)","['原稿', '用', '紙', '１', '枚', 'に', 'も', '満た', 'ない', 'メール', 'に', '２', '時間', 'かける', 'なんて', 'いう', 'の', 'は', '褒め', 'られ', 'た', 'こと', 'で', 'は', 'ない', '。']",0.7189113142971417,0.9027260018639328,0.8108186580805373,0.8505684364869392,1,俺はそこで二時間ほど調べられた。,時間,N1,3.0,E,test
+後日対面を許され、萩本邸に招待されたが、そこで突然の無茶振りに始まり3時間にわたる指導を受け、以降はテレビ番組での共演も果たしている。,1469073.0,,N1,1.0,0.77938807,0.8896940350532532,後日対面を許され、萩本邸に招待されたが、そこで突然の無茶振りに始まり3時間にわたる指導を受け、以降はテレビ番組での共演も果たしている。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl ADV_advmod (NOUN_obj ADP_case) AUX_aux PUNCT_punct)
+      (NOUN_obl PROPN_compound ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (VERB_advcl
+      (PRON_obl ADP_case)
+      (NOUN_obl (ADV_advmod ADP_case) NOUN_compound ADP_case))
+    (NOUN_obj (NOUN_nmod NUM_nummod (ADP_case VERB_fixed)) ADP_case)
+    PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj (NOUN_nmod NOUN_compound ADP_case ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['後日', '対面', 'を', '許さ', 'れ', '、', '萩', '本邸', 'に', '招待', 'さ', 'れ', 'た', 'が', '、', 'そこ', 'で', '突然', 'の', '無茶', '振り', 'に', '始まり', '3', '時間', 'に', 'わたる', '指導', 'を', '受け', '、', '以降', 'は', 'テレビ', '番組', 'で', 'の', '共演', 'も', '果たし', 'て', 'いる', '。']",0.7063480325628335,0.8959797755580219,0.8011639040604277,0.8454289695568404,1,俺はそこで二時間ほど調べられた。,時間,N1,3.0,E,test
+声を出す練習でもありますが、ただ見て流すよりは理解力が増しました。,80196.0,,N1,1.0,0.7332916,0.8666458129882812,声を出す練習でもありますが、ただ見て流すよりは理解力が増しました。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (VERB_acl (NOUN_obj ADP_case)) (AUX_case ADP_fixed))
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl (VERB_advcl ADV_advmod SCONJ_mark) ADP_case ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['声', 'を', '出す', '練習', 'で', 'も', 'あり', 'ます', 'が', '、', 'ただ', '見', 'て', '流す', 'より', 'は', '理解力', 'が', '増し', 'まし', 'た', '。']",0.7541075421700784,0.9179841897233202,0.8360458659466993,0.8513458394674902,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,E,test
+喉頭の位置に基づいて、ネアンデルタール人ですら現生人類が作り出す全ての音を完全に出すのに必要な解剖学的構造を具えていないと信じている学者もいる。,3754960.0,,N1,1.0,0.7803985,0.8901992440223694,喉頭の位置に基づいて、ネアンデルタール人ですら現生人類が作り出す全ての音を完全に出すのに必要な解剖学的構造を具えていないと信じている学者もいる。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+          SCONJ_mark
+          PUNCT_punct)
+        (NOUN_obj
+          (ADJ_acl
+            (VERB_advcl
+              (NOUN_obj
+                (VERB_acl
+                  (NOUN_obl NUM_compound ADP_case ADP_case)
+                  (NOUN_nsubj NOUN_compound ADP_case))
+                (NOUN_nmod ADP_case)
+                ADP_case)
+              (ADJ_advcl AUX_aux)
+              SCONJ_mark
+              ADP_case)
+            AUX_aux)
+          PART_mark
+          NOUN_compound
+          ADP_case)
+        (SCONJ_mark VERB_fixed)
+        AUX_aux
+        ADP_case)
+      (SCONJ_mark VERB_fixed))
+    ADP_case)
+  PUNCT_punct)","['喉頭', 'の', '位置', 'に', '基づい', 'て', '、', 'ネアンデルタール', '人', 'で', 'すら', '現生', '人類', 'が', '作り出す', '全て', 'の', '音', 'を', '完全', 'に', '出す', 'の', 'に', '必要', 'な', '解剖学', '的', '構造', 'を', '具え', 'て', 'い', 'ない', 'と', '信じ', 'て', 'いる', '学者', 'も', 'いる', '。']",0.6891822691495297,0.9002673796791444,0.794724824414337,0.8424620342183532,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,E,test
+得られる音高はその知覚のためには上音に依存するところが大きいが、熟練した奏者の手にかかれば、ペダルトーンは制御することができ、楽器に特徴的な音を出すことができる。,2370060.0,,N1,1.0,0.77685744,0.8884287178516388,得られる音高はその知覚のためには上音に依存するところが大きいが、熟練した奏者の手にかかれば、ペダルトーンは制御することができ、楽器に特徴的な音を出すことができる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (ADJ_advcl
+        (NOUN_dislocated (VERB_acl AUX_aux) ADP_case)
+        (NOUN_nsubj
+          (VERB_acl
+            (NOUN_obl (NOUN_nmod DET_det ADP_case) ADP_case ADP_case)
+            (NOUN_obl NOUN_compound ADP_case)
+            AUX_aux)
+          ADP_case)
+        SCONJ_mark
+        PUNCT_punct)
+      (NOUN_obl
+        (NOUN_nmod (VERB_acl AUX_aux AUX_aux) ADP_case)
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    AUX_aux
+    (NOUN_compound ADP_fixed AUX_fixed)
+    PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obj (ADJ_acl AUX_cop) ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['得', 'られる', '音高', 'は', 'その', '知覚', 'の', 'ため', 'に', 'は', '上', '音', 'に', '依存', 'する', 'ところ', 'が', '大きい', 'が', '、', '熟練', 'し', 'た', '奏者', 'の', '手', 'に', 'かかれ', 'ば', '、', 'ペダル', 'トーン', 'は', '制御', 'する', 'こと', 'が', 'でき', '、', '楽器', 'に', '特徴的', 'な', '音', 'を', '出す', 'こと', 'が', 'できる', '。']",0.6910246153880404,0.8781331636133712,0.7845788895007058,0.8365038036761723,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,E,test
+ダンスには作者不明の古い特徴的な曲調の音楽をという太鼓とというとても大きな音を出すオーボエの一種で伴奏する。,2315412.0,,N1,1.0,0.7803336,0.8901667892932892,ダンスには作者不明の古い特徴的な曲調の音楽をという太鼓とというとても大きな音を出すオーボエの一種で伴奏する。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod NOUN_compound ADP_case)
+      ADJ_acl
+      (ADJ_acl AUX_cop)
+      ADP_case)
+    ADP_case
+    (ADP_case VERB_fixed))
+  (NOUN_obl
+    (PROPN_nmod
+      (VERB_acl
+        (NOUN_obj
+          (ADJ_amod
+            (NOUN_obl ADP_case (ADP_case VERB_fixed))
+            ADV_advmod)
+          ADP_case))
+      ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ダンス', 'に', 'は', '作者', '不明', 'の', '古い', '特徴的', 'な', '曲調', 'の', '音楽', 'を', 'と', 'いう', '太鼓', 'と', 'と', 'いう', 'とても', '大きな', '音', 'を', '出す', 'オーボエ', 'の', '一種', 'で', '伴奏', 'する', '。']",0.6591863247406125,0.8646573375413334,0.761921831140973,0.8260443102171311,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,E,test
+グランドピアノにあっては弦を打つ位置をずらすことにより、アップライトピアノにあっては弦を叩く距離を短くすることによって、弱い音を出す。,1122062.0,,N1,1.0,0.8056685,0.9028342366218568,グランドピアノにあっては弦を打つ位置をずらすことにより、アップライトピアノにあっては弦を叩く距離を短くすることによって、弱い音を出す。,"(VERB_ROOT
+  (NOUN_obl
+    (AUX_acl
+      (NOUN_obl
+        (VERB_acl
+          (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark ADP_case)
+          (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case))
+        (ADP_case VERB_fixed)
+        PUNCT_punct)
+      (VERB_advcl (PROPN_obl ADP_case) SCONJ_mark ADP_case)
+      (ADJ_advcl (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case)))
+    (ADP_case VERB_fixed SCONJ_fixed)
+    PUNCT_punct)
+  (NOUN_obj ADJ_acl ADP_case)
+  PUNCT_punct)","['グランドピアノ', 'に', 'あっ', 'て', 'は', '弦', 'を', '打つ', '位置', 'を', 'ずらす', 'こと', 'に', 'より', '、', 'アップライトピアノ', 'に', 'あっ', 'て', 'は', '弦', 'を', '叩く', '距離', 'を', '短く', 'する', 'こと', 'に', 'よっ', 'て', '、', '弱い', '音', 'を', '出す', '。']",0.6307220349570115,0.8344900197411713,0.7326060273490914,0.8177201319854741,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,E,test
+かくのごとき困難は天然現象の場合に最も著しかるべし。,58154.0,,N1,1.0,0.7263127,0.8631563484668732,かくのごとき困難は天然現象の場合に最も著しかるべし。,(NOUN_ROOT (NOUN_nmod ADP_case)),"['かく', 'の', 'ごとき', '困難', 'は', '天然', '現象', 'の', '場合', 'に', '最も', '著', 'しかる', 'べし', '。']",0.9392838927751744,0.9313294232649072,0.9353066580200408,0.899231503243457,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,E,test
+それ故に彼の場合は、敵も味方も悲劇であり、戰爭そのものが痛ましい宿命だつた。,618148.0,,N1,1.0,0.7043935,0.8521967530250549,それ故に彼の場合は、敵も味方も悲劇であり、戰爭そのものが痛ましい宿命だつた。,"(VERB_ROOT
+  (NOUN_obl
+    (ADJ_acl
+      (ADJ_advcl
+        (NOUN_obl PRON_nmod ADP_case)
+        (NOUN_obl (PRON_nmod ADP_case) ADP_case PUNCT_punct)
+        (NOUN_nsubj (NOUN_nsubj ADP_case) ADP_case)
+        (AUX_aux VERB_fixed)
+        PUNCT_punct)
+      (NOUN_nsubj (DET_det NOUN_nmod) ADP_case)))
+  AUX_aux
+  PUNCT_punct)","['それ', '故', 'に', '彼', 'の', '場合', 'は', '、', '敵', 'も', '味方', 'も', '悲劇', 'で', 'あり', '、', '戰爭', 'その', 'もの', 'が', '痛ましい', '宿命', 'だつ', 'た', '。']",0.9082435638787424,0.9219435736677116,0.915093568773227,0.8836451608991409,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,E,test
+彼は『政略論』において「戦いに訴えねばならない場合に、自国民からなる軍隊をもっていない指導者は国家は恥じてしかるべきだと思う」と論じている。,731667.0,,N1,1.0,0.698388,0.8491939902305603,彼は『政略論』において「戦いに訴えねばならない場合に、自国民からなる軍隊をもっていない指導者は国家は恥じてしかるべきだと思う」と論じている。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl
+          (NOUN_obl
+            PUNCT_punct
+            VERB_compound
+            PUNCT_punct
+            (ADP_case VERB_fixed SCONJ_fixed))
+          (VERB_acl
+            (NOUN_obl PUNCT_punct ADP_case)
+            (AUX_aux SCONJ_fixed VERB_fixed AUX_fixed))
+          ADP_case
+          PUNCT_punct)
+        (NOUN_obj (VERB_acl (NOUN_obl ADP_case)) ADP_case)
+        (SCONJ_mark VERB_fixed)
+        AUX_aux)
+      ADP_case)
+    (VERB_ccomp
+      (NOUN_nsubj ADP_case)
+      (VERB_advcl SCONJ_mark)
+      AUX_aux
+      AUX_aux
+      ADP_case)
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['彼', 'は', '『', '政略', '論', '』', 'に', 'おい', 'て', '「', '戦い', 'に', '訴え', 'ね', 'ば', 'なら', 'ない', '場合', 'に', '、', '自国民', 'から', 'なる', '軍隊', 'を', 'もっ', 'て', 'い', 'ない', '指導者', 'は', '国家', 'は', '恥じ', 'て', 'しかる', 'べき', 'だ', 'と', '思う', '」', 'と', '論じ', 'て', 'いる', '。']",0.849368252080128,0.9083653846153846,0.8788668183477564,0.8640304042891583,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,E,test
+日本の場合は、艦長ですら自分の下着は自分で洗濯せねばならないほどであった。,888185.0,,N1,1.0,0.72155786,0.8607789278030396,日本の場合は、艦長ですら自分の下着は自分で洗濯せねばならないほどであった。,"(VERB_ROOT
+  (NOUN_obl (PROPN_nmod ADP_case) ADP_case PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  (AUX_aux SCONJ_fixed VERB_fixed AUX_fixed)
+  PART_mark
+  (AUX_aux VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['日本', 'の', '場合', 'は', '、', '艦長', 'で', 'すら', '自分', 'の', '下着', 'は', '自分', 'で', '洗濯', 'せ', 'ね', 'ば', 'なら', 'ない', 'ほど', 'で', 'あっ', 'た', '。']",0.828995035836774,0.8682121741182752,0.8486036049775246,0.8546912663902821,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,E,test
+救助活動による二次遭難の危険が高い場合は、生存者の生命を危険にさらすべきではないが、心情的に割り切れるかどうかは難しいところであろう。,1076977.0,,N1,1.0,0.6989343,0.8494671583175659,救助活動による二次遭難の危険が高い場合は、生存者の生命を危険にさらすべきではないが、心情的に割り切れるかどうかは難しいところであろう。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl
+      (ADJ_acl
+        (NOUN_nsubj
+          (NOUN_nmod NOUN_compound (ADP_case VERB_fixed))
+          (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+          ADP_case))
+      ADP_case
+      PUNCT_punct)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    (AUX_aux ADP_fixed AUX_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (ADJ_acl
+    (ADV_advmod
+      (ADJ_obl (NOUN_acl PART_mark AUX_cop) ADP_case)
+      ADP_case
+      ADP_case))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['救助', '活動', 'に', 'よる', '二', '次', '遭難', 'の', '危険', 'が', '高い', '場合', 'は', '、', '生存者', 'の', '生命', 'を', '危険', 'に', 'さらす', 'べき', 'で', 'は', 'ない', 'が', '、', '心情', '的', 'に', '割り切れる', 'か', 'どう', 'か', 'は', '難しい', 'ところ', 'で', 'あろう', '。']",0.809001426073333,0.8622794322359705,0.8356404291546518,0.8425537937361088,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,E,test
+後年1950年代までオート三輪やオートバイの零細メーカーが群生した名古屋でも早い時期のオート三輪メーカー設立であった。,6827747.0,,N1,1.0,0.68806154,0.8440307676792145,後年1950年代までオート三輪やオートバイの零細メーカーが群生した名古屋でも早い時期のオート三輪メーカー設立であった。,NOUN_ROOT,"['後年', '1950', '年', '代', 'まで', 'オート', '三', '輪', 'や', 'オートバイ', 'の', '零細', 'メーカー', 'が', '群生', 'し', 'た', '名古屋', 'で', 'も', '早い', '時期', 'の', 'オート', '三', '輪', 'メーカー', '設立', 'で', 'あっ', 'た', '。']",1.0,0.8930887681159421,0.946544384057971,0.8952875758685928,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,A,test
+その成立は1929年に遡り、安徽大学の最も早く成立した学部の一つである。,12457429.0,,N1,1.0,0.8183088,0.9091543853282928,その成立は1929年に遡り、安徽大学の最も早く成立した学部の一つである。,"(NOUN_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  (VERB_acl (NOUN_obl NUM_nummod ADP_case) PUNCT_punct)
+  (NOUN_nmod
+    (VERB_acl
+      (NOUN_obl PROPN_compound ADP_case)
+      (ADJ_advcl ADV_advmod)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['その', '成立', 'は', '1929', '年', 'に', '遡り', '、', '安徽', '大学', 'の', '最も', '早く', '成立', 'し', 'た', '学部', 'の', '一', 'つ', 'で', 'ある', '。']",0.9192070099261216,0.8889169611823465,0.904061985554234,0.9066081854412634,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,A,test
+北極海がコラ半島北部周辺までは通年航行可能で、それ以東も海氷の発達が比較的弱く、北東航路が北西航路よりも早く開通・一部実用化されたのも、この暖流によるところが大きい。,1557485.0,,N1,1.0,0.7852533,0.8926266431808472,北極海がコラ半島北部周辺までは通年航行可能で、それ以東も海氷の発達が比較的弱く、北東航路が北西航路よりも早く開通・一部実用化されたのも、この暖流によるところが大きい。,"(ADJ_ROOT
+  (VERB_advcl
+    (ADJ_acl
+      (NOUN_obl
+        (VERB_acl (PROPN_nsubj ADP_case))
+        NOUN_compound
+        NOUN_compound
+        ADP_case
+        ADP_case
+        (ADJ_punct NOUN_obl NOUN_compound AUX_aux PUNCT_punct))
+      (NOUN_nsubj PRON_nmod ADP_case)
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      NOUN_obl
+      PUNCT_punct)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    (ADJ_acl (NOUN_obl NOUN_compound ADP_case ADP_case))
+    (SYM_nmod NOUN_compound)
+    ADV_advmod
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (NOUN_obl DET_det ADP_case)) ADP_case)
+  PUNCT_punct)","['北極海', 'が', 'コラ', '半島', '北部', '周辺', 'まで', 'は', '通年', '航行', '可能', 'で', '、', 'それ', '以東', 'も', '海氷', 'の', '発達', 'が', '比較的', '弱く', '、', '北東', '航路', 'が', '北西', '航路', 'より', 'も', '早く', '開通', '・', '一部', '実用化', 'さ', 'れ', 'た', 'の', 'も', '、', 'この', '暖流', 'に', 'よる', 'ところ', 'が', '大きい', '。']",0.8378316144472931,0.8927382362547102,0.8652849253510017,0.8789557842659244,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,A,test
+18世紀後半、世界で最も早く工場制機械工業を導入したイギリスでは、その後「世界の工場」と称されるまでに至った。,5419905.0,,N1,1.0,0.812696,0.9063479900360109,18世紀後半、世界で最も早く工場制機械工業を導入したイギリスでは、その後「世界の工場」と称されるまでに至った。,"(VERB_ROOT
+  (PROPN_obl
+    (VERB_acl
+      (ADV_advmod NUM_compound NOUN_compound PUNCT_punct)
+      (ADJ_advcl (NOUN_obl ADP_case) ADV_advmod)
+      (NOUN_obj NOUN_compound NOUN_compound NOUN_compound ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (VERB_advcl
+    NOUN_obl
+    (NOUN_obl (NOUN_nmod PUNCT_punct ADP_case) PUNCT_punct ADP_case)
+    AUX_aux
+    PART_mark
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['18', '世紀', '後半', '、', '世界', 'で', '最も', '早く', '工場', '制', '機械', '工業', 'を', '導入', 'し', 'た', 'イギリス', 'で', 'は', '、', 'その後', '「', '世界', 'の', '工場', '」', 'と', '称さ', 'れる', 'まで', 'に', '至っ', 'た', '。']",0.7924040342435023,0.8823157058551234,0.8373598700493128,0.8718539300426618,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,A,test
+小惑星番号187531を付されたこの天体は、5つのうちもっとも早く小惑星番号付与に至ったものである。,10284128.0,,N1,1.0,0.8088734,0.9044367074966432,小惑星番号187531を付されたこの天体は、5つのうちもっとも早く小惑星番号付与に至ったものである。,"(NOUN_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NUM_obj NUM_compound NOUN_compound ADP_case)
+      AUX_aux
+      AUX_aux)
+    DET_det
+    ADP_case
+    PUNCT_punct)
+  (VERB_acl
+    (ADJ_advcl (NOUN_obl (NOUN_nmod NUM_nummod ADP_case)) ADV_advmod)
+    (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+    AUX_aux)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['小惑星', '番号', '187531', 'を', '付さ', 'れ', 'た', 'この', '天体', 'は', '、', '5', 'つ', 'の', 'うち', 'もっとも', '早く', '小惑星', '番号', '付与', 'に', '至っ', 'た', 'もの', 'で', 'ある', '。']",0.752487434590615,0.863629679459369,0.808058557024992,0.8562476322608175,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,A,test
+そのさよなら運転の終盤に100はドアが開かなくなる故障を起こし、まさに「力尽きる」形で仏生山工場へと回送された。,3978235.0,,N1,1.0,0.66515183,0.8325759172439575,そのさよなら運転の終盤に100はドアが開かなくなる故障を起こし、まさに「力尽きる」形で仏生山工場へと回送された。,(INTJ_ROOT DET_dep),"['その', 'さよなら', '運転', 'の', '終盤', 'に', '100', 'は', 'ドア', 'が', '開か', 'なく', 'なる', '故障', 'を', '起こし', '、', 'まさに', '「', '力', '尽きる', '」', '形', 'で', '仏生山', '工場', 'へ', 'と', '回送', 'さ', 'れ', 'た', '。']",1.0,0.9590187180941576,0.9795093590470788,0.9060426381455182,1,当駅ではすべてのドアが開く。,開く,N1,7.0,E,test
+ホームが曲線上に位置する関係で、3番線の場合、自社通勤型車両では各車両中程の2ヶ所のみドアが開く。,2350851.0,,N2,0.8,0.923574,0.8617869853973389,ホームが曲線上に位置する関係で、3番線の場合、自社通勤型車両では各車両中程の2ヶ所のみドアが開く。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl NOUN_compound ADP_case)
+      AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod NUM_nummod ADP_case) PUNCT_punct)
+  (NOUN_obl
+    NOUN_compound
+    NOUN_compound
+    NOUN_compound
+    ADP_case
+    ADP_case)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (NOUN_nmod NOUN_compound NOUN_compound ADP_case ADP_case)
+      NUM_nummod
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['ホーム', 'が', '曲線', '上', 'に', '位置', 'する', '関係', 'で', '、', '3', '番線', 'の', '場合', '、', '自社', '通勤', '型', '車両', 'で', 'は', '各', '車両', '中', '程', 'の', '2', 'ヶ所', 'のみ', 'ドア', 'が', '開く', '。']",0.8112682415598076,0.9062130382181172,0.8587406398889624,0.8602638126431507,1,当駅ではすべてのドアが開く。,開く,N1,7.0,E,test
+この踏切は駅に近いこともあって踏切遮断時間が長い開かずの踏切となっていて、踏切道改良促進法に基づき国土交通省が「改良すべき踏切道」に指定している。,1249035.0,,N1,1.0,0.54455125,0.7722756266593933,この踏切は駅に近いこともあって踏切遮断時間が長い開かずの踏切となっていて、踏切道改良促進法に基づき国土交通省が「改良すべき踏切道」に指定している。,"(NOUN_ROOT
+  DET_det
+  ADP_case
+  (ADJ_dep
+    (ADJ_advcl
+      (NOUN_obl ADP_case)
+      (NOUN_compound ADP_fixed VERB_fixed)
+      SCONJ_mark)
+    (NOUN_nsubj NOUN_compound NOUN_compound ADP_case)))","['この', '踏切', 'は', '駅', 'に', '近い', 'こと', 'も', 'あっ', 'て', '踏切', '遮断', '時間', 'が', '長い', '開か', 'ず', 'の', '踏切', 'と', 'なっ', 'て', 'い', 'て', '、', '踏切', '道', '改良', '促進', '法', 'に', '基づき', '国土交通省', 'が', '「', '改良', 'す', 'べき', '踏切', '道', '」', 'に', '指定', 'し', 'て', 'いる', '。']",0.8754643781945488,0.8933965056602446,0.8844304419273967,0.828353034293395,1,当駅ではすべてのドアが開く。,開く,N1,7.0,E,test
+ワンマン電車は、一部の電車を除いては前の扉しか開かない。,2631771.0,,N2,0.8,0.84148395,0.8207419753074646,ワンマン電車は、一部の電車を除いては前の扉しか開かない。,"(VERB_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ワンマン', '電車', 'は', '、', '一部', 'の', '電車', 'を', '除い', 'て', 'は', '前', 'の', '扉', 'しか', '開か', 'ない', '。']",0.8033391107088727,0.8891980361523637,0.8462685734306181,0.8335052743690414,1,当駅ではすべてのドアが開く。,開く,N1,7.0,E,test
+の掛け声でデジクォーツへのゲートが開く、デジクロスは一台では2体までの制限が付くなどデジモンハント用に置き換わっている。,3716758.0,,N1,1.0,0.64226204,0.821131020784378,の掛け声でデジクォーツへのゲートが開く、デジクロスは一台では2体までの制限が付くなどデジモンハント用に置き換わっている。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl ADP_case ADP_case)
+      (NOUN_nsubj (NOUN_nmod ADP_case ADP_case) ADP_case)
+      PUNCT_punct)
+    (NOUN_dislocated ADP_case)
+    (NOUN_obl NUM_nummod ADP_case ADP_case)
+    (NOUN_nsubj (NOUN_nmod NUM_nummod ADP_case ADP_case) ADP_case)
+    PART_mark)
+  (NOUN_obl PROPN_compound NOUN_compound ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['の', '掛け声', 'で', 'デジクォーツ', 'へ', 'の', 'ゲート', 'が', '開く', '、', 'デジクロス', 'は', '一', '台', 'で', 'は', '2', '体', 'まで', 'の', '制限', 'が', '付く', 'など', 'デジモン', 'ハント', '用', 'に', '置き換わっ', 'て', 'いる', '。']",0.7556218935072376,0.8776025824366245,0.816612237971931,0.8188716293781546,1,当駅ではすべてのドアが開く。,開く,N1,7.0,E,test
+必ずしも机上に固定しておく必要がない特長を生かして、空中で手に持った状態で使用できる製品が制作可能なのもトラックボールならではである。,566402.0,,N1,1.0,0.7101418,0.8550708889961243,必ずしも机上に固定しておく必要がない特長を生かして、空中で手に持った状態で使用できる製品が制作可能なのもトラックボールならではである。,"(NOUN_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obj
+          (ADJ_acl
+            (ADV_advmod ADP_case)
+            (NOUN_nsubj
+              (VERB_acl
+                (NOUN_obl ADP_case)
+                AUX_aux
+                (SCONJ_mark VERB_fixed))
+              ADP_case))
+          ADP_case)
+        SCONJ_mark
+        PUNCT_punct)
+      (NOUN_obl
+        (VERB_acl (NOUN_obl ADP_case) (NOUN_obl ADP_case) AUX_aux)
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (ADJ_advcl NOUN_compound AUX_aux SCONJ_mark ADP_case)
+  NOUN_compound
+  AUX_aux
+  SCONJ_mark
+  ADP_case
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['必ず', 'しも', '机上', 'に', '固定', 'し', 'て', 'おく', '必要', 'が', 'ない', '特長', 'を', '生かし', 'て', '、', '空中', 'で', '手', 'に', '持っ', 'た', '状態', 'で', '使用', 'できる', '製品', 'が', '制作', '可能', 'な', 'の', 'も', 'トラック', 'ボール', 'なら', 'で', 'は', 'で', 'ある', '。']",0.8142825720301223,0.9375,0.8758912860150612,0.8654810875055927,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,E,test
+二つ三つ持つて参れ。,128906.0,,N1,1.0,0.6326148,0.81630739569664,二つ三つ持つて参れ。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl NUM_compound NOUN_compound NUM_nummod)
+    SCONJ_mark)
+  PUNCT_punct)","['二', 'つ', '三', 'つ', '持つ', 'て', '参れ', '。']",0.7962126788590256,0.930921052631579,0.8635668657453023,0.8399371307209711,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,E,test
+ゲイ・ボルグは怪力無双のクー・フーリンにしか扱えないほど重いとされる話もあるが、他の人物が手に持つことがあり、重量に関する逸話は後世の彩飾の可能性が高い。,1137666.0,,N1,1.0,0.65329313,0.8266465663909912,ゲイ・ボルグは怪力無双のクー・フーリンにしか扱えないほど重いとされる話もあるが、他の人物が手に持つことがあり、重量に関する逸話は後世の彩飾の可能性が高い。,"(ADJ_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj NOUN_compound SYM_compound ADP_case)
+      (NOUN_nsubj
+        (VERB_acl
+          (VERB_advcl
+            (PROPN_obl
+              (NOUN_nmod NOUN_compound ADP_case)
+              PROPN_compound
+              SYM_compound
+              ADP_case
+              ADP_case)
+            AUX_aux
+            PART_mark)
+          (ADJ_advcl ADP_case)
+          AUX_aux)
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    (NOUN_compound ADP_fixed VERB_fixed)
+    PUNCT_punct)
+  (NOUN_dislocated (NOUN_nmod (ADP_case VERB_fixed)) ADP_case)
+  (NOUN_nsubj (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+  PUNCT_punct)","['ゲイ', '・', 'ボルグ', 'は', '怪力', '無双', 'の', 'クー', '・', 'フーリン', 'に', 'しか', '扱え', 'ない', 'ほど', '重い', 'と', 'さ', 'れる', '話', 'も', 'ある', 'が', '、', '他', 'の', '人物', 'が', '手', 'に', '持つ', 'こと', 'が', 'あり', '、', '重量', 'に', '関する', '逸話', 'は', '後世', 'の', '彩飾', 'の', '可能性', 'が', '高い', '。']",0.7744882689649131,0.9071236559139784,0.8408059624394457,0.8337262644152185,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,E,test
+持ちつ持たれつね。,397654.0,,N1,1.0,0.6311772,0.8155885934829712,持ちつ持たれつね。,"(VERB_ROOT
+  (NOUN_obl VERB_compound)
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['持ち', 'つ', '持た', 'れ', 'つ', 'ね', '。']",0.7520980054103029,0.9063370895431964,0.8292175474767496,0.8224030704798604,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,E,test
+また、クローバー製玩具は、設定に倣った武器も一応は同梱されたものの、それを手に持たせられないアンバランスさも目立つ。,1078245.0,,N1,1.0,0.63826776,0.8191338777542114,また、クローバー製玩具は、設定に倣った武器も一応は同梱されたものの、それを手に持たせられないアンバランスさも目立つ。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_nsubj NOUN_compound NOUN_compound ADP_case PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj (VERB_acl (NOUN_obl ADP_case) AUX_aux) ADP_case)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark SCONJ_fixed)
+    PUNCT_punct)
+  (ADJ_nsubj
+    (VERB_advcl
+      (PRON_obj ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    PART_mark
+    ADP_case)
+  PUNCT_punct)","['また', '、', 'クローバー', '製', '玩具', 'は', '、', '設定', 'に', '倣っ', 'た', '武器', 'も', '一応', 'は', '同梱', 'さ', 'れ', 'た', 'もの', 'の', '、', 'それ', 'を', '手', 'に', '持た', 'せ', 'られ', 'ない', 'アンバランス', 'さ', 'も', '目立つ', '。']",0.7403019175748964,0.8929028614457831,0.8166023895103398,0.8178681336322756,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,E,test
+そこは社長の住まいとは思えぬ汚い安マンションの一室だった。,1216481.0,,N1,1.0,0.82344294,0.9117214679718018,そこは社長の住まいとは思えぬ汚い安マンションの一室だった。,"(PRON_ROOT
+  ADP_case
+  (VERB_compound
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    AUX_aux
+    (ADJ_dep NOUN_punct)))","['そこ', 'は', '社長', 'の', '住まい', 'と', 'は', '思え', 'ぬ', '汚い', '安', 'マンション', 'の', '一室', 'だっ', 'た', '。']",0.9008361497674712,0.9513888888888888,0.92611251932818,0.9189169936499908,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,E,test
+一方トムは、飲んだくれで乱暴者の父親を持ち、汚いあばら家に住み、金も無い為にパン一つ買う事すら出来ず、常に寒さに震え、飢えと乾きに苛まれていた。,4662805.0,,N1,1.0,0.8500976,0.9250487983226776,一方トムは、飲んだくれで乱暴者の父親を持ち、汚いあばら家に住み、金も無い為にパン一つ買う事すら出来ず、常に寒さに震え、飢えと乾きに苛まれていた。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_nsubj ADP_case PUNCT_punct)
+            (VERB_advcl
+              (PROPN_obl ADP_case)
+              (NOUN_obj (NOUN_nmod ADJ_amod ADP_case) ADP_case)
+              PUNCT_punct)
+            (NOUN_obl ADJ_acl ADP_case)
+            PUNCT_punct)
+          (ADJ_advcl (NOUN_nsubj ADP_case) (SCONJ_mark SCONJ_fixed))
+          (NOUN_obl NOUN_compound NUM_nummod))
+        ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obl ADP_case)
+    (ADJ_obl PART_mark ADP_case)
+    PUNCT_punct)
+  (NOUN_obl (NOUN_obl ADP_case) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['一方', 'トム', 'は', '、', '飲んだくれ', 'で', '乱暴', '者', 'の', '父親', 'を', '持ち', '、', '汚い', 'あばら家', 'に', '住み', '、', '金', 'も', '無い', '為', 'に', 'パン', '一', 'つ', '買う', '事', 'すら', '出来', 'ず', '、', '常', 'に', '寒', 'さ', 'に', '震え', '、', '飢え', 'と', '乾き', 'に', '苛ま', 'れ', 'て', 'い', 'た', '。']",0.8670479800492439,0.9234218077474892,0.8952348938983665,0.910141846110522,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,E,test
+1855年1月26日、ヴィエイユ＝ランテルヌ（古いランタン）通り――ボードレールに言わせると見出し得る最も汚い一角――の下水道の鉄格子で首を吊っているネルヴァルが発見された。,6339042.0,,N1,1.0,0.80775017,0.903875082731247,1855年1月26日、ヴィエイユ＝ランテルヌ（古いランタン）通り――ボードレールに言わせると見出し得る最も汚い一角――の下水道の鉄格子で首を吊っているネルヴァルが発見された。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        NUM_compound
+        NOUN_compound
+        NUM_compound
+        NOUN_compound
+        NUM_nummod
+        PUNCT_punct)
+      (NOUN_obl
+        (NOUN_nmod
+          (NOUN_nmod
+            NOUN_compound
+            SYM_compound
+            PUNCT_punct
+            ADJ_amod
+            NOUN_compound
+            PUNCT_punct
+            NOUN_nmod
+            SYM_dep
+            SYM_dep
+            (PROPN_compound ADP_case))
+          (ADJ_acl
+            (VERB_advcl AUX_aux SCONJ_mark)
+            (VERB_obl VERB_advcl)
+            ADV_advmod)
+          SYM_dep
+          SYM_dep
+          ADP_case)
+        (NOUN_nmod ADP_case)
+        ADP_case)
+      (NOUN_obj ADP_case)
+      (SCONJ_mark VERB_fixed))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['1855', '年', '1', '月', '26', '日', '、', 'ヴィエイユ', '＝', 'ランテルヌ', '（', '古い', 'ランタン', '）', '通り', '―', '―', 'ボードレール', 'に', '言わ', 'せる', 'と', '見出し', '得る', '最も', '汚い', '一角', '―', '―', 'の', '下水道', 'の', '鉄格子', 'で', '首', 'を', '吊っ', 'て', 'いる', 'ネルヴァル', 'が', '発見', 'さ', 'れ', 'た', '。']",0.8244867134239358,0.915850213379816,0.8701684634018759,0.8870217730665615,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,E,test
+東京オリンピックに合わせ、暗くて汚いイメージが強い公共トイレのイメージを刷新すべく、日本財団が著名な建築家やデザイナーを起用して新設するプロジェクトが進行中である。,1046970.0,,N1,1.0,0.7330508,0.866525411605835,東京オリンピックに合わせ、暗くて汚いイメージが強い公共トイレのイメージを刷新すべく、日本財団が著名な建築家やデザイナーを起用して新設するプロジェクトが進行中である。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obj
+      (NOUN_nmod
+        (ADJ_acl
+          (VERB_advcl (NOUN_obl PROPN_compound ADP_case) PUNCT_punct)
+          (NOUN_nsubj (ADJ_acl (ADJ_advcl SCONJ_mark)) ADP_case))
+        ADP_case)
+      ADP_case)
+    VERB_advcl
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj PROPN_compound ADP_case (ADJ_dep AUX_aux))
+      (VERB_advcl
+        (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+        AUX_aux
+        SCONJ_mark)
+      AUX_aux)
+    ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['東京', 'オリンピック', 'に', '合わせ', '、', '暗く', 'て', '汚い', 'イメージ', 'が', '強い', '公共トイレ', 'の', 'イメージ', 'を', '刷新', 'す', 'べく', '、', '日本', '財団', 'が', '著名', 'な', '建築家', 'や', 'デザイナー', 'を', '起用', 'し', 'て', '新設', 'する', 'プロジェクト', 'が', '進行中', 'で', 'ある', '。']",0.7854316505298394,0.9116310160427809,0.84853133328631,0.8575283724460725,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,E,test
+対照的に南部の者達は自由労働者のことを「グリースにまみれた機械工、汚い運転者、拳の小さい（けちな）農夫、および気の触れた理論家達」と呼んでいた。,5684005.0,,N1,1.0,0.7391351,0.8695675432682037,対照的に南部の者達は自由労働者のことを「グリースにまみれた機械工、汚い運転者、拳の小さい（けちな）農夫、および気の触れた理論家達」と呼んでいた。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod
+      (ADJ_acl
+        (ADJ_advcl AUX_cop)
+        (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+        (NOUN_nmod
+          (NOUN_nmod
+            (NOUN_nmod
+              (VERB_acl
+                (NOUN_obj
+                  (NOUN_nmod NOUN_compound ADP_case)
+                  ADP_case)
+                (NOUN_obl PUNCT_punct ADP_case)
+                AUX_aux)
+              NOUN_compound
+              PUNCT_punct)
+            ADJ_acl
+            PUNCT_punct)
+          ADP_case)
+        PUNCT_punct
+        ADJ_advcl
+        PART_mark
+        PUNCT_punct)
+      PUNCT_punct)
+    CCONJ_cc
+    (VERB_acl (NOUN_nmod ADP_case) AUX_aux)
+    NOUN_compound
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['対照的', 'に', '南部', 'の', '者', '達', 'は', '自由', '労働者', 'の', 'こと', 'を', '「', 'グリース', 'に', 'まみれ', 'た', '機械', '工', '、', '汚い', '運転者', '、', '拳', 'の', '小さい', '（', 'けち', 'な', '）', '農夫', '、', 'および', '気', 'の', '触れ', 'た', '理論家', '達', '」', 'と', '呼ん', 'で', 'い', 'た', '。']",0.7549064927555027,0.8978816526610645,0.8263940727082836,0.8479808079882436,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,E,test
+とはいえ、サルコジが「移民とナショナル・アイデンティティ省」設立構想を提示した際には、「そういう（ナショナル・アイデンティティという）表現はあまりにも曖昧で私は全然好きではない。,5204866.0,,N1,1.0,0.7173303,0.8586651384830475,とはいえ、サルコジが「移民とナショナル・アイデンティティ省」設立構想を提示した際には、「そういう（ナショナル・アイデンティティという）表現はあまりにも曖昧で私は全然好きではない。,"(ADJ_ROOT
+  (ADP_dep SCONJ_fixed SCONJ_fixed PUNCT_punct)
+  (VERB_advcl
+    (PROPN_nsubj ADP_case)
+    (NOUN_obj
+      (NOUN_nmod PUNCT_punct ADP_case)
+      NOUN_compound
+      SYM_compound
+      NOUN_compound
+      NOUN_compound
+      PUNCT_punct
+      NOUN_compound
+      ADP_case)
+    AUX_aux
+    AUX_aux
+    (NOUN_case ADP_fixed)
+    ADP_case
+    PUNCT_punct)
+  (ADJ_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (ADV_advmod PUNCT_punct)
+        PUNCT_punct
+        NOUN_compound
+        SYM_compound
+        NOUN_compound
+        ADP_case
+        VERB_advcl
+        PUNCT_punct)
+      ADP_case)
+    (ADJ_advcl AUX_aux ADP_case)
+    AUX_aux)
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (AUX_aux ADP_fixed AUX_fixed)
+  PUNCT_punct)","['と', 'は', 'いえ', '、', 'サルコジ', 'が', '「', '移民', 'と', 'ナショナル', '・', 'アイデンティティ', '省', '」', '設立', '構想', 'を', '提示', 'し', 'た', '際', 'に', 'は', '、', '「', 'そう', 'いう', '（', 'ナショナル', '・', 'アイデンティティ', 'と', 'いう', '）', '表現', 'は', 'あまり', 'に', 'も', '曖昧', 'で', '私', 'は', '全然', '好き', 'で', 'は', 'ない', '。']",0.8424917060934821,0.9075242312834224,0.8750079686884522,0.8668365535857498,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,E,test
+イエ、ダルトリーさん全然老人してなくて、元ファンでないながら尊敬にあたいするというか。,14125.0,,N1,1.0,0.64267087,0.8213354349136353,イエ、ダルトリーさん全然老人してなくて、元ファンでないながら尊敬にあたいするというか。,(NOUN_ROOT (NOUN_nmod PUNCT_punct) PROPN_compound),"['イエ', '、', 'ダルトリー', 'さん', '全然', '老人', 'し', 'て', 'なく', 'て', '、', '元', 'ファン', 'で', 'ない', 'ながら', '尊敬', 'に', 'あたい', 'する', 'と', 'いう', 'か', '。']",0.8886145917008333,0.8989005464605038,0.8937575690806685,0.8575465019971519,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,E,test
+これなどは全然逆な事実を教えるものであるが、その目的は一に満州から日本の勢力を駆逐しようとするところにあったわけである」と述べている。,2878679.0,,N1,1.0,0.73743075,0.86871537566185,これなどは全然逆な事実を教えるものであるが、その目的は一に満州から日本の勢力を駆逐しようとするところにあったわけである」と述べている。,"(VERB_ROOT
+  (NOUN_advcl
+    (PRON_obl ADP_case ADP_case)
+    ADV_advmod
+    (VERB_acl (NOUN_obj (ADJ_acl AUX_aux) ADP_case))
+    (AUX_cop VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_advcl
+    (NOUN_nsubj DET_det ADP_case)
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl
+          (NUM_obl ADP_case)
+          (VERB_advcl
+            (PROPN_obl ADP_case)
+            (NOUN_obj (PROPN_nmod ADP_case) ADP_case)
+            AUX_aux
+            ADP_case))
+        ADP_case)
+      AUX_aux)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['これ', 'など', 'は', '全然', '逆', 'な', '事実', 'を', '教える', 'もの', 'で', 'ある', 'が', '、', 'その', '目的', 'は', '一', 'に', '満州', 'から', '日本', 'の', '勢力', 'を', '駆逐', 'しよう', 'と', 'する', 'ところ', 'に', 'あっ', 'た', 'わけ', 'で', 'ある', '」', 'と', '述べ', 'て', 'いる', '。']",0.8611924487388772,0.8875968144624862,0.8743946316006816,0.8715550036312658,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,E,test
+我々の中では全然重さが違う」と柔道界の論理を振りかざして今回の処分の妥当性を主張した。,7319119.0,,N1,1.0,0.74751234,0.8737561702728271,我々の中では全然重さが違う」と柔道界の論理を振りかざして今回の処分の妥当性を主張した。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (PRON_nmod ADP_case) ADP_case ADP_case)
+    ADV_advmod
+    (NOUN_nsubj ADP_case)
+    PUNCT_punct
+    ADP_case)
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+    SCONJ_mark)
+  (NOUN_obj (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['我々', 'の', '中', 'で', 'は', '全然', '重さ', 'が', '違う', '」', 'と', '柔道', '界', 'の', '論理', 'を', '振りかざし', 'て', '今回', 'の', '処分', 'の', '妥当性', 'を', '主張', 'し', 'た', '。']",0.8262139611734555,0.8759502147974323,0.8510820879854439,0.8624191291291355,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,E,test
+一心不乱に仕事に取り組むのは良いけれど、まわりが全然見えてないね。,256505.0,,N1,1.0,0.70989716,0.8549485802650452,一心不乱に仕事に取り組むのは良いけれど、まわりが全然見えてないね。,"(VERB_ROOT
+  (ADJ_advcl
+    (VERB_advcl
+      (NOUN_obl NOUN_compound ADP_case)
+      (NOUN_obl ADP_case)
+      SCONJ_mark
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['一心', '不乱', 'に', '仕事', 'に', '取り組む', 'の', 'は', '良い', 'けれど', '、', 'まわり', 'が', '全然', '見え', 'て', 'ない', 'ね', '。']",0.7969709656592266,0.8751189736740097,0.8360449696666181,0.8454967749658316,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,E,test
+東京と大阪はライバル同士であるため、それぞれの地域では互いに相手を非難するプロパガンダ放送を流し合っていた。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,A,test
+これまでずっと、両国間では互いに相手を非難するプロパガンダ放送を流し合ってきた。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,A,test
+彼と彼女の関係がうまくいかないときは、私たちは常に相手を責める。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,A,test
+だから、彼らは互いに相手を非難するプロパガンダ放送を流し合っていた。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,A,test
+私たちは互いに相手を尊重し合わなければならない。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,A,test
+私たちはもっとよく合う必要がある。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,E,test
+あの料理は私の口に合わなかったから、もう二度と食べたくない。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,E,test
+彼女は趣味が合う。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,E,test
+その料理は僕たちに合う。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,E,test
+あの仕事はあなたに合う。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,E,test
+なぜなら、彼女は約束の時間に遅れることなく来たのに、上司には別の予定が入ってしまったからだ。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N1,3.0,I,test
+僕はここで二時間ほど調べられた。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N1,3.0,I,test
+この仕事には多くの時間とエネルギーが必要だ。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N1,3.0,I,test
+彼はこのことについてとても長い時間考えていた。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N1,3.0,I,test
+僕たちが会った時、すでに三時間以上経っていた。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N1,3.0,I,test
+音楽に使うものであれば、楽器以外でも音を出す道具はすべて音具という。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,I,test
+彼は手紙を出す前に郵便局で切手を買った。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,I,test
+彼女はその紙切れを封筒に入れて出した。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,I,test
+あなたはその本を出してください。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,I,test
+私は彼女に電話を出してほしい。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,I,test
+私が日本に留学した場合、日本語を学ぶのに苦労すると思います。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,A,test
+何か問題が起きた場合には、冷静に対処することが大切です。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,A,test
+私が何かを壊した場合、それは弁償する必要がある。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,A,test
+彼に電話をかけた場合、すぐに返事が来るとは限らない。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,A,test
+実際に起こる可能性は低いですが、万一起こった場合は速やかに対応してください。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,A,test
+"一日も早く復興できるよう、私たちは力を合わせていきたい。""",,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,E,test
+時間が経つのは本当に早いものだ。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,E,test
+彼はいつも仕事が早く終わるので、助かる。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,E,test
+最も早く人口が20万人に到達した都市であったと思われる。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,E,test
+彼女はいつも私よりも何倍も早く起きていた。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,E,test
+彼は本を開けばいいのに。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N1,7.0,I,test
+窓を開ける1.この本は、日本について学ぶために開かれた。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N1,7.0,I,test
+開いている店はたくさんある。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N1,7.0,I,test
+私たちはいつも何かを開こうとしている。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N1,7.0,I,test
+「このお店、朝7時から開いているんだって」,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N1,7.0,I,test
+彼は何かを持っているようだ。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,I,test
+彼女は私よりたくさんのものを持っている。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,I,test
+favorite dish is sushi.1.右手で持っていたスプーンを左手でも持てるようになったんだ。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,I,test
+何も持たずに生きるなんて考えられない！,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,I,test
+この本を持って帰りたいんだけど？,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,I,test
+この場所はとても汚かった。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,I,test
+ここは本当に汚いところだ。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,I,test
+この店はとても汚くて、食べ物も不味かった。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,I,test
+彼の部屋はとても臭いし、掃除してもすぐに汚くなる。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,I,test
+彼女のアパートはとても汚くて、まるでゴミ捨て場のようだ。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,I,test
+小説家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,A,test
+彼は私にとても親切だったけど、まだ全然好きになれないわ。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,A,test
+彼女はいつも何でもできるような気がしているみたいだけど、実際には全然できないんだ。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,A,test
+この仕事はとても大変で、毎日残業しても全然終わらない。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,A,test
+今日は全然仕事に身が入らなかった。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,A,test
+彼は相手の発言に敏感に反応し、即座に的を得た反論を返した。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,I,test
+相手の心情を察しつつ、適切なアドバイスを提供することが大切です。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,I,test
+ディベートでは相手の弱点を見つけ、巧妙に攻撃することが求められます。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,I,test
+相手の意図を読み取りながら、戦術的な効果的な問いかけをする必要があります。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,I,test
+相手の動きを見極めて、適切なタイミングで反応することが勝利の鍵です。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1.0,I,test
+彼とは趣味も性格も合わないので、友達になることはできなかった。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,A,test
+心と体が合わず、疲れもたまってきた。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,A,test
+彼の提案は私の意見と合わないので、反対しました。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,A,test
+彼女の考え方は私たちの価値観と合わないので、理解するのが難しいです。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,A,test
+このデザインはイメージと合わず、改めて考え直す必要がある。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2.0,A,test
+．彼女との時間はいつも癒しのひとときだ。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N1,3.0,A,test
+．発表までの時間が迫っているので、準備に集中しなければ。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N1,3.0,A,test
+．彼の熱心な練習のおかげで、プレーの時間が格段に向上した。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N1,3.0,A,test
+．会議の時間を変更したいのですが、可能でしょうか。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N1,3.0,A,test
+．彼女の歌声に聞き惚れて、時間を忘れてしまった。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N1,3.0,A,test
+出かける前に、チケットを出しておかなければならない。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,A,test
+彼の提案に賛成して、手を挙げて意見を出した。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,A,test
+レストランで新しいメニューが出されたので、早速試してみた。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,A,test
+学校のプレゼンテーションで、彼は素晴らしいスピーチを出した。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,A,test
+彼は毎朝ランニングして汗をたくさん出す。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4.0,A,test
+私たちが成功するかどうかは、チームの連携力による場合が非常に大きい。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,I,test
+その商品を売るかどうかは、消費者の需要による場合が決め手となる。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,I,test
+受験に合格するかどうかは、過去の試験の結果による場合が多い。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,I,test
+家族の安全を守るためには、地域の治安状況による場合が深く関わる。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,I,test
+旅行の楽しみ方は、目的地の天候による場合がどうしても影響される。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N1,5.0,I,test
+彼はいつも仕事が早い。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,I,test
+私の家族は朝早く起きる習慣がある。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,I,test
+彼女の反応はいつも早い。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,I,test
+そのチームは攻撃が早い。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,I,test
+早い段階で正しい判断を下すことが重要です。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N1,6.0,I,test
+会議は明日の午後3時に開く予定です。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N1,7.0,A,test
+彼女は笑顔でドアを開くと、驚きの表情を見せた。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N1,7.0,A,test
+パーティーの準備が整い、ドアが開くのを待っている。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N1,7.0,A,test
+新しい店が駅前に開くことが決まった。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N1,7.0,A,test
+春の訪れと共に、桜の花が開く様子を楽しみにしています。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N1,7.0,A,test
+彼は常に自信を持って行動する。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,A,test
+学生たちはプレッシャーにも負けずに希望を持って試験に臨んだ。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,A,test
+彼女は大きな夢を持ち続けている。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,A,test
+責任感を持って取り組むことが大切です。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,A,test
+彼は人々に関心を持って話を聞き、理解しようとする。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N1,8.0,A,test
+汚い衣類が山積みになっている部屋で、彼は探し物をしていた。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,A,test
+駅の周りは、たばこの吸い殻やごみで汚い状態だった。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,A,test
+レストランのトイレは、臭いがきつくて汚い印象を与えた。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,A,test
+彼女は手で泥を掴んで、顔に汚い模様を描いた。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,A,test
+町の川は、工場からの排水で汚いままだった。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9.0,A,test
+彼女は全然教えたくなかったが、彼に自分の秘密を打ち明けた。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,I,test
+昨日の試合は全然予想外の結果だった。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,I,test
+その映画は全然感動しなかった。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,I,test
+新しいレストランは全然味気ない料理しか提供していなかった。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,I,test
+彼は全然遅刻しないと言っていたが、いつも遅れてくる。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10.0,I,test
+イスマーイールとシャイバーニー朝の君主ムハンマド・シャイバーニーは、書簡を通して互いに相手の信仰を非難しあい、1510年の秋にイスマーイールはホラーサーン地方に進軍した。,2600027.0,,N3,1.0,0.7827294,0.8913646936416626,イスマーイールとシャイバーニー朝の君主ムハンマド・シャイバーニーは、書簡を通して互いに相手の信仰を非難しあい、1510年の秋にイスマーイールはホラーサーン地方に進軍した。,(NOUN_ROOT (NOUN_nmod ADP_case)),"['イスマーイール', 'と', 'シャイ', 'バーニー', '朝', 'の', '君主', 'ムハンマド', '・', 'シャイ', 'バーニー', 'は', '、', '書簡', 'を', '通し', 'て', '互い', 'に', '相手', 'の', '信仰', 'を', '非難', 'し', 'あい', '、', '1510', '年', 'の', '秋', 'に', 'イスマーイール', 'は', 'ホラーサーン', '地方', 'に', '進軍', 'し', 'た', '。']",1.0,0.8845416700456843,0.942270835022842,0.9168177643322524,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,A,test
+ウクライナにおいては相手を罵倒する表現として「チェルノボグに殺されてしまえ」というものが残っている。,4645554.0,,N3,1.0,0.81924886,0.9096244275569916,ウクライナにおいては相手を罵倒する表現として「チェルノボグに殺されてしまえ」というものが残っている。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (PROPN_obl (ADP_case VERB_fixed SCONJ_fixed) ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    (ADP_case AUX_fixed SCONJ_fixed))
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl PUNCT_punct ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      PUNCT_punct
+      (ADP_case VERB_fixed))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['ウクライナ', 'に', 'おい', 'て', 'は', '相手', 'を', '罵倒', 'する', '表現', 'と', 'し', 'て', '「', 'チェルノボグ', 'に', '殺さ', 'れ', 'て', 'しまえ', '」', 'と', 'いう', 'もの', 'が', '残っ', 'て', 'いる', '。']",0.8659248870590384,0.8798723425068475,0.872898614782943,0.8912615211699673,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,A,test
+宗教戦争では相手の宗教を冒涜し、罵倒することが行われる。,5913173.0,,N3,1.0,0.82307804,0.9115390181541444,宗教戦争では相手の宗教を冒涜し、罵倒することが行われる。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl NOUN_compound ADP_case ADP_case)
+        (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+        AUX_aux
+        PUNCT_punct)
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['宗教', '戦争', 'で', 'は', '相手', 'の', '宗教', 'を', '冒涜', 'し', '、', '罵倒', 'する', 'こと', 'が', '行わ', 'れる', '。']",0.79874081247167,0.8668995900246891,0.8328202012481796,0.8721796097011619,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,A,test
+戦争終結後、双方が捕虜を拘束し続けているとして相手を非難した。,3253499.0,,N3,1.0,0.8275842,0.9137921035289764,戦争終結後、双方が捕虜を拘束し続けているとして相手を非難した。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl NOUN_compound NOUN_compound PUNCT_punct)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux
+      VERB_advcl
+      (SCONJ_mark VERB_fixed)
+      ADP_case)
+    SCONJ_mark)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['戦争', '終結', '後', '、', '双方', 'が', '捕虜', 'を', '拘束', 'し', '続け', 'て', 'いる', 'と', 'し', 'て', '相手', 'を', '非難', 'し', 'た', '。']",0.7544984049519277,0.8337601841325617,0.7941292945422447,0.8539606990356106,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,A,test
+イギリスや、それと文化的なつながりの深い地域の人々の間では、手のひらを自分の方に向ける形でこのサインを示し、相手への敵対、挑発のジェスチャーとする。,5312309.0,,N3,1.0,0.79131025,0.8956551253795624,イギリスや、それと文化的なつながりの深い地域の人々の間では、手のひらを自分の方に向ける形でこのサインを示し、相手への敵対、挑発のジェスチャーとする。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod
+        (PROPN_nmod ADP_case PUNCT_punct)
+        (NOUN_nmod
+          (ADJ_acl
+            (NOUN_nmod
+              (ADJ_acl (PRON_nmod ADP_case) AUX_cop)
+              ADP_case))
+          ADP_case)
+        ADP_case)
+      ADP_case
+      ADP_case
+      PUNCT_punct)
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_obj ADP_case)
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+      ADP_case)
+    (NOUN_obj DET_det ADP_case)
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_nmod ADP_case ADP_case) PUNCT_punct)
+    (NOUN_nmod ADP_case)
+    ADP_case)
+  PUNCT_punct)","['イギリス', 'や', '、', 'それ', 'と', '文化的', 'な', 'つながり', 'の', '深い', '地域', 'の', '人々', 'の', '間', 'で', 'は', '、', '手のひら', 'を', '自分', 'の', '方', 'に', '向ける', '形', 'で', 'この', 'サイン', 'を', '示し', '、', '相手', 'へ', 'の', '敵対', '、', '挑発', 'の', 'ジェスチャー', 'と', 'する', '。']",0.732136339938329,0.8420054567522293,0.7870708983452792,0.8413630118624208,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,A,test
+反射したビームの位相が合っているとき（上図）、結果生じるビームは比較的強くなる。,5518688.0,,N3,1.0,0.8130269,0.9065134525299072,反射したビームの位相が合っているとき（上図）、結果生じるビームは比較的強くなる。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_nsubj
+        (PROPN_nmod (VERB_acl AUX_aux AUX_aux) ADP_case)
+        ADP_case)
+      (SCONJ_mark VERB_fixed))
+    PUNCT_punct
+    NOUN_nmod
+    PUNCT_punct
+    PUNCT_punct)
+  (PROPN_nsubj (VERB_acl ADV_advmod) ADP_case)
+  (ADJ_advcl NOUN_obl)
+  PUNCT_punct)","['反射', 'し', 'た', 'ビーム', 'の', '位相', 'が', '合っ', 'て', 'いる', 'とき', '（', '上図', '）', '、', '結果', '生じる', 'ビーム', 'は', '比較的', '強く', 'なる', '。']",0.7572264804367651,0.9399703557312252,0.8485984180839952,0.8775559353069512,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,I,test
+このように、実際にはピントが合っていてもいなくても点光源からの光が結像面上で結ぶ像は円形となり、この円のことを錯乱円と呼ぶ。,3082868.0,,N3,1.0,0.86436796,0.9321839809417723,このように、実際にはピントが合っていてもいなくても点光源からの光が結像面上で結ぶ像は円形となり、この円のことを錯乱円と呼ぶ。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_advcl DET_det AUX_cop PUNCT_punct)
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_obl ADP_case ADP_case)
+        (NOUN_nsubj ADP_case)
+        (SCONJ_mark VERB_fixed)
+        SCONJ_mark
+        ADP_case)
+      AUX_aux
+      SCONJ_mark
+      ADP_case)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_nsubj
+          (NOUN_nmod NOUN_compound ADP_case ADP_case)
+          ADP_case)
+        (NOUN_obl NOUN_compound ADP_case))
+      ADP_case)
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod DET_det ADP_case) ADP_case)
+  (NOUN_obl NUM_compound ADP_case)
+  PUNCT_punct)","['この', 'よう', 'に', '、', '実際', 'に', 'は', 'ピント', 'が', '合っ', 'て', 'い', 'て', 'も', 'い', 'なく', 'て', 'も', '点', '光源', 'から', 'の', '光', 'が', '結像', '面上', 'で', '結ぶ', '像', 'は', '円形', 'と', 'なり', '、', 'この', '円', 'の', 'こと', 'を', '錯乱', '円', 'と', '呼ぶ', '。']",0.7124215493608368,0.8907909140667761,0.8016062317138064,0.8668951063277894,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,I,test
+一方、下の写真では花の「シベ」の部分にしか焦点が合っておらず、花びらでさえ奥側と手前側はぼけている。,3082863.0,,N3,1.0,0.86158144,0.9307907223701476,一方、下の写真では花の「シベ」の部分にしか焦点が合っておらず、花びらでさえ奥側と手前側はぼけている。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    (NOUN_obl
+      (NOUN_nmod
+        (NOUN_nmod ADP_case)
+        PUNCT_punct
+        PUNCT_punct
+        ADP_case)
+      ADP_case
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_advcl AUX_case ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['一方', '、', '下', 'の', '写真', 'で', 'は', '花', 'の', '「', 'シベ', '」', 'の', '部分', 'に', 'しか', '焦点', 'が', '合っ', 'て', 'おら', 'ず', '、', '花びら', 'で', 'さえ', '奥側', 'と', '手前', '側', 'は', 'ぼけ', 'て', 'いる', '。']",0.6883075184987089,0.8583104615059562,0.7733089900023326,0.8520498561862402,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,I,test
+調整前の段階では、それぞれの主鏡を構成する18個のセグメントは位置や焦点が合っていないため、画像にはぼやけた18個の撮像が見られる。,2980465.0,,N3,1.0,0.9209631,0.9604815542697906,調整前の段階では、それぞれの主鏡を構成する18個のセグメントは位置や焦点が合っていないため、画像にはぼやけた18個の撮像が見られる。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod NOUN_compound ADP_case)
+        ADP_case
+        ADP_case
+        PUNCT_punct)
+      (NOUN_dislocated
+        (VERB_acl
+          (NOUN_obj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+          AUX_aux)
+        (NOUN_nmod NUM_nummod ADP_case)
+        ADP_case)
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      (SCONJ_mark VERB_fixed)
+      AUX_aux)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl ADP_case ADP_case) AUX_aux)
+    (NOUN_nmod NUM_nummod ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['調整', '前', 'の', '段階', 'で', 'は', '、', 'それぞれ', 'の', '主', '鏡', 'を', '構成', 'する', '18', '個', 'の', 'セグメント', 'は', '位置', 'や', '焦点', 'が', '合っ', 'て', 'い', 'ない', 'ため', '、', '画像', 'に', 'は', 'ぼやけ', 'た', '18', '個', 'の', '撮像', 'が', '見', 'られる', '。']",0.6469913793357442,0.8221478288503139,0.7345696040930291,0.8475255791814098,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,I,test
+被写界深度が深く、近景から遠景まですべてピントが合って見える。,3082886.0,,N3,1.0,0.8710805,0.93554025888443,被写界深度が深く、近景から遠景まですべてピントが合って見える。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj NOUN_compound NOUN_compound ADP_case)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    ADV_advmod
+    (NOUN_nsubj ADP_case)
+    SCONJ_mark)
+  PUNCT_punct)","['被写', '界', '深度', 'が', '深く', '、', '近景', 'から', '遠景', 'まで', 'すべて', 'ピント', 'が', '合っ', 'て', '見える', '。']",0.6272891596958792,0.8188511550091483,0.7230701573525138,0.8293052081184719,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,I,test
+だからホテルの部屋で2〜3時間ほどで書いたんだ」と語っている。,1585715.0,,N3,1.0,0.84299743,0.921498715877533,だからホテルの部屋で2〜3時間ほどで書いたんだ」と語っている。,"(VERB_ROOT
+  (VERB_advcl
+    (AUX_cc SCONJ_fixed)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obl NUM_compound SYM_compound NUM_nummod ADP_case ADP_case)
+    AUX_aux
+    (SCONJ_mark AUX_fixed)
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['だ', 'から', 'ホテル', 'の', '部屋', 'で', '2', '〜', '3', '時間', 'ほど', 'で', '書い', 'た', 'ん', 'だ', '」', 'と', '語っ', 'て', 'いる', '。']",0.7685387167177341,0.9389051808406648,0.8537219487791994,0.8876103323283662,1,俺はそこで二時間ほど調べられた。,時間,N3,13.0,A,test
+コルトーは「1日あたり午前中を中心に、5時間以内の練習をするように」と言ったという。,984915.0,,N3,1.0,0.7772539,0.8886269629001617,コルトーは「1日あたり午前中を中心に、5時間以内の練習をするように」と言ったという。,"(VERB_ROOT
+  (VERB_ccomp
+    (PROPN_nsubj ADP_case)
+    (VERB_ccomp
+      (NOUN_obl
+        (NOUN_obj
+          PUNCT_punct
+          NUM_compound
+          NOUN_compound
+          NOUN_compound
+          ADP_case)
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obj
+        (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+        ADP_case)
+      AUX_aux
+      AUX_aux
+      PUNCT_punct
+      ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['コルトー', 'は', '「', '1', '日', 'あたり', '午前中', 'を', '中心', 'に', '、', '5', '時間', '以内', 'の', '練習', 'を', 'する', 'よう', 'に', '」', 'と', '言っ', 'た', 'と', 'いう', '。']",0.7372501408991285,0.9203947368421052,0.8288224388706169,0.8587247008853893,1,俺はそこで二時間ほど調べられた。,時間,N3,13.0,A,test
+同じ頃、副官ピンチュはオーバーザルツベルクのベルクホーフに到着し、3時間待たされた後にヒトラーにヘスの書簡を見せた。,1397884.0,,N3,1.0,0.8139175,0.9069587588310242,同じ頃、副官ピンチュはオーバーザルツベルクのベルクホーフに到着し、3時間待たされた後にヒトラーにヘスの書簡を見せた。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl ADJ_amod PUNCT_punct)
+        (PROPN_nsubj NOUN_compound ADP_case)
+        (NOUN_obl (PROPN_nmod ADP_case) ADP_case)
+        AUX_aux
+        PUNCT_punct)
+      (NOUN_obl NUM_nummod)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  (PROPN_obl ADP_case)
+  (NOUN_obj (PROPN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['同じ', '頃', '、', '副官', 'ピンチュ', 'は', 'オーバーザルツベルク', 'の', 'ベルクホーフ', 'に', '到着', 'し', '、', '3', '時間', '待たさ', 'れ', 'た', '後', 'に', 'ヒトラー', 'に', 'ヘス', 'の', '書簡', 'を', '見せ', 'た', '。']",0.7112651725746282,0.9011566424322538,0.8062109075034409,0.8565848331672326,1,俺はそこで二時間ほど調べられた。,時間,N3,13.0,A,test
+別室で3時間ほど取り調べられた。,790113.0,,N3,1.0,0.85288835,0.926444172859192,別室で3時間ほど取り調べられた。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_obl NUM_nummod ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['別室', 'で', '3', '時間', 'ほど', '取り調べ', 'られ', 'た', '。']",0.6573305663468962,0.8758740299638916,0.7666022981553939,0.8465232355072929,1,俺はそこで二時間ほど調べられた。,時間,N3,13.0,A,test
+それから僕は二時間半しゃべりにしゃべった。,1342729.0,,N3,1.0,0.81314087,0.9065704345703124,それから僕は二時間半しゃべりにしゃべった。,"(VERB_ROOT
+  (PRON_dep ADP_fixed)
+  (PRON_nsubj ADP_case)
+  (ADJ_obl (NOUN_obl NUM_compound NOUN_compound) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['それ', 'から', '僕', 'は', '二', '時間', '半', 'しゃべり', 'に', 'しゃべっ', 'た', '。']",0.6368187736272003,0.8685867703724847,0.7527027719998425,0.8296366032850775,1,俺はそこで二時間ほど調べられた。,時間,N3,13.0,A,test
+5電鳴楽器は、最終的に電磁気力によって音を出す楽器で、電気楽器と電子楽器に分けられる。,3371010.0,,N3,1.0,0.89720786,0.9486039280891418,5電鳴楽器は、最終的に電磁気力によって音を出す楽器で、電気楽器と電子楽器に分けられる。,(NOUN_ROOT NUM_compound NOUN_compound),"['5', '電', '鳴', '楽器', 'は', '、', '最終的', 'に', '電磁', '気力', 'に', 'よっ', 'て', '音', 'を', '出す', '楽器', 'で', '、', '電気', '楽器', 'と', '電子', '楽器', 'に', '分け', 'られる', '。']",1.0,0.8786378205128205,0.9393189102564102,0.943961419172776,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,E,test
+観客たちはそれぞれ叩いて音を出すための道具を持ちたいと考えるようになったのである。,2711558.0,,N3,1.0,0.8886629,0.9443314373493196,観客たちはそれぞれ叩いて音を出すための道具を持ちたいと考えるようになったのである。,"(VERB_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (VERB_advcl
+    (VERB_ccomp
+      (VERB_advcl ADV_advmod SCONJ_mark)
+      (NOUN_obj
+        (NOUN_nmod (NOUN_obj ADP_case) VERB_compound ADP_fixed)
+        ADP_case)
+      AUX_aux
+      ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  (SCONJ_mark AUX_fixed VERB_fixed)
+  PUNCT_punct)","['観客', 'たち', 'は', 'それぞれ', '叩い', 'て', '音', 'を', '出す', 'ため', 'の', '道具', 'を', '持ち', 'たい', 'と', '考える', 'よう', 'に', 'なっ', 'た', 'の', 'で', 'ある', '。']",0.9138094638592734,0.8549686433385688,0.8843890535989212,0.9143602454741204,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,E,test
+有簧（リード）気鳴楽器は、一枚の薄板または一対の薄板に対して向けられた奏者の息によって音を出す楽器である。,1192889.0,,N3,1.0,0.8877429,0.9438714385032654,有簧（リード）気鳴楽器は、一枚の薄板または一対の薄板に対して向けられた奏者の息によって音を出す楽器である。,(NOUN_ROOT NOUN_nmod PROPN_obl),"['有', '簧（リード）', '気鳴', '楽器', 'は', '、', '一', '枚', 'の', '薄板', 'また', 'は', '一', '対', 'の', '薄板', 'に', '対し', 'て', '向け', 'られ', 'た', '奏者', 'の', '息', 'に', 'よっ', 'て', '音', 'を', '出す', '楽器', 'で', 'ある', '。']",0.9269785716998162,0.7918083536833537,0.8593934626915849,0.9016324505974253,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,E,test
+広義には内部にぶら下げた舌（ぜつ）という分銅を振動させて音を出す器具も含めて「鐘」という。,2344541.0,,N3,1.0,0.890944,0.945472002029419,広義には内部にぶら下げた舌（ぜつ）という分銅を振動させて音を出す器具も含めて「鐘」という。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (VERB_advcl
+          (NOUN_obj
+            (VERB_acl
+              (NOUN_obl ADP_case)
+              AUX_aux
+              PUNCT_punct
+              (ADP_case VERB_fixed))
+            ADP_case)
+          AUX_aux
+          AUX_aux
+          SCONJ_mark)
+        (NOUN_obj ADP_case))
+      ADP_case)
+    SCONJ_mark)
+  (NOUN_obl PUNCT_punct PUNCT_punct ADP_case)
+  PUNCT_punct)","['広義', 'に', 'は', '内部', 'に', 'ぶら下げ', 'た', '舌（ぜつ）', 'と', 'いう', '分銅', 'を', '振動', 'さ', 'せ', 'て', '音', 'を', '出す', '器具', 'も', '含め', 'て', '「', '鐘', '」', 'と', 'いう', '。']",0.878905597427573,0.7966821135091469,0.8377938554683599,0.8916329287488894,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,E,test
+縄文時代には既に土鈴（どれい）と呼ばれる音を出す用途を意図して作られた器物が存在した。,2344550.0,,N3,1.0,0.8802746,0.9401372969150544,縄文時代には既に土鈴（どれい）と呼ばれる音を出す用途を意図して作られた器物が存在した。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl NOUN_compound ADP_case ADP_case)
+      (VERB_advcl
+        (NOUN_obj
+          (VERB_acl
+            (NOUN_obj
+              (VERB_acl ADV_advmod (ADJ_obl ADP_case) AUX_aux)
+              ADP_case))
+          ADP_case)
+        AUX_aux
+        SCONJ_mark)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['縄文', '時代', 'に', 'は', '既に', '土鈴（どれい）', 'と', '呼ば', 'れる', '音', 'を', '出す', '用途', 'を', '意図', 'し', 'て', '作ら', 'れ', 'た', '器物', 'が', '存在', 'し', 'た', '。']",0.8393000839889655,0.8025472265703393,0.8209236552796524,0.8805304760973534,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,E,test
+例4の場合でも、「（イ）に相当する10人の一部は、この薬のおかげで治ったかもしれない」という可能性が残る。,791889.0,,N3,1.0,0.6972343,0.8486171364784241,例4の場合でも、「（イ）に相当する10人の一部は、この薬のおかげで治ったかもしれない」という可能性が残る。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        (NUM_nmod NOUN_compound ADP_case)
+        ADP_case
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl
+        (NOUN_nmod
+          (VERB_acl
+            (NOUN_obl PUNCT_punct PUNCT_punct PUNCT_punct ADP_case)
+            AUX_aux)
+          NUM_nummod
+          ADP_case)
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl (NOUN_nmod DET_det ADP_case) ADP_case)
+      AUX_aux
+      (PART_mark ADP_fixed VERB_fixed AUX_fixed)
+      PUNCT_punct
+      (ADP_case VERB_fixed))
+    ADP_case)
+  PUNCT_punct)","['例', '4', 'の', '場合', 'で', 'も', '、', '「', '（', 'イ', '）', 'に', '相当', 'する', '10', '人', 'の', '一部', 'は', '、', 'この', '薬', 'の', 'おかげ', 'で', '治っ', 'た', 'か', 'も', 'しれ', 'ない', '」', 'と', 'いう', '可能性', 'が', '残る', '。']",0.8246765439549278,0.9234330484330484,0.8740547961939882,0.8613359663362061,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,A,test
+しかしながら、そのような存在に初めて直面した場合でも、簡単に受け入れられる。,1007745.0,,N3,1.0,0.6843303,0.8421651422977448,しかしながら、そのような存在に初めて直面した場合でも、簡単に受け入れられる。,"(VERB_ROOT
+  CCONJ_cc
+  SCONJ_dep
+  PUNCT_punct
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl (NOUN_acl DET_det AUX_cop) ADP_case)
+      ADV_advmod
+      AUX_aux
+      AUX_aux)
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (ADJ_advcl AUX_aux)
+  AUX_aux
+  PUNCT_punct)","['しかし', 'ながら', '、', 'その', 'よう', 'な', '存在', 'に', '初めて', '直面', 'し', 'た', '場合', 'で', 'も', '、', '簡単', 'に', '受け入れ', 'られる', '。']",0.8183865388769884,0.894192932562858,0.8562897357199233,0.849227439008834,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,A,test
+これは団体戦の場合も同じである。,969247.0,,N3,1.0,0.7008808,0.8504404127597809,これは団体戦の場合も同じである。,"(ADJ_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['これ', 'は', '団体戦', 'の', '場合', 'も', '同じ', 'で', 'ある', '。']",0.7730514567611876,0.8857673732906309,0.8294094150259093,0.8399249138928451,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,A,test
+その場合には、おそらく、パルチザン達は持ちこたえられなかったであろう。,978917.0,,N3,1.0,0.7213366,0.8606683015823364,その場合には、おそらく、パルチザン達は持ちこたえられなかったであろう。,"(VERB_ROOT
+  (NOUN_obl DET_det ADP_case ADP_case PUNCT_punct)
+  (ADV_advmod PUNCT_punct)
+  (NOUN_nsubj NOUN_compound ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['その', '場合', 'に', 'は', '、', 'おそらく', '、', 'パルチザン', '達', 'は', '持ちこたえ', 'られ', 'なかっ', 'た', 'で', 'あろう', '。']",0.7304857697974118,0.877785520154932,0.8041356449761718,0.8324019732792541,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,A,test
+一旦屈服してしまい、他者の支配を許してしまい、独立が失われてしまうと、たいていの場合、その独立を回復することはかなり困難になる。,646799.0,,N3,1.0,0.6982765,0.8491382598876953,一旦屈服してしまい、他者の支配を許してしまい、独立が失われてしまうと、たいていの場合、その独立を回復することはかなり困難になる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        ADV_advmod
+        AUX_aux
+        (SCONJ_mark VERB_fixed)
+        PUNCT_punct)
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      (SCONJ_mark VERB_fixed)
+      PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl (ADV_advmod ADP_case) PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obj DET_det ADP_case) AUX_aux)
+    ADP_case)
+  (ADJ_advcl ADV_advmod AUX_aux)
+  PUNCT_punct)","['一旦', '屈服', 'し', 'て', 'しまい', '、', '他者', 'の', '支配', 'を', '許し', 'て', 'しまい', '、', '独立', 'が', '失わ', 'れ', 'て', 'しまう', 'と', '、', 'たいてい', 'の', '場合', '、', 'その', '独立', 'を', '回復', 'する', 'こと', 'は', 'かなり', '困難', 'に', 'なる', '。']",0.7249229041134188,0.8661977356035204,0.7955603198584695,0.8223492898730824,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,A,test
+地下1～3階には駐車場が整備されており、エレベータに自動車を乗り入れる方式の駐車場としては県下で最も早く作られたもののひとつである。,10314289.0,,N3,1.0,0.82772315,0.9138615727424622,地下1～3階には駐車場が整備されており、エレベータに自動車を乗り入れる方式の駐車場としては県下で最も早く作られたもののひとつである。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl
+      NOUN_compound
+      NUM_compound
+      SYM_compound
+      NUM_nummod
+      ADP_case
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_obj ADP_case) NOUN_compound ADP_case)
+    (ADP_case AUX_fixed SCONJ_fixed)
+    ADP_case)
+  (NOUN_nmod
+    (VERB_acl
+      (ADJ_advcl (NOUN_obl NOUN_compound ADP_case) ADV_advmod)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['地下', '1', '～', '3', '階', 'に', 'は', '駐車場', 'が', '整備', 'さ', 'れ', 'て', 'おり', '、', 'エレベータ', 'に', '自動車', 'を', '乗り入れる', '方式', 'の', '駐車場', 'と', 'し', 'て', 'は', '県', '下', 'で', '最も', '早く', '作ら', 'れ', 'た', 'もの', 'の', 'ひと', 'つ', 'で', 'ある', '。']",0.7969098458197708,0.9333333333333332,0.865121589576552,0.8894915811595071,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,A,test
+2006年12月時点で1000万人を超える顧客を持ち、バングラデシュで最も早く普及した携帯電話ネットワークになっている。,7693025.0,,N3,1.0,0.8363966,0.91819828748703,2006年12月時点で1000万人を超える顧客を持ち、バングラデシュで最も早く普及した携帯電話ネットワークになっている。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_obl
+          NUM_compound
+          NOUN_compound
+          NUM_compound
+          NOUN_compound
+          ADP_case)
+        (NOUN_obj NUM_compound ADP_case))
+      ADP_case)
+    PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl
+      (PROPN_obl ADP_case)
+      (ADJ_advcl ADV_advmod)
+      AUX_aux
+      AUX_aux)
+    NOUN_compound
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['2006', '年', '12', '月', '時点', 'で', '1000万', '人', 'を', '超える', '顧客', 'を', '持ち', '、', 'バングラデシュ', 'で', '最も', '早く', '普及', 'し', 'た', '携帯電話', 'ネットワーク', 'に', 'なっ', 'て', 'いる', '。']",0.7142808016147746,0.9057413264640668,0.8100110640394207,0.8641046757632254,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,A,test
+岡山県の鍾乳洞ではもっとも早く存在が認知されたといわれ、新見市内の洞窟群の中でも早くから開発が行われた。,7101028.0,,N3,1.0,0.82524085,0.9126204252243042,岡山県の鍾乳洞ではもっとも早く存在が認知されたといわれ、新見市内の洞窟群の中でも早くから開発が行われた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_ccomp
+      (NOUN_obl
+        (PROPN_nmod ADP_case)
+        NOUN_compound
+        ADP_case
+        ADP_case)
+      (ADJ_advcl ADV_advmod)
+      (NOUN_nsubj ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (ADJ_obl
+    (NOUN_obl
+      (NOUN_nmod
+        (NOUN_nmod PROPN_compound ADP_case)
+        NOUN_compound
+        ADP_case)
+      ADP_case
+      ADP_case)
+    ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['岡山県', 'の', '鍾乳', '洞', 'で', 'は', 'もっとも', '早く', '存在', 'が', '認知', 'さ', 'れ', 'た', 'と', 'いわ', 'れ', '、', '新見市', '内', 'の', '洞窟', '群', 'の', '中', 'で', 'も', '早く', 'から', '開発', 'が', '行わ', 'れ', 'た', '。']",0.7147027184712083,0.8855592289938244,0.8001309737325164,0.8563756994784103,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,A,test
+林口線で最も早く開設された駅の一つである。,6479026.0,,N3,1.0,0.8792364,0.9396182000637054,林口線で最も早く開設された駅の一つである。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_acl
+      (NOUN_obl PROPN_compound ADP_case)
+      (ADJ_advcl ADV_advmod)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['林口', '線', 'で', '最も', '早く', '開設', 'さ', 'れ', 'た', '駅', 'の', '一', 'つ', 'で', 'ある', '。']",0.6867911362928272,0.8560594375883781,0.7714252869406026,0.855521743502154,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,A,test
+1532年にパナマから上陸したスペイン人の征服者フランシスコ・ピサロによって建設され、ペルーで最も早く建設されたヨーロッパ型の都市となった。,5290513.0,,N3,1.0,0.8594799,0.9297399520874025,1532年にパナマから上陸したスペイン人の征服者フランシスコ・ピサロによって建設され、ペルーで最も早く建設されたヨーロッパ型の都市となった。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl
+        (PROPN_obl
+          (VERB_acl
+            (NOUN_obl NUM_nummod ADP_case)
+            (PROPN_obl ADP_case)
+            AUX_aux
+            AUX_aux)
+          (PROPN_nmod ADP_case)
+          PROPN_compound
+          PROPN_compound
+          SYM_compound
+          (ADP_case VERB_fixed SCONJ_fixed))
+        AUX_aux
+        AUX_aux
+        PUNCT_punct)
+      (ADJ_advcl (PROPN_obl ADP_case) ADV_advmod)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    (NOUN_nmod PROPN_compound ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['1532', '年', 'に', 'パナマ', 'から', '上陸', 'し', 'た', 'スペイン人', 'の', '征服者', 'フランシスコ', '・', 'ピサロ', 'に', 'よっ', 'て', '建設', 'さ', 'れ', '、', 'ペルー', 'で', '最も', '早く', '建設', 'さ', 'れ', 'た', 'ヨーロッパ', '型', 'の', '都市', 'と', 'なっ', 'た', '。']",0.6716795276302104,0.8345013428832758,0.7530904352567431,0.8414151936720727,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,A,test
+また、当駅に発着する井高野方面の列車は、今里筋線の途中駅で唯一、進行方向に向かって左側の扉が開く。,6092701.0,,N3,1.0,0.92195475,0.9609773755073548,また、当駅に発着する井高野方面の列車は、今里筋線の途中駅で唯一、進行方向に向かって左側の扉が開く。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (VERB_acl (NOUN_obl NOUN_compound ADP_case) AUX_aux)
+      PROPN_compound
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod PROPN_compound NOUN_compound ADP_case)
+    ADP_case)
+  (ADV_advmod PUNCT_punct)
+  (VERB_advcl (NOUN_obl NOUN_compound ADP_case) SCONJ_mark)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  PUNCT_punct)","['また', '、', '当', '駅', 'に', '発着', 'する', '井高野', '方面', 'の', '列車', 'は', '、', '今里', '筋', '線', 'の', '途中駅', 'で', '唯一', '、', '進行', '方向', 'に', '向かっ', 'て', '左側', 'の', '扉', 'が', '開く', '。']",0.5515390200443673,0.8972901002506266,0.7244145601474969,0.8426959678274258,1,当駅ではすべてのドアが開く。,開く,N3,17.0,E,test
+無人駅であるが、ワンマン列車は全てのドアが開く。,2270831.0,,N3,1.0,0.9520286,0.9760142862796783,無人駅であるが、ワンマン列車は全てのドアが開く。,"(VERB_ROOT
+  (NOUN_advcl (AUX_cop VERB_fixed) SCONJ_mark PUNCT_punct)
+  (NOUN_dislocated NOUN_compound ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  PUNCT_punct)","['無人駅', 'で', 'ある', 'が', '、', 'ワンマン', '列車', 'は', '全て', 'の', 'ドア', 'が', '開く', '。']",0.5886082447766938,0.8289472816424844,0.7087777632095891,0.8423960247446337,1,当駅ではすべてのドアが開く。,開く,N3,17.0,E,test
+平日朝ラッシュ時の貝塚行きのみ全てのドアが開く。,3302866.0,,N3,1.0,0.94856685,0.9742834270000458,平日朝ラッシュ時の貝塚行きのみ全てのドアが開く。,"(VERB_ROOT
+  (ADV_obl NOUN_compound)
+  (NOUN_nsubj
+    (NOUN_nmod (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+    (NOUN_nmod ADP_case)
+    ADP_case)
+  PUNCT_punct)","['平日', '朝', 'ラッシュ時', 'の', '貝塚', '行き', 'のみ', '全て', 'の', 'ドア', 'が', '開く', '。']",0.5757345409470032,0.7865876380187817,0.6811610894828924,0.8277222582414692,1,当駅ではすべてのドアが開く。,開く,N3,17.0,E,test
+当駅は終日有人駅であるため諫早駅、島原駅と同様に2両編成ではホーム側の全てのドアが開く。,2621281.0,,N3,1.0,0.9541096,0.9770548045635224,当駅は終日有人駅であるため諫早駅、島原駅と同様に2両編成ではホーム側の全てのドアが開く。,"(VERB_ROOT
+  (PROPN_advcl
+    (NOUN_nmod
+      (NOUN_acl
+        (NOUN_nsubj NOUN_compound ADP_case)
+        NOUN_compound
+        NOUN_compound
+        (AUX_cop VERB_fixed)))
+    PUNCT_punct)
+  (ADJ_advcl (ADV_obl ADP_case) AUX_aux)
+  (NOUN_obl NUM_compound NOUN_compound ADP_case ADP_case)
+  (NOUN_nsubj
+    (NOUN_nmod NOUN_compound ADP_case)
+    (NOUN_nmod ADP_case)
+    ADP_case)
+  PUNCT_punct)","['当', '駅', 'は', '終日', '有人', '駅', 'で', 'ある', 'ため', '諫早駅', '、', '島原駅', 'と', '同様', 'に', '2', '両', '編成', 'で', 'は', 'ホーム', '側', 'の', '全て', 'の', 'ドア', 'が', '開く', '。']",0.550003542503009,0.7627749612370123,0.6563892518700106,0.8167220282167664,1,当駅ではすべてのドアが開く。,開く,N3,17.0,E,test
+6号線のホーム階は地下4階にあり、単式ホーム1面1線を有しており、電車の進行方向左側のドアが開く。,4163983.0,,N3,1.0,0.8940065,0.9470032453536988,6号線のホーム階は地下4階にあり、単式ホーム1面1線を有しており、電車の進行方向左側のドアが開く。,"(VERB_ROOT
+  NUM_dep
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+      (NOUN_obl NOUN_compound NUM_nummod ADP_case)
+      PUNCT_punct)
+    (NOUN_obj
+      NOUN_compound
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      NUM_nummod
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (NOUN_nmod ADP_case)
+      NOUN_compound
+      NOUN_compound
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['6', '号線', 'の', 'ホーム', '階', 'は', '地下', '4', '階', 'に', 'あり', '、', '単式', 'ホーム', '1', '面', '1', '線', 'を', '有し', 'て', 'おり', '、', '電車', 'の', '進行', '方向', '左側', 'の', 'ドア', 'が', '開く', '。']",0.5599960760402953,0.7625009057328261,0.6612484908865608,0.8041258681201298,1,当駅ではすべてのドアが開く。,開く,N3,17.0,E,test
+寸軸のように太いペンでは5本全ての指で抱えて持つからである。,917626.0,,N3,1.0,0.840932,0.9204660058021544,寸軸のように太いペンでは5本全ての指で抱えて持つからである。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (ADJ_acl
+        (NOUN_advcl (NOUN_nmod NOUN_compound ADP_case) AUX_cop))
+      ADP_case
+      ADP_case)
+    (NOUN_obl
+      (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+      ADP_case)
+    SCONJ_mark)
+  SCONJ_mark
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['寸', '軸', 'の', 'よう', 'に', '太い', 'ペン', 'で', 'は', '5', '本', '全て', 'の', '指', 'で', '抱え', 'て', '持つ', 'から', 'で', 'ある', '。']",0.7782479412251383,0.9438775510204082,0.8610627461227732,0.8907643759624639,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,I,test
+牽制の触球は右手にミットを持つほうが素早く行うことができる。,620829.0,,N3,1.0,0.7585306,0.879265308380127,牽制の触球は右手にミットを持つほうが素早く行うことができる。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl ADP_case) (NOUN_obj ADP_case))
+    ADP_case)
+  ADJ_advcl
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['牽制', 'の', '触', '球', 'は', '右手', 'に', 'ミット', 'を', '持つ', 'ほう', 'が', '素早く', '行う', 'こと', 'が', 'できる', '。']",0.7711848496805737,0.9328358208955224,0.852010335288048,0.8656378218340874,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,I,test
+鉛筆で筆記する際には通常、削られていない部分で先端に近い部分を親指、人差し指、中指の3つの指で持つ。,750509.0,,N3,1.0,0.83620787,0.9181039333343506,鉛筆で筆記する際には通常、削られていない部分で先端に近い部分を親指、人差し指、中指の3つの指で持つ。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_compound (NOUN_obl ADP_case))
+      AUX_aux
+      ADP_fixed
+      ADP_fixed)
+    (NOUN_obl
+      (VERB_acl
+        (ADV_advmod PUNCT_punct)
+        AUX_aux
+        (SCONJ_mark VERB_fixed)
+        AUX_aux)
+      ADP_case)
+    (NOUN_obj (ADJ_acl (NOUN_obl ADP_case)) ADP_case)
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_nmod PUNCT_punct) ADP_case)
+    (NOUN_nmod NUM_nummod ADP_case)
+    ADP_case)
+  PUNCT_punct)","['鉛筆', 'で', '筆記', 'する', '際', 'に', 'は', '通常', '、', '削ら', 'れ', 'て', 'い', 'ない', '部分', 'で', '先端', 'に', '近い', '部分', 'を', '親指', '、', '人差し指', '、', '中指', 'の', '3', 'つ', 'の', '指', 'で', '持つ', '。']",0.7208273579707904,0.9004709583030135,0.810649158136902,0.8643765457356263,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,I,test
+箸（はし）またはチョップスティックス（、）とは、二本一対になった棒状のものを片手で持つ食器のことであり、食べ物を挟んで移動させることが出来る。,834032.0,,N3,1.0,0.7804635,0.8902317583560944,箸（はし）またはチョップスティックス（、）とは、二本一対になった棒状のものを片手で持つ食器のことであり、食べ物を挟んで移動させることが出来る。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_obl
+      SYM_nmod
+      (CCONJ_cc ADP_fixed)
+      NOUN_compound
+      PUNCT_punct
+      PUNCT_punct
+      PUNCT_punct
+      ADP_case
+      ADP_case
+      PUNCT_punct)
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obj
+          (NOUN_nmod
+            (VERB_acl
+              (NOUN_obl
+                NUM_compound
+                NOUN_compound
+                NUM_nummod
+                ADP_case)
+              AUX_aux)
+            ADP_case)
+          ADP_case)
+        (NOUN_obl ADP_case))
+      ADP_case)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['箸（はし）', 'また', 'は', 'チョップ', 'スティックス', '（', '、', '）', 'と', 'は', '、', '二', '本', '一', '対', 'に', 'なっ', 'た', '棒状', 'の', 'もの', 'を', '片手', 'で', '持つ', '食器', 'の', 'こと', 'で', 'あり', '、', '食べ物', 'を', '挟ん', 'で', '移動', 'さ', 'せる', 'こと', 'が', '出来る', '。']",0.7101137307282905,0.8876637283387856,0.7988887295335381,0.8445602439448162,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,I,test
+片刃のものが多く、右利き用の片刃包丁の場合、右手に包丁を持つと刃先は左側に偏る特徴がある。,835568.0,,N3,1.0,0.7895665,0.8947832584381104,片刃のものが多く、右利き用の片刃包丁の場合、右手に包丁を持つと刃先は左側に偏る特徴がある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (ADJ_advcl
+          (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+          PUNCT_punct)
+        (NOUN_obl
+          (NOUN_nmod
+            (NOUN_nmod NOUN_compound ADP_case)
+            NOUN_compound
+            ADP_case)
+          PUNCT_punct)
+        (NOUN_obl ADP_case)
+        (NOUN_obj ADP_case)
+        SCONJ_mark)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl ADP_case))
+    ADP_case)
+  PUNCT_punct)","['片刃', 'の', 'もの', 'が', '多く', '、', '右利き', '用', 'の', '片刃', '包丁', 'の', '場合', '、', '右手', 'に', '包丁', 'を', '持つ', 'と', '刃先', 'は', '左側', 'に', '偏る', '特徴', 'が', 'ある', '。']",0.7053105555737057,0.8729646784813673,0.7891376170275365,0.8419604377328234,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,I,test
+"カープの地元・旧広島市民球場時代は、平日に子供や女性が球場に来るというイメージはなく、汚い野次が飛び交う""男の世界""だった。",9349853.0,,N3,1.0,0.72533166,0.8626658320426941,"カープの地元・旧広島市民球場時代は、平日に子供や女性が球場に来るというイメージはなく、汚い野次が飛び交う""男の世界""だった。",(SYM_ROOT (NOUN_nmod ADP_case) NOUN_compound),"['カープ', 'の', '地元', '・', '旧', '広島', '市民', '球場', '時代', 'は', '、', '平日', 'に', '子供', 'や', '女性', 'が', '球場', 'に', '来る', 'と', 'いう', 'イメージ', 'は', 'なく', '、', '汚い', '野次', 'が', '飛び交う', '""', '男', 'の', '世界', '""', 'だっ', 'た', '。']",0.9074097194787116,0.9429824561403508,0.9251960878095312,0.8939309599261126,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,I,test
+材木置き場みたいな汚い所なんや。,2585759.0,,N3,1.0,0.8470401,0.9235200583934784,材木置き場みたいな汚い所なんや。,"(NOUN_ROOT
+  (NOUN_acl NOUN_compound AUX_aux AUX_cop)
+  ADJ_acl
+  AUX_cop
+  SCONJ_mark
+  AUX_aux
+  PUNCT_punct)","['材木', '置き場', 'みたい', 'な', '汚い', '所', 'な', 'ん', 'や', '。']",0.8344136425721383,0.9328358208955224,0.8836247317338304,0.9035723950636544,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,I,test
+ただ、駅施設は全般的に古く、汚いことが多い。,609239.0,,N3,1.0,0.7782565,0.8891282379627228,ただ、駅施設は全般的に古く、汚いことが多い。,"(ADJ_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (ADJ_advcl
+    (NOUN_nsubj NOUN_compound ADP_case)
+    (ADJ_advcl AUX_cop)
+    PUNCT_punct)
+  (NOUN_nsubj ADJ_acl ADP_case)
+  PUNCT_punct)","['ただ', '、', '駅', '施設', 'は', '全般的', 'に', '古く', '、', '汚い', 'こと', 'が', '多い', '。']",0.8477623768416247,0.9195927529260862,0.8836775648838555,0.8864029014232891,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,I,test
+ツェフェリンは心の代わりに石がある泥棒で、汚い家で一人暮らしをしている。,12509751.0,,N3,1.0,0.81841475,0.9092073738574982,ツェフェリンは心の代わりに石がある泥棒で、汚い家で一人暮らしをしている。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_nsubj ADP_case))
+    AUX_cop
+    PUNCT_punct)
+  (NOUN_obl ADJ_acl ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['ツェフェリン', 'は', '心', 'の', '代わり', 'に', '石', 'が', 'ある', '泥棒', 'で', '、', '汚い', '家', 'で', '一人暮らし', 'を', 'し', 'て', 'いる', '。']",0.8210228402535387,0.9064837275116232,0.863753283882581,0.8864803288700396,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,I,test
+こんな汚い団地」などと言われ、追い返されてしまう。,10679470.0,,N3,1.0,0.785135,0.8925674855709076,こんな汚い団地」などと言われ、追い返されてしまう。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl PRON_nmod ADJ_amod PUNCT_punct ADP_case ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['こんな', '汚い', '団地', '」', 'など', 'と', '言わ', 'れ', '、', '追い返さ', 'れ', 'て', 'しまう', '。']",0.7823897985875036,0.9048197492163008,0.8436047739019022,0.8680861297364049,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,I,test
+これは全然別の仕方でしなければならない。,284010.0,,N3,1.0,0.83220273,0.9161013662815094,これは全然別の仕方でしなければならない。,"(AUX_ROOT
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl (ADJ_nmod ADP_case) ADP_case)
+  (AUX_aux SCONJ_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['これ', 'は', '全然', '別', 'の', '仕方', 'で', 'し', 'なけれ', 'ば', 'なら', 'ない', '。']",0.7677122494185366,0.96875,0.8682311247092682,0.8921662454953888,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,I,test
+全然別個でいくということですか。,31578.0,,N3,1.0,0.78299344,0.8914967179298401,全然別個でいくということですか。,"(NOUN_ROOT
+  (VERB_acl ADV_advmod (ADJ_advcl AUX_aux) (ADP_case VERB_fixed))
+  AUX_cop
+  PART_mark
+  PUNCT_punct)","['全然', '別個', 'で', 'いく', 'と', 'いう', 'こと', 'です', 'か', '。']",0.7619440096022162,0.9523809523809524,0.8571624809915843,0.8743295994607122,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,I,test
+変えるのと変わるのでは全然違うと思います」と語っている。,6116504.0,,N3,1.0,0.76562524,0.8828126192092896,変えるのと変わるのでは全然違うと思います」と語っている。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_ccomp
+      (VERB_advcl
+        (VERB_advcl SCONJ_mark ADP_case)
+        (SCONJ_mark AUX_fixed)
+        ADP_case)
+      ADV_advmod
+      ADP_case)
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['変える', 'の', 'と', '変わる', 'の', 'で', 'は', '全然', '違う', 'と', '思い', 'ます', '」', 'と', '語っ', 'て', 'いる', '。']",0.7504164492455526,0.9247023809523808,0.8375594150989667,0.8601860171541281,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,I,test
+また2021年（令和3年）1月26日の朝日新聞は、現職事務次官の発言として「かつての事務次官会議が復活したように見えるが、中身は全然違う。,5375173.0,,N3,1.0,0.7504702,0.8752351105213165,また2021年（令和3年）1月26日の朝日新聞は、現職事務次官の発言として「かつての事務次官会議が復活したように見えるが、中身は全然違う。,"(VERB_ROOT
+  CCONJ_cc
+  (PROPN_nsubj
+    (NOUN_nmod
+      NUM_nummod
+      PUNCT_punct
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      PUNCT_punct
+      NUM_compound
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod NOUN_compound ADP_case)
+      (ADP_case AUX_fixed SCONJ_fixed))
+    (VERB_advcl
+      (NOUN_nsubj
+        (ADV_advmod PUNCT_punct ADP_case)
+        NOUN_compound
+        ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  PUNCT_punct)","['また', '2021', '年', '（', '令和', '3', '年', '）', '1', '月', '26', '日', 'の', '朝日新聞', 'は', '、', '現職', '事務次官', 'の', '発言', 'と', 'し', 'て', '「', 'かつて', 'の', '事務次官', '会議', 'が', '復活', 'し', 'た', 'よう', 'に', '見える', 'が', '、', '中身', 'は', '全然', '違う', '。']",0.752647444427622,0.9011890166196466,0.8269182305236342,0.8510766705224754,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,I,test
+それは全然自分の普段の仕事と違う作品を見ても分かるし、楽しめる。,108113.0,,N3,1.0,0.7671963,0.8835981488227844,それは全然自分の普段の仕事と違う作品を見ても分かるし、楽しめる。,"(VERB_ROOT
+  (VERB_advcl
+    (PRON_nsubj ADP_case)
+    (VERB_advcl
+      ADV_advmod
+      (NOUN_obj
+        (VERB_acl
+          (NOUN_obl
+            (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+            ADP_case))
+        ADP_case)
+      SCONJ_mark
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  PUNCT_punct)","['それ', 'は', '全然', '自分', 'の', '普段', 'の', '仕事', 'と', '違う', '作品', 'を', '見', 'て', 'も', '分かる', 'し', '、', '楽しめる', '。']",0.7299384791710979,0.89268911557634,0.811313797373719,0.8474559730982517,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,I,test
+このような複雑な状況下では、各国政府同士も互いに相手を非難したり牽制したりするなどして、緊張感を高めている。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,E,test
+（この文章での”相手”は会社）,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,E,test
+（この文章での”相手”は学校）,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,E,test
+（この文章での”相手”は温泉）,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,E,test
+（この文章での”相手”は服）,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,E,test
+私にはその人に合う洋服が分からない。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,E,test
+彼と彼女は性格が合わない。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,E,test
+彼女は服選びに時間がかかり、店員さんとも意見が合わなかった。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,E,test
+ここまで来るのに時間がかかったけど、やっと自分に合う服を見つけたんだ。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,E,test
+もし合わないところがあったら言ってね。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,E,test
+僕はそこに一時間以上いた。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N3,13.0,E,test
+私はその店で三時間くらい過ごした。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N3,13.0,E,test
+彼は家から駅までの道を歩くのに、約四時間かかった。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N3,13.0,E,test
+私たちは今日、とても長い時間ここに座っていた。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N3,13.0,E,test
+僕は今までで一番長い待ち時間を過ごした。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N3,13.0,E,test
+私は今日学校に持っていくものを出している。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,I,test
+彼女は料理を作るためにいろいろな食材を出した。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,I,test
+「出してくれ」,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,I,test
+「出さないでください」,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,I,test
+「出してくれる？」,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,I,test
+彼女が結婚した場合、私たちは一緒に暮らさなければならない。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,E,test
+彼と別れる場合、別れたほうがいい。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,E,test
+彼はその問題が解決されない場合、辞任することになる。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,E,test
+彼女はあまり話さない方がいい場合もある。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,E,test
+雨が降った場合、傘を持って行くべきだ。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,E,test
+今日の朝、子供はいつもよりも早く起きた。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,I,test
+その映画はストーリーが非常に早く展開するので、飽きずに最後まで見ることができる。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,I,test
+「東京は最も早く人口が20万人に到達した都市であったと思われる」,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,I,test
+「京都は日本の首都であるため、他の都市よりも早く人口が20万人に到達した可能性が高い」,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,I,test
+最大の都市であり、本州からの移住者によって開拓されたため、他の都市よりも早く人口が20万人に到達した可能性が高い」,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,I,test
+「開いている」という意味で使われます。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N3,17.0,I,test
+電車内のすべてのドアが開きました。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N3,17.0,I,test
+開いている店は多い。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N3,17.0,I,test
+開いたままにしておくべきだった。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N3,17.0,I,test
+「開かれた会議室で議論することによって、より良いアイデアや解決策を生み出すことができます。」,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N3,17.0,I,test
+何かを持っているときは、そのことしか考えられない。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,A,test
+私は彼女より多くのものを持っている。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,A,test
+彼はいつも新しいゲームを持っている。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,A,test
+右手で持っていたスプーンを左手でも持とうとしたら、うまくいかなかった。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,A,test
+今度は右手で持たないように気をつけてみたけど、やっぱり左手で持ってしまった。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,A,test
+あの路地はとても汚く、歩くのが怖かった。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,E,test
+貝の破片を敷き詰めた細い路地は、汚くて貧しい人々が住む場所に似ている。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,E,test
+「ここは本当に汚いんだ！,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,E,test
+貝がらを敷いた細い汚い路地で、貧しい人々が住むような家並みだ。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,E,test
+街はとても汚かった。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,E,test
+この映画には「全然」という言葉がよく出てくる。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,E,test
+先生は私たちに全然期待していなかった。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,E,test
+僕は全然小説家じゃないよ。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,E,test
+私は全然本を読まないんだ。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,E,test
+彼は全然仕事ができない。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,E,test
+彼は相手の発言に敏感に反応した。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,I,test
+相手を信頼できるかどうかを見極める必要がある。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,I,test
+相手の意見を尊重することが大切だ。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,I,test
+彼は相手の心情を理解しようとして努力した。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,I,test
+相手の弱点を突くことによって勝利を手にした。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11.0,I,test
+彼とは趣味が合うので、よく一緒に遊びます。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,A,test
+食べ物と好みが合わない友人と一緒に食事するのは難しい。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,A,test
+話し合いの結果、意見が合ったのでプロジェクトを進めることになった。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,A,test
+二人の考え方が全く合わず、意見の対立が生じた。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,A,test
+彼との意見が合わなくて、議論が続いている。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12.0,A,test
+電車遅延のおかげで、学校に着くのに１時間もかかってしまいました。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N3,13.0,I,test
+昨日の新作映画の上映時間は2時間半でした。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N3,13.0,I,test
+インターネットで一時間遊ぶつもりが、気がつけば４時間も経っていました。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N3,13.0,I,test
+家族で海に行ったので、泳ぐのに３時間ほどかかりました。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N3,13.0,I,test
+インターネットのサーバーがダウンしていて、復旧までしばらく時間がかかる見込みです。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N3,13.0,I,test
+彼は毎朝ランニングを出すことで健康を維持している。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,A,test
+私たちはプレゼンテーションで新製品を出す予定です。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,A,test
+彼女は急いで仕事の申請書を出しました。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,A,test
+弟はテストの結果に驚きを出しました。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,A,test
+家族で美味しい料理を出しながら楽しい時間を過ごしました。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14.0,A,test
+私たちが成功するかどうかは、チームの団結力による場合が非常に大きい。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,I,test
+その商品を売るかどうかは、消費者の需要による場合が決め手となる。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,I,test
+友達の結婚式に行くかどうかは、私のスケジュールによる場合だ。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,I,test
+この仕事を引き受けるかどうかは、報酬の条件による場合があります。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,I,test
+外出するかどうかは、天候の状況による場合もある。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N3,15.0,I,test
+彼はいつも仕事が早い。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,E,test
+私の家は駅から歩いて5分で、便利で早い。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,E,test
+彼女は頭が良くて物事の理解が早い。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,E,test
+電車の時間が近いので、早く行かないと。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,E,test
+夏が早く終わってしまったような気がします。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16.0,E,test
+会議は午後2時に始まる予定ですが、時間が遅れた場合には別の会議室が開く可能性があります。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N3,17.0,A,test
+春になると公園には美しい花が開くので、散歩するのが楽しみです。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N3,17.0,A,test
+パソコンの新しいソフトウェアをインストールするために、セットアップウィザードを開いてください。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N3,17.0,A,test
+山の景色は美しく、眺めが開く。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N3,17.0,A,test
+今度のイベントで新しい交流のチャンスが開くかもしれない。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N3,17.0,A,test
+彼は常に自信を持って行動します。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,E,test
+学生たちはプロジェクトの責任を持ちます。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,E,test
+私は多忙なスケジュールを持っています。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,E,test
+彼は高い目標を持ち続けています。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,E,test
+彼は常に自信を持って行動する。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18.0,E,test
+汚い服を着た古い男性が、ゴミ箱をあさっていた。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,A,test
+子供たちは汚い水たまりで遊んでいるのがよく見かける。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,A,test
+パーティーの後、台所は汚い皿やカップで一杯だった。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,A,test
+電車の中には、汚い座席や床が目についた。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,A,test
+この地域の公園は、汚い壁で囲まれている。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N3,19.0,A,test
+彼女は全然教えてくれないので、私は自分で新しいレシピを試した。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,A,test
+昨日のミーティングは全然順調に進まなかった。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,A,test
+この道は全然狭くて、車が通るのが難しい。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,A,test
+彼は全然分からないと言っていたが、実はすでに知っていた。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,A,test
+この本は全然面白くなく、途中で読むのをやめた。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20.0,A,test
+喧嘩の相手はだれですか。,243279.0,,N5,1.0,0.5213645,0.7606822550296783,喧嘩の相手はだれですか。,"(PRON_ROOT
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  AUX_cop
+  PART_mark
+  PUNCT_punct)","['喧嘩', 'の', '相手', 'は', 'だれ', 'です', 'か', '。']",0.8333333333333334,0.971153846153846,0.9022435897435898,0.8314629223866341,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,A,test
+相手も武装してると思います。,76192.0,,N5,1.0,0.6576558,0.8288278877735138,相手も武装してると思います。,"(VERB_ROOT
+  (VERB_ccomp (NOUN_nsubj ADP_case) AUX_aux AUX_aux ADP_case)
+  AUX_aux
+  PUNCT_punct)","['相手', 'も', '武装', 'し', 'てる', 'と', '思い', 'ます', '。']",0.724988171201902,0.9642857142857144,0.8446369427438081,0.8367324152586609,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,A,test
+あなたが話したかった相手は誰？,312991.0,,N5,1.0,0.47618726,0.7380936294794083,あなたが話したかった相手は誰？,"(PRON_ROOT
+  (NOUN_nsubj
+    (VERB_acl (PRON_nsubj ADP_case) AUX_aux AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['あなた', 'が', '話し', 'たかっ', 'た', '相手', 'は', '誰', '？']",0.7124028819024535,0.9482954545454544,0.830349168223954,0.7842213988516811,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,A,test
+相手は子供じゃありませんか。,100463.0,,N5,1.0,0.49694657,0.7484732866287231,相手は子供じゃありませんか。,"(NOUN_ROOT
+  (NOUN_nsubj ADP_case)
+  (AUX_cop VERB_fixed AUX_fixed AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['相手', 'は', '子供', 'じゃ', 'あり', 'ませ', 'ん', 'か', '。']",0.6448408131715448,0.9277712264150944,0.7863060197933196,0.7673896532110214,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,A,test
+電話の相手はトムだったの？,347367.0,,N5,1.0,0.45190117,0.7259505838155746,電話の相手はトムだったの？,"(ADJ_ROOT
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  AUX_cop
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['電話', 'の', '相手', 'は', 'トム', 'だっ', 'た', 'の', '？']",0.5892954224937648,0.9000979262672811,0.744696674380523,0.7353236290980488,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,A,test
+その服、サイズが合う？,383356.0,,N5,1.0,0.4797578,0.7398788928985596,その服、サイズが合う？,"(VERB_ROOT
+  (NOUN_nsubj (NOUN_nmod DET_det PUNCT_punct) ADP_case)
+  PUNCT_punct)","['その', '服', '、', 'サイズ', 'が', '合う', '？']",0.637253305758653,0.9666666666666668,0.8019599862126598,0.7709194395556097,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,I,test
+合ってると思いました。,86756.0,,N5,1.0,0.51615614,0.7580780684947968,合ってると思いました。,(VERB_ROOT (VERB_ccomp AUX_aux ADP_case) AUX_aux AUX_aux PUNCT_punct),"['合っ', 'てる', 'と', '思い', 'まし', 'た', '。']",0.6624177685862176,0.9594594594594594,0.8109386140228385,0.7845083412588176,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,I,test
+目と目が合った。,159844.0,,N5,1.0,0.66732347,0.8336617350578308,目と目が合った。,"(VERB_ROOT
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['目', 'と', '目', 'が', '合っ', 'た', '。']",0.5429733241417731,0.9255681818181818,0.7342707529799775,0.7839662440189041,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,I,test
+これはサイズが合いません。,284382.0,,N5,1.0,0.5908803,0.795440137386322,これはサイズが合いません。,"(VERB_ROOT
+  (PRON_dislocated ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['これ', 'は', 'サイズ', 'が', '合い', 'ませ', 'ん', '。']",0.5132346556367946,0.9124386252045826,0.7128366404206886,0.7541383889035054,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,I,test
+君の時計は合ってる？,246038.0,,N5,1.0,0.6063699,0.8031849563121796,君の時計は合ってる？,"(VERB_ROOT
+  (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['君', 'の', '時計', 'は', '合っ', 'てる', '？']",0.4794358568379958,0.8921490246242405,0.6857924407311182,0.7444886985216489,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,I,test
+１時間ぐらいですかね。,138441.0,,N5,1.0,0.76040196,0.880200982093811,１時間ぐらいですかね。,"(NOUN_ROOT
+  NUM_nummod
+  ADP_case
+  AUX_cop
+  PART_mark
+  PART_mark
+  PUNCT_punct)","['１', '時間', 'ぐらい', 'です', 'か', 'ね', '。']",0.8333333333333334,0.9722222222222222,0.9027777777777778,0.8914893799357944,1,俺はそこで二時間ほど調べられた。,時間,N5,23.0,E,test
+３時間待った。,341372.0,,N5,1.0,0.84810334,0.92405167222023,３時間待った。,(VERB_ROOT (NOUN_obl NUM_nummod) AUX_aux PUNCT_punct),"['３', '時間', '待っ', 'た', '。']",0.7222222222222223,0.9331521739130436,0.8276871980676329,0.8758694351439316,1,俺はそこで二時間ほど調べられた。,時間,N5,23.0,E,test
+私は一時間その本をさがした。,226623.0,,N5,1.0,0.8222679,0.9111339449882508,私は一時間その本をさがした。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obj (NOUN_nmod NUM_nummod) DET_det ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私', 'は', '一', '時間', 'その', '本', 'を', 'さがし', 'た', '。']",0.6666666666666667,0.914576802507837,0.7906217345872519,0.8508778397877513,1,俺はそこで二時間ほど調べられた。,時間,N5,23.0,E,test
+昨日彼氏と三時間も電話で話しちゃった。,307766.0,,N5,1.0,0.7853594,0.8926796913146973,昨日彼氏と三時間も電話で話しちゃった。,"(VERB_ROOT
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj NUM_nummod ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['昨日', '彼氏', 'と', '三', '時間', 'も', '電話', 'で', '話し', 'ちゃっ', 'た', '。']",0.6571428571428571,0.9090277777777778,0.7830853174603174,0.8378825043875073,1,俺はそこで二時間ほど調べられた。,時間,N5,23.0,E,test
+３時間待たなければいけなかった。,341371.0,,N5,1.0,0.822865,0.9114325046539308,３時間待たなければいけなかった。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obl NUM_nummod) AUX_aux SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['３', '時間', '待た', 'なけれ', 'ば', 'いけ', 'なかっ', 'た', '。']",0.6124681464097461,0.8952546296296297,0.7538613880196878,0.8326469463368092,1,俺はそこで二時間ほど調べられた。,時間,N5,23.0,E,test
+処方今日は薬を出します。,29698.0,,N5,1.0,0.45839986,0.7291999310255051,処方今日は薬を出します。,NOUN_ROOT,"['処方', '今日', 'は', '薬', 'を', '出し', 'ます', '。']",1.0,0.9213541666666668,0.9606770833333332,0.8449385071794192,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,I,test
+大声を出さなくてもいいよ。,345402.0,,N5,1.0,0.57161963,0.7858098149299622,大声を出さなくてもいいよ。,"(VERB_ROOT
+  (NOUN_obj ADP_case)
+  AUX_aux
+  (SCONJ_mark ADP_fixed AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['大声', 'を', '出さ', 'なく', 'て', 'も', 'いい', 'よ', '。']",0.919070554454875,0.9263478818998716,0.9227092181773732,0.8542595165536677,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,I,test
+声を出して読んでみましょう。,147725.0,,N5,1.0,0.59688985,0.798444926738739,声を出して読んでみましょう。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['声', 'を', '出し', 'て', '読ん', 'で', 'み', 'ましょう', '。']",0.7933127092080113,0.9141304347826088,0.85372157199531,0.8260832493670245,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,I,test
+大きな声を出しましょう。,147821.0,,N5,1.0,0.593506,0.7967529892921448,大きな声を出しましょう。,(VERB_ROOT (NOUN_obj ADJ_amod ADP_case) AUX_aux PUNCT_punct),"['大きな', '声', 'を', '出し', 'ましょう', '。']",0.7109919479092669,0.8807696991840215,0.7958808235466441,0.7963169064193945,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,I,test
+耳は出しますか。,218429.0,,N5,1.0,0.53636456,0.7681822776794434,耳は出しますか。,(VERB_ROOT (NOUN_nsubj ADP_case) AUX_aux PART_mark PUNCT_punct),"['耳', 'は', '出し', 'ます', 'か', '。']",0.6804289372198966,0.8714400921658987,0.7759345146928976,0.7720583961861704,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,I,test
+私の場合、使わないと思います。,117807.0,,N5,1.0,0.65928584,0.8296429216861725,私の場合、使わないと思います。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl (PRON_nmod ADP_case) PUNCT_punct)
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私', 'の', '場合', '、', '使わ', 'ない', 'と', '思い', 'ます', '。']",0.8332482093664936,0.9368131868131868,0.8850306980898401,0.8573368098880063,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,A,test
+雨の場合私は行かない。,255586.0,,N5,1.0,0.6167817,0.8083908557891846,雨の場合私は行かない。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADP_case))
+  (PRON_nsubj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['雨', 'の', '場合', '私', 'は', '行か', 'ない', '。']",0.6776072292890305,0.9015151515151516,0.7895611904020909,0.7989760230956378,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,A,test
+私の場合は秋が一番好きです。,231326.0,,N5,1.0,0.58311224,0.7915561199188232,私の場合は秋が一番好きです。,"(ADJ_ROOT
+  (NOUN_obl (PRON_nmod ADP_case) ADP_case)
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  AUX_aux
+  PUNCT_punct)","['私', 'の', '場合', 'は', '秋', 'が', '一番', '好き', 'です', '。']",0.6155171739737926,0.8772202244742291,0.7463686992240108,0.768962409571417,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,A,test
+この場合もうまく行くでしょう。,119789.0,,N4,0.6,0.6769938,0.6384968936443329,この場合もうまく行くでしょう。,"(VERB_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  ADJ_advcl
+  AUX_aux
+  PUNCT_punct)","['この', '場合', 'も', 'うまく', '行く', 'でしょう', '。']",0.580738875812847,0.8790130905367851,0.7298759831748161,0.6841864384095745,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,A,test
+運動量がの場合は有名なの式になっている。,547051.0,,N4,0.6,0.57672065,0.5883603274822236,運動量がの場合は有名なの式になっている。,"(VERB_ROOT
+  (NOUN_obl
+    (ADJ_nmod
+      (NOUN_obl (NOUN_nmod ADP_case ADP_case) ADP_case)
+      AUX_aux
+      ADP_case)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['運動量', 'が', 'の', '場合', 'は', '有名', 'な', 'の', '式', 'に', 'なっ', 'て', 'いる', '。']",0.6047225589708279,0.8693040016015303,0.7370132802861791,0.6626868038842013,1,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,A,test
+できるだけ早く手紙をくださいね。,268204.0,,N5,1.0,0.6133637,0.8066818416118622,できるだけ早く手紙をくださいね。,"(VERB_ROOT
+  (ADJ_advcl ADV_advcl)
+  (NOUN_obj ADP_case)
+  PART_mark
+  PUNCT_punct)","['できるだけ', '早く', '手紙', 'を', 'ください', 'ね', '。']",0.7003882687915236,0.97,0.8351941343957618,0.820937988003812,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,A,test
+トムは私より３ヶ月早く生まれました。,373566.0,,N5,1.0,0.634547,0.8172734975814819,トムは私より３ヶ月早く生まれました。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  (ADJ_advcl (NOUN_obl NUM_nummod))
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['トム', 'は', '私', 'より', '３', 'ヶ月', '早く', '生まれ', 'まし', 'た', '。']",0.6833688061139986,0.9583333333333334,0.820851069723666,0.8190622836525739,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,A,test
+早く終わるからいいのですが。,151427.0,,N5,1.0,0.5683996,0.7841998040676117,早く終わるからいいのですが。,"(ADJ_ROOT
+  (VERB_advcl ADJ_advcl SCONJ_mark)
+  (SCONJ_mark AUX_fixed)
+  SCONJ_mark
+  PUNCT_punct)","['早く', '終わる', 'から', 'いい', 'の', 'です', 'が', '。']",0.7305732919458883,0.9488636363636364,0.8397184641547624,0.811959134111187,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,A,test
+なぜこんなに早く来たの？,265212.0,,N5,1.0,0.6612982,0.8306491076946259,なぜこんなに早く来たの？,"(VERB_ROOT
+  ADV_advmod
+  (ADJ_advcl (ADJ_advcl AUX_aux))
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['なぜ', 'こんな', 'に', '早く', '来', 'た', 'の', '？']",0.6718995314254108,0.9375,0.8046997657127054,0.8176744367036657,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,A,test
+もっと早く来よう？,339149.0,,N5,1.0,0.58770216,0.7938510775566101,もっと早く来よう？,(VERB_ROOT (ADJ_advcl ADV_advmod) PUNCT_punct),"['もっと', '早く', '来よう', '？']",0.6603047300488247,0.9330357142857144,0.7966702221672695,0.7952606498619398,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,A,test
+私はドアを開きます。,326241.0,,N5,1.0,0.64929736,0.8246486783027649,私はドアを開きます。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私', 'は', 'ドア', 'を', '開き', 'ます', '。']",0.75,0.9558823529411764,0.8529411764705882,0.8387949273866766,1,当駅ではすべてのドアが開く。,開く,N5,27.0,E,test
+この扉はどうやって開くの？,396345.0,,N5,1.0,0.7013707,0.8506853580474854,この扉はどうやって開くの？,"(VERB_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  (VERB_advcl ADV_advmod SCONJ_mark)
+  PART_mark
+  PUNCT_punct)","['この', '扉', 'は', 'どう', 'やっ', 'て', '開く', 'の', '？']",0.6821888773994387,0.9423076923076924,0.8122482848535655,0.8314668214505254,1,当駅ではすべてのドアが開く。,開く,N5,27.0,E,test
+でもドア開きません。,147078.0,,N5,1.0,0.66582495,0.8329124748706818,でもドア開きません。,"(VERB_ROOT
+  (CCONJ_dep ADP_fixed)
+  NOUN_obl
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['で', 'も', 'ドア', '開き', 'ませ', 'ん', '。']",0.6744277720330527,0.9242424242424244,0.7993350981377385,0.8161237865042101,1,当駅ではすべてのドアが開く。,開く,N5,27.0,E,test
+窓が開いたら、閉めないといけません。,349530.0,,N5,1.0,0.59526783,0.7976339161396027,窓が開いたら、閉めないといけません。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl (NOUN_nsubj ADP_case) AUX_aux PUNCT_punct)
+    AUX_aux
+    SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['窓', 'が', '開い', 'たら', '、', '閉め', 'ない', 'と', 'いけ', 'ませ', 'ん', '。']",0.6200435184976686,0.9025793650793652,0.7613114417885168,0.7794726789640598,1,当駅ではすべてのドアが開く。,開く,N5,27.0,E,test
+何時に開いて何時に閉まりますか。,253483.0,,N5,1.0,0.5794269,0.789713442325592,何時に開いて何時に閉まりますか。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['何時', 'に', '開い', 'て', '何時', 'に', '閉まり', 'ます', 'か', '。']",0.583481246904938,0.8879708331535574,0.7357260400292477,0.7627197411774198,1,当駅ではすべてのドアが開く。,開く,N5,27.0,E,test
+私は杖を持つ。,64865.0,,N5,1.0,0.7061591,0.8530795574188232,私は杖を持つ。,(VERB_ROOT (PRON_nsubj ADP_case) (NOUN_obj ADP_case) PUNCT_punct),"['私', 'は', '杖', 'を', '持つ', '。']",0.8571428571428572,0.9464809384164224,0.9018118977796398,0.8774457275992316,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,E,test
+それを逆さまに持ってはいけません。,270472.0,,N5,1.0,0.7474929,0.8737464547157288,それを逆さまに持ってはいけません。,"(VERB_ROOT
+  (PRON_obj ADP_case)
+  (VERB_advcl ADP_case)
+  SCONJ_mark
+  ADP_case
+  VERB_advcl
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['それ', 'を', '逆さま', 'に', '持っ', 'て', 'は', 'いけ', 'ませ', 'ん', '。']",0.8084446881439576,0.9370842572062084,0.872764472675083,0.8732554636954059,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,E,test
+箸の正しい持ち方って知ってる？,358404.0,,N5,1.0,0.7440987,0.8720493614673615,箸の正しい持ち方って知ってる？,"(VERB_ROOT
+  (NOUN_obl (ADJ_acl (NOUN_nmod ADP_case)) VERB_nmod ADP_case)
+  AUX_aux
+  PUNCT_punct)","['箸', 'の', '正しい', '持ち', '方', 'って', '知っ', 'てる', '？']",0.7689221120141907,0.9331921447824412,0.8510571283983159,0.8615532449328387,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,E,test
+私は左手で箸を持ちます。,378102.0,,N5,1.0,0.75848323,0.8792416155338287,私は左手で箸を持ちます。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私', 'は', '左手', 'で', '箸', 'を', '持ち', 'ます', '。']",0.6957963103752106,0.9142614601018676,0.8050288852385391,0.8421352503861839,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,E,test
+箸の持ち方が分かりません。,371541.0,,N5,1.0,0.7418766,0.8709383010864258,箸の持ち方が分かりません。,"(VERB_ROOT
+  (NOUN_nsubj (VERB_acl (NOUN_nmod ADP_case)) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['箸', 'の', '持ち', '方', 'が', '分かり', 'ませ', 'ん', '。']",0.6797856748787352,0.877290339166682,0.7785380070227086,0.8247381540545672,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,E,test
+汚い想像しないでね。,87563.0,,N5,1.0,0.58993965,0.7949698269367218,汚い想像しないでね。,(VERB_ROOT ADJ_acl AUX_aux AUX_aux SCONJ_mark PART_mark PUNCT_punct),"['汚い', '想像', 'し', 'ない', 'で', 'ね', '。']",0.7624978749043703,0.9615384615384616,0.8620181682214159,0.8284939975790688,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,E,test
+その汚い犬を台所に入れないで。,278002.0,,N5,1.0,0.68100756,0.8405037820339203,その汚い犬を台所に入れないで。,"(VERB_ROOT
+  (NOUN_obj DET_det ADJ_acl ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['その', '汚い', '犬', 'を', '台所', 'に', '入れ', 'ない', 'で', '。']",0.6415288643543879,0.9299242424242424,0.7857265533893152,0.8131151677116177,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,E,test
+汚い手で私の本に触らないで。,254591.0,,N5,1.0,0.613549,0.8067744970321655,汚い手で私の本に触らないで。,"(VERB_ROOT
+  (NOUN_obl ADJ_acl ADP_case)
+  (NOUN_obl (PRON_nmod ADP_case) ADP_case)
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['汚い', '手', 'で', '私', 'の', '本', 'に', '触ら', 'ない', 'で', '。']",0.5546249008050561,0.8963606490820741,0.7254927749435651,0.7661336359878653,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,E,test
+そんな汚い手で触らないで。,364457.0,,N5,1.0,0.62447894,0.8122394680976868,そんな汚い手で触らないで。,"(VERB_ROOT
+  (NOUN_obl PRON_nmod ADJ_acl ADP_case)
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['そんな', '汚い', '手', 'で', '触ら', 'ない', 'で', '。']",0.4843650845249007,0.8315277777777778,0.6579464311513392,0.735092949624513,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,E,test
+それらは暗くて、汚い建物の中で星の様に輝きました。,270578.0,,N4,0.6,0.81286466,0.706432330608368,それらは暗くて、汚い建物の中で星の様に輝きました。,"(VERB_ROOT
+  (ADJ_advcl (NOUN_nsubj PRON_nmod ADP_case) SCONJ_mark PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADJ_acl ADP_case) ADP_case)
+  (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['それ', 'ら', 'は', '暗く', 'て', '、', '汚い', '建物', 'の', '中', 'で', '星', 'の', '様', 'に', '輝き', 'まし', 'た', '。']",0.5102361187453905,0.8486435659704161,0.6794398423579033,0.6929360864831356,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,E,test
+私は全然変だと思いませんけど。,305086.0,,N5,1.0,0.71183145,0.8559157252311707,私は全然変だと思いませんけど。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (ADJ_ccomp ADV_advmod AUX_aux ADP_case)
+  AUX_aux
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['私', 'は', '全然', '変', 'だ', 'と', '思い', 'ませ', 'ん', 'けど', '。']",0.8333333333333334,0.9666666666666668,0.9,0.8779578626155853,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,I,test
+それは全然関係ない話です。,129569.0,,N5,1.0,0.7106092,0.8553045988082886,それは全然関係ない話です。,"(NOUN_ROOT
+  (PRON_nsubj ADP_case)
+  (ADJ_acl ADV_advmod NOUN_compound)
+  AUX_cop
+  PUNCT_punct)","['それ', 'は', '全然', '関係', 'ない', '話', 'です', '。']",0.7175958645249958,0.9468045112781956,0.8322001879015957,0.8437523933549421,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,I,test
+彼のこの本は全然おもしろくありません。,197729.0,,N5,1.0,0.70335025,0.8516751229763031,彼のこの本は全然おもしろくありません。,"(VERB_ROOT
+  (NOUN_nsubj (PRON_nmod ADP_case) DET_det ADP_case)
+  ADV_advmod
+  ADJ_advcl
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['彼', 'の', 'この', '本', 'は', '全然', 'おもしろく', 'あり', 'ませ', 'ん', '。']",0.7143267678968939,0.9170068027210884,0.8156667853089912,0.8336709541426471,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,I,test
+私は全然違うと思います。,119836.0,,N5,1.0,0.7386472,0.8693236112594604,私は全然違うと思います。,"(VERB_ROOT
+  (VERB_ccomp (PRON_nsubj ADP_case) ADV_advmod ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私', 'は', '全然', '違う', 'と', '思い', 'ます', '。']",0.682062252649732,0.8825013638843425,0.7822818082670373,0.8258027097632489,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,I,test
+ちょっと全然関係ないこと聞いてもいい？,330641.0,,N5,1.0,0.6952224,0.8476111888885498,ちょっと全然関係ないこと聞いてもいい？,"(VERB_ROOT
+  (NOUN_obl (ADJ_acl ADV_advmod ADV_advmod NOUN_compound))
+  (SCONJ_mark ADP_fixed AUX_fixed)
+  PUNCT_punct)","['ちょっと', '全然', '関係', 'ない', 'こと', '聞い', 'て', 'も', 'いい', '？']",0.6716831545120949,0.8760326534243833,0.7738579039682392,0.8107345464283945,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,I,test
+彼は仕事で成功していないので、彼女から相手にされていない。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,I,test
+東と西が互いに相手を非難するプロパガンダ放送を流し合っていた。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,I,test
+日本では、「相手」という言葉はよく使われる。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,I,test
+あなたには何でも相談できる相手がいますね。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,I,test
+東と西はそれぞれ互いに相手を非難するプロパガンダ放送を流し合っていた。,,,,,,,,,,,,,,2,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,I,test
+私に合う人を紹介してください。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,E,test
+彼と話したことで、考え方が合いそうだと思った。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,E,test
+その仕事は自分に合わないと思う。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,E,test
+その問題に対処するためには、それぞれの立場を理解し合わなければならない。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,E,test
+相手の意見を尊重し合い、お互いにとって最善の方法を探すべきだ。,,,,,,,,,,,,,,2,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,E,test
+私たちはこの町ではあまり時間がなかったので、その日の観光はほとんどできなかった。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N5,23.0,A,test
+彼女は待ち合わせ場所には遅れてしまったが、それでもなんとか約束の時間に間に合った。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N5,23.0,A,test
+あの子と話していたら、あっという間に一時間が過ぎてしまった。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N5,23.0,A,test
+僕はその時、2時間も待たされた。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N5,23.0,A,test
+私はその場所で一時間半ほど過ごした。,,,,,,,,,,,,,,2,俺はそこで二時間ほど調べられた。,時間,N5,23.0,A,test
+出してくれませんか？,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,A,test
+お皿に何かを出したよ。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,A,test
+私たちは音楽を出すために集まっています。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,A,test
+彼はお金を出すつもりだ。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,A,test
+あなたは本を出すべきだ。,,,,,,,,,,,,,,2,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,A,test
+その問題について話し合う必要がある場合には、いつでもご連絡ください。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,E,test
+戦いは、今日の場合では大概は容易ならぬ苦闘だからだ。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,E,test
+その戦いは今日の場合では大概は容易ならぬ苦闘だからだ。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,E,test
+私が彼と別れた場合、彼女はとても悲しむだろう。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,E,test
+雨が降った場合、傘を持っていない人は大変なことになる。,,,,,,,,,,,,,,2,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,E,test
+彼はいつも決断が早くて助かる。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,E,test
+東京は日本を代表する大都市であり、最も早く人口が20万人に到達した都市であったと思われる。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,E,test
+一日でも早くこの問題を解決するために、政府はあらゆる努力を傾けなければならない。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,E,test
+「私はいつも、物事を始めるのがとても早いです。」,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,E,test
+今日は暑いので、朝の散歩はとても早かった。,,,,,,,,,,,,,,2,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,E,test
+そして、その車両のすべてのドアが開いたことに気づいた。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N5,27.0,A,test
+そして、その車両のすべてのドアが開いていることに気づいた。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N5,27.0,A,test
+そして、道路を走っている間、すべてのドアが開いていることに気づいた。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N5,27.0,A,test
+そして、それらの客室のすべてのドアが開いていることに気づいた。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N5,27.0,A,test
+そして、彼らの多くの窓が開いていることに気づいた。,,,,,,,,,,,,,,2,当駅ではすべてのドアが開く。,開く,N5,27.0,A,test
+「その本は重いので、私は持って帰ることができない。」,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,A,test
+「今日は朝から雨が降っているので、傘を持って行った方がいいだろう。」,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,A,test
+「今度会うときには、必ずハンカチを持ってきてね。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,A,test
+右手で持っている鉛筆を左手でも持とうとすることはできない。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,A,test
+私は彼女の携帯電話を持たせてもらうだけだ。,,,,,,,,,,,,,,2,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,A,test
+貝がらを敷いた細い汚い横町で、貧民窟とでも言いそうな家並みだ。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,I,test
+その男の顔は汚かった。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,I,test
+彼は私の顔を見て「汚い」と言った。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,I,test
+この場所はとても汚く見える。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,I,test
+貝が敷き詰められた細長い汚い路地で、貧しい人々の住む場所になっている。,,,,,,,,,,,,,,2,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,I,test
+彼は全然笑わなかった。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,A,test
+彼女は全然話さなかった。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,A,test
+私たちは全然知らなかった。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,A,test
+彼らは全然働かなかった。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,A,test
+私たちは友達になったばかりなので、まだ全然話していない。,,,,,,,,,,,,,,2,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,A,test
+彼は相手の発言に敏感に反応した。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,E,test
+相手を信頼できるかどうかを見極める必要がある。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,E,test
+相手の意見を尊重することが大切だ。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,E,test
+彼は相手の要望に応えるために努力した。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,E,test
+相手の喜ぶことを考えてサプライズを用意した。,,,,,,,,,,,,,,3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21.0,E,test
+彼との意見が合わなかったため、議論が白熱しました。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,A,test
+この服と靴の色が合わなくて、コーディネートが難しいです。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,A,test
+友達の趣味が私と合わなくても、尊重しています。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,A,test
+彼とは考え方や価値観が合うので、いつも意気投合しています。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,A,test
+この塾の授業は私の学習スタイルに合っているので、成績が上がっています。,,,,,,,,,,,,,,3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22.0,A,test
+．彼は毎日遅くまで仕事をしているので、ほとんど自由な時間がない。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N5,23.0,I,test
+．試験の前には、たくさんの時間を勉強に費やす必要があります。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N5,23.0,I,test
+．彼女は音楽を演奏するのが好きで、趣味の時間にピアノを弾いています。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N5,23.0,I,test
+．週末には友達と遊ぶために時間を作りたいです。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N5,23.0,I,test
+．昼休みの時間には公園で散歩したり、リフレッシュできるようなことをしたいです。,,,,,,,,,,,,,,3,俺はそこで二時間ほど調べられた。,時間,N5,23.0,I,test
+レストランで美味しい料理を出しています。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,E,test
+朝、バス停でバスを待っている人がたくさん出す。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,E,test
+彼は勇気を出してスピーチを始めた。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,E,test
+明日の朝早く家を出して、友達とランチに行く予定です。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,E,test
+毎晩、星がきれいに輝いて出しています。,,,,,,,,,,,,,,3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N5,24.0,E,test
+私たちが成功するかどうかは、チームの団結力による場合がある。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,I,test
+長距離バスに乗る場合は、事前に予約することをおすすめします。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,I,test
+その試合は天候の悪化した場合、延期される可能性があります。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,I,test
+子供が熱を出した場合は、すぐに病院に連れて行く必要があります。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,I,test
+国際会議に参加する場合は、パスポートを持参することが必要です。,,,,,,,,,,,,,,3,この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。,場合,N5,25.0,I,test
+彼はいつも早起きをして、朝ごはんを早く食べる。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,I,test
+早い段階で計画を立てることが成功へのカギだ。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,I,test
+子供の成長は早く、あっという間に大人になってしまう。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,I,test
+電車の出発時間が早くて、急いで駆け込んだ。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,I,test
+今日は仕事が早く終わり、友達と楽しい時間を過ごせる。,,,,,,,,,,,,,,3,一番早く人口が20万人に到達した都市であったと思われる。,早い,N5,26.0,I,test
+この本は面白い話で始まり、次のページはドラマチックに開く。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N5,27.0,I,test
+私の手紙は彼女の手に渡り、彼女の顔が驚きで開いた口が塞がらなかった。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N5,27.0,I,test
+庭の木々が春になると花が開き、美しい色彩が広がる。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N5,27.0,I,test
+パーティーに参加すると、新たな人間関係が開き、楽しい時間を過ごせる。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N5,27.0,I,test
+星空が闇から光が開き、天体の美しさが現れる。,,,,,,,,,,,,,,3,当駅ではすべてのドアが開く。,開く,N5,27.0,I,test
+彼はいつも頭に帽子を持つ。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,I,test
+子犬はおもちゃを口に持って遊ぶ。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,I,test
+友達と一緒に荷物を持って駅まで行く。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,I,test
+彼はカメラを手に持って風景を撮影する。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,I,test
+ペンを右手で持つ。,,,,,,,,,,,,,,3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N5,28.0,I,test
+汚い服を着て公園で遊んでいる子供たちがいます。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,A,test
+あの汚い川では魚を釣ることはできません。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,A,test
+部屋がとても汚くて片付けなくてはいけません。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,A,test
+私の隣に座る人は、汚い話をする癖があります。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,A,test
+町の中心に位置する汚い建物は、リノベーションが必要です。,,,,,,,,,,,,,,3,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29.0,A,test
+彼女は全然ピアノを弾くことができない。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,E,test
+雨が降らないので、今日は全然涼しくありません。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,E,test
+その映画は全然怖くなかった。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,E,test
+彼の英語の発音は全然上手ではありません。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,E,test
+この料理は全然辛くないので、子供でも食べられます。,,,,,,,,,,,,,,3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N5,30.0,E,test

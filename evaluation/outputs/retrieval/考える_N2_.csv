@@ -1,0 +1,96 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+私は母の愛というものに就いて考える。,-1,20001.0,N1,0.6,0.0,0.3,私は母の愛というものに就いて考える。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_nmod ADP_case) (ADP_case VERB_fixed))
+    ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['私', 'は', '母', 'の', '愛', 'と', 'いう', 'もの', 'に', '就いて', '考える', '。']",,,,,1,私は母の愛というものに就いて考える。,考える,N2
+後年そのごまかしが事実と信じられるような時がくれば、それはほんとに一大事であると同時に重大な罪悪であると考える」と述べている。,1302538,,N2,1.0,0.7183372,0.8591685891151428,後年そのごまかしが事実と信じられるような時がくれば、それはほんとに一大事であると同時に重大な罪悪であると考える」と述べている。,NOUN_ROOT,"['後年', 'その', 'ごまかし', 'が', '事実', 'と', '信じ', 'られる', 'よう', 'な', '時', 'が', 'くれ', 'ば', '、', 'それ', 'は', 'ほんと', 'に', '一', '大事', 'で', 'ある', 'と', '同時', 'に', '重大', 'な', '罪悪', 'で', 'ある', 'と', '考える', '」', 'と', '述べ', 'て', 'いる', '。']",1.0,0.9207512792350984,0.9603756396175492,0.909772114366346,1,私は母の愛というものに就いて考える。,考える,N2
+この入滅の事実を見て、弟子たちは在世中の釈迦の言葉「法をよりどころとせよ」を改めて考えることとなった。,535772,,N2,1.0,0.76467955,0.8823397755622864,この入滅の事実を見て、弟子たちは在世中の釈迦の言葉「法をよりどころとせよ」を改めて考えることとなった。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod DET_det ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (ADJ_obj
+    (VERB_advcl
+      (NOUN_obj
+        (NOUN_nmod
+          (NOUN_nmod NOUN_compound ADP_case)
+          (PROPN_nmod ADP_case))
+        PUNCT_punct
+        ADP_case)
+      ADP_case)
+    PUNCT_punct
+    ADP_case)
+  ADV_advmod
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['この', '入滅', 'の', '事実', 'を', '見', 'て', '、', '弟子', 'たち', 'は', '在世', '中', 'の', '釈迦', 'の', '言葉', '「', '法', 'を', 'よりどころ', 'と', 'せよ', '」', 'を', '改めて', '考える', 'こと', 'と', 'なっ', 'た', '。']",0.9156351534091944,0.9091779455484276,0.912406549478811,0.8973731625205487,1,私は母の愛というものに就いて考える。,考える,N2
+そして意識の問題はそうした私たち人間のキャパシティの範囲を超えた問題、つまり解決できない問題なのだと考える。,562561,,N2,1.0,0.79992855,0.8999642729759216,そして意識の問題はそうした私たち人間のキャパシティの範囲を超えた問題、つまり解決できない問題なのだと考える。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_ccomp
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obj
+          (NOUN_nmod
+            (VERB_acl ADV_advmod AUX_aux)
+            NOUN_nmod
+            (NOUN_nmod ADP_case)
+            ADP_case)
+          ADP_case)
+        AUX_aux)
+      PUNCT_punct)
+    (VERB_acl ADV_advmod AUX_aux AUX_aux)
+    AUX_cop
+    (SCONJ_mark AUX_fixed)
+    ADP_case)
+  PUNCT_punct)","['そして', '意識', 'の', '問題', 'は', 'そう', 'し', 'た', '私たち', '人間', 'の', 'キャパシティ', 'の', '範囲', 'を', '超え', 'た', '問題', '、', 'つまり', '解決', 'でき', 'ない', '問題', 'な', 'の', 'だ', 'と', '考える', '。']",0.8662594942108783,0.8955243817101413,0.8808919379605098,0.8904281054682157,1,私は母の愛というものに就いて考える。,考える,N2
+20代の頃にカント、パスカル、ニーチェなどの哲学書を読み漁り、“自分は何のために生きているのか”を考えるようになった。,512194,,N2,1.0,0.80282825,0.9014141261577606,20代の頃にカント、パスカル、ニーチェなどの哲学書を読み漁り、“自分は何のために生きているのか”を考えるようになった。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+      PUNCT_punct)
+    (NOUN_obj
+      (PROPN_nmod (PROPN_nmod PUNCT_punct) ADP_case ADP_case)
+      NOUN_compound
+      ADP_case)
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_obj
+      (NOUN_nsubj PUNCT_punct ADP_case)
+      (NOUN_obl (PRON_nmod ADP_case) ADP_case)
+      (SCONJ_mark VERB_fixed)
+      SCONJ_mark
+      PART_mark
+      PUNCT_punct
+      ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  PUNCT_punct)","['20', '代', 'の', '頃', 'に', 'カント', '、', 'パスカル', '、', 'ニーチェ', 'など', 'の', '哲学', '書', 'を', '読み漁り', '、', '“', '自分', 'は', '何', 'の', 'ため', 'に', '生き', 'て', 'いる', 'の', 'か', '”', 'を', '考える', 'よう', 'に', 'なっ', 'た', '。']",0.8194069876358371,0.8810262725779967,0.850216630106917,0.8758153781323388,1,私は母の愛というものに就いて考える。,考える,N2
+世界の根本的な成り立ちの理由（世界の根因）や、物や人間の存在の理由や意味など、感覚を超越したものについて考える。,1030202,,N2,1.0,0.76243275,0.8812163770198822,世界の根本的な成り立ちの理由（世界の根因）や、物や人間の存在の理由や意味など、感覚を超越したものについて考える。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod (NOUN_nmod ADP_case) (ADJ_acl AUX_cop) ADP_case)
+      PUNCT_punct
+      NOUN_compound
+      ADP_case
+      NOUN_compound
+      NOUN_compound
+      PUNCT_punct
+      ADP_case
+      PUNCT_punct)
+    (NOUN_nmod
+      (NOUN_nmod
+        (NOUN_nmod
+          (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+          ADP_case)
+        ADP_case)
+      ADP_case
+      PUNCT_punct)
+    (VERB_acl (NOUN_obj ADP_case) AUX_aux AUX_aux)
+    (ADP_case VERB_fixed SCONJ_fixed))
+  PUNCT_punct)","['世界', 'の', '根本的', 'な', '成り立ち', 'の', '理由', '（', '世界', 'の', '根', '因', '）', 'や', '、', '物', 'や', '人間', 'の', '存在', 'の', '理由', 'や', '意味', 'など', '、', '感覚', 'を', '超越', 'し', 'た', 'もの', 'に', 'つい', 'て', '考える', '。']",0.8098452522357693,0.866887590797243,0.8383664215165061,0.8597913992681941,1,私は母の愛というものに就いて考える。,考える,N2

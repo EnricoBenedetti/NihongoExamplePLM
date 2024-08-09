@@ -1,0 +1,39 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+十一月の初めだった。,-1,15130.0,N4,1.0,0.0,0.5,十一月の初めだった。,"(NOUN_ROOT
+  (NOUN_nmod NUM_compound ADP_case)
+  AUX_cop
+  AUX_aux
+  PUNCT_punct)","['十一', '月', 'の', '初め', 'だっ', 'た', '。']",,,,,1,十一月の初めだった。,初め,N4
+5月初めに来る。,148071,,N4,1.0,0.73907906,0.8695395290851593,5月初めに来る。,"(VERB_ROOT
+  (NOUN_obl NUM_compound NOUN_compound ADP_case)
+  PUNCT_punct)","['5', '月', '初め', 'に', '来る', '。']",0.75,0.9423076923076924,0.8461538461538461,0.8578466876195028,1,十一月の初めだった。,初め,N4
+彼女は来月の初めに東京に着く。,166117,,N4,1.0,0.8277372,0.9138686060905457,彼女は来月の初めに東京に着く。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (PROPN_obl ADP_case)
+  PUNCT_punct)","['彼女', 'は', '来月', 'の', '初め', 'に', '東京', 'に', '着く', '。']",0.6337523612561806,0.8880434782608696,0.760897919758525,0.8373832629245354,1,十一月の初めだった。,初め,N4
+この自転車は今月の初めからここに置かれたままだ。,287321,,N4,1.0,0.76820606,0.8841030299663544,この自転車は今月の初めからここに置かれたままだ。,"(NOUN_ROOT
+  (NOUN_nsubj DET_det ADP_case)
+  (VERB_acl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    (PRON_obl ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['この', '自転車', 'は', '今月', 'の', '初め', 'から', 'ここ', 'に', '置か', 'れ', 'た', 'まま', 'だ', '。']",0.6007555172021266,0.8858359133126935,0.74329571525741,0.8136993726118822,1,十一月の初めだった。,初め,N4
+月の初めなので、今月のオススメ本を紹介します。,21619,,N4,1.0,0.71467274,0.8573363721370697,月の初めなので、今月のオススメ本を紹介します。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_nmod ADP_case)
+    AUX_cop
+    (SCONJ_mark AUX_fixed)
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['月', 'の', '初め', 'な', 'の', 'で', '、', '今月', 'の', 'オススメ', '本', 'を', '紹介', 'し', 'ます', '。']",0.6411319316984299,0.8664837146980005,0.7538078231982152,0.8055720976676424,1,十一月の初めだった。,初め,N4
+八月の初めの暑い日だった。,147458,,N4,1.0,0.7814092,0.8907046020030975,八月の初めの暑い日だった。,"(NOUN_ROOT
+  (NOUN_nmod (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+  ADJ_acl
+  AUX_cop
+  AUX_aux
+  PUNCT_punct)","['八', '月', 'の', '初め', 'の', '暑い', '日', 'だっ', 'た', '。']",0.608939973022421,0.833098474801061,0.721019223911741,0.8058619129574193,1,十一月の初めだった。,初め,N4

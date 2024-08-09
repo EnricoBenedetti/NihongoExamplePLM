@@ -1,0 +1,113 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,-1,20001.0,N3,1.0,0.0,0.5,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (VERB_ccomp
+      (NOUN_nsubj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+      AUX_aux
+      PART_mark
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl ADV_advmod (NOUN_obl ADP_case) SCONJ_mark PUNCT_punct)
+  (VERB_advcl ADV_advmod SCONJ_mark)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['また', 'お', '箸', 'の', '手', 'が', '違っ', 'た', 'よ', 'と', 'いえ', 'ば', '、', 'すぐ', '右', 'に', '直す', 'けれど', '、', '少し', 'する', 'と', 'また', '左', 'に', '持つ', '。']",,,,,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18,I
+寸軸のように太いペンでは5本全ての指で抱えて持つからである。,917626,,N3,1.0,0.840932,0.9204660058021544,寸軸のように太いペンでは5本全ての指で抱えて持つからである。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (ADJ_acl
+        (NOUN_advcl (NOUN_nmod NOUN_compound ADP_case) AUX_cop))
+      ADP_case
+      ADP_case)
+    (NOUN_obl
+      (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+      ADP_case)
+    SCONJ_mark)
+  SCONJ_mark
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['寸', '軸', 'の', 'よう', 'に', '太い', 'ペン', 'で', 'は', '5', '本', '全て', 'の', '指', 'で', '抱え', 'て', '持つ', 'から', 'で', 'ある', '。']",0.7782479412251383,0.9438775510204082,0.8610627461227732,0.8907643759624639,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18,I
+牽制の触球は右手にミットを持つほうが素早く行うことができる。,620829,,N3,1.0,0.7585306,0.879265308380127,牽制の触球は右手にミットを持つほうが素早く行うことができる。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl ADP_case) (NOUN_obj ADP_case))
+    ADP_case)
+  ADJ_advcl
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['牽制', 'の', '触', '球', 'は', '右手', 'に', 'ミット', 'を', '持つ', 'ほう', 'が', '素早く', '行う', 'こと', 'が', 'できる', '。']",0.7711848496805737,0.9328358208955224,0.852010335288048,0.8656378218340874,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18,I
+鉛筆で筆記する際には通常、削られていない部分で先端に近い部分を親指、人差し指、中指の3つの指で持つ。,750509,,N3,1.0,0.83620787,0.9181039333343506,鉛筆で筆記する際には通常、削られていない部分で先端に近い部分を親指、人差し指、中指の3つの指で持つ。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_compound (NOUN_obl ADP_case))
+      AUX_aux
+      ADP_fixed
+      ADP_fixed)
+    (NOUN_obl
+      (VERB_acl
+        (ADV_advmod PUNCT_punct)
+        AUX_aux
+        (SCONJ_mark VERB_fixed)
+        AUX_aux)
+      ADP_case)
+    (NOUN_obj (ADJ_acl (NOUN_obl ADP_case)) ADP_case)
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_nmod PUNCT_punct) ADP_case)
+    (NOUN_nmod NUM_nummod ADP_case)
+    ADP_case)
+  PUNCT_punct)","['鉛筆', 'で', '筆記', 'する', '際', 'に', 'は', '通常', '、', '削ら', 'れ', 'て', 'い', 'ない', '部分', 'で', '先端', 'に', '近い', '部分', 'を', '親指', '、', '人差し指', '、', '中指', 'の', '3', 'つ', 'の', '指', 'で', '持つ', '。']",0.7208273579707904,0.9004709583030135,0.810649158136902,0.8643765457356263,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18,I
+箸（はし）またはチョップスティックス（、）とは、二本一対になった棒状のものを片手で持つ食器のことであり、食べ物を挟んで移動させることが出来る。,834032,,N3,1.0,0.7804635,0.8902317583560944,箸（はし）またはチョップスティックス（、）とは、二本一対になった棒状のものを片手で持つ食器のことであり、食べ物を挟んで移動させることが出来る。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_obl
+      SYM_nmod
+      (CCONJ_cc ADP_fixed)
+      NOUN_compound
+      PUNCT_punct
+      PUNCT_punct
+      PUNCT_punct
+      ADP_case
+      ADP_case
+      PUNCT_punct)
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obj
+          (NOUN_nmod
+            (VERB_acl
+              (NOUN_obl
+                NUM_compound
+                NOUN_compound
+                NUM_nummod
+                ADP_case)
+              AUX_aux)
+            ADP_case)
+          ADP_case)
+        (NOUN_obl ADP_case))
+      ADP_case)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['箸（はし）', 'また', 'は', 'チョップ', 'スティックス', '（', '、', '）', 'と', 'は', '、', '二', '本', '一', '対', 'に', 'なっ', 'た', '棒状', 'の', 'もの', 'を', '片手', 'で', '持つ', '食器', 'の', 'こと', 'で', 'あり', '、', '食べ物', 'を', '挟ん', 'で', '移動', 'さ', 'せる', 'こと', 'が', '出来る', '。']",0.7101137307282905,0.8876637283387856,0.7988887295335381,0.8445602439448162,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18,I
+片刃のものが多く、右利き用の片刃包丁の場合、右手に包丁を持つと刃先は左側に偏る特徴がある。,835568,,N3,1.0,0.7895665,0.8947832584381104,片刃のものが多く、右利き用の片刃包丁の場合、右手に包丁を持つと刃先は左側に偏る特徴がある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (ADJ_advcl
+          (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+          PUNCT_punct)
+        (NOUN_obl
+          (NOUN_nmod
+            (NOUN_nmod NOUN_compound ADP_case)
+            NOUN_compound
+            ADP_case)
+          PUNCT_punct)
+        (NOUN_obl ADP_case)
+        (NOUN_obj ADP_case)
+        SCONJ_mark)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl ADP_case))
+    ADP_case)
+  PUNCT_punct)","['片刃', 'の', 'もの', 'が', '多く', '、', '右利き', '用', 'の', '片刃', '包丁', 'の', '場合', '、', '右手', 'に', '包丁', 'を', '持つ', 'と', '刃先', 'は', '左側', 'に', '偏る', '特徴', 'が', 'ある', '。']",0.7053105555737057,0.8729646784813673,0.7891376170275365,0.8419604377328234,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N3,18,I

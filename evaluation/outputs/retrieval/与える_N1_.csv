@@ -1,0 +1,123 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一間は這入って来た人に冷やかな、不愉快な印象を与える。,-1,20001.0,N2,0.8,0.0,0.4,一間は這入って来た人に冷やかな、不愉快な印象を与える。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_nsubj ADP_case)
+        SCONJ_mark
+        (VERB_advcl AUX_aux))
+      ADP_case)
+    PART_mark
+    PUNCT_punct)
+  (NOUN_obj (ADJ_acl AUX_aux) ADP_case)
+  PUNCT_punct)","['一間', 'は', '這入っ', 'て', '来', 'た', '人', 'に', '冷やか', 'な', '、', '不愉快', 'な', '印象', 'を', '与える', '。']",,,,,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N1
+この印象的で鮮やかな勝利によって、アレクサンドロスは味方将兵の信頼を得ると共に敵に対しては計り知れない恐怖心を与えることになった。,588105,,N1,1.0,0.69168264,0.8458413183689117,この印象的で鮮やかな勝利によって、アレクサンドロスは味方将兵の信頼を得ると共に敵に対しては計り知れない恐怖心を与えることになった。,"(VERB_ROOT
+  (ADJ_advcl DET_det AUX_cop)
+  (NOUN_obl
+    (ADJ_acl AUX_aux)
+    (ADP_case VERB_fixed SCONJ_fixed)
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (NOUN_obj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+        ADP_case)
+      (NOUN_obl ADP_case)
+      (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed) ADP_case)
+      AUX_aux)
+    ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['この', '印象的', 'で', '鮮やか', 'な', '勝利', 'に', 'よっ', 'て', '、', 'アレクサンドロス', 'は', '味方', '将兵', 'の', '信頼', 'を', '得る', 'と', '共', 'に', '敵', 'に', '対し', 'て', 'は', '計り知れ', 'ない', '恐怖心', 'を', '与える', 'こと', 'に', 'なっ', 'た', '。']",0.7819564057491151,0.9196263411024788,0.8507913734257969,0.8483163458973544,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N1
+それらは、伝統的な図像に則りながらも、ごく普通の母子の肖像画のような人間味と親近感を与えるものである。,1522734,,N1,1.0,0.72429657,0.8621482849121094,それらは、伝統的な図像に則りながらも、ごく普通の母子の肖像画のような人間味と親近感を与えるものである。,"(NOUN_ROOT
+  (NOUN_nsubj PRON_nmod ADP_case PUNCT_punct)
+  (VERB_acl
+    (VERB_advcl
+      (NOUN_obl (ADJ_acl AUX_cop) ADP_case)
+      SCONJ_mark
+      ADP_case
+      PUNCT_punct)
+    (NOUN_advcl
+      (NOUN_nmod
+        (NOUN_nmod ADV_advmod ADP_case)
+        (NOUN_nmod ADP_case)
+        ADP_case)
+      AUX_cop)
+    (NOUN_obl ADP_case)
+    (NOUN_obj ADP_case))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['それ', 'ら', 'は', '、', '伝統的', 'な', '図像', 'に', '則り', 'ながら', 'も', '、', 'ごく', '普通', 'の', '母子', 'の', '肖像画', 'の', 'よう', 'な', '人間味', 'と', '親近感', 'を', '与える', 'もの', 'で', 'ある', '。']",0.7384191431761871,0.9033885542168676,0.8209038486965272,0.8415260668043183,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N1
+この「現地に合わせて脚本が執筆される」という通常とは逆の過程を経たことにより、完璧に脚本に合った場所を見つけたような印象を与える。,1342393,,N1,1.0,0.74967486,0.8748374283313751,この「現地に合わせて脚本が執筆される」という通常とは逆の過程を経たことにより、完璧に脚本に合った場所を見つけたような印象を与える。,"(VERB_ROOT
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obj
+            (ADJ_nmod
+              (NOUN_obl
+                DET_det
+                (VERB_acl
+                  (VERB_advcl
+                    (NOUN_obl PUNCT_punct ADP_case)
+                    SCONJ_mark)
+                  (NOUN_nsubj ADP_case)
+                  AUX_aux
+                  AUX_aux
+                  PUNCT_punct
+                  (ADP_case VERB_fixed))
+                ADP_case
+                ADP_case)
+              ADP_case)
+            ADP_case)
+          AUX_aux)
+        (ADP_case VERB_fixed)
+        PUNCT_punct)
+      (NOUN_obj
+        (VERB_acl (ADJ_advcl AUX_aux) (NOUN_obl ADP_case) AUX_aux)
+        ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['この', '「', '現地', 'に', '合わせ', 'て', '脚本', 'が', '執筆', 'さ', 'れる', '」', 'と', 'いう', '通常', 'と', 'は', '逆', 'の', '過程', 'を', '経', 'た', 'こと', 'に', 'より', '、', '完璧', 'に', '脚本', 'に', '合っ', 'た', '場所', 'を', '見つけ', 'た', 'よう', 'な', '印象', 'を', '与える', '。']",0.7185670574243217,0.8657218031185215,0.7921444302714216,0.8334909293013983,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N1
+毎日山にこもって射撃練習に励むようになり、毎夜猟銃を手に村を徘徊して近隣の人間に不安を与えるに至った。,2716828,,N1,1.0,0.7350167,0.8675083518028259,毎日山にこもって射撃練習に励むようになり、毎夜猟銃を手に村を徘徊して近隣の人間に不安を与えるに至った。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl ADV_advmod (NOUN_obl ADP_case) SCONJ_mark)
+      (NOUN_obl NOUN_compound ADP_case)
+      AUX_aux
+      AUX_aux)
+    PUNCT_punct)
+  ADV_advmod
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obj ADP_case)
+      (NOUN_obl ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux
+      SCONJ_mark)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obj ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['毎日', '山', 'に', 'こもっ', 'て', '射撃', '練習', 'に', '励む', 'よう', 'に', 'なり', '、', '毎夜', '猟銃', 'を', '手', 'に', '村', 'を', '徘徊', 'し', 'て', '近隣', 'の', '人間', 'に', '不安', 'を', '与える', 'に', '至っ', 'た', '。']",0.7038959557654666,0.8644851918798665,0.7841905738226665,0.8258494628127462,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N1
+物語中盤までは良く言えば過不足無い、悪く言えば「昼行灯」という表現が似つかわしい凡庸な官僚的指揮官の印象を与える。,2260204,,N1,1.0,0.7815542,0.8907771110534668,物語中盤までは良く言えば過不足無い、悪く言えば「昼行灯」という表現が似つかわしい凡庸な官僚的指揮官の印象を与える。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl NOUN_compound ADP_case ADP_case)
+    (VERB_advcl ADJ_advcl SCONJ_mark)
+    ADJ_aux
+    PUNCT_punct)
+  (NOUN_obj
+    (NOUN_nmod
+      (ADJ_acl
+        (VERB_advcl ADJ_advcl SCONJ_mark)
+        (NOUN_nsubj
+          (NOUN_nmod PUNCT_punct PUNCT_punct (ADP_case VERB_fixed))
+          ADP_case)
+        ADJ_advcl
+        AUX_aux)
+      PROPN_compound
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['物語', '中盤', 'まで', 'は', '良く', '言え', 'ば', '過不足', '無い', '、', '悪く', '言え', 'ば', '「', '昼行灯', '」', 'と', 'いう', '表現', 'が', '似つかわしい', '凡庸', 'な', '官僚的', '指揮官', 'の', '印象', 'を', '与える', '。']",0.6655423312596802,0.8523155434199614,0.7589289373398208,0.8248530241966439,1,一間は這入って来た人に冷やかな、不愉快な印象を与える。,与える,N1

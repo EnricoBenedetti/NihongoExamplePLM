@@ -1,0 +1,74 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,-1,6600.0,N1,0.1999999999999999,0.0,0.0999999999999999,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (NOUN_nmod ADP_case)
+      AUX_aux
+      ADP_case)
+    (NOUN_obj (NOUN_nmod DET_det ADP_case) ADP_case)
+    VERB_advmod
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (PRON_obj ADP_case)) ADP_case)
+  (ADJ_aux AUX_aux PUNCT_punct))","['心', 'は', '光り', 'の', '飛ぶ', 'ごとく', 'に', 'あらゆる', '道理', 'の', '中', 'を', '駈', '巡っ', 'た', 'が', '、', '何', 'を', 'とらえる', 'こと', 'も', '出来', '無かっ', 'た', '。']",,,,,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N3
+その様子がまるで蛍の飛ぶようだったので「蛍丸」と名付けられたという。,5792373,,N3,1.0,0.739105,0.869552493095398,その様子がまるで蛍の飛ぶようだったので「蛍丸」と名付けられたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (NOUN_nsubj DET_det ADP_case)
+      ADV_advmod
+      (NOUN_nmod ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      (SCONJ_mark AUX_fixed))
+    (NOUN_obl PUNCT_punct NOUN_compound PUNCT_punct ADP_case)
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['その', '様子', 'が', 'まるで', '蛍', 'の', '飛ぶ', 'よう', 'だっ', 'た', 'の', 'で', '「', '蛍', '丸', '」', 'と', '名付け', 'られ', 'た', 'と', 'いう', '。']",0.9500424821973484,0.9334563612679114,0.94174942173263,0.905650957414014,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N3
+同映画で有名なシーンの一つである、入江たか子演じる女の生首が飛ぶシーンも本作で使われている。,12453153,,N3,1.0,0.6363989,0.8181994557380676,同映画で有名なシーンの一つである、入江たか子演じる女の生首が飛ぶシーンも本作で使われている。,"(PROPN_ROOT
+  (NOUN_acl
+    (NOUN_nmod
+      (ADJ_acl (NOUN_obl NOUN_compound ADP_case) AUX_aux)
+      ADP_case)
+    NUM_nummod
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  PROPN_compound)","['同', '映画', 'で', '有名', 'な', 'シーン', 'の', '一', 'つ', 'で', 'ある', '、', '入江', 'たか子', '演じる', '女', 'の', '生首', 'が', '飛ぶ', 'シーン', 'も', '本作', 'で', '使わ', 'れ', 'て', 'いる', '。']",0.9578830304593884,0.922948717948718,0.9404158742040531,0.8793076649710604,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N3
+御田は楼に登って、四方に飛ぶように疾走した。,10680842,,N3,1.0,0.7276482,0.8638240993022919,御田は楼に登って、四方に飛ぶように疾走した。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (VERB_advcl
+    (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark PUNCT_punct)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['御田', 'は', '楼', 'に', '登っ', 'て', '、', '四方', 'に', '飛ぶ', 'よう', 'に', '疾走', 'し', 'た', '。']",0.903748331999498,0.903900709219858,0.903824520609678,0.883824309955985,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N3
+時間は飛ぶように流れて、気づけば1月。,4475,,N3,1.0,0.706129,0.8530645072460175,時間は飛ぶように流れて、気づけば1月。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl (NOUN_nsubj ADP_case) AUX_aux AUX_aux)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_acl SCONJ_mark)
+  NUM_nummod
+  PUNCT_punct)","['時間', 'は', '飛ぶ', 'よう', 'に', '流れ', 'て', '、', '気づけ', 'ば', '1', '月', '。']",0.8668366811587878,0.8892588541341964,0.8780477676464921,0.8655561374462548,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N3
+あるとき、その庄屋の知人が街道を歩いていると、向こうから松明のような光が飛ぶように近づいて来た。,6385350,,N3,1.0,0.74685,0.8734250068664551,あるとき、その庄屋の知人が街道を歩いていると、向こうから松明のような光が飛ぶように近づいて来た。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det PUNCT_punct)
+    (NOUN_nsubj (NOUN_nmod DET_det ADP_case) ADP_case)
+    (NOUN_obj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl ADP_case)
+      (NOUN_nsubj (NOUN_acl (NOUN_nmod ADP_case) AUX_cop) ADP_case)
+      AUX_aux
+      AUX_aux)
+    SCONJ_mark)
+  AUX_aux
+  PUNCT_punct)","['ある', 'とき', '、', 'その', '庄屋', 'の', '知人', 'が', '街道', 'を', '歩い', 'て', 'いる', 'と', '、', '向こう', 'から', '松明', 'の', 'よう', 'な', '光', 'が', '飛ぶ', 'よう', 'に', '近づい', 'て', '来', 'た', '。']",0.8148456215364099,0.8665027605244996,0.8406741910304547,0.8570495989484549,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N3

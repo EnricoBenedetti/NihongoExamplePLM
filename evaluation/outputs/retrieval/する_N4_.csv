@@ -1,0 +1,56 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分が自分の心でするべき事だ。,-1,20001.0,N3,0.6,0.0,0.3,自分が自分の心でするべき事だ。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['自分', 'が', '自分', 'の', '心', 'で', 'する', 'べき', '事', 'だ', '。']",,,,,1,自分が自分の心でするべき事だ。,する,N4
+次の世代のために今、しなければならないことがあります。,33414,,N4,1.0,0.8055952,0.9027976095676422,次の世代のために今、しなければならないことがあります。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+  (ADV_advmod PUNCT_punct)
+  (AUX_aux SCONJ_fixed VERB_fixed AUX_fixed)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['次', 'の', '世代', 'の', 'ため', 'に', '今', '、', 'し', 'なけれ', 'ば', 'なら', 'ない', 'こと', 'が', 'あり', 'ます', '。']",0.7359701310152083,0.956896551724138,0.8464333413696731,0.8746154754686577,1,自分が自分の心でするべき事だ。,する,N4
+子供たちを教育するとき、内心世界の優しさを大切にすることを教えるようになった。,35989,,N4,1.0,0.6073795,0.8036897480487823,子供たちを教育するとき、内心世界の優しさを大切にすることを教えるようになった。,"(NOUN_ROOT
+  (NOUN_nmod (VERB_acl (NOUN_obj ADP_case) AUX_aux) PUNCT_punct))","['子供たち', 'を', '教育', 'する', 'とき', '、', '内心', '世界', 'の', '優し', 'さ', 'を', '大切', 'に', 'する', 'こと', 'を', '教える', 'よう', 'に', 'なっ', 'た', '。']",0.853636908730191,0.9278846153846154,0.8907607620574032,0.8472252550530928,1,自分が自分の心でするべき事だ。,する,N4
+その時には、それからどこへ行って、何をするかを決めておくといいでしょう。,11866,,N4,1.0,0.7339837,0.8669918477535248,その時には、それからどこへ行って、何をするかを決めておくといいでしょう。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det ADP_case ADP_case PUNCT_punct)
+    (VERB_obj
+      (VERB_advcl
+        (PRON_obl ADP_case)
+        (PRON_obl ADP_case)
+        SCONJ_mark
+        PUNCT_punct)
+      (PRON_obj ADP_case)
+      PART_mark
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark)
+  AUX_aux
+  PUNCT_punct)","['その', '時', 'に', 'は', '、', 'それ', 'から', 'どこ', 'へ', '行っ', 'て', '、', '何', 'を', 'する', 'か', 'を', '決め', 'て', 'おく', 'と', 'いい', 'でしょう', '。']",0.808001589098065,0.924342105263158,0.8661718471806115,0.8665818474670681,1,自分が自分の心でするべき事だ。,する,N4
+あと、何でも自分でするようになりました。,12591,,N4,1.0,0.74349725,0.8717486262321472,あと、何でも自分でするようになりました。,"(VERB_ROOT
+  (ADV_advmod PUNCT_punct)
+  (VERB_advcl
+    (PRON_obl ADP_case ADP_case)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['あと', '、', '何', 'で', 'も', '自分', 'で', 'する', 'よう', 'に', 'なり', 'まし', 'た', '。']",0.7454969687749851,0.8965686274509803,0.8210327981129827,0.8463907121725649,1,自分が自分の心でするべき事だ。,する,N4
+まだ何も始まってないけど、ずっとこうしていたい。,24744,,N4,1.0,0.67189443,0.8359472155570984,まだ何も始まってないけど、ずっとこうしていたい。,"(VERB_ROOT
+  (VERB_advcl
+    ADV_advmod
+    (PRON_nsubj ADP_case)
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  ADV_advmod
+  ADV_advmod
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['まだ', '何', 'も', '始まっ', 'て', 'ない', 'けど', '、', 'ずっと', 'こう', 'し', 'て', 'い', 'たい', '。']",0.7252396684936289,0.8922799422799423,0.8087598053867856,0.8223535104719419,1,自分が自分の心でするべき事だ。,する,N4

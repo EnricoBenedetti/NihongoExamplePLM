@@ -1,0 +1,98 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+学校の外では「広場の王様」とあだ名されたという。,-1,20001.0,N3,1.0,0.0,0.5,学校の外では「広場の王様」とあだ名されたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    (NOUN_obl (NOUN_nmod PUNCT_punct ADP_case) PUNCT_punct ADP_case)
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['学校', 'の', '外', 'で', 'は', '「', '広場', 'の', '王様', '」', 'と', 'あだ名', 'さ', 'れ', 'た', 'と', 'いう', '。']",,,,,1,学校の外では「広場の王様」とあだ名されたという。,外,N3
+しかし、中国人学生は、留学生寮の外で歌を歌ったりして抗議を続けた。,7899168,,N3,1.0,0.8098193,0.9049096405506134,しかし、中国人学生は、留学生寮の外で歌を歌ったりして抗議を続けた。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_nsubj NOUN_compound ADP_case PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+      (NOUN_obj ADP_case)
+      PART_mark)
+    SCONJ_mark)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['しかし', '、', '中国人', '学生', 'は', '、', '留学生', '寮', 'の', '外', 'で', '歌', 'を', '歌っ', 'たり', 'し', 'て', '抗議', 'を', '続け', 'た', '。']",0.838370307670457,0.9173976608187134,0.8778839842445851,0.8913968123975993,1,学校の外では「広場の王様」とあだ名されたという。,外,N3
+これまでジャクソンはコート内外で複数の騒動（事件、問題）を起こしている。,4403926,,N3,1.0,0.77222705,0.8861135244369507,これまでジャクソンはコート内外で複数の騒動（事件、問題）を起こしている。,"(VERB_ROOT
+  (PRON_obl ADP_case)
+  (PROPN_nsubj ADP_case)
+  (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+  (NOUN_obj
+    (NOUN_nmod ADP_case)
+    PUNCT_punct
+    NOUN_compound
+    PUNCT_punct
+    NOUN_compound
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['これ', 'まで', 'ジャクソン', 'は', 'コート', '内', '外', 'で', '複数', 'の', '騒動', '（', '事件', '、', '問題', '）', 'を', '起こし', 'て', 'いる', '。']",0.8031795664671972,0.908753019168508,0.8559662928178526,0.8710399086274017,1,学校の外では「広場の王様」とあだ名されたという。,外,N3
+ドイツ捕虜は背中に大きな赤い点があるシャツを着ていたために、収容所の外でも容易に識別可能だった。,3655690,,N3,1.0,0.7834953,0.8917476534843445,ドイツ捕虜は背中に大きな赤い点があるシャツを着ていたために、収容所の外でも容易に識別可能だった。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_nsubj PROPN_compound ADP_case)
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_obl ADP_case)
+        (NOUN_nsubj ADJ_amod ADJ_acl ADP_case))
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    (SCONJ_mark SCONJ_fixed)
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod NOUN_compound ADP_case) ADP_case ADP_case)
+  (ADJ_advcl AUX_aux)
+  NOUN_compound
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ドイツ', '捕虜', 'は', '背中', 'に', '大きな', '赤い', '点', 'が', 'ある', 'シャツ', 'を', '着', 'て', 'い', 'た', 'ため', 'に', '、', '収容', '所', 'の', '外', 'で', 'も', '容易', 'に', '識別', '可能', 'だっ', 'た', '。']",0.7547140479483831,0.8966185531842312,0.8256663005663072,0.8587069770253258,1,学校の外では「広場の王様」とあだ名されたという。,外,N3
+グロッツァーによれば、2人は実際に劇場の外でペア客に2枚のチケットを売り、もし映画が気に入らなければキャッスルロックに返金を求めることができると約束したという。,7950277,,N3,1.0,0.7795367,0.8897683620452881,グロッツァーによれば、2人は実際に劇場の外でペア客に2枚のチケットを売り、もし映画が気に入らなければキャッスルロックに返金を求めることができると約束したという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (VERB_advcl
+        (PROPN_obl (ADP_case VERB_fixed SCONJ_fixed) PUNCT_punct)
+        (NOUN_obl ADP_case)
+        (NOUN_obl ADP_case)
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+        (NOUN_obj
+          (NOUN_nmod
+            (NOUN_obl NOUN_compound ADP_case)
+            NUM_nummod
+            ADP_case)
+          ADP_case)
+        PUNCT_punct)
+      (VERB_advcl
+        ADV_advmod
+        (NOUN_nsubj ADP_case)
+        (NOUN_obl ADP_case)
+        AUX_aux
+        SCONJ_mark)
+      (NOUN_obl NOUN_compound ADP_case)
+      (NOUN_obj ADP_case)
+      (NOUN_compound ADP_fixed AUX_fixed)
+      ADP_case)
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['グロッツァー', 'に', 'よれ', 'ば', '、', '2人', 'は', '実際', 'に', '劇場', 'の', '外', 'で', 'ペア', '客', 'に', '2', '枚', 'の', 'チケット', 'を', '売り', '、', 'もし', '映画', 'が', '気', 'に', '入ら', 'なけれ', 'ば', 'キャッスル', 'ロック', 'に', '返金', 'を', '求める', 'こと', 'が', 'できる', 'と', '約束', 'し', 'た', 'と', 'いう', '。']",0.7478385148130965,0.8733713878713879,0.8106049513422422,0.8501866566937651,1,学校の外では「広場の王様」とあだ名されたという。,外,N3
+1989年のポリロイヤルの間にキャンパス外のアパートで「小暴動」が起こり、1990年の行事から「無期限に」中止された。,7910959,,N3,1.0,0.78521025,0.8926051259040833,1989年のポリロイヤルの間にキャンパス外のアパートで「小暴動」が起こり、1990年の行事から「無期限に」中止された。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+      ADP_case)
+    (NOUN_obl (NOUN_nmod PROPN_compound ADP_case) ADP_case)
+    (NOUN_nsubj PUNCT_punct NOUN_compound PUNCT_punct ADP_case)
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+  (NOUN_obl PUNCT_punct ADP_case PUNCT_punct)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['1989', '年', 'の', 'ポリロイヤル', 'の', '間', 'に', 'キャンパス', '外', 'の', 'アパート', 'で', '「', '小', '暴動', '」', 'が', '起こり', '、', '1990', '年', 'の', '行事', 'から', '「', '無期限', 'に', '」', '中止', 'さ', 'れ', 'た', '。']",0.7238783847156705,0.8625689939929324,0.7932236893543014,0.8429144076291923,1,学校の外では「広場の王様」とあだ名されたという。,外,N3

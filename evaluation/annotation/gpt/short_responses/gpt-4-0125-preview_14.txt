@@ -1,0 +1,84 @@
+System 1 sentences:
+1. Difficulty: "Reject"; Sense: "not similar"; Reject: "Reject"
+2. Difficulty: "N3"; Sense: "similar"; Reject: ""
+3. Difficulty: "N3"; Sense: "similar"; Reject: ""
+4. Difficulty: "N4"; Sense: "not similar"; Reject: ""
+5. Difficulty: "N3"; Sense: "similar"; Reject: ""
+
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: ""
+2. Difficulty: "N2"; Sense: "similar"; Reject: ""
+3. Difficulty: "N2"; Sense: "similar"; Reject: ""
+4. Difficulty: "N2"; Sense: "similar"; Reject: ""
+5. Difficulty: "N2"; Sense: "similar"; Reject: ""
+
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: ""
+2. Difficulty: "N4"; Sense: "similar"; Reject: ""
+3. Difficulty: "N5"; Sense: "not similar"; Reject: "Reject"
+4. Difficulty: "N5"; Sense: "not similar"; Reject: "Reject"
+5. Difficulty: "N5"; Sense: "not similar"; Reject: "Reject"
+
+Sentence diversity: "Low"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most relevant and diverse sentences that closely match the target word's context and difficulty level, making it the most useful for learners at the N3 level. System 1 has a mix of relevant and irrelevant uses of the target word, with some sentences not matching the context or difficulty level, but still offers some useful examples. System 3's sentences are simpler and less diverse, with several examples not closely matching the target word's intended sense, making it the least useful for learners at the N3 level.
+System 1 sentences:
+1. Difficulty: "Reject"; Sense: "not similar"; Reject: "Reject"
+2. Difficulty: "N3"; Sense: "similar"; Reject: ""
+3. Difficulty: "N3"; Sense: "similar"; Reject: ""
+4. Difficulty: "N4"; Sense: "not similar"; Reject: ""
+5. Difficulty: "N3"; Sense: "similar"; Reject: ""
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: ""
+2. Difficulty: "N2"; Sense: "similar"; Reject: ""
+3. Difficulty: "N2"; Sense: "similar"; Reject: ""
+4. Difficulty: "N2"; Sense: "similar"; Reject: ""
+5. Difficulty: "N2"; Sense: "similar"; Reject: ""
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: ""
+2. Difficulty: "N4"; Sense: "similar"; Reject: ""
+3. Difficulty: "N5"; Sense: "similar"; Reject: ""
+4. Difficulty: "N5"; Sense: "similar"; Reject: ""
+5. Difficulty: "N5"; Sense: "similar"; Reject: ""
+Sentence diversity: "Low"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provided sentences that were most closely aligned with the target word's use in the context sentence, maintaining a consistent sense of "producing sound" and offering a high diversity in sentence structure and context. System 1 had a mix of relevant and irrelevant uses of the target word, with one sentence being rejected due to incorrect usage, but still offered some diversity. System 3, while maintaining the sense of "taking out" or "producing" in a broad sense, had sentences that were simpler and less diverse, making it less useful for an N3 learner looking for examples closer to the context sentence's complexity and specificity.
+System 1 sentences:
+1. Difficulty: "Reject"; Sense: "not similar"; Reject: "Reject"
+2. Difficulty: "N3"; Sense: "similar"; Reject: ""
+3. Difficulty: "N3"; Sense: "similar"; Reject: ""
+4. Difficulty: "N4"; Sense: "not similar"; Reject: ""
+5. Difficulty: "N3"; Sense: "similar"; Reject: ""
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: ""
+2. Difficulty: "N2"; Sense: "similar"; Reject: ""
+3. Difficulty: "N2"; Sense: "similar"; Reject: ""
+4. Difficulty: "N2"; Sense: "similar"; Reject: ""
+5. Difficulty: "N3"; Sense: "similar"; Reject: ""
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: ""
+2. Difficulty: "N4"; Sense: "similar"; Reject: ""
+3. Difficulty: "N5"; Sense: "not similar"; Reject: "Reject"
+4. Difficulty: "N5"; Sense: "not similar"; Reject: "Reject"
+5. Difficulty: "N5"; Sense: "not similar"; Reject: "Reject"
+Sentence diversity: "Low"
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most relevant and diverse sentences that closely match the target word's use in the context sentence, making it the most useful for learners at the N3 level. System 1 has a mix of relevant and irrelevant uses of the target word, with some sentences not matching the intended sense, leading to a medium diversity rating. System 3's sentences are simpler and mostly focus on the physical act of taking something out, which doesn't align well with the context sentence's use of the word, resulting in a low diversity and relevance score.

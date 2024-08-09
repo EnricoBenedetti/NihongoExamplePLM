@@ -1,0 +1,104 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,-1,1221.0,N3,0.6,0.0,0.3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (PROPN_nmod
+          (ADJ_acl (NOUN_obl ADV_advmod NUM_nummod) ADV_advmod)
+          ADP_case)
+        ADP_case))
+    ADP_case)
+  PUNCT_punct)","['作家', 'と', '読者', 'は', '、', 'もう', 'いち', 'ど', '全然', 'あたらしく', '地割り', 'の', '協定', 'を', 'やり直す', '必要', 'が', 'ある', '。']",,,,,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10,E
+とはいえ、サルコジが「移民とナショナル・アイデンティティ省」設立構想を提示した際には、「そういう（ナショナル・アイデンティティという）表現はあまりにも曖昧で私は全然好きではない。,5204866,,N1,1.0,0.7173303,0.8586651384830475,とはいえ、サルコジが「移民とナショナル・アイデンティティ省」設立構想を提示した際には、「そういう（ナショナル・アイデンティティという）表現はあまりにも曖昧で私は全然好きではない。,"(ADJ_ROOT
+  (ADP_dep SCONJ_fixed SCONJ_fixed PUNCT_punct)
+  (VERB_advcl
+    (PROPN_nsubj ADP_case)
+    (NOUN_obj
+      (NOUN_nmod PUNCT_punct ADP_case)
+      NOUN_compound
+      SYM_compound
+      NOUN_compound
+      NOUN_compound
+      PUNCT_punct
+      NOUN_compound
+      ADP_case)
+    AUX_aux
+    AUX_aux
+    (NOUN_case ADP_fixed)
+    ADP_case
+    PUNCT_punct)
+  (ADJ_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (ADV_advmod PUNCT_punct)
+        PUNCT_punct
+        NOUN_compound
+        SYM_compound
+        NOUN_compound
+        ADP_case
+        VERB_advcl
+        PUNCT_punct)
+      ADP_case)
+    (ADJ_advcl AUX_aux ADP_case)
+    AUX_aux)
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (AUX_aux ADP_fixed AUX_fixed)
+  PUNCT_punct)","['と', 'は', 'いえ', '、', 'サルコジ', 'が', '「', '移民', 'と', 'ナショナル', '・', 'アイデンティティ', '省', '」', '設立', '構想', 'を', '提示', 'し', 'た', '際', 'に', 'は', '、', '「', 'そう', 'いう', '（', 'ナショナル', '・', 'アイデンティティ', 'と', 'いう', '）', '表現', 'は', 'あまり', 'に', 'も', '曖昧', 'で', '私', 'は', '全然', '好き', 'で', 'は', 'ない', '。']",0.8424917060934821,0.9075242312834224,0.8750079686884522,0.8668365535857498,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10,E
+イエ、ダルトリーさん全然老人してなくて、元ファンでないながら尊敬にあたいするというか。,14125,,N1,1.0,0.64267087,0.8213354349136353,イエ、ダルトリーさん全然老人してなくて、元ファンでないながら尊敬にあたいするというか。,(NOUN_ROOT (NOUN_nmod PUNCT_punct) PROPN_compound),"['イエ', '、', 'ダルトリー', 'さん', '全然', '老人', 'し', 'て', 'なく', 'て', '、', '元', 'ファン', 'で', 'ない', 'ながら', '尊敬', 'に', 'あたい', 'する', 'と', 'いう', 'か', '。']",0.8886145917008333,0.8989005464605038,0.8937575690806685,0.8575465019971519,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10,E
+これなどは全然逆な事実を教えるものであるが、その目的は一に満州から日本の勢力を駆逐しようとするところにあったわけである」と述べている。,2878679,,N1,1.0,0.73743075,0.86871537566185,これなどは全然逆な事実を教えるものであるが、その目的は一に満州から日本の勢力を駆逐しようとするところにあったわけである」と述べている。,"(VERB_ROOT
+  (NOUN_advcl
+    (PRON_obl ADP_case ADP_case)
+    ADV_advmod
+    (VERB_acl (NOUN_obj (ADJ_acl AUX_aux) ADP_case))
+    (AUX_cop VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_advcl
+    (NOUN_nsubj DET_det ADP_case)
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl
+          (NUM_obl ADP_case)
+          (VERB_advcl
+            (PROPN_obl ADP_case)
+            (NOUN_obj (PROPN_nmod ADP_case) ADP_case)
+            AUX_aux
+            ADP_case))
+        ADP_case)
+      AUX_aux)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['これ', 'など', 'は', '全然', '逆', 'な', '事実', 'を', '教える', 'もの', 'で', 'ある', 'が', '、', 'その', '目的', 'は', '一', 'に', '満州', 'から', '日本', 'の', '勢力', 'を', '駆逐', 'しよう', 'と', 'する', 'ところ', 'に', 'あっ', 'た', 'わけ', 'で', 'ある', '」', 'と', '述べ', 'て', 'いる', '。']",0.8611924487388772,0.8875968144624862,0.8743946316006816,0.8715550036312658,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10,E
+我々の中では全然重さが違う」と柔道界の論理を振りかざして今回の処分の妥当性を主張した。,7319119,,N1,1.0,0.74751234,0.8737561702728271,我々の中では全然重さが違う」と柔道界の論理を振りかざして今回の処分の妥当性を主張した。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (PRON_nmod ADP_case) ADP_case ADP_case)
+    ADV_advmod
+    (NOUN_nsubj ADP_case)
+    PUNCT_punct
+    ADP_case)
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+    SCONJ_mark)
+  (NOUN_obj (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['我々', 'の', '中', 'で', 'は', '全然', '重さ', 'が', '違う', '」', 'と', '柔道', '界', 'の', '論理', 'を', '振りかざし', 'て', '今回', 'の', '処分', 'の', '妥当性', 'を', '主張', 'し', 'た', '。']",0.8262139611734555,0.8759502147974323,0.8510820879854439,0.8624191291291355,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10,E
+一心不乱に仕事に取り組むのは良いけれど、まわりが全然見えてないね。,256505,,N1,1.0,0.70989716,0.8549485802650452,一心不乱に仕事に取り組むのは良いけれど、まわりが全然見えてないね。,"(VERB_ROOT
+  (ADJ_advcl
+    (VERB_advcl
+      (NOUN_obl NOUN_compound ADP_case)
+      (NOUN_obl ADP_case)
+      SCONJ_mark
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['一心', '不乱', 'に', '仕事', 'に', '取り組む', 'の', 'は', '良い', 'けれど', '、', 'まわり', 'が', '全然', '見え', 'て', 'ない', 'ね', '。']",0.7969709656592266,0.8751189736740097,0.8360449696666181,0.8454967749658316,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N1,10,E

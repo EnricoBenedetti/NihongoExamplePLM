@@ -1,0 +1,33 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,-1,20001.0,N2,0.0,0.0,0.0,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,"(ADJ_ROOT
+  (NOUN_obl
+    (NOUN_nmod PROPN_compound NUM_nummod ADP_case)
+    (ADP_case VERB_fixed SCONJ_fixed)
+    ADP_case
+    PUNCT_punct
+    (NOUN_dep
+      (ADV_advmod PUNCT_punct)
+      (ADJ_nmod NOUN_compound ADP_case)))
+  (NOUN_obl
+    (NOUN_nmod NUM_nummod ADP_case)
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (PRON_advcl AUX_case ADP_case)
+  PUNCT_punct)","['加州', '一', '藩', 'の', '経済', 'に', 'とっ', 'て', 'は', '、', '勿論', '、', '金', '無垢', 'の', '煙管', '一', '本', 'の', '費用', 'くらい', 'は', '、', '何', 'で', 'も', 'ない', '。']",,,,,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N5
+アメリカの経済は健全だと思います。,71897,,N5,1.0,0.7374226,0.8687112927436829,アメリカの経済は健全だと思います。,"(VERB_ROOT
+  (ADJ_ccomp
+    (NOUN_nsubj (PROPN_nmod ADP_case) ADP_case)
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['アメリカ', 'の', '経済', 'は', '健全', 'だ', 'と', '思い', 'ます', '。']",0.75,0.9203216374269004,0.8351608187134503,0.8519360557285666,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N5
+それから経済対策です。,108954,,N5,1.0,0.6686688,0.8343344032764435,それから経済対策です。,(NOUN_ROOT (PRON_nmod ADP_fixed) NOUN_compound AUX_cop PUNCT_punct),"['それ', 'から', '経済', '対策', 'です', '。']",0.75,0.9196230598669624,0.8348115299334812,0.8345729666049624,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N5
+日本の経済についてどう思いますか。,201616,,N5,1.0,0.73324144,0.8666207194328308,日本の経済についてどう思いますか。,"(VERB_ROOT
+  (NOUN_obl (PROPN_nmod ADP_case) (ADP_case VERB_fixed SCONJ_fixed))
+  ADV_advmod
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['日本', 'の', '経済', 'に', 'つい', 'て', 'どう', '思い', 'ます', 'か', '。']",0.7149482106812985,0.8838074107786248,0.7993778107299616,0.8329992650813962,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N5
+経済は生き物です。,100892,,N5,1.0,0.7193459,0.8596729636192322,経済は生き物です。,(NOUN_ROOT (NOUN_nsubj ADP_case) AUX_cop PUNCT_punct),"['経済', 'は', '生き物', 'です', '。']",0.6822700618537565,0.8673484848484848,0.7748092733511207,0.8172411184851764,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N5
+学部は経済です。,136766,,N5,1.0,0.53648317,0.7682415843009949,学部は経済です。,(NOUN_ROOT (NOUN_nsubj ADP_case) AUX_cop PUNCT_punct),"['学部', 'は', '経済', 'です', '。']",0.6237141315324893,0.8575385599370249,0.740626345734757,0.754433965017876,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N5

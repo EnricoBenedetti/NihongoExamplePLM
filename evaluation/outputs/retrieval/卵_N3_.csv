@@ -1,0 +1,96 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+卵から産まれて成虫になるまでの間の成長過程のものを指す。,-1,9574.0,N3,1.0,0.0,0.5,卵から産まれて成虫になるまでの間の成長過程のものを指す。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod
+        (VERB_nmod
+          (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+          (NOUN_obl ADP_case)
+          PART_mark
+          ADP_case)
+        ADP_case)
+      NOUN_compound
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['卵', 'から', '産まれ', 'て', '成虫', 'に', 'なる', 'まで', 'の', '間', 'の', '成長', '過程', 'の', 'もの', 'を', '指す', '。']",,,,,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N3
+卵から孵化したものは、すでに成虫とほぼ同じ形で、いわゆる直接発生をする。,2146428,,N3,1.0,0.94033,0.9701650142669678,卵から孵化したものは、すでに成虫とほぼ同じ形で、いわゆる直接発生をする。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl ADP_case) AUX_aux AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  ADV_advmod
+  (NOUN_obl
+    (ADJ_amod (NOUN_obl ADP_case) ADV_advmod)
+    ADP_case
+    PUNCT_punct)
+  ADJ_advcl
+  ADV_advmod
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['卵', 'から', '孵化', 'し', 'た', 'もの', 'は', '、', 'すでに', '成虫', 'と', 'ほぼ', '同じ', '形', 'で', '、', 'いわゆる', '直接', '発生', 'を', 'する', '。']",0.8140225758012853,0.937171052631579,0.8755968142164321,0.9228809142417,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N3
+カマキリは、卵-幼虫-成虫という不完全変態を行うグループである。,7375520,,N3,1.0,0.90637445,0.9531872272491456,カマキリは、卵-幼虫-成虫という不完全変態を行うグループである。,"(NOUN_ROOT
+  (PROPN_nsubj ADP_case PUNCT_punct)
+  (VERB_acl
+    (NOUN_obj
+      (NOUN_nmod
+        NOUN_compound
+        SYM_compound
+        NOUN_compound
+        SYM_compound
+        (ADP_case VERB_fixed))
+      ADJ_amod
+      ADP_case))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['カマキリ', 'は', '、', '卵', '-', '幼虫', '-', '成虫', 'と', 'いう', '不完全', '変態', 'を', '行う', 'グループ', 'で', 'ある', '。']",0.7778834838041438,0.9087774294670846,0.8433304566356142,0.8982588419423798,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N3
+卵から成虫までの生活環が最短で16日で完了することが知られており、1年に最大で9回世代交代することができるとされる。,8538236,,N3,1.0,0.9289374,0.9644686877727509,卵から成虫までの生活環が最短で16日で完了することが知られており、1年に最大で9回世代交代することができるとされる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_nsubj
+          (NOUN_nmod ADP_case)
+          (NOUN_nmod ADP_case ADP_case)
+          ADP_case)
+        (NOUN_obl (NOUN_nmod ADP_case) NUM_nummod ADP_case)
+        AUX_aux)
+      ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl NUM_nummod ADP_case)
+    (NOUN_obl ADP_case)
+    NUM_compound
+    NOUN_compound
+    NOUN_compound
+    AUX_aux
+    (NOUN_compound ADP_fixed AUX_fixed)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['卵', 'から', '成虫', 'まで', 'の', '生活環', 'が', '最短', 'で', '16', '日', 'で', '完了', 'する', 'こと', 'が', '知ら', 'れ', 'て', 'おり', '、', '1', '年', 'に', '最大', 'で', '9', '回', '世代', '交代', 'する', 'こと', 'が', 'できる', 'と', 'さ', 'れる', '。']",0.746253484990491,0.8843873517786561,0.8153204183845736,0.8898945530786622,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N3
+どのヤツメウナギも卵から孵化後、2～4年ほどアンモシーテスの時期を送り、その後変態して成体になる。,8444385,,N3,1.0,0.92504543,0.962522715330124,どのヤツメウナギも卵から孵化後、2～4年ほどアンモシーテスの時期を送り、その後変態して成体になる。,"(VERB_ROOT
+  (NOUN_obl DET_det)
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nsubj ADP_case)
+      (NOUN_nmod ADP_case)
+      NOUN_compound
+      PUNCT_punct)
+    (NOUN_obj
+      (NOUN_nmod NUM_compound SYM_nummod NUM_nummod ADP_case)
+      (NOUN_nmod ADP_case)
+      ADP_case)
+    PUNCT_punct)
+  (VERB_advcl (NOUN_obl DET_det) AUX_aux SCONJ_mark)
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['どの', 'ヤツメ', 'ウナギ', 'も', '卵', 'から', '孵化', '後', '、', '2', '～', '4', '年', 'ほど', 'アンモシーテス', 'の', '時期', 'を', '送り', '、', 'その', '後', '変態', 'し', 'て', '成体', 'に', 'なる', '。']",0.7258228389893158,0.8728188405797102,0.799320839784513,0.8809217775573184,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N3
+マナマコの場合、卵から稚ナマコになるまではおよそ1ヶ月ほどである。,1743491,,N3,1.0,0.92492014,0.962460070848465,マナマコの場合、卵から稚ナマコになるまではおよそ1ヶ月ほどである。,"(NOUN_ROOT
+  (NOUN_nmod (NOUN_nmod ADP_case) PUNCT_punct)
+  (VERB_obl
+    (NOUN_obl ADP_case)
+    (NOUN_obl NOUN_compound ADP_case)
+    PART_mark
+    ADP_case)
+  ADV_advmod
+  NUM_nummod
+  ADP_case
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['マナマコ', 'の', '場合', '、', '卵', 'から', '稚', 'ナマコ', 'に', 'なる', 'まで', 'は', 'およそ', '1', 'ヶ月', 'ほど', 'で', 'ある', '。']",0.7239687140857033,0.8523276240667546,0.7881481690762289,0.8753041199623469,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N3

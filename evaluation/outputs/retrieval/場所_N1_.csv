@@ -1,0 +1,61 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一人のこらず死んだような場所もあります。,-1,20001.0,N1,1.0,0.0,0.5,一人のこらず死んだような場所もあります。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl (NOUN_nmod ADP_case) AUX_aux)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['一人', 'の', 'こら', 'ず', '死ん', 'だ', 'よう', 'な', '場所', 'も', 'あり', 'ます', '。']",,,,,1,一人のこらず死んだような場所もあります。,場所,N1
+これは姥捨て山のごとく芸人達が送られた架空の場所であると同時に、芸人そのものを指す複合的な造語である。,3969183,,N1,1.0,0.73776776,0.86888387799263,これは姥捨て山のごとく芸人達が送られた架空の場所であると同時に、芸人そのものを指す複合的な造語である。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_advcl
+      (VERB_acl (PRON_nsubj ADP_case) SCONJ_mark)
+      ADP_case
+      AUX_aux)
+    (NOUN_nmod
+      (VERB_acl (NOUN_nsubj NOUN_compound ADP_case) AUX_aux AUX_aux)
+      ADP_case)
+    (AUX_cop VERB_fixed)
+    (ADP_case SCONJ_fixed SCONJ_fixed)
+    PUNCT_punct)
+  (NOUN_obj (DET_det NOUN_nmod) ADP_case))","['これ', 'は', '姥捨', 'て', '山', 'の', 'ごとく', '芸人', '達', 'が', '送ら', 'れ', 'た', '架空', 'の', '場所', 'で', 'ある', 'と', '同時', 'に', '、', '芸人', 'その', 'もの', 'を', '指す', '複合', '的', 'な', '造語', 'で', 'ある', '。']",0.912589329641813,0.9518912529550828,0.932240291298448,0.9005620846455389,1,一人のこらず死んだような場所もあります。,場所,N1
+独り者には縁のない場所だよなぁ。,383069,,N1,1.0,0.78046954,0.8902347683906555,独り者には縁のない場所だよなぁ。,"(NOUN_ROOT
+  (ADJ_acl (NOUN_obl ADP_case ADP_case) (NOUN_nmod ADP_case))
+  AUX_cop
+  PART_mark
+  PART_mark
+  PUNCT_punct)","['独り者', 'に', 'は', '縁', 'の', 'ない', '場所', 'だ', 'よ', 'なぁ', '。']",0.8878682543730133,0.9351097178683384,0.911488986120676,0.9008618772556656,1,一人のこらず死んだような場所もあります。,場所,N1
+どんな場所だろうと、私が到着するまで決して始めさせることはなかったのだ。,1205946,,N1,1.0,0.74305344,0.8715267181396484,どんな場所だろうと、私が到着するまで決して始めさせることはなかったのだ。,"(VERB_ROOT
+  (NOUN_advcl PRON_nmod AUX_cop SCONJ_mark PUNCT_punct)
+  (VERB_advcl (PRON_nsubj ADP_case) AUX_aux PART_mark)
+  ADV_advmod
+  AUX_aux
+  (NOUN_compound ADP_fixed AUX_fixed)
+  AUX_aux
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['どんな', '場所', 'だろう', 'と', '、', '私', 'が', '到着', 'する', 'まで', '決して', '始め', 'させる', 'こと', 'は', 'なかっ', 'た', 'の', 'だ', '。']",0.8690602010369427,0.9229036729036728,0.8959819369703078,0.8837543275549782,1,一人のこらず死んだような場所もあります。,場所,N1
+私の愛するものがそろひもそろつてこのやうに踏み躙られてゐる場所でどうしてのびのびと呼吸をすることなどできませう」と書き綴っている。,2087751,,N1,1.0,0.6975406,0.8487702906131744,私の愛するものがそろひもそろつてこのやうに踏み躙られてゐる場所でどうしてのびのびと呼吸をすることなどできませう」と書き綴っている。,(VERB_ROOT (NOUN_nsubj (VERB_acl (PRON_nmod ADP_case)) ADP_case)),"['私', 'の', '愛する', 'もの', 'が', 'そろ', 'ひも', 'そろ', 'つ', 'て', 'この', 'やう', 'に', '踏み躙ら', 'れ', 'て', 'ゐる', '場所', 'で', 'どう', 'し', 'て', 'のびのび', 'と', '呼吸', 'を', 'する', 'こと', 'など', 'でき', 'ませ', 'う', '」', 'と', '書き綴っ', 'て', 'いる', '。']",0.9009284633696752,0.9049782541161852,0.90295335874293,0.8758618246780523,1,一人のこらず死んだような場所もあります。,場所,N1
+呪われた島」と通称され、実際に呪われたと表現しても過言ではないような過酷な場所が島の随所に存在する。,711242,,N1,1.0,0.77799594,0.8889979720115662,呪われた島」と通称され、実際に呪われたと表現しても過言ではないような過酷な場所が島の随所に存在する。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (VERB_acl AUX_aux AUX_aux) PUNCT_punct ADP_case)
+    AUX_aux
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_acl
+      (VERB_obl
+        (VERB_advcl (NOUN_obl ADP_case) AUX_aux AUX_aux ADP_case)
+        AUX_aux
+        SCONJ_mark
+        ADP_case)
+      (AUX_cop ADP_fixed AUX_fixed)
+      AUX_aux
+      AUX_cop)
+    (ADJ_acl AUX_aux)
+    ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['呪わ', 'れ', 'た', '島', '」', 'と', '通称', 'さ', 'れ', '、', '実際', 'に', '呪わ', 'れ', 'た', 'と', '表現', 'し', 'て', 'も', '過言', 'で', 'は', 'ない', 'よう', 'な', '過酷', 'な', '場所', 'が', '島', 'の', '随所', 'に', '存在', 'する', '。']",0.8529478155359602,0.8701757298664147,0.8615617727011875,0.8752798723563768,1,一人のこらず死んだような場所もあります。,場所,N1

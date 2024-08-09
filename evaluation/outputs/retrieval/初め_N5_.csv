@@ -1,0 +1,33 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+十一月の初めだった。,-1,15130.0,N4,0.6,0.0,0.3,十一月の初めだった。,"(NOUN_ROOT
+  (NOUN_nmod NUM_compound ADP_case)
+  AUX_cop
+  AUX_aux
+  PUNCT_punct)","['十一', '月', 'の', '初め', 'だっ', 'た', '。']",,,,,1,十一月の初めだった。,初め,N5
+初めからずっとないのです。,7767260,,N5,1.0,0.44312465,0.7215623259544373,初めからずっとないのです。,"(ADJ_ROOT
+  (NOUN_obl ADP_case)
+  ADV_advmod
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['初め', 'から', 'ずっと', 'ない', 'の', 'です', '。']",0.75,0.9464285714285714,0.8482142857142857,0.7848883058343614,1,十一月の初めだった。,初め,N5
+来月の初め、国へ帰ります。,379820,,N5,1.0,0.79381245,0.8969062268733978,来月の初め、国へ帰ります。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADP_case) PUNCT_punct)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['来月', 'の', '初め', '、', '国', 'へ', '帰り', 'ます', '。']",0.5348968171900752,0.9222826086956522,0.7285897129428637,0.8127479699081308,1,十一月の初めだった。,初め,N5
+初めに先生が自分の名前を言いました。,144261,,N5,1.0,0.49719095,0.7485954761505127,初めに先生が自分の名前を言いました。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['初め', 'に', '先生', 'が', '自分', 'の', '名前', 'を', '言い', 'まし', 'た', '。']",0.5474740743851227,0.912442396313364,0.7299582353492434,0.7392768557498781,1,十一月の初めだった。,初め,N5
+誰が初めに来たの？,375319,,N5,1.0,0.48851055,0.7442552745342255,誰が初めに来たの？,"(VERB_ROOT
+  (NOUN_obl (PRON_nsubj ADP_case) ADP_case)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['誰', 'が', '初め', 'に', '来', 'た', 'の', '？']",0.5159022132172913,0.8930538555691554,0.7044780343932233,0.7243666544637244,1,十一月の初めだった。,初め,N5
+彼女は来月の初めに東京に着く。,166117,,N4,0.6,0.8277372,0.7138686060905457,彼女は来月の初めに東京に着く。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (PROPN_obl ADP_case)
+  PUNCT_punct)","['彼女', 'は', '来月', 'の', '初め', 'に', '東京', 'に', '着く', '。']",0.5439498258561473,0.862930941633784,0.7034403837449656,0.7086544949177557,1,十一月の初めだった。,初め,N5

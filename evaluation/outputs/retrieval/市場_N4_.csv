@@ -1,0 +1,40 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+この四月以来市場には、前代未聞だと云う恐慌が来ている。,-1,20001.0,N1,0.0,0.0,0.0,この四月以来市場には、前代未聞だと云う恐慌が来ている。,"(VERB_ROOT
+  (NOUN_advmod DET_det NUM_compound NOUN_compound)
+  (NOUN_obl ADP_case ADP_case PUNCT_punct)
+  (NOUN_nsubj (NOUN_acl AUX_aux (ADP_case VERB_fixed)) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['この', '四', '月', '以来', '市場', 'に', 'は', '、', '前代未聞', 'だ', 'と', '云う', '恐慌', 'が', '来', 'て', 'いる', '。']",,,,,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N4
+マラッカに使者を派遣し交易を始め、市場を拡大させた。,2759480,,N4,1.0,0.611858,0.8059290051460266,マラッカに使者を派遣し交易を始め、市場を拡大させた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl (PROPN_obl ADP_case) (NOUN_obj ADP_case) AUX_aux)
+    (NOUN_obj ADP_case)
+    PUNCT_punct)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['マラッカ', 'に', '使者', 'を', '派遣', 'し', '交易', 'を', '始め', '、', '市場', 'を', '拡大', 'さ', 'せ', 'た', '。']",0.8333333333333334,0.9571428571428572,0.8952380952380953,0.8505835501920609,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N4
+市場は全面安ですね。,236262,,N4,1.0,0.6837348,0.8418673872947693,市場は全面安ですね。,(NOUN_ROOT (NOUN_nsubj ADP_case) AUX_cop PART_mark PUNCT_punct),"['市場', 'は', '全面安', 'です', 'ね', '。']",0.7822704613493044,0.945121951219512,0.8636962062844082,0.8527817967895888,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N4
+明日は市場が開くので、持っている株を売りたい。,92503,,N4,1.0,0.7689778,0.8844889104366302,明日は市場が開くので、持っている株を売りたい。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark AUX_fixed)
+    PUNCT_punct)
+  (NOUN_obj (VERB_acl (SCONJ_mark VERB_fixed)) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['明日', 'は', '市場', 'が', '開く', 'の', 'で', '、', '持っ', 'て', 'いる', '株', 'を', '売り', 'たい', '。']",0.6915157322619749,0.9207216153591526,0.8061186738105638,0.8453037921235971,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N4
+私は普段金曜日に市場に買い物に行きます。,221272,,N4,1.0,0.64328754,0.8216437697410583,私は普段金曜日に市場に買い物に行きます。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私', 'は', '普段', '金曜日', 'に', '市場', 'に', '買い物', 'に', '行き', 'ます', '。']",0.7094477987303401,0.9088541666666666,0.8091509826985034,0.8153973762197808,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N4
+米市場が休みだから。,78770,,N4,1.0,0.7249728,0.8624863922595978,米市場が休みだから。,"(NOUN_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case)
+  AUX_cop
+  SCONJ_mark
+  PUNCT_punct)","['米', '市場', 'が', '休み', 'だ', 'から', '。']",0.6701835889570811,0.90046992481203,0.7853267568845556,0.8239065745720766,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N4

@@ -1,0 +1,273 @@
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 場合; target level: N1; context sentence: この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。
+System 1 sentences:
+私が日本に留学した場合、日本語を学ぶのに苦労すると思います。
+何か問題が起きた場合には、冷静に対処することが大切です。
+私が何かを壊した場合、それは弁償する必要がある。
+彼に電話をかけた場合、すぐに返事が来るとは限らない。
+実際に起こる可能性は低いですが、万一起こった場合は速やかに対応してください。
+System 2 sentences:
+かくのごとき困難は天然現象の場合に最も著しかるべし。
+それ故に彼の場合は、敵も味方も悲劇であり、戰爭そのものが痛ましい宿命だつた。
+彼は『政略論』において「戦いに訴えねばならない場合に、自国民からなる軍隊をもっていない指導者は国家は恥じてしかるべきだと思う」と論じている。
+日本の場合は、艦長ですら自分の下着は自分で洗濯せねばならないほどであった。
+救助活動による二次遭難の危険が高い場合は、生存者の生命を危険にさらすべきではないが、心情的に割り切れるかどうかは難しいところであろう。
+System 3 sentences:
+私たちが成功するかどうかは、チームの連携力による場合が非常に大きい。
+その商品を売るかどうかは、消費者の需要による場合が決め手となる。
+受験に合格するかどうかは、過去の試験の結果による場合が多い。
+家族の安全を守るためには、地域の治安状況による場合が深く関わる。
+旅行の楽しみ方は、目的地の天候による場合がどうしても影響される。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N2; Sense: similar; Reject: ""
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N1; Sense: similar; Reject: ""
+2. Difficulty: N1; Sense: similar; Reject: ""
+3. Difficulty: N1; Sense: similar; Reject: ""
+4. Difficulty: N2; Sense: similar; Reject: ""
+5. Difficulty: N1; Sense: similar; Reject: ""
+Sentence diversity: High
+
+System 3 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most complex and diverse sentences that are most suitable for an N1 learner, with a high level of syntactic diversity and appropriate use of the target word "場合" in contexts that align well with the target difficulty level. System 1 offers sentences that are generally simpler than the target level but still relevant and useful, with a medium range of diversity. System 3, while maintaining relevance to the target word, offers the least diversity and complexity, making it the least suitable for N1 learners looking for challenging material.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 場合; target level: N1; context sentence: この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。
+System 1 sentences:
+私が日本に留学した場合、日本語を学ぶのに苦労すると思います。
+何か問題が起きた場合には、冷静に対処することが大切です。
+私が何かを壊した場合、それは弁償する必要がある。
+彼に電話をかけた場合、すぐに返事が来るとは限らない。
+実際に起こる可能性は低いですが、万一起こった場合は速やかに対応してください。
+System 2 sentences:
+かくのごとき困難は天然現象の場合に最も著しかるべし。
+それ故に彼の場合は、敵も味方も悲劇であり、戰爭そのものが痛ましい宿命だつた。
+彼は『政略論』において「戦いに訴えねばならない場合に、自国民からなる軍隊をもっていない指導者は国家は恥じてしかるべきだと思う」と論じている。
+日本の場合は、艦長ですら自分の下着は自分で洗濯せねばならないほどであった。
+救助活動による二次遭難の危険が高い場合は、生存者の生命を危険にさらすべきではないが、心情的に割り切れるかどうかは難しいところであろう。
+System 3 sentences:
+私たちが成功するかどうかは、チームの連携力による場合が非常に大きい。
+その商品を売るかどうかは、消費者の需要による場合が決め手となる。
+受験に合格するかどうかは、過去の試験の結果による場合が多い。
+家族の安全を守るためには、地域の治安状況による場合が深く関わる。
+旅行の楽しみ方は、目的地の天候による場合がどうしても影響される。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N2; Sense: similar; Reject: ""
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N1; Sense: similar; Reject: ""
+2. Difficulty: N1; Sense: similar; Reject: ""
+3. Difficulty: N1; Sense: similar; Reject: ""
+4. Difficulty: N2; Sense: similar; Reject: ""
+5. Difficulty: N2; Sense: similar; Reject: ""
+Sentence diversity: High
+
+System 3 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most complex and diverse sentences that are closest to the target N1 level, with a high degree of syntactic variety and maintaining a similar sense to the context sentence. System 1 offers sentences that are generally simpler than the target level but still relevant and diverse in usage. System 3, while maintaining relevance, lacks diversity in sentence structure and complexity, making it the least useful for learners aiming for N1 proficiency.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 場合; target level: N1; context sentence: この闘いは今日の場合では大概は容易ならぬ苦闘だからだ。
+System 1 sentences:
+私が日本に留学した場合、日本語を学ぶのに苦労すると思います。
+何か問題が起きた場合には、冷静に対処することが大切です。
+私が何かを壊した場合、それは弁償する必要がある。
+彼に電話をかけた場合、すぐに返事が来るとは限らない。
+実際に起こる可能性は低いですが、万一起こった場合は速やかに対応してください。
+System 2 sentences:
+かくのごとき困難は天然現象の場合に最も著しかるべし。
+それ故に彼の場合は、敵も味方も悲劇であり、戰爭そのものが痛ましい宿命だつた。
+彼は『政略論』において「戦いに訴えねばならない場合に、自国民からなる軍隊をもっていない指導者は国家は恥じてしかるべきだと思う」と論じている。
+日本の場合は、艦長ですら自分の下着は自分で洗濯せねばならないほどであった。
+救助活動による二次遭難の危険が高い場合は、生存者の生命を危険にさらすべきではないが、心情的に割り切れるかどうかは難しいところであろう。
+System 3 sentences:
+私たちが成功するかどうかは、チームの連携力による場合が非常に大きい。
+その商品を売るかどうかは、消費者の需要による場合が決め手となる。
+受験に合格するかどうかは、過去の試験の結果による場合が多い。
+家族の安全を守るためには、地域の治安状況による場合が深く関わる。
+旅行の楽しみ方は、目的地の天候による場合がどうしても影響される。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System 2 sentences:
+1. Difficulty: N1; Sense: similar; Reject: ""
+2. Difficulty: N1; Sense: similar; Reject: ""
+3. Difficulty: N1; Sense: similar; Reject: ""
+4. Difficulty: N2; Sense: similar; Reject: ""
+5. Difficulty: N1; Sense: similar; Reject: ""
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System ranking: System 2 > System 1 = System 3
+
+Comment: System 2 provides sentences that are most appropriate for the target N1 level, with a good mix of complex structures and vocabulary. The sentences from Systems 1 and 3, while relevant and maintaining a similar sense to the target word, are more suited to an N3 level due to their simpler structures and more common vocabulary. System 2 also offers a higher sentence diversity compared to Systems 1 and 3, which both present low diversity in sentence structure and usage.
++++++END_RESPONSE+++++

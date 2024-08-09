@@ -1,0 +1,148 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+ハードルに手や足をかけても問題ない。,-1,16615.0,N3,0.6,0.0,0.3,ハードルに手や足をかけても問題ない。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    ADP_case)
+  NOUN_compound
+  PUNCT_punct)","['ハードル', 'に', '手', 'や', '足', 'を', 'かけ', 'て', 'も', '問題', 'ない', '。']",,,,,1,ハードルに手や足をかけても問題ない。,足,N1
+しかし、足を引き摺るようなフットワークはむしろ鈍重とも映ったが、戦えば同時代の挑戦者たちを全く寄せ付けなかった。,5648092,,N1,1.0,0.7746944,0.8873471915721893,しかし、足を引き摺るようなフットワークはむしろ鈍重とも映ったが、戦えば同時代の挑戦者たちを全く寄せ付けなかった。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl (NOUN_obj ADP_case) AUX_aux AUX_aux)
+      ADP_case)
+    ADV_advmod
+    (ADJ_advcl ADP_case ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl SCONJ_mark)
+  (NOUN_obj
+    (NOUN_nmod NOUN_compound ADP_case)
+    NOUN_compound
+    ADP_case)
+  ADV_advmod
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['しかし', '、', '足', 'を', '引き摺る', 'よう', 'な', 'フットワーク', 'は', 'むしろ', '鈍重', 'と', 'も', '映っ', 'た', 'が', '、', '戦え', 'ば', '同', '時代', 'の', '挑戦者', 'たち', 'を', '全く', '寄せ付け', 'なかっ', 'た', '。']",0.8107412515423194,0.9520833333333334,0.8814122924378264,0.8843797420050079,1,ハードルに手や足をかけても問題ない。,足,N1
+側方倒立回転や前方倒立回転に手のジャンプを入れた技がロンダートや前方倒立回転跳び、手と足以外に首や頭部で支持するのが「はね起き」技である。,6234118,,N1,1.0,0.80119884,0.9005994200706482,側方倒立回転や前方倒立回転に手のジャンプを入れた技がロンダートや前方倒立回転跳び、手と足以外に首や頭部で支持するのが「はね起き」技である。,"(NOUN_ROOT
+  (NOUN_nmod
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl
+          (NOUN_nmod NOUN_compound NOUN_compound ADP_case)
+          NOUN_compound
+          NOUN_compound
+          ADP_case)
+        (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+        AUX_aux)
+      ADP_case)
+    (ADV_advmod ADP_case)
+    NOUN_compound
+    VERB_compound
+    NOUN_compound
+    PUNCT_punct)
+  (VERB_csubj
+    (NOUN_obl (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux
+    SCONJ_mark
+    ADP_case)
+  PUNCT_punct
+  VERB_compound
+  PUNCT_punct
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['側方', '倒立', '回転', 'や', '前方', '倒立', '回転', 'に', '手', 'の', 'ジャンプ', 'を', '入れ', 'た', '技', 'が', 'ロンダート', 'や', '前方', '倒立', '回転', '跳び', '、', '手', 'と', '足', '以外', 'に', '首', 'や', '頭部', 'で', '支持', 'する', 'の', 'が', '「', 'はね起き', '」', '技', 'で', 'ある', '。']",0.8190094728820915,0.8809122588766742,0.8499608658793829,0.8752801429750156,1,ハードルに手や足をかけても問題ない。,足,N1
+必要は手段を正当化するとはいえ、腕の力で回らない時にハンドルにパイプをかぶせて長さを延長して使ったり、足で蹴って回すことは正しい使い方ではない。,4120948,,N1,1.0,0.8038424,0.9019212126731871,必要は手段を正当化するとはいえ、腕の力で回らない時にハンドルにパイプをかぶせて長さを延長して使ったり、足で蹴って回すことは正しい使い方ではない。,"(NOUN_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_advcl
+            (NOUN_obj ADP_case)
+            AUX_aux
+            (ADP_case SCONJ_fixed SCONJ_fixed)
+            PUNCT_punct)
+          (VERB_advcl
+            (NOUN_obl
+              (VERB_acl
+                (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+                ADJ_aux)
+              ADP_case)
+            (NOUN_obl ADP_case)
+            (NOUN_obj ADP_case)
+            SCONJ_mark)
+          (VERB_advcl
+            (ADJ_obj PART_mark ADP_case)
+            AUX_aux
+            SCONJ_mark)
+          PART_mark
+          PUNCT_punct)
+        (NOUN_obl ADP_case)
+        SCONJ_mark))
+    ADP_case)
+  ADJ_acl
+  (AUX_cop ADP_fixed AUX_fixed)
+  PUNCT_punct)","['必要', 'は', '手段', 'を', '正当化', 'する', 'と', 'は', 'いえ', '、', '腕', 'の', '力', 'で', '回ら', 'ない', '時', 'に', 'ハンドル', 'に', 'パイプ', 'を', 'かぶせ', 'て', '長', 'さ', 'を', '延長', 'し', 'て', '使っ', 'たり', '、', '足', 'で', '蹴っ', 'て', '回す', 'こと', 'は', '正しい', '使い方', 'で', 'は', 'ない', '。']",0.7747921626094639,0.8731242554563273,0.8239582090328956,0.8629397108530414,1,ハードルに手や足をかけても問題ない。,足,N1
+次男は「火にあたっているときに足を引っ込ますくらいなら、かかとを火傷したほうがましと考えるくらいのものぐさである」と言った。,4962263,,N1,1.0,0.8173937,0.908696860074997,次男は「火にあたっているときに足を引っ込ますくらいなら、かかとを火傷したほうがましと考えるくらいのものぐさである」と言った。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_obl PUNCT_punct ADP_case)
+        (SCONJ_mark VERB_fixed))
+      ADP_case)
+    (NOUN_obj ADP_case)
+    ADP_case
+    AUX_aux
+    PUNCT_punct)
+  (PROPN_advcl
+    (VERB_nmod
+      (ADV_ccomp
+        (NOUN_nsubj
+          (VERB_acl (NOUN_obj ADP_case) AUX_aux AUX_aux)
+          ADP_case)
+        ADP_case)
+      PART_mark
+      ADP_case)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['次男', 'は', '「', '火', 'に', 'あたっ', 'て', 'いる', 'とき', 'に', '足', 'を', '引っ込ます', 'くらい', 'なら', '、', 'かかと', 'を', '火傷', 'し', 'た', 'ほう', 'が', 'まし', 'と', '考える', 'くらい', 'の', 'ものぐさ', 'で', 'ある', '」', 'と', '言っ', 'た', '。']",0.742261037698835,0.8644227860503029,0.8033419118745689,0.8560193859747829,1,ハードルに手や足をかけても問題ない。,足,N1
+しかし、それまで障害物に足をかけて飛び越えるのが一般的だったものを、ビウォットは大胆にもハードルに足をかけずに跳び越えるスタイルを貫き、タイムを短縮していった。,6440546,,N1,1.0,0.8295604,0.9147801995277404,しかし、それまで障害物に足をかけて飛び越えるのが一般的だったものを、ビウォットは大胆にもハードルに足をかけずに跳び越えるスタイルを貫き、タイムを短縮していった。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obj
+      (ADJ_acl
+        (VERB_csubj
+          (VERB_advcl
+            (PRON_obl ADP_case)
+            (NOUN_obl ADP_case)
+            (NOUN_obj ADP_case)
+            SCONJ_mark)
+          SCONJ_mark
+          ADP_case)
+        AUX_cop
+        AUX_aux)
+      ADP_case
+      PUNCT_punct)
+    (PROPN_nsubj ADP_case)
+    (NOUN_obj
+      (VERB_acl
+        (VERB_advcl
+          (ADJ_advcl AUX_aux ADP_case)
+          (NOUN_obl ADP_case)
+          (NOUN_obj ADP_case)
+          AUX_aux
+          ADP_case))
+      ADP_case)
+    PUNCT_punct)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['しかし', '、', 'それ', 'まで', '障害物', 'に', '足', 'を', 'かけ', 'て', '飛び越える', 'の', 'が', '一般的', 'だっ', 'た', 'もの', 'を', '、', 'ビウォット', 'は', '大胆', 'に', 'も', 'ハードル', 'に', '足', 'を', 'かけ', 'ず', 'に', '跳び越える', 'スタイル', 'を', '貫き', '、', 'タイム', 'を', '短縮', 'し', 'て', 'いっ', 'た', '。']",0.7214916814139245,0.8360484904850887,0.7787700859495066,0.8467751427386235,1,ハードルに手や足をかけても問題ない。,足,N1

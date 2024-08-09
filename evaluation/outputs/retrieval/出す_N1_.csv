@@ -1,0 +1,117 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,-1,20001.0,N2,0.8,0.0,0.4,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl NOUN_compound ADP_case ADP_case)
+    (NOUN_obl
+      (NOUN_nmod (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+      PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    SCONJ_mark)
+  (NOUN_nmod
+    (VERB_acl (NOUN_obl ADP_case ADP_case) AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['音', '具', 'と', 'は', '音', 'を', '出す', '道具', 'の', 'うち', '、', '音', 'が', '出る', 'が', '楽器', 'と', 'は', '言い', 'にくい', '物', 'の', 'こと', '。']",,,,,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4,E
+声を出す練習でもありますが、ただ見て流すよりは理解力が増しました。,80196,,N1,1.0,0.7332916,0.8666458129882812,声を出す練習でもありますが、ただ見て流すよりは理解力が増しました。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (VERB_acl (NOUN_obj ADP_case)) (AUX_case ADP_fixed))
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl (VERB_advcl ADV_advmod SCONJ_mark) ADP_case ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['声', 'を', '出す', '練習', 'で', 'も', 'あり', 'ます', 'が', '、', 'ただ', '見', 'て', '流す', 'より', 'は', '理解力', 'が', '増し', 'まし', 'た', '。']",0.7541075421700784,0.9179841897233202,0.8360458659466993,0.8513458394674902,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4,E
+喉頭の位置に基づいて、ネアンデルタール人ですら現生人類が作り出す全ての音を完全に出すのに必要な解剖学的構造を具えていないと信じている学者もいる。,3754960,,N1,1.0,0.7803985,0.8901992440223694,喉頭の位置に基づいて、ネアンデルタール人ですら現生人類が作り出す全ての音を完全に出すのに必要な解剖学的構造を具えていないと信じている学者もいる。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+          SCONJ_mark
+          PUNCT_punct)
+        (NOUN_obj
+          (ADJ_acl
+            (VERB_advcl
+              (NOUN_obj
+                (VERB_acl
+                  (NOUN_obl NUM_compound ADP_case ADP_case)
+                  (NOUN_nsubj NOUN_compound ADP_case))
+                (NOUN_nmod ADP_case)
+                ADP_case)
+              (ADJ_advcl AUX_aux)
+              SCONJ_mark
+              ADP_case)
+            AUX_aux)
+          PART_mark
+          NOUN_compound
+          ADP_case)
+        (SCONJ_mark VERB_fixed)
+        AUX_aux
+        ADP_case)
+      (SCONJ_mark VERB_fixed))
+    ADP_case)
+  PUNCT_punct)","['喉頭', 'の', '位置', 'に', '基づい', 'て', '、', 'ネアンデルタール', '人', 'で', 'すら', '現生', '人類', 'が', '作り出す', '全て', 'の', '音', 'を', '完全', 'に', '出す', 'の', 'に', '必要', 'な', '解剖学', '的', '構造', 'を', '具え', 'て', 'い', 'ない', 'と', '信じ', 'て', 'いる', '学者', 'も', 'いる', '。']",0.6891822691495297,0.9002673796791444,0.794724824414337,0.8424620342183532,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4,E
+得られる音高はその知覚のためには上音に依存するところが大きいが、熟練した奏者の手にかかれば、ペダルトーンは制御することができ、楽器に特徴的な音を出すことができる。,2370060,,N1,1.0,0.77685744,0.8884287178516388,得られる音高はその知覚のためには上音に依存するところが大きいが、熟練した奏者の手にかかれば、ペダルトーンは制御することができ、楽器に特徴的な音を出すことができる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (ADJ_advcl
+        (NOUN_dislocated (VERB_acl AUX_aux) ADP_case)
+        (NOUN_nsubj
+          (VERB_acl
+            (NOUN_obl (NOUN_nmod DET_det ADP_case) ADP_case ADP_case)
+            (NOUN_obl NOUN_compound ADP_case)
+            AUX_aux)
+          ADP_case)
+        SCONJ_mark
+        PUNCT_punct)
+      (NOUN_obl
+        (NOUN_nmod (VERB_acl AUX_aux AUX_aux) ADP_case)
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    AUX_aux
+    (NOUN_compound ADP_fixed AUX_fixed)
+    PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obj (ADJ_acl AUX_cop) ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['得', 'られる', '音高', 'は', 'その', '知覚', 'の', 'ため', 'に', 'は', '上', '音', 'に', '依存', 'する', 'ところ', 'が', '大きい', 'が', '、', '熟練', 'し', 'た', '奏者', 'の', '手', 'に', 'かかれ', 'ば', '、', 'ペダル', 'トーン', 'は', '制御', 'する', 'こと', 'が', 'でき', '、', '楽器', 'に', '特徴的', 'な', '音', 'を', '出す', 'こと', 'が', 'できる', '。']",0.6910246153880404,0.8781331636133712,0.7845788895007058,0.8365038036761723,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4,E
+ダンスには作者不明の古い特徴的な曲調の音楽をという太鼓とというとても大きな音を出すオーボエの一種で伴奏する。,2315412,,N1,1.0,0.7803336,0.8901667892932892,ダンスには作者不明の古い特徴的な曲調の音楽をという太鼓とというとても大きな音を出すオーボエの一種で伴奏する。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod NOUN_compound ADP_case)
+      ADJ_acl
+      (ADJ_acl AUX_cop)
+      ADP_case)
+    ADP_case
+    (ADP_case VERB_fixed))
+  (NOUN_obl
+    (PROPN_nmod
+      (VERB_acl
+        (NOUN_obj
+          (ADJ_amod
+            (NOUN_obl ADP_case (ADP_case VERB_fixed))
+            ADV_advmod)
+          ADP_case))
+      ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ダンス', 'に', 'は', '作者', '不明', 'の', '古い', '特徴的', 'な', '曲調', 'の', '音楽', 'を', 'と', 'いう', '太鼓', 'と', 'と', 'いう', 'とても', '大きな', '音', 'を', '出す', 'オーボエ', 'の', '一種', 'で', '伴奏', 'する', '。']",0.6591863247406125,0.8646573375413334,0.761921831140973,0.8260443102171311,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4,E
+グランドピアノにあっては弦を打つ位置をずらすことにより、アップライトピアノにあっては弦を叩く距離を短くすることによって、弱い音を出す。,1122062,,N1,1.0,0.8056685,0.9028342366218568,グランドピアノにあっては弦を打つ位置をずらすことにより、アップライトピアノにあっては弦を叩く距離を短くすることによって、弱い音を出す。,"(VERB_ROOT
+  (NOUN_obl
+    (AUX_acl
+      (NOUN_obl
+        (VERB_acl
+          (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark ADP_case)
+          (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case))
+        (ADP_case VERB_fixed)
+        PUNCT_punct)
+      (VERB_advcl (PROPN_obl ADP_case) SCONJ_mark ADP_case)
+      (ADJ_advcl (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case)))
+    (ADP_case VERB_fixed SCONJ_fixed)
+    PUNCT_punct)
+  (NOUN_obj ADJ_acl ADP_case)
+  PUNCT_punct)","['グランドピアノ', 'に', 'あっ', 'て', 'は', '弦', 'を', '打つ', '位置', 'を', 'ずらす', 'こと', 'に', 'より', '、', 'アップライトピアノ', 'に', 'あっ', 'て', 'は', '弦', 'を', '叩く', '距離', 'を', '短く', 'する', 'こと', 'に', 'よっ', 'て', '、', '弱い', '音', 'を', '出す', '。']",0.6307220349570115,0.8344900197411713,0.7326060273490914,0.8177201319854741,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N1,4,E

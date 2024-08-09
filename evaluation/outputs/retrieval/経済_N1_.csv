@@ -1,0 +1,110 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,-1,20001.0,N2,0.8,0.0,0.4,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,"(ADJ_ROOT
+  (NOUN_obl
+    (NOUN_nmod PROPN_compound NUM_nummod ADP_case)
+    (ADP_case VERB_fixed SCONJ_fixed)
+    ADP_case
+    PUNCT_punct
+    (NOUN_dep
+      (ADV_advmod PUNCT_punct)
+      (ADJ_nmod NOUN_compound ADP_case)))
+  (NOUN_obl
+    (NOUN_nmod NUM_nummod ADP_case)
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (PRON_advcl AUX_case ADP_case)
+  PUNCT_punct)","['加州', '一', '藩', 'の', '経済', 'に', 'とっ', 'て', 'は', '、', '勿論', '、', '金', '無垢', 'の', '煙管', '一', '本', 'の', '費用', 'くらい', 'は', '、', '何', 'で', 'も', 'ない', '。']",,,,,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N1
+そこで、今まで侵攻されたことが一度もなかったスパルタの地ラコニアへと足を踏み入れ、スパルタの隷属地であるメッセニアを解放し、スパルタの経済に大打撃を与えた。,1238131,,N1,1.0,0.7788119,0.8894059360027313,そこで、今まで侵攻されたことが一度もなかったスパルタの地ラコニアへと足を踏み入れ、スパルタの隷属地であるメッセニアを解放し、スパルタの経済に大打撃を与えた。,"(NOUN_ROOT
+  (PRON_dep ADP_case PUNCT_punct)
+  (NOUN_nmod
+    (ADJ_acl
+      (NOUN_nsubj
+        (VERB_acl NOUN_obl AUX_aux AUX_aux AUX_aux)
+        ADP_case)
+      (NOUN_nsubj ADP_case)
+      AUX_aux)
+    ADP_case))","['そこ', 'で', '、', '今まで', '侵攻', 'さ', 'れ', 'た', 'こと', 'が', '一度', 'も', 'なかっ', 'た', 'スパルタ', 'の', '地', 'ラコニア', 'へ', 'と', '足', 'を', '踏み入れ', '、', 'スパルタ', 'の', '隷属', '地', 'で', 'ある', 'メッセニア', 'を', '解放', 'し', '、', 'スパルタ', 'の', '経済', 'に', '大', '打撃', 'を', '与え', 'た', '。']",0.9697343079526992,0.8860104242688611,0.9278723661107802,0.9086391510567556,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N1
+しかし、姫路城は石高15万石の姫路藩にとっては非常な重荷であり、譜代故の江戸幕府要職の責務も相まって藩の経済を圧迫していた。,1181930,,N1,1.0,0.85742396,0.9287119805812836,しかし、姫路城は石高15万石の姫路藩にとっては非常な重荷であり、譜代故の江戸幕府要職の責務も相まって藩の経済を圧迫していた。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_advcl
+    (NOUN_nsubj PROPN_compound ADP_case)
+    (NOUN_obl
+      (NOUN_nmod NOUN_compound NUM_compound ADP_case)
+      PROPN_compound
+      (ADP_case VERB_fixed SCONJ_fixed)
+      ADP_case)
+    (ADJ_acl AUX_aux)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj
+      (NOUN_nmod
+        (NOUN_nmod NOUN_compound ADP_case)
+        PROPN_compound
+        NOUN_compound
+        ADP_case)
+      ADP_case)
+    NOUN_compound
+    SCONJ_mark)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['しかし', '、', '姫路', '城', 'は', '石高', '15万', '石', 'の', '姫路', '藩', 'に', 'とっ', 'て', 'は', '非常', 'な', '重荷', 'で', 'あり', '、', '譜代', '故', 'の', '江戸', '幕府', '要職', 'の', '責務', 'も', '相', 'まっ', 'て', '藩', 'の', '経済', 'を', '圧迫', 'し', 'て', 'い', 'た', '。']",0.91957638858662,0.8563029666097921,0.887939677598206,0.9083258290897448,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N1
+このまとまりのない領国支配体制が亀山藩の経済を苦しめたともいえる。,2622920,,N1,1.0,0.85733855,0.928669273853302,このまとまりのない領国支配体制が亀山藩の経済を苦しめたともいえる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (ADJ_acl (NOUN_nmod DET_det ADP_case))
+      NOUN_compound
+      NOUN_compound
+      ADP_case)
+    (NOUN_obj (NOUN_nmod PROPN_compound ADP_case) ADP_case)
+    AUX_aux
+    ADP_case
+    ADP_case)
+  PUNCT_punct)","['この', 'まとまり', 'の', 'ない', '領国', '支配', '体制', 'が', '亀山', '藩', 'の', '経済', 'を', '苦しめ', 'た', 'と', 'も', 'いえる', '。']",0.8695892369443199,0.8442702183328059,0.8569297276385629,0.8927995007459324,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N1
+元禄期を頂点とする江戸中期は経済の実権を町人が握り、千家は例えば三井家の当主八郎右衛門など富裕町人を大量に門弟として受け入れた。,2106154,,N1,1.0,0.78478515,0.8923925757408142,元禄期を頂点とする江戸中期は経済の実権を町人が握り、千家は例えば三井家の当主八郎右衛門など富裕町人を大量に門弟として受け入れた。,"(PROPN_ROOT
+  (VERB_acl
+    (NOUN_dislocated
+      (VERB_acl
+        (NOUN_obj PROPN_compound ADP_case)
+        (NOUN_obl ADP_case))
+      PROPN_compound
+      ADP_case)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_nsubj ADP_case)
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_nmod (NOUN_nmod PROPN_compound ADP_case)))","['元禄', '期', 'を', '頂点', 'と', 'する', '江戸', '中期', 'は', '経済', 'の', '実権', 'を', '町人', 'が', '握り', '、', '千家', 'は', '例えば', '三井', '家', 'の', '当主', '八郎', '右衛門', 'など', '富裕', '町人', 'を', '大量', 'に', '門弟', 'と', 'し', 'て', '受け入れ', 'た', '。']",0.8711589944366629,0.8489677196933084,0.8600633570649856,0.8762279664028999,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N1
+工事費用は国費が2／3、県費が1／3であり、工事には周辺の農民が人夫として出役し、昭和恐慌に前後する時代にあって結果的に地域経済を潤すこととなった。,1667769,,N1,1.0,0.8004754,0.9002377092838287,工事費用は国費が2／3、県費が1／3であり、工事には周辺の農民が人夫として出役し、昭和恐慌に前後する時代にあって結果的に地域経済を潤すこととなった。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NUM_advcl
+        (NUM_compound
+          (NOUN_nsubj ADP_case)
+          (NOUN_nsubj ADP_case)
+          NUM_compound
+          SYM_compound
+          PUNCT_punct)
+        (NOUN_nsubj ADP_case)
+        NUM_compound
+        SYM_compound
+        (AUX_aux VERB_fixed)
+        PUNCT_punct)
+      (NOUN_obl ADP_case ADP_case)
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obl (ADP_case AUX_fixed SCONJ_fixed))
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obl
+      (VERB_acl (NOUN_obl PROPN_compound ADP_case) AUX_aux)
+      ADP_case)
+    SCONJ_mark)
+  (ADJ_advcl AUX_cop)
+  (NOUN_obj NOUN_compound ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['工事費用', 'は', '国費', 'が', '2', '／', '3', '、', '県費', 'が', '1', '／', '3', 'で', 'あり', '、', '工事', 'に', 'は', '周辺', 'の', '農民', 'が', '人夫', 'と', 'し', 'て', '出役', 'し', '、', '昭和', '恐慌', 'に', '前後', 'する', '時代', 'に', 'あっ', 'て', '結果的', 'に', '地域', '経済', 'を', '潤す', 'こと', 'と', 'なっ', 'た', '。']",0.8574566650163216,0.8388702403590257,0.8481634526876736,0.8742005809857512,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N1

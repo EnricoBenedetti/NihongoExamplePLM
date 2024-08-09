@@ -1,0 +1,133 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+水の色が真赤になる情報があったであります。,-1,20001.0,N2,0.8,0.0,0.4,水の色が真赤になる情報があったであります。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obl ADP_case))
+    ADP_case)
+  AUX_aux
+  (AUX_aux VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['水', 'の', '色', 'が', '真赤', 'に', 'なる', '情報', 'が', 'あっ', 'た', 'で', 'あり', 'ます', '。']",,,,,1,水の色が真赤になる情報があったであります。,情報,N1
+では、サウンドフォースがプロトデビルンを撃退したという情報が伝わっているのみで、それ以降の活動は不明で新曲も発表されておらず、マクロス7船団の所在さえも不明となっている。,2827177,,N1,1.0,0.6397058,0.819852888584137,では、サウンドフォースがプロトデビルンを撃退したという情報が伝わっているのみで、それ以降の活動は不明で新曲も発表されておらず、マクロス7船団の所在さえも不明となっている。,"(VERB_ROOT
+  ADP_dep
+  ADP_dep
+  PUNCT_punct
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj
+        (VERB_acl
+          (NOUN_nsubj NOUN_compound ADP_case)
+          (PROPN_obj ADP_case)
+          AUX_aux
+          AUX_aux
+          (ADP_case VERB_fixed))
+        ADP_case)
+      (SCONJ_mark VERB_fixed)
+      PART_mark
+      AUX_aux
+      PUNCT_punct)
+    (ADJ_advcl
+      (NOUN_nsubj (NOUN_nmod PRON_nmod ADP_case) ADP_case)
+      AUX_aux)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod PROPN_compound NUM_nummod ADP_case)
+    ADP_case
+    ADP_case)
+  (NOUN_obl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['で', 'は', '、', 'サウンド', 'フォース', 'が', 'プロトデビルン', 'を', '撃退', 'し', 'た', 'と', 'いう', '情報', 'が', '伝わっ', 'て', 'いる', 'のみ', 'で', '、', 'それ', '以降', 'の', '活動', 'は', '不明', 'で', '新曲', 'も', '発表', 'さ', 'れ', 'て', 'おら', 'ず', '、', 'マクロス', '7', '船団', 'の', '所在', 'さえ', 'も', '不明', 'と', 'なっ', 'て', 'いる', '。']",0.8321585883097733,0.9151404151404152,0.8736495017250943,0.8467511951546156,1,水の色が真赤になる情報があったであります。,情報,N1
+その清算なくして、金融庁が最終認可をしないとの情報。,11897,,N1,1.0,0.62711126,0.8135556280612946,その清算なくして、金融庁が最終認可をしないとの情報。,"(NOUN_ROOT
+  (VERB_acl (ADJ_advcl (NOUN_obl DET_det)) SCONJ_mark PUNCT_punct)
+  (VERB_nmod
+    (NOUN_nsubj ADP_case)
+    (NOUN_obj NOUN_compound ADP_case)
+    AUX_aux
+    ADP_case
+    ADP_case)
+  PUNCT_punct)","['その', '清算', 'なく', 'し', 'て', '、', '金融庁', 'が', '最終', '認可', 'を', 'し', 'ない', 'と', 'の', '情報', '。']",0.7985969669008384,0.902207471441803,0.8504022191713208,0.8319789236163077,1,水の色が真赤になる情報があったであります。,情報,N1
+加えて、常願寺川上流で天然ダムが発生している情報がもたらされ、城主から町民に至るまで富山城西側の呉羽丘陵での避難生活を余儀なくされた。,4927002,,N1,1.0,0.73153067,0.8657653331756592,加えて、常願寺川上流で天然ダムが発生している情報がもたらされ、城主から町民に至るまで富山城西側の呉羽丘陵での避難生活を余儀なくされた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl SCONJ_mark PUNCT_punct)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl PROPN_compound PROPN_compound ADP_case)
+        (NOUN_nsubj NOUN_compound ADP_case)
+        AUX_aux
+        (SCONJ_mark VERB_fixed))
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADP_case) (ADP_case VERB_fixed ADP_fixed))
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod PROPN_compound PROPN_compound ADP_case)
+      PROPN_compound
+      ADP_case
+      ADP_case)
+    NOUN_compound
+    ADP_case)
+  (ADJ_advcl NOUN_compound)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['加え', 'て', '、', '常願', '寺川', '上流', 'で', '天然', 'ダム', 'が', '発生', 'し', 'て', 'いる', '情報', 'が', 'もたらさ', 'れ', '、', '城主', 'から', '町民', 'に', '至る', 'まで', '富山', '城西', '側', 'の', '呉羽', '丘陵', 'で', 'の', '避難', '生活', 'を', '余儀', 'なく', 'さ', 'れ', 'た', '。']",0.7267918472128572,0.8825940860215054,0.8046929666171813,0.8352291498964202,1,水の色が真赤になる情報があったであります。,情報,N1
+後に捏造であると判明するこの情報を流したのは、他ならぬチェイニー副大統領のスタッフ（リビー副大統領首席補佐官）だった。,1879341,,N1,1.0,0.6207745,0.8103872537612915,後に捏造であると判明するこの情報を流したのは、他ならぬチェイニー副大統領のスタッフ（リビー副大統領首席補佐官）だった。,"(NOUN_ROOT
+  (VERB_csubj
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_advcl
+          (NOUN_obl ADP_case)
+          (AUX_cop VERB_fixed)
+          ADP_case)
+        AUX_aux)
+      DET_det
+      ADP_case)
+    AUX_aux
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nmod (NOUN_acl VERB_cop AUX_aux) PROPN_compound ADP_case)
+  PUNCT_punct
+  PROPN_compound
+  NOUN_compound
+  NOUN_compound
+  NOUN_compound
+  PUNCT_punct
+  AUX_cop
+  AUX_aux
+  PUNCT_punct)","['後', 'に', '捏造', 'で', 'ある', 'と', '判明', 'する', 'この', '情報', 'を', '流し', 'た', 'の', 'は', '、', '他', 'なら', 'ぬ', 'チェイニー', '副大統領', 'の', 'スタッフ', '（', 'リビー', '副大統領', '首席', '補佐官', '）', 'だっ', 'た', '。']",0.7561259054776962,0.8825352351842418,0.819330570330969,0.8148589120461303,1,水の色が真赤になる情報があったであります。,情報,N1
+一方、雲仙岳測候所の情報は、島原市と島原広域消防団本部を経て農業研修所の上木場地区消防団にも電話（口頭）で伝えられたが、その時点で情報は「山の様子がおかしい。,1545792,,N1,1.0,0.653098,0.8265489935874939,一方、雲仙岳測候所の情報は、島原市と島原広域消防団本部を経て農業研修所の上木場地区消防団にも電話（口頭）で伝えられたが、その時点で情報は「山の様子がおかしい。,"(ADJ_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj
+        (NOUN_nmod NOUN_compound PROPN_compound ADP_case)
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obj
+        (PROPN_nmod ADP_case)
+        PROPN_compound
+        NOUN_compound
+        NOUN_compound
+        ADP_case)
+      SCONJ_mark)
+    (NOUN_obl
+      (NOUN_nmod (NOUN_nmod NOUN_compound NOUN_compound ADP_case))
+      NOUN_compound
+      ADP_case
+      ADP_case)
+    (NOUN_obl PUNCT_punct NOUN_compound PUNCT_punct ADP_case)
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl DET_det ADP_case)
+  (NOUN_dislocated ADP_case)
+  (NOUN_nsubj (NOUN_nmod PUNCT_punct ADP_case) ADP_case)
+  PUNCT_punct)","['一方', '、', '雲', '仙岳', '測候所', 'の', '情報', 'は', '、', '島原市', 'と', '島原', '広域', '消防団', '本部', 'を', '経', 'て', '農業', '研修', '所', 'の', '上木場', '地区', '消防団', 'に', 'も', '電話', '（', '口頭', '）', 'で', '伝え', 'られ', 'た', 'が', '、', 'その', '時点', 'で', '情報', 'は', '「', '山', 'の', '様子', 'が', 'おかしい', '。']",0.7489844907217369,0.8763880377497242,0.8126862642357305,0.8196176289116122,1,水の色が真赤になる情報があったであります。,情報,N1

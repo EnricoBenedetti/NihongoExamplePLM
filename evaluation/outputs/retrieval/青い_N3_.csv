@@ -1,0 +1,76 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,-1,3936.0,N3,1.0,0.0,0.5,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj ADP_case) AUX_aux ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADJ_amod ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADJ_acl ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['クリスタル', 'を', '取得', 'する', 'と', '以降', 'は', '同じ', '位置', 'に', '青い', '星', 'の', 'かけら', 'が', '配置', 'さ', 'れる', '。']",,,,,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N3
+コース上を走る黒のアザーカーの後ろにある青い円の中に車を一定時間入れることによって、対戦相手の車を爆発させることができる。,5524107,,N3,1.0,0.84316814,0.9215840697288512,コース上を走る黒のアザーカーの後ろにある青い円の中に車を一定時間入れることによって、対戦相手の車を爆発させることができる。,NOUN_ROOT,"['コース', '上', 'を', '走る', '黒', 'の', 'アザーカー', 'の', '後ろ', 'に', 'ある', '青い', '円', 'の', '中', 'に', '車', 'を', '一定時間', '入れる', 'こと', 'に', 'よっ', 'て', '、', '対戦', '相手', 'の', '車', 'を', '爆発', 'さ', 'せる', 'こと', 'が', 'できる', '。']",1.0,0.923941798941799,0.9619708994708996,0.9417774845998754,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N3
+ステージに隠されている青いスターを取得してゴールするとゴールした後に遊べる。,4049502,,N3,1.0,0.8761526,0.9380762875080108,ステージに隠されている青いスターを取得してゴールするとゴールした後に遊べる。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obj
+          (VERB_acl
+            (NOUN_obl ADP_case)
+            AUX_aux
+            (SCONJ_mark VERB_fixed))
+          ADJ_amod
+          ADP_case)
+        (VERB_advcl AUX_aux SCONJ_mark)
+        AUX_aux
+        SCONJ_mark)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['ステージ', 'に', '隠さ', 'れ', 'て', 'いる', '青い', 'スター', 'を', '取得', 'し', 'て', 'ゴール', 'する', 'と', 'ゴール', 'し', 'た', '後', 'に', '遊べる', '。']",0.9348366004724172,0.9002564102564102,0.9175465053644136,0.9278113964362122,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N3
+フィールドには青い石が落ちていて、100個まで拾える。,685112,,N3,1.0,0.8790023,0.9395011365413666,フィールドには青い石が落ちていて、100個まで拾える。,"(NOUN_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_nsubj ADJ_acl ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nmod NUM_nummod ADP_case)
+  PUNCT_punct)","['フィールド', 'に', 'は', '青い', '石', 'が', '落ち', 'て', 'い', 'て', '、', '100', '個', 'まで', '拾える', '。']",0.8502562924787975,0.8931442080378251,0.8717002502583113,0.905600693399839,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N3
+使用する武器はパワーアップアイテムの青い球を2つ集めて出す「武器パネル」を取ることでより強力なものにできる。,5565580,,N3,1.0,0.86565304,0.9328265190124512,使用する武器はパワーアップアイテムの青い球を2つ集めて出す「武器パネル」を取ることでより強力なものにできる。,"(VERB_ROOT
+  (NOUN_nsubj (VERB_acl AUX_aux) ADP_case)
+  (NOUN_obl
+    (ADJ_acl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obj
+            (VERB_acl
+              (VERB_advcl
+                (NOUN_obj
+                  (NOUN_nmod PROPN_compound ADP_case)
+                  ADJ_acl
+                  ADP_case)
+                (NOUN_obl NUM_nummod)
+                SCONJ_mark))
+            PUNCT_punct
+            NOUN_compound
+            PUNCT_punct
+            ADP_case))
+        ADP_case)
+      ADV_advmod
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['使用', 'する', '武器', 'は', 'パワーアップ', 'アイテム', 'の', '青い', '球', 'を', '2', 'つ', '集め', 'て', '出す', '「', '武器', 'パネル', '」', 'を', '取る', 'こと', 'で', 'より', '強力', 'な', 'もの', 'に', 'できる', '。']",0.7905077371848047,0.8927216047709406,0.8416146709778727,0.8872205949951619,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N3
+クリスタルを取得すると以降は同じ位置に青い星のかけら（10個分）が配置される。,2777029,,N3,1.0,0.9923238,0.9961619079113008,クリスタルを取得すると以降は同じ位置に青い星のかけら（10個分）が配置される。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj ADP_case) AUX_aux ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADJ_amod ADP_case)
+  (NOUN_nsubj
+    (NOUN_nmod ADJ_acl ADP_case)
+    PUNCT_punct
+    NUM_compound
+    NOUN_compound
+    NOUN_compound
+    PUNCT_punct
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['クリスタル', 'を', '取得', 'する', 'と', '以降', 'は', '同じ', '位置', 'に', '青い', '星', 'の', 'かけら', '（', '10', '個', '分', '）', 'が', '配置', 'さ', 'れる', '。']",0.7574244465001385,0.7938292113571732,0.7756268289286559,0.8858943684199783,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N3

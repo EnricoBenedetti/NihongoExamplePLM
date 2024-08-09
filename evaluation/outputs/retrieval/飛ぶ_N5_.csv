@@ -1,0 +1,40 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,-1,6600.0,N1,0.0,0.0,0.0,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (NOUN_nmod ADP_case)
+      AUX_aux
+      ADP_case)
+    (NOUN_obj (NOUN_nmod DET_det ADP_case) ADP_case)
+    VERB_advmod
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (PRON_obj ADP_case)) ADP_case)
+  (ADJ_aux AUX_aux PUNCT_punct))","['心', 'は', '光り', 'の', '飛ぶ', 'ごとく', 'に', 'あらゆる', '道理', 'の', '中', 'を', '駈', '巡っ', 'た', 'が', '、', '何', 'を', 'とらえる', 'こと', 'も', '出来', '無かっ', 'た', '。']",,,,,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N5
+蝶々が飛んでちゃった。,367964,,N5,1.0,0.57601327,0.7880066335201263,蝶々が飛んでちゃった。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case)
+  SCONJ_mark
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['蝶々', 'が', '飛ん', 'で', 'ちゃっ', 'た', '。']",1.0,0.9464809384164224,0.9732404692082112,0.8806235513641687,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N5
+愛は空を飛ぶ.,7066887,,N5,1.0,0.62569016,0.8128450810909271,愛は空を飛ぶ.,(VERB_ROOT (NOUN_nsubj ADP_case) (NOUN_obj ADP_case) PUNCT_punct),"['愛', 'は', '空', 'を', '飛ぶ', '.']",0.8327339127899347,0.935363247863248,0.8840485803265913,0.8484468307087591,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N5
+君は空を飛ぶ夢を見る事がありますか。,245183,,N5,1.0,0.6095476,0.8047738075256348,君は空を飛ぶ夢を見る事がありますか。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (PRON_nsubj ADP_case)
+      (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case))
+    ADP_case)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['君', 'は', '空', 'を', '飛ぶ', '夢', 'を', '見る', '事', 'が', 'あり', 'ます', 'か', '。']",0.7650837347992501,0.8869114665347655,0.8259976006670078,0.8153857040963213,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N5
+あの飛んでいる鳥を見て。,309832,,N5,1.0,0.5658676,0.7829338014125824,あの飛んでいる鳥を見て。,"(VERB_ROOT
+  (NOUN_obj DET_det (VERB_acl (SCONJ_mark VERB_fixed)) ADP_case)
+  SCONJ_mark
+  PUNCT_punct)","['あの', '飛ん', 'で', 'いる', '鳥', 'を', '見', 'て', '。']",0.720163373422746,0.8824904805967191,0.8013269270097325,0.7921303642111575,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N5
+思ったより飛んじゃいました!,6620791,,N5,1.0,0.55136985,0.7756849229335785,思ったより飛んじゃいました!,"(VERB_ROOT
+  (VERB_advcl (VERB_advcl AUX_aux ADP_case))
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['思っ', 'た', 'より', '飛ん', 'じゃい', 'まし', 'た', '!']",0.6980057933212949,0.8848975108942781,0.7914516521077866,0.7835682875206825,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N5

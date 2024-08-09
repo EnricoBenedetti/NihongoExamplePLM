@@ -1,0 +1,44 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+ハードルに手や足をかけても問題ない。,-1,16615.0,N3,0.1999999999999999,0.0,0.0999999999999999,ハードルに手や足をかけても問題ない。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    ADP_case)
+  NOUN_compound
+  PUNCT_punct)","['ハードル', 'に', '手', 'や', '足', 'を', 'かけ', 'て', 'も', '問題', 'ない', '。']",,,,,1,ハードルに手や足をかけても問題ない。,足,N5
+足はまだ痛みますか？,392127,,N5,1.0,0.6453222,0.8226611018180847,足はまだ痛みますか？,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['足', 'は', 'まだ', '痛み', 'ます', 'か', '？']",0.8,0.986842105263158,0.8934210526315789,0.8580410772248318,1,ハードルに手や足をかけても問題ない。,足,N5
+立つと足の裏の上です。,116062,,N5,1.0,0.72225976,0.861129879951477,立つと足の裏の上です。,"(NOUN_ROOT
+  (VERB_acl SCONJ_mark)
+  (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+  AUX_cop
+  PUNCT_punct)","['立つ', 'と', '足', 'の', '裏', 'の', '上', 'です', '。']",0.7553295175144737,0.9642857142857144,0.859807615900094,0.8604687479257855,1,ハードルに手や足をかけても問題ない。,足,N5
+車で長時間移動する時は、時々止まって足を伸ばさなければいけません。,329759,,N5,1.0,0.7603933,0.8801966607570648,車で長時間移動する時は、時々止まって足を伸ばさなければいけません。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl (NOUN_obl ADP_case) NOUN_obl AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl ADV_advmod SCONJ_mark)
+    (NOUN_obj ADP_case)
+    AUX_aux
+    SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['車', 'で', '長時間', '移動', 'する', '時', 'は', '、', '時々', '止まっ', 'て', '足', 'を', '伸ばさ', 'なけれ', 'ば', 'いけ', 'ませ', 'ん', '。']",0.7163838727698446,0.947443181818182,0.8319135272940132,0.856055094025539,1,ハードルに手や足をかけても問題ない。,足,N5
+座って足を組んでみて。,366685,,N5,1.0,0.7616303,0.8808151483535767,座って足を組んでみて。,"(VERB_ROOT
+  (VERB_advcl (VERB_advcl SCONJ_mark) (NOUN_obj ADP_case) SCONJ_mark)
+  SCONJ_mark
+  PUNCT_punct)","['座っ', 'て', '足', 'を', '組ん', 'で', 'み', 'て', '。']",0.6924841252773595,0.9144683004565424,0.8034762128669508,0.8421456806102637,1,ハードルに手や足をかけても問題ない。,足,N5
+寝てるときにさ、足がガクンってなる時ない？,311716,,N5,1.0,0.6911185,0.8455592393875122,寝てるときにさ、足がガクンってなる時ない？,"(ADJ_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl (VERB_acl AUX_aux) ADP_case PART_mark PUNCT_punct)
+      (NOUN_nsubj ADP_case)
+      (VERB_advcl ADP_case)))
+  PUNCT_punct)","['寝', 'てる', 'とき', 'に', 'さ', '、', '足', 'が', 'ガクン', 'って', 'なる', '時', 'ない', '？']",0.6777750745244259,0.9102805883541144,0.7940278314392701,0.8197935354133912,1,ハードルに手や足をかけても問題ない。,足,N5

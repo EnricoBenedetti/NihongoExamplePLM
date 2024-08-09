@@ -1,0 +1,39 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,-1,20001.0,N2,0.0,0.0,0.0,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    NOUN_compound
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['また', '、', '東西', 'お', '互い', 'に', '相手', 'を', '非難', 'する', 'プロパガンダ', '放送', 'を', '流し合っ', 'て', 'い', 'た', '。']",,,,,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21,A
+喧嘩の相手はだれですか。,243279,,N5,1.0,0.5213645,0.7606822550296783,喧嘩の相手はだれですか。,"(PRON_ROOT
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  AUX_cop
+  PART_mark
+  PUNCT_punct)","['喧嘩', 'の', '相手', 'は', 'だれ', 'です', 'か', '。']",0.8333333333333334,0.971153846153846,0.9022435897435898,0.8314629223866341,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21,A
+相手も武装してると思います。,76192,,N5,1.0,0.6576558,0.8288278877735138,相手も武装してると思います。,"(VERB_ROOT
+  (VERB_ccomp (NOUN_nsubj ADP_case) AUX_aux AUX_aux ADP_case)
+  AUX_aux
+  PUNCT_punct)","['相手', 'も', '武装', 'し', 'てる', 'と', '思い', 'ます', '。']",0.724988171201902,0.9642857142857144,0.8446369427438081,0.8367324152586609,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21,A
+あなたが話したかった相手は誰？,312991,,N5,1.0,0.47618726,0.7380936294794083,あなたが話したかった相手は誰？,"(PRON_ROOT
+  (NOUN_nsubj
+    (VERB_acl (PRON_nsubj ADP_case) AUX_aux AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['あなた', 'が', '話し', 'たかっ', 'た', '相手', 'は', '誰', '？']",0.7124028819024535,0.9482954545454544,0.830349168223954,0.7842213988516811,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21,A
+相手は子供じゃありませんか。,100463,,N5,1.0,0.49694657,0.7484732866287231,相手は子供じゃありませんか。,"(NOUN_ROOT
+  (NOUN_nsubj ADP_case)
+  (AUX_cop VERB_fixed AUX_fixed AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['相手', 'は', '子供', 'じゃ', 'あり', 'ませ', 'ん', 'か', '。']",0.6448408131715448,0.9277712264150944,0.7863060197933196,0.7673896532110214,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21,A
+電話の相手はトムだったの？,347367,,N5,1.0,0.45190117,0.7259505838155746,電話の相手はトムだったの？,"(ADJ_ROOT
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  AUX_cop
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['電話', 'の', '相手', 'は', 'トム', 'だっ', 'た', 'の', '？']",0.5892954224937648,0.9000979262672811,0.744696674380523,0.7353236290980488,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N5,21,A

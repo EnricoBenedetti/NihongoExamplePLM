@@ -1,0 +1,47 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,-1,20001.0,N1,0.0,0.0,0.0,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obl (PRON_nmod ADP_case) NOUN_compound)
+        (VERB_advcl SCONJ_mark)
+        (NOUN_obl NOUN_compound ADP_case))
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod DET_det ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['あなた', 'の', '御', '関係', 'なすっ', 'て', 'お', 'いで', 'に', 'なる', '男', 'の', '事', 'を', '、', 'ある', '偶然', 'の', '機会', 'で', '承知', 'し', 'まし', 'た', '。']",,,,,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N5
+彼女さんとの関係の話です。,120365,,N5,1.0,0.68535644,0.8426782190799713,彼女さんとの関係の話です。,"(NOUN_ROOT
+  (NOUN_nmod (NOUN_nmod PRON_nmod ADP_case ADP_case) ADP_case)
+  AUX_cop
+  PUNCT_punct)","['彼女', 'さん', 'と', 'の', '関係', 'の', '話', 'です', '。']",0.7425591780668837,0.9558823529411764,0.84922076550403,0.8459494922920007,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N5
+それが私にどう関係があるの？,271726,,N5,1.0,0.55012846,0.77506422996521,それが私にどう関係があるの？,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  ADV_advmod
+  (NOUN_nsubj ADP_case)
+  PART_mark
+  PUNCT_punct)","['それ', 'が', '私', 'に', 'どう', '関係', 'が', 'ある', 'の', '？']",0.8030752815778501,0.9375,0.8702876407889251,0.8226759353770675,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N5
+『危険な関係』を読んだことがありますか？,307616,,N5,1.0,0.60387707,0.801938533782959,『危険な関係』を読んだことがありますか？,"(VERB_ROOT
+  (NOUN_obj (ADJ_acl PUNCT_punct AUX_aux) PUNCT_punct ADP_case)
+  AUX_aux
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['『', '危険', 'な', '関係', '』', 'を', '読ん', 'だ', 'こと', 'が', 'あり', 'ます', 'か', '？']",0.7292519278979255,0.9353448275862069,0.8322983777420662,0.8171184557625126,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N5
+そんな関係があってもいいと思います。,119422,,N5,1.0,0.5629078,0.7814539074897766,そんな関係があってもいいと思います。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_nsubj PRON_nmod ADP_case)
+    (SCONJ_mark ADP_fixed AUX_fixed)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['そんな', '関係', 'が', 'あっ', 'て', 'も', 'いい', 'と', '思い', 'ます', '。']",0.7132324645577199,0.9200067934782608,0.8166196290179903,0.7990367682538835,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N5
+私には関係ありません。,118376,,N5,1.0,0.5267964,0.7633982002735138,私には関係ありません。,"(NOUN_ROOT
+  (PRON_obl ADP_case ADP_case)
+  VERB_compound
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['私', 'に', 'は', '関係', 'あり', 'ませ', 'ん', '。']",0.679932754149591,0.9085421620632887,0.79423745810644,0.7788178291899769,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N5

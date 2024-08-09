@@ -1,0 +1,88 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+技術は何によらず練習するより他に上達する道はない。,-1,20001.0,N1,0.6,0.0,0.3,技術は何によらず練習するより他に上達する道はない。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj ADP_case)
+      (VERB_advcl
+        (VERB_advcl (PRON_obl ADP_case) AUX_aux)
+        AUX_aux
+        ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['技術', 'は', '何', 'に', 'よら', 'ず', '練習', 'する', 'より', '他', 'に', '上達', 'する', '道', 'は', 'ない', '。']",,,,,1,技術は何によらず練習するより他に上達する道はない。,技術,N2
+検証試合を通じルールや効果的な戦法を模索、また伝統派武術やムエタイなどの格闘技との交流試合も実施する中で技術の有効性を確認していった。,2344855,,N2,1.0,0.8108403,0.9054201543331146,検証試合を通じルールや効果的な戦法を模索、また伝統派武術やムエタイなどの格闘技との交流試合も実施する中で技術の有効性を確認していった。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_acl (NOUN_obj NOUN_compound ADP_case))
+    (NOUN_obj (NOUN_nmod ADP_case) (ADJ_acl AUX_cop) ADP_case)
+    PUNCT_punct)
+  CCONJ_dep
+  NOUN_compound)","['検証', '試合', 'を', '通じ', 'ルール', 'や', '効果的', 'な', '戦法', 'を', '模索', '、', 'また', '伝統', '派', '武術', 'や', 'ムエタイ', 'など', 'の', '格闘技', 'と', 'の', '交流試合', 'も', '実施', 'する', '中', 'で', '技術', 'の', '有効性', 'を', '確認', 'し', 'て', 'いっ', 'た', '。']",0.9838328633131046,0.9508928571428572,0.9673628602279808,0.9363915072805478,1,技術は何によらず練習するより他に上達する道はない。,技術,N2
+そして本番、イベントにてピーノに教え込んだ技術・能力を発揮させる。,2809608,,N2,1.0,0.82732874,0.9136643707752228,そして本番、イベントにてピーノに教え込んだ技術・能力を発揮させる。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_obl PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl (NOUN_obl ADP_case) (PROPN_obl ADP_case) AUX_aux)
+    NOUN_compound
+    SYM_compound
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['そして', '本番', '、', 'イベント', 'にて', 'ピーノ', 'に', '教え込ん', 'だ', '技術', '・', '能力', 'を', '発揮', 'さ', 'せる', '。']",0.909713182799777,0.9452054794520548,0.9274593311259158,0.9205618509505692,1,技術は何によらず練習するより他に上達する道はない。,技術,N2
+きちんとした技術を身につければ危険性は回避できるが素人が面白半分で挑戦するには危険である。,4128666,,N2,1.0,0.87520313,0.9376015663146972,きちんとした技術を身につければ危険性は回避できるが素人が面白半分で挑戦するには危険である。,"(ADJ_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_obj (ADV_advmod AUX_aux AUX_aux) ADP_case)
+        (NOUN_obl ADP_case)
+        SCONJ_mark)
+      (NOUN_nsubj ADP_case)
+      AUX_aux
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl ADJ_compound ADP_case)
+    AUX_aux
+    ADP_case
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['きちんと', 'し', 'た', '技術', 'を', '身', 'に', 'つけれ', 'ば', '危険性', 'は', '回避', 'できる', 'が', '素人', 'が', '面白', '半分', 'で', '挑戦', 'する', 'に', 'は', '危険', 'で', 'ある', '。']",0.808324427929488,0.9275,0.8679122139647439,0.9027568901397206,1,技術は何によらず練習するより他に上達する道はない。,技術,N2
+弟子を取る気はないといやがる久具津だったが雛子の情熱に負け少しずつ技術を教え始める。,3817205,,N2,1.0,0.82953334,0.9147666692733764,弟子を取る気はないといやがる久具津だったが雛子の情熱に負け少しずつ技術を教え始める。,"(VERB_ROOT
+  (NOUN_advcl
+    (ADJ_acl
+      (NOUN_nsubj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+      SCONJ_mark)
+    (ADJ_obl PRON_advcl ADJ_aux)
+    AUX_cop
+    AUX_aux
+    SCONJ_mark)
+  (VERB_advcl (NOUN_obl (PROPN_nmod ADP_case) ADP_case))
+  (ADV_advmod ADP_case)
+  (NOUN_obj ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['弟子', 'を', '取る', '気', 'は', 'ない', 'と', 'いや', 'がる', '久具', '津', 'だっ', 'た', 'が', '雛子', 'の', '情熱', 'に', '負け', '少し', 'ずつ', '技術', 'を', '教え', '始める', '。']",0.79735014501489,0.916502689229962,0.856926417122426,0.8858465431979012,1,技術は何によらず練習するより他に上達する道はない。,技術,N2
+また、千秋の存在によりのだめもより高い技術を得るための指導者や、環境に出会う機会を得て、それぞれが成長していく。,2586297,,N2,1.0,0.8518776,0.9259388148784636,また、千秋の存在によりのだめもより高い技術を得るための指導者や、環境に出会う機会を得て、それぞれが成長していく。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (VERB_advcl
+    (NOUN_nsubj
+      (NOUN_nmod
+        (PROPN_nmod ADP_case)
+        (ADP_case VERB_fixed)
+        ADP_case)
+      ADP_case)
+    (NOUN_obj
+      (NOUN_nmod
+        (NOUN_nmod
+          (NOUN_obj (ADJ_acl ADV_advmod) ADP_case)
+          VERB_compound
+          ADP_fixed)
+        ADP_case
+        PUNCT_punct)
+      (VERB_acl (NOUN_obl ADP_case))
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '、', '千秋', 'の', '存在', 'に', 'より', 'の', 'だめ', 'も', 'より', '高い', '技術', 'を', '得る', 'ため', 'の', '指導者', 'や', '、', '環境', 'に', '出会う', '機会', 'を', '得', 'て', '、', 'それぞれ', 'が', '成長', 'し', 'て', 'いく', '。']",0.7770414839572342,0.8988278902023643,0.8379346870797992,0.8819367509791315,1,技術は何によらず練習するより他に上達する道はない。,技術,N2

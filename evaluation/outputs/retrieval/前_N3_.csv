@@ -1,0 +1,95 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,-1,20001.0,N2,0.6,0.0,0.3,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_nmod NOUN_compound ADP_case)
+    (AUX_cop ADP_fixed VERB_fixed)
+    PUNCT_punct)
+  (NOUN_obl (PROPN_nmod ADP_case) ADP_case ADP_case)
+  (NOUN_obj (VERB_acl AUX_aux AUX_aux) ADP_case)
+  PUNCT_punct)","['原作', 'で', 'は', '創造', '主', 'の', '下僕', 'で', 'も', 'あり', '、', 'モコナ', 'の', '前', 'で', 'は', '謙遜', 'し', 'た', '態度', 'を', 'とる', '。']",,,,,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N3
+しかし本人はこの呼び名を嫌っていたため、本人の前でそう呼ぶ者はいなかった。,1203596,,N3,1.0,0.81074506,0.9053725302219392,しかし本人はこの呼び名を嫌っていたため、本人の前でそう呼ぶ者はいなかった。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obj DET_det ADP_case)
+      (SCONJ_mark VERB_fixed)
+      AUX_aux)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl (NOUN_nmod ADP_case) ADP_case) ADV_advmod)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['しかし', '本人', 'は', 'この', '呼び名', 'を', '嫌っ', 'て', 'い', 'た', 'ため', '、', '本人', 'の', '前', 'で', 'そう', '呼ぶ', '者', 'は', 'い', 'なかっ', 'た', '。']",0.7002105953000946,0.8924129968662378,0.7963117960831662,0.8508421631525527,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N3
+それぐらい強い俺が、ひばりさんの前では子どもだよ」と例えるほど、美空ひばりは酒に強かったという。,1561636,,N3,1.0,0.83836186,0.9191809296607972,それぐらい強い俺が、ひばりさんの前では子どもだよ」と例えるほど、美空ひばりは酒に強かったという。,"(VERB_ROOT
+  (ADJ_ccomp
+    (VERB_advcl
+      (NOUN_advcl
+        (PRON_nsubj
+          (ADJ_acl (PRON_obl ADP_case))
+          ADP_case
+          PUNCT_punct)
+        (NOUN_obl
+          (NOUN_nmod PROPN_compound ADP_case)
+          ADP_case
+          ADP_case)
+        AUX_cop
+        PART_mark
+        PUNCT_punct
+        ADP_case)
+      PART_mark
+      PUNCT_punct)
+    (PROPN_nsubj PROPN_compound ADP_case)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['それ', 'ぐらい', '強い', '俺', 'が', '、', 'ひばり', 'さん', 'の', '前', 'で', 'は', '子ども', 'だ', 'よ', '」', 'と', '例える', 'ほど', '、', '美空', 'ひばり', 'は', '酒', 'に', '強かっ', 'た', 'と', 'いう', '。']",0.7293804289765351,0.8778275411974666,0.8036039850870009,0.861392457373899,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N3
+一方のスタルヒンはエースになっても沢村に話しかけることはなく、いつも沢村の前では小さくなっており、沢村自身も「スタ公」と呼んでいた。,1468449,,N3,1.0,0.8700459,0.9350229501724244,一方のスタルヒンはエースになっても沢村に話しかけることはなく、いつも沢村の前では小さくなっており、沢村自身も「スタ公」と呼んでいた。,"(VERB_ROOT
+  (VERB_advcl
+    (ADJ_advcl
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark ADP_case)
+      (PROPN_obl ADP_case)
+      (NOUN_compound ADP_fixed AUX_fixed)
+      PUNCT_punct)
+    NOUN_nsubj
+    (ADJ_advcl (NOUN_obl (PROPN_nmod ADP_case) ADP_case ADP_case))
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj PROPN_compound ADP_case)
+  (NOUN_obl PUNCT_punct NOUN_compound PUNCT_punct ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['一方', 'の', 'スタルヒン', 'は', 'エース', 'に', 'なっ', 'て', 'も', '沢村', 'に', '話しかける', 'こと', 'は', 'なく', '、', 'いつも', '沢村', 'の', '前', 'で', 'は', '小さく', 'なっ', 'て', 'おり', '、', '沢村', '自身', 'も', '「', 'スタ', '公', '」', 'と', '呼ん', 'で', 'い', 'た', '。']",0.6789971716572851,0.8460347844085767,0.7625159780329309,0.8487694641026776,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N3
+その為、のび太達は下手な演奏を聞く事になっても、彼女の前で下手だと言えない。,909875,,N3,1.0,0.8222508,0.9111253917217256,その為、のび太達は下手な演奏を聞く事になっても、彼女の前で下手だと言えない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det PUNCT_punct)
+    (NOUN_nsubj PROPN_compound ADP_case)
+    (NOUN_obj (ADJ_acl AUX_aux) ADP_case)
+    (NOUN_compound ADP_fixed VERB_fixed)
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (ADJ_advcl
+    (NOUN_obl (PRON_nmod ADP_case) ADP_case)
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['その', '為', '、', 'のび太', '達', 'は', '下手', 'な', '演奏', 'を', '聞く', '事', 'に', 'なっ', 'て', 'も', '、', '彼女', 'の', '前', 'で', '下手', 'だ', 'と', '言え', 'ない', '。']",0.6598110717180479,0.8323032393245418,0.7460571555212948,0.8285912736215102,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N3
+ゲラーはジェームス・ランディが見ている前では超能力を発揮することはできなかった、という。,901964,,N3,1.0,0.784611,0.8923054933547974,ゲラーはジェームス・ランディが見ている前では超能力を発揮することはできなかった、という。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl
+      (VERB_acl
+        (PROPN_nsubj PROPN_compound SYM_compound ADP_case)
+        (SCONJ_mark VERB_fixed))
+      ADP_case
+      ADP_case)
+    (NOUN_nsubj (VERB_acl (NOUN_obj ADP_case) AUX_aux) ADP_case)
+    AUX_aux
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  PUNCT_punct)","['ゲラー', 'は', 'ジェームス', '・', 'ランディ', 'が', '見', 'て', 'いる', '前', 'で', 'は', '超能力', 'を', '発揮', 'する', 'こと', 'は', 'でき', 'なかっ', 'た', '、', 'と', 'いう', '。']",0.6742344058767145,0.8224772445457798,0.7483558252112471,0.8203306592830222,1,原作では創造主の下僕でもあり、モコナの前では謙遜した態度をとる。,前,N3

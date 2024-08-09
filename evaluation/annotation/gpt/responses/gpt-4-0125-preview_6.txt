@@ -1,0 +1,273 @@
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 早い; target level: N1; context sentence: 一番早く人口が20万人に到達した都市であったと思われる。
+System 1 sentences:
+後年1950年代までオート三輪やオートバイの零細メーカーが群生した名古屋でも早い時期のオート三輪メーカー設立であった。
+その成立は1929年に遡り、安徽大学の最も早く成立した学部の一つである。
+北極海がコラ半島北部周辺までは通年航行可能で、それ以東も海氷の発達が比較的弱く、北東航路が北西航路よりも早く開通・一部実用化されたのも、この暖流によるところが大きい。
+18世紀後半、世界で最も早く工場制機械工業を導入したイギリスでは、その後「世界の工場」と称されるまでに至った。
+小惑星番号187531を付されたこの天体は、5つのうちもっとも早く小惑星番号付与に至ったものである。
+System 2 sentences:
+一日も早く復興できるよう、私たちは力を合わせていきたい。"
+時間が経つのは本当に早いものだ。
+彼はいつも仕事が早く終わるので、助かる。
+最も早く人口が20万人に到達した都市であったと思われる。
+彼女はいつも私よりも何倍も早く起きていた。
+System 3 sentences:
+彼はいつも仕事が早い。
+私の家族は朝早く起きる習慣がある。
+彼女の反応はいつも早い。
+そのチームは攻撃が早い。
+早い段階で正しい判断を下すことが重要です。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides sentences that are closer to the target difficulty level (N1) and maintain a similar sense to the context sentence, focusing on historical or significant "earliness" in various contexts. Although not exactly N1 level, they are more complex and relevant than the other systems' outputs. System 2 includes one sentence that matches the target context and difficulty but lacks diversity and relevance in the rest. System 3's sentences are too basic and repetitive, focusing on everyday quickness without touching upon the historical or significant aspect of "earliness," making it the least useful for N1 learners.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 早い; target level: N1; context sentence: 一番早く人口が20万人に到達した都市であったと思われる。
+System 1 sentences:
+後年1950年代までオート三輪やオートバイの零細メーカーが群生した名古屋でも早い時期のオート三輪メーカー設立であった。
+その成立は1929年に遡り、安徽大学の最も早く成立した学部の一つである。
+北極海がコラ半島北部周辺までは通年航行可能で、それ以東も海氷の発達が比較的弱く、北東航路が北西航路よりも早く開通・一部実用化されたのも、この暖流によるところが大きい。
+18世紀後半、世界で最も早く工場制機械工業を導入したイギリスでは、その後「世界の工場」と称されるまでに至った。
+小惑星番号187531を付されたこの天体は、5つのうちもっとも早く小惑星番号付与に至ったものである。
+System 2 sentences:
+一日も早く復興できるよう、私たちは力を合わせていきたい。"
+時間が経つのは本当に早いものだ。
+彼はいつも仕事が早く終わるので、助かる。
+最も早く人口が20万人に到達した都市であったと思われる。
+彼女はいつも私よりも何倍も早く起きていた。
+System 3 sentences:
+彼はいつも仕事が早い。
+私の家族は朝早く起きる習慣がある。
+彼女の反応はいつも早い。
+そのチームは攻撃が早い。
+早い段階で正しい判断を下すことが重要です。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N2; Sense: "similar"; Reject: "no"
+2. Difficulty: N2; Sense: "similar"; Reject: "no"
+3. Difficulty: N2; Sense: "similar"; Reject: "no"
+4. Difficulty: N2; Sense: "similar"; Reject: "no"
+5. Difficulty: N2; Sense: "similar"; Reject: "no"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: N3; Sense: "not similar"; Reject: "no"
+2. Difficulty: N4; Sense: "not similar"; Reject: "no"
+3. Difficulty: N4; Sense: "not similar"; Reject: "no"
+4. Difficulty: N1; Sense: "similar"; Reject: "no"
+5. Difficulty: N4; Sense: "not similar"; Reject: "no"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: N4; Sense: "not similar"; Reject: "no"
+2. Difficulty: N4; Sense: "not similar"; Reject: "no"
+3. Difficulty: N4; Sense: "not similar"; Reject: "no"
+4. Difficulty: N4; Sense: "not similar"; Reject: "no"
+5. Difficulty: N3; Sense: "not similar"; Reject: "no"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides sentences that are closer to the target difficulty level (N1) and maintain a similar sense to the context sentence, focusing on historical or significant "earliest" achievements or developments. Although the sentences are more N2 in difficulty, they offer complex structures and vocabulary that are beneficial for advanced learners. System 2 and System 3 both fall short in terms of difficulty and sense similarity, with System 2 offering one sentence that matches the target level and sense. System 3's sentences are too basic and repetitive in structure, offering little to no challenge or diversity for an N1 learner.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 早い; target level: N1; context sentence: 一番早く人口が20万人に到達した都市であったと思われる。
+System 1 sentences:
+後年1950年代までオート三輪やオートバイの零細メーカーが群生した名古屋でも早い時期のオート三輪メーカー設立であった。
+その成立は1929年に遡り、安徽大学の最も早く成立した学部の一つである。
+北極海がコラ半島北部周辺までは通年航行可能で、それ以東も海氷の発達が比較的弱く、北東航路が北西航路よりも早く開通・一部実用化されたのも、この暖流によるところが大きい。
+18世紀後半、世界で最も早く工場制機械工業を導入したイギリスでは、その後「世界の工場」と称されるまでに至った。
+小惑星番号187531を付されたこの天体は、5つのうちもっとも早く小惑星番号付与に至ったものである。
+System 2 sentences:
+一日も早く復興できるよう、私たちは力を合わせていきたい。"
+時間が経つのは本当に早いものだ。
+彼はいつも仕事が早く終わるので、助かる。
+最も早く人口が20万人に到達した都市であったと思われる。
+彼女はいつも私よりも何倍も早く起きていた。
+System 3 sentences:
+彼はいつも仕事が早い。
+私の家族は朝早く起きる習慣がある。
+彼女の反応はいつも早い。
+そのチームは攻撃が早い。
+早い段階で正しい判断を下すことが重要です。
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N2; Sense: "similar"; Reject: "No"
+2. Difficulty: N2; Sense: "similar"; Reject: "No"
+3. Difficulty: N2; Sense: "similar"; Reject: "No"
+4. Difficulty: N2; Sense: "similar"; Reject: "No"
+5. Difficulty: N2; Sense: "similar"; Reject: "No"
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N3; Sense: "similar"; Reject: "No"
+2. Difficulty: N4; Sense: "similar"; Reject: "No"
+3. Difficulty: N4; Sense: "similar"; Reject: "No"
+4. Difficulty: N1; Sense: "similar"; Reject: "No"
+5. Difficulty: N4; Sense: "similar"; Reject: "No"
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N4; Sense: "similar"; Reject: "No"
+2. Difficulty: N4; Sense: "similar"; Reject: "No"
+3. Difficulty: N4; Sense: "similar"; Reject: "No"
+4. Difficulty: N4; Sense: "similar"; Reject: "No"
+5. Difficulty: N3; Sense: "similar"; Reject: "No"
+Sentence diversity: Low
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides sentences that are closer to the target N1 level, with more complex structures and vocabulary, although they are more N2 in difficulty. They maintain a similar sense to the context sentence, focusing on historical or significant "earliness" in various contexts. System 2 offers a good mix, including one sentence that perfectly matches the target level and context, but the rest are simpler, making it less ideal for N1 learners. System 3's sentences are too basic for an N1 learner, focusing on everyday situations with simpler structures, thus offering the least diversity and challenge.
++++++END_RESPONSE+++++

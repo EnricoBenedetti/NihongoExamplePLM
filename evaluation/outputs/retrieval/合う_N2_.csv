@@ -1,0 +1,92 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,-1,8553.0,N3,0.8,0.0,0.4,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det ADP_case ADP_case)
+    (NOUN_nsubj
+      (NOUN_nmod NOUN_compound ADP_case)
+      VERB_compound
+      ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['この', '段階', 'で', 'は', '主', '鏡', 'の', '位置', '合わせ', 'が', '行わ', 'れ', 'て', 'おら', 'ず', '、', '焦点', 'は', '合っ', 'て', 'い', 'ない', '。']",,,,,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N2
+またマクロレンズと違い無限遠にピントが合わなくなる等、ピントあわせに制約がある。,2715561,,N2,1.0,0.79464185,0.8973209261894226,またマクロレンズと違い無限遠にピントが合わなくなる等、ピントあわせに制約がある。,"(NOUN_ROOT
+  CCONJ_dep
+  (NOUN_nmod
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl (NOUN_nmod ADP_case))
+        (NOUN_obl ADP_case)
+        (NOUN_nsubj ADP_case)
+        AUX_aux))
+    PUNCT_punct))","['また', 'マクロレンズ', 'と', '違い', '無限遠', 'に', 'ピント', 'が', '合わ', 'なく', 'なる', '等', '、', 'ピント', 'あわせ', 'に', '制約', 'が', 'ある', '。']",0.9070999251733736,0.9534883720930232,0.9302941486331984,0.9138075374113104,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N2
+そのコアの波長が合うのはユニだけである｡,5497517,,N2,1.0,0.76126754,0.8806337714195251,そのコアの波長が合うのはユニだけである｡,"(SYM_ROOT
+  (NOUN_acl
+    (VERB_csubj
+      (NOUN_nsubj (NOUN_nmod DET_det ADP_case) ADP_case)
+      SCONJ_mark
+      ADP_case)
+    ADP_case
+    (AUX_cop VERB_fixed)))","['その', 'コア', 'の', '波長', 'が', '合う', 'の', 'は', 'ユニ', 'だけ', 'で', 'ある', '｡']",0.908072674347032,0.9375,0.922786337173516,0.9017100542965204,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N2
+基本的に主たる被写体にはピントが合っていることが前提であり、ソフトフォーカスレンズの効果とはまったく異なる概念である。,5831252,,N2,1.0,0.83426243,0.9171312153339386,基本的に主たる被写体にはピントが合っていることが前提であり、ソフトフォーカスレンズの効果とはまったく異なる概念である。,"(NOUN_ROOT
+  (ADJ_acl
+    (ADJ_acl AUX_cop)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl VERB_compound ADP_case ADP_case)
+        (NOUN_nsubj ADP_case)
+        (SCONJ_mark VERB_fixed))
+      ADP_case)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (VERB_acl
+    (NOUN_obl (NOUN_nmod ADV_compound ADP_case) ADP_case ADP_case)
+    ADV_advmod)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['基本的', 'に', '主たる', '被写体', 'に', 'は', 'ピント', 'が', '合っ', 'て', 'いる', 'こと', 'が', '前提', 'で', 'あり', '、', 'ソフトフォーカス', 'レンズ', 'の', '効果', 'と', 'は', 'まったく', '異なる', '概念', 'で', 'ある', '。']",0.8648398421227099,0.8994190268700073,0.8821294344963586,0.8996303249151486,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N2
+さらに断層撮影後、ピントの合っているところだけをデジタル処理にて合成し、全面にピントのあった画像を作り出す機能を持っているメーカーもある。,5555530,,N2,1.0,0.81610113,0.9080505669116974,さらに断層撮影後、ピントの合っているところだけをデジタル処理にて合成し、全面にピントのあった画像を作り出す機能を持っているメーカーもある。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_nmod (NOUN_nmod NOUN_compound PUNCT_punct) ADP_case)
+        (SCONJ_mark VERB_fixed))
+      ADP_case
+      ADP_case)
+    (NOUN_obl NOUN_compound ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (VERB_acl
+          (NOUN_obj
+            (VERB_acl
+              (NOUN_obl ADP_case)
+              (NOUN_nmod ADP_case)
+              AUX_aux)
+            ADP_case))
+        ADP_case)
+      (SCONJ_mark VERB_fixed))
+    ADP_case)
+  PUNCT_punct)","['さらに', '断層', '撮影後', '、', 'ピント', 'の', '合っ', 'て', 'いる', 'ところ', 'だけ', 'を', 'デジタル', '処理', 'にて', '合成', 'し', '、', '全面', 'に', 'ピント', 'の', 'あっ', 'た', '画像', 'を', '作り出す', '機能', 'を', '持っ', 'て', 'いる', 'メーカー', 'も', 'ある', '。']",0.8304495892755929,0.8769334131794947,0.8536915012275438,0.8808710340696206,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N2
+屈折補正は、調節力を働かせない状態で遠方が明視（ピントが合ってはっきり見えている状態）できる度数の凸レンズでおこなわれる。,1180970,,N2,1.0,0.8226948,0.9113473892211914,屈折補正は、調節力を働かせない状態で遠方が明視（ピントが合ってはっきり見えている状態）できる度数の凸レンズでおこなわれる。,"(NOUN_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case PUNCT_punct)
+  (VERB_acl
+    (NOUN_obl
+      (VERB_acl (NOUN_obj VERB_compound ADP_case) AUX_aux AUX_aux)
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl
+      PUNCT_punct
+      NOUN_compound
+      ADP_case
+      VERB_compound
+      SCONJ_mark
+      ADV_advmod)
+    (SCONJ_mark VERB_fixed))
+  PUNCT_punct)","['屈折', '補正', 'は', '、', '調節', '力', 'を', '働か', 'せ', 'ない', '状態', 'で', '遠方', 'が', '明視', '（', 'ピント', 'が', '合っ', 'て', 'はっきり', '見え', 'て', 'いる', '状態', '）', 'できる', '度数', 'の', '凸', 'レンズ', 'で', 'おこなわ', 'れる', '。']",0.7836589454214348,0.8654159698996655,0.8245374576605502,0.8679424234408708,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N2

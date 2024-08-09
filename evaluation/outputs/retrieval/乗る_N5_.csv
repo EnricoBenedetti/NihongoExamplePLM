@@ -1,0 +1,29 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,-1,18305.0,N2,0.0,0.0,0.0,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl INTJ_advmod (NOUN_nsubj ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl PRON_nmod (ADJ_acl AUX_aux) ADP_case AUX_cop ADP_case)
+  PUNCT_punct)","['いざ', '金', 'が', 'いる', 'と', 'なる', 'と', '、', 'ポルジイ', 'は', 'どんな', '危険', 'な', '相談', 'に', 'で', 'も', '乗る', '。']",,,,,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N5
+ちょっと相談に乗ってもらってもいいですか？,333771,,N5,1.0,0.66066283,0.830331414937973,ちょっと相談に乗ってもらってもいいですか？,"(VERB_ROOT
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (SCONJ_mark ADP_fixed AUX_fixed)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['ちょっと', '相談', 'に', '乗っ', 'て', 'もらっ', 'て', 'も', 'いい', 'です', 'か', '？']",0.7681105576336626,0.9510567296996664,0.8595836436666645,0.8449575293023188,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N5
+乗るのも私じゃありません。,149172,,N5,1.0,0.52301663,0.7615083158016205,乗るのも私じゃありません。,"(PRON_ROOT
+  (VERB_obl SCONJ_mark ADP_case)
+  (AUX_cop VERB_fixed AUX_fixed AUX_fixed)
+  PUNCT_punct)","['乗る', 'の', 'も', '私', 'じゃ', 'あり', 'ませ', 'ん', '。']",0.7917511382588399,0.9432432432432432,0.8674971907510416,0.814502753276331,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N5
+車に乗る。,395544,,N5,1.0,0.5913961,0.7956980466842651,車に乗る。,(VERB_ROOT (NOUN_obl ADP_case) PUNCT_punct),"['車', 'に', '乗る', '。']",0.7250665452646351,0.925,0.8250332726323175,0.8103656596582913,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N5
+でもこれには乗りません。,147370,,N5,1.0,0.5326299,0.7663149535655975,でもこれには乗りません。,"(VERB_ROOT
+  (ADP_cc ADP_fixed)
+  (PRON_obl ADP_case ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['で', 'も', 'これ', 'に', 'は', '乗り', 'ませ', 'ん', '。']",0.7464684985873524,0.8832387194676028,0.8148536090274776,0.7905842812965376,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N5
+象、船に乗る.,11304360,,N5,1.0,0.56404847,0.7820242345333099,象、船に乗る.,(VERB_ROOT (NOUN_obl PUNCT_punct) (NOUN_obl ADP_case) PUNCT_punct),"['象', '、', '船', 'に', '乗る', '.']",0.7048776117345432,0.8773959134239193,0.7911367625792313,0.7865804985562705,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N5

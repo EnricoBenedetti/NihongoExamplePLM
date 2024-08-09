@@ -1,0 +1,38 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+軽量なものでは5kgを切るような車体を作成することも可能である。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,軽量なものでは5kgを切るような車体を作成することも可能である。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl (ADJ_acl AUX_aux) ADP_case ADP_case)
+      (NOUN_obj
+        (VERB_acl (NOUN_obj NUM_nummod ADP_case) AUX_aux AUX_aux)
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['軽量', 'な', 'もの', 'で', 'は', '5', 'kg', 'を', '切る', 'よう', 'な', '車体', 'を', '作成', 'する', 'こと', 'も', '可能', 'で', 'ある', '。']",,,,,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N5
+あとのものはどうなるのですか。,148697,,N5,1.0,0.60410404,0.8020520210266113,あとのものはどうなるのですか。,"(VERB_ROOT
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  ADV_advmod
+  (SCONJ_mark AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['あと', 'の', 'もの', 'は', 'どう', 'なる', 'の', 'です', 'か', '。']",0.7744779189099062,0.9435483870967742,0.8590131530033402,0.8305325870149758,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N5
+こんなものじゃありませんよ。,151640,,N5,1.0,0.573261,0.7866305112838745,こんなものじゃありませんよ。,"(NOUN_ROOT
+  PRON_nmod
+  (AUX_cop VERB_fixed AUX_fixed AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['こんな', 'もの', 'じゃ', 'あり', 'ませ', 'ん', 'よ', '。']",0.708159306303302,0.9423076923076924,0.8252334993054972,0.8059320052946859,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N5
+大きいもの送料が高いです。,82650,,N5,1.0,0.704615,0.8523074984550476,大きいもの送料が高いです。,"(ADJ_ROOT
+  (NOUN_nsubj ADJ_acl NOUN_compound ADP_case)
+  AUX_aux
+  PUNCT_punct)","['大きい', 'もの', '送料', 'が', '高い', 'です', '。']",0.6286469128320473,0.934782608695652,0.7817147607638497,0.8170111296094487,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N5
+こんなものを作ってみました。,143261,,N5,1.0,0.6445105,0.8222552537918091,こんなものを作ってみました。,"(VERB_ROOT
+  (NOUN_obj PRON_nmod ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['こんな', 'もの', 'を', '作っ', 'て', 'み', 'まし', 'た', '。']",0.6296607450810974,0.9222727272727272,0.7759667361769123,0.7991109949843607,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N5
+使わないものは買わないで。,369243,,N5,1.0,0.65028894,0.8251444697380066,使わないものは買わないで。,"(VERB_ROOT
+  (NOUN_nsubj (VERB_acl AUX_aux) ADP_case)
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['使わ', 'ない', 'もの', 'は', '買わ', 'ない', 'で', '。']",0.5748163458012487,0.9078947368421052,0.741355541321677,0.7832500055298418,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N5

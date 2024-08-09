@@ -1,0 +1,69 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分が自分の心でするべき事だ。,-1,20001.0,N3,0.6,0.0,0.3,自分が自分の心でするべき事だ。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['自分', 'が', '自分', 'の', '心', 'で', 'する', 'べき', '事', 'だ', '。']",,,,,1,自分が自分の心でするべき事だ。,する,N1
+われわれはそれを受け継ぎ、豊かにしていかねばならない。,27318,,N1,1.0,0.6250842,0.8125421106815338,われわれはそれを受け継ぎ、豊かにしていかねばならない。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (VERB_advcl (PRON_obj ADP_case) PUNCT_punct)
+  (ADJ_advcl AUX_aux)
+  (SCONJ_mark VERB_fixed)
+  (AUX_aux SCONJ_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['われわれ', 'は', 'それ', 'を', '受け継ぎ', '、', '豊か', 'に', 'し', 'て', 'いか', 'ね', 'ば', 'なら', 'ない', '。']",0.8333333333333334,0.9814814814814816,0.9074074074074074,0.8599747590444706,1,自分が自分の心でするべき事だ。,する,N1
+これからは否が応でも自助努力をしなければならい時代になる。,18161,,N1,1.0,0.7158577,0.8579288423061371,これからは否が応でも自助努力をしなければならい時代になる。,"(VERB_ROOT
+  (PRON_obl ADP_case ADP_case)
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_obj NOUN_compound ADP_case)
+    AUX_aux
+    SCONJ_mark)
+  (NOUN_obl VERB_compound ADP_case)
+  PUNCT_punct)","['これ', 'から', 'は', '否', 'が', '応', 'で', 'も', '自助', '努力', 'を', 'し', 'なけれ', 'ば', 'ならい', '時代', 'に', 'なる', '。']",0.7516753152560477,0.9456521739130436,0.8486637445845455,0.8532962934453413,1,自分が自分の心でするべき事だ。,する,N1
+自分のする事全てに自信が持てずのたうち回り、いつか明ける朝を待つ事しか出来ない愚か者。,18840,,N1,1.0,0.76111805,0.8805590271949768,自分のする事全てに自信が持てずのたうち回り、いつか明ける朝を待つ事しか出来ない愚か者。,"(ADJ_ROOT
+  (VERB_acl
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_obl
+          (NOUN_compound (VERB_acl (NOUN_nmod ADP_case)))
+          ADP_case)
+        (NOUN_nsubj ADP_case)
+        AUX_aux)
+      PUNCT_punct)
+    (NOUN_obl
+      (VERB_acl (PRON_obl ADP_case) (NOUN_obj VERB_acl ADP_case))
+      ADP_case)
+    AUX_aux)
+  PUNCT_punct)","['自分', 'の', 'する', '事', '全て', 'に', '自信', 'が', '持て', 'ず', 'のたうち回り', '、', 'いつ', 'か', '明ける', '朝', 'を', '待つ', '事', 'しか', '出来', 'ない', '愚か者', '。']",0.6909234499055641,0.9212121212121211,0.8060677855588426,0.8433134063769097,1,自分が自分の心でするべき事だ。,する,N1
+それをするために自分の生活における不便を感じることもいとわないでしょうか。,5979,,N1,1.0,0.7306027,0.8653013408184052,それをするために自分の生活における不便を感じることもいとわないでしょうか。,"(ADJ_ROOT
+  (ADJ_advmod
+    (NOUN_nsubj
+      (VERB_acl
+        (VERB_advcl (PRON_obj ADP_case) (SCONJ_mark SCONJ_fixed))
+        (NOUN_obj
+          (NOUN_nmod
+            (NOUN_nmod ADP_case)
+            (ADP_case VERB_fixed AUX_fixed))
+          ADP_case))
+      ADP_case))
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['それ', 'を', 'する', 'ため', 'に', '自分', 'の', '生活', 'に', 'おけ', 'る', '不便', 'を', '感じる', 'こと', 'も', 'いとわ', 'ない', 'でしょう', 'か', '。']",0.6749483918348216,0.9006197291081012,0.7877840604714614,0.8265427006449333,1,自分が自分の心でするべき事だ。,する,N1
+しかし、ただその場に身を置いて体験することは、無言のうちに学ぶものです。,27777,,N1,1.0,0.68996155,0.844980776309967,しかし、ただその場に身を置いて体験することは、無言のうちに学ぶものです。,"(NOUN_ROOT
+  (CCONJ_cc PUNCT_punct)
+  CCONJ_cc
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl DET_det ADP_case)
+        (NOUN_obj ADP_case)
+        SCONJ_mark)
+      AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  (VERB_acl (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+  AUX_cop
+  PUNCT_punct)","['しかし', '、', 'ただ', 'その', '場', 'に', '身', 'を', '置い', 'て', '体験', 'する', 'こと', 'は', '、', '無言', 'の', 'うち', 'に', '学ぶ', 'もの', 'です', '。']",0.6813645632287777,0.8965643274853801,0.7889644453570789,0.8169726108335229,1,自分が自分の心でするべき事だ。,する,N1

@@ -1,0 +1,91 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,-1,16630.0,N2,0.6,0.0,0.3,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (VERB_acl
+          (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark)
+          (NOUN_obl ADP_case)
+          AUX_aux)
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl ADP_case)
+      (NOUN_obl ADP_case)
+      (ADP_case VERB_fixed))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['その', '汗', 'を', '流し', 'て', '手', 'に', '入れ', 'た', 'もの', 'を', '、', 'ただ', 'で', '他', 'に', '上げる', 'と', 'いう', 'こと', 'は', '出来', 'ない', '。']",,,,,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N3
+を上げることが可能。,9988808,,N3,1.0,0.63340044,0.8167002201080322,を上げることが可能。,ADP_ROOT,"['を', '上げる', 'こと', 'が', '可能', '。']",1.0,0.95,0.975,0.8958501100540162,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N3
+野球でうまく使用すれば、ボールを高く遠く吹き飛ばし、対戦相手の守備の者たちに尻餅をつかせ、得点を上げることができる。,6945393,,N3,1.0,0.6533464,0.8266732096672058,野球でうまく使用すれば、ボールを高く遠く吹き飛ばし、対戦相手の守備の者たちに尻餅をつかせ、得点を上げることができる。,"(VERB_ROOT
+  (PROPN_advcl
+    (ADJ_advcl
+      (VERB_advcl
+        (NOUN_obl ADP_case)
+        ADJ_advcl
+        AUX_aux
+        SCONJ_mark
+        PUNCT_punct)
+      (NOUN_obj ADP_case)
+      ADJ_advcl)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+      NOUN_compound
+      ADP_case)
+    (NOUN_obj ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obj ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed PUNCT_punct))","['野球', 'で', 'うまく', '使用', 'すれ', 'ば', '、', 'ボール', 'を', '高く', '遠く', '吹き飛ばし', '、', '対戦', '相手', 'の', '守備', 'の', '者', 'たち', 'に', '尻餅', 'を', 'つか', 'せ', '、', '得点', 'を', '上げる', 'こと', 'が', 'できる', '。']",0.9716194153949392,0.8987016151489835,0.9351605152719612,0.8809168624695836,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N3
+角度が（目標とする切岸よりも）ゆるい斜面を削って切岸にした場合、削った土は上の曲輪に上げることもあるが、多くの場合は下に捨てられる。,6147453,,N3,1.0,0.6758398,0.8379198908805847,角度が（目標とする切岸よりも）ゆるい斜面を削って切岸にした場合、削った土は上の曲輪に上げることもあるが、多くの場合は下に捨てられる。,"(PROPN_ROOT
+  (VERB_acl (NOUN_obl ADP_case PUNCT_punct NOUN_compound ADP_case))
+  ADP_case
+  ADP_case
+  PUNCT_punct)","['角度', 'が', '（', '目標', 'と', 'する', '切岸', 'より', 'も', '）', 'ゆるい', '斜面', 'を', '削っ', 'て', '切岸', 'に', 'し', 'た', '場合', '、', '削っ', 'た', '土', 'は', '上', 'の', '曲輪', 'に', '上げる', 'こと', 'も', 'ある', 'が', '、', '多く', 'の', '場合', 'は', '下', 'に', '捨て', 'られる', '。']",0.9033525809257684,0.8820511525505341,0.8927018667381512,0.865310878809368,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N3
+小野川には物資を陸に上げるための、「だし」と呼ばれる河岸施設が多く作られた。,4971524,,N3,1.0,0.6736586,0.8368293046951294,小野川には物資を陸に上げるための、「だし」と呼ばれる河岸施設が多く作られた。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (PROPN_obl ADP_case ADP_case)
+      (NOUN_obl
+        (NOUN_nmod
+          (NOUN_obj ADP_case)
+          (NOUN_obl ADP_case)
+          VERB_compound
+          ADP_fixed
+          PUNCT_punct)
+        PUNCT_punct
+        PUNCT_punct
+        ADP_case)
+      AUX_aux)
+    PROPN_compound
+    ADP_case)
+  ADJ_advcl
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['小野川', 'に', 'は', '物資', 'を', '陸', 'に', '上げる', 'ため', 'の', '、', '「', 'だし', '」', 'と', '呼ば', 'れる', '河岸', '施設', 'が', '多く', '作ら', 'れ', 'た', '。']",0.8536995326070795,0.8796811363127357,0.8666903344599076,0.8517598195775185,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N3
+そのため出漁のたびに浜へ降り作業をするが、海岸線からすぐ傾斜が急な山の斜面となり、平地が少なく漁具を干したり漁船を陸地に上げるには狭く手間もかかる。,5740764,,N3,1.0,0.6736328,0.8368164002895355,そのため出漁のたびに浜へ降り作業をするが、海岸線からすぐ傾斜が急な山の斜面となり、平地が少なく漁具を干したり漁船を陸地に上げるには狭く手間もかかる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl DET_det)
+      (NOUN_obj
+        (VERB_acl
+          (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+          (NOUN_obl ADP_case))
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADV_advmod ADP_case)
+    (NOUN_obl (NOUN_nmod (ADJ_acl AUX_aux) ADP_case) ADP_case)
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (ADJ_advcl (NOUN_nsubj ADP_case))
+      (NOUN_obj ADP_case)
+      PART_mark)
+    (NOUN_obj ADP_case)
+    (NOUN_obl ADP_case)
+    ADP_case
+    ADP_case)
+  (NOUN_nsubj ADJ_acl ADP_case)
+  PUNCT_punct)","['その', 'ため', '出漁', 'の', 'たび', 'に', '浜', 'へ', '降り', '作業', 'を', 'する', 'が', '、', '海岸線', 'から', 'すぐ', '傾斜', 'が', '急', 'な', '山', 'の', '斜面', 'と', 'なり', '、', '平地', 'が', '少なく', '漁具', 'を', '干し', 'たり', '漁船', 'を', '陸地', 'に', '上げる', 'に', 'は', '狭く', '手間', 'も', 'かかる', '。']",0.8157597958388164,0.8756024834246838,0.8456811396317501,0.8412487699606428,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N3

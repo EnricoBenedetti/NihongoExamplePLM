@@ -1,0 +1,58 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,-1,3950.0,N2,0.8,0.0,0.4,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl ADJ_acl ADP_case)
+    (ADJ_advcl (NOUN_nsubj PRON_nmod ADP_case))
+    (NOUN_obl NUM_nummod ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark)
+  (VERB_obl ADP_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['鋭い', '鎌', 'で', 'どんな', '物', 'も', '真っ', '二', 'つ', 'に', 'し', 'て', 'しまう', 'が', 'こんにゃく', 'だけ', 'は', '切れ', 'ない', '。']",,,,,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N1
+格闘戦が得意なギリバネスの片割れの人型異星人で、両腕に有した鋭い爪カットフックで鉄塔も切り倒す。,3170589,,N1,1.0,0.8782579,0.9391289353370668,格闘戦が得意なギリバネスの片割れの人型異星人で、両腕に有した鋭い爪カットフックで鉄塔も切り倒す。,"(NOUN_ROOT
+  (ADJ_acl (NOUN_nsubj ADP_case) AUX_aux)
+  (NOUN_nmod (PROPN_nmod ADP_case) ADP_case))","['格闘戦', 'が', '得意', 'な', 'ギリバネス', 'の', '片割れ', 'の', '人型', '異星', '人', 'で', '、', '両腕', 'に', '有し', 'た', '鋭い', '爪', 'カット', 'フック', 'で', '鉄塔', 'も', '切り倒す', '。']",0.970199577660556,0.9565217391304348,0.9633606583954956,0.951244796866281,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N1
+亀らしく首は伸び縮みし、離れた相手すらもその鋭い牙で仕留める。,11211224,,N1,1.0,0.86470324,0.9323516190052032,亀らしく首は伸び縮みし、離れた相手すらもその鋭い牙で仕留める。,(NOUN_ROOT AUX_aux),"['亀', 'らしく', '首', 'は', '伸び縮み', 'し', '、', '離れ', 'た', '相手', 'すら', 'も', 'その', '鋭い', '牙', 'で', '仕留める', '。']",0.9067331925535188,0.9375,0.9221165962767592,0.9272341076409814,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N1
+ダイヤモンドをも砕く鋭い爪で地中を掘り、古代の化石を集めている“化石コレクター”である。,8203023,,N1,1.0,0.86702895,0.9335144758224488,ダイヤモンドをも砕く鋭い爪で地中を掘り、古代の化石を集めている“化石コレクター”である。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl
+      (VERB_advcl (NOUN_obj ADP_case ADP_case))
+      (NOUN_obl ADJ_acl ADP_case)
+      (NOUN_obj ADP_case)
+      PUNCT_punct)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    (SCONJ_mark VERB_fixed))
+  PUNCT_punct
+  NOUN_compound
+  PUNCT_punct
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['ダイヤモンド', 'を', 'も', '砕く', '鋭い', '爪', 'で', '地中', 'を', '掘り', '、', '古代', 'の', '化石', 'を', '集め', 'て', 'いる', '“', '化石', 'コレクター', '”', 'で', 'ある', '。']",0.9153673113889704,0.9184071381361534,0.916887224762562,0.9252008502925052,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N1
+両手足と尻尾先のハサミは鋭い刃を持ち、鋼鉄をも切り裂く。,5761521,,N1,1.0,0.88206446,0.9410322308540344,両手足と尻尾先のハサミは鋭い刃を持ち、鋼鉄をも切り裂く。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (NOUN_nmod
+        (NOUN_nmod NOUN_compound ADP_case)
+        NOUN_compound
+        ADP_case)
+      ADP_case)
+    (NOUN_obj ADJ_acl ADP_case)
+    PUNCT_punct)
+  (NOUN_obj ADP_case ADP_case)
+  PUNCT_punct)","['両手', '足', 'と', '尻尾', '先', 'の', 'ハサミ', 'は', '鋭い', '刃', 'を', '持ち', '、', '鋼鉄', 'を', 'も', '切り裂く', '。']",0.8793972030932158,0.910985889682976,0.895191546388096,0.9181118886210652,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N1
+鎖を振り回せば鋭い分銅で敵を襲い、全長3尺の鎖武器となり振り回すことにより威嚇する効果がある。,8424523,,N1,1.0,0.86496234,0.9324811697006226,鎖を振り回せば鋭い分銅で敵を襲い、全長3尺の鎖武器となり振り回すことにより威嚇する効果がある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+        (NOUN_obl ADJ_acl ADP_case)
+        (NOUN_obj ADP_case)
+        PUNCT_punct)
+      (VERB_advcl
+        (NOUN_obl
+          (NOUN_nmod NOUN_compound NUM_nummod ADP_case)
+          NOUN_compound
+          ADP_case))
+      (NOUN_obl VERB_acl (ADP_case VERB_fixed))
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['鎖', 'を', '振り回せ', 'ば', '鋭い', '分銅', 'で', '敵', 'を', '襲い', '、', '全長', '3', '尺', 'の', '鎖', '武器', 'と', 'なり', '振り回す', 'こと', 'に', 'より', '威嚇', 'する', '効果', 'が', 'ある', '。']",0.8471372834972664,0.9059954751131222,0.8765663793051943,0.9045237745029084,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N1

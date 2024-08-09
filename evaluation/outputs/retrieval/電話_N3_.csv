@@ -1,0 +1,60 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+電話をかけることを習いました。,-1,13680.0,N5,0.6,0.0,0.3,電話をかけることを習いました。,"(VERB_ROOT
+  (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['電話', 'を', 'かける', 'こと', 'を', '習い', 'まし', 'た', '。']",,,,,1,電話をかけることを習いました。,電話,N3
+電話も通じないことで、徐々に不安が募っていく。,11143163,,N3,1.0,0.86060244,0.9303012192249298,電話も通じないことで、徐々に不安が募っていく。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl (NOUN_nsubj ADP_case) AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['電話', 'も', '通じ', 'ない', 'こと', 'で', '、', '徐々', 'に', '不安', 'が', '募っ', 'て', 'いく', '。']",0.7710345109485787,0.9583333333333334,0.864683922140956,0.8974925706829429,1,電話をかけることを習いました。,電話,N3
+回避戦略の関連行動として、他人（例：自宅の身内）に電話を取るように頼むことや、留守番電話だけを使用することなどがある。,11284399,,N3,1.0,0.865948,0.932974010705948,回避戦略の関連行動として、他人（例：自宅の身内）に電話を取るように頼むことや、留守番電話だけを使用することなどがある。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obl
+          (NOUN_nmod NOUN_compound ADP_case)
+          NOUN_compound
+          (ADP_case AUX_fixed SCONJ_fixed)
+          PUNCT_punct)
+        (VERB_advcl
+          (NOUN_obl
+            (NOUN_compound PUNCT_punct)
+            SYM_dep
+            NOUN_compound
+            ADP_case
+            NOUN_compound
+            PUNCT_punct
+            ADP_case)
+          (NOUN_obj ADP_case)
+          AUX_aux
+          AUX_aux))
+      ADP_case
+      PUNCT_punct)
+    (VERB_acl (NOUN_obj ADP_case ADP_case) AUX_aux)
+    ADP_case
+    ADP_case)
+  PUNCT_punct)","['回避', '戦略', 'の', '関連', '行動', 'と', 'し', 'て', '、', '他人', '（', '例', '：', '自宅', 'の', '身内', '）', 'に', '電話', 'を', '取る', 'よう', 'に', '頼む', 'こと', 'や', '、', '留守番電話', 'だけ', 'を', '使用', 'する', 'こと', 'など', 'が', 'ある', '。']",0.7525960550928452,0.9260175240248728,0.8393067895588591,0.8861404001324035,1,電話をかけることを習いました。,電話,N3
+電話の会話はそれから毎日続く。,9229555,,N3,1.0,0.85694736,0.9284736812114716,電話の会話はそれから毎日続く。,"(VERB_ROOT
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  (PRON_obl ADP_case)
+  ADV_advmod
+  PUNCT_punct)","['電話', 'の', '会話', 'は', 'それ', 'から', '毎日', '続く', '。']",0.7303434836978704,0.9247835497835498,0.82756351674071,0.8780185989760908,1,電話をかけることを習いました。,電話,N3
+そして笑みを浮かべながら電話をかける。,11868011,,N3,1.0,0.87879586,0.939397931098938,そして笑みを浮かべながら電話をかける。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['そして', '笑み', 'を', '浮かべ', 'ながら', '電話', 'を', 'かける', '。']",0.7192647167636659,0.9071277524084348,0.8131962345860504,0.8762970828424942,1,電話をかけることを習いました。,電話,N3
+なのに電話をかけるとき、まず秘書にかけさせる。,3540448,,N3,1.0,0.8921926,0.9460963010787964,なのに電話をかけるとき、まず秘書にかけさせる。,"(VERB_ROOT
+  (AUX_dep SCONJ_fixed ADP_fixed)
+  (NOUN_obl (VERB_acl (NOUN_obj ADP_case)) PUNCT_punct)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['な', 'の', 'に', '電話', 'を', 'かける', 'とき', '、', 'まず', '秘書', 'に', 'かけ', 'さ', 'せる', '。']",0.7093924850235033,0.8860422465443223,0.7977173657839127,0.8719068334313546,1,電話をかけることを習いました。,電話,N3

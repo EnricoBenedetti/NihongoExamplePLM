@@ -1,0 +1,94 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,-1,20001.0,N1,0.1999999999999999,0.0,0.0999999999999999,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obl (PRON_nmod ADP_case) NOUN_compound)
+        (VERB_advcl SCONJ_mark)
+        (NOUN_obl NOUN_compound ADP_case))
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod DET_det ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['あなた', 'の', '御', '関係', 'なすっ', 'て', 'お', 'いで', 'に', 'なる', '男', 'の', '事', 'を', '、', 'ある', '偶然', 'の', '機会', 'で', '承知', 'し', 'まし', 'た', '。']",,,,,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N3
+そいつは君の妹と関係を持っているんだぞ！,307475,,N3,1.0,0.7781339,0.8890669643878937,そいつは君の妹と関係を持っているんだぞ！,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obj (NOUN_nmod (PRON_nmod ADP_case) ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (SCONJ_mark AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['そいつ', 'は', '君', 'の', '妹', 'と', '関係', 'を', '持っ', 'て', 'いる', 'ん', 'だ', 'ぞ', '！']",0.7680248705179987,0.9625,0.8652624352589994,0.8771646998234466,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N3
+例外的に、性的な関係を求める者が集まる危険な場所も存在する。,1782275,,N3,1.0,0.719559,0.8597795069217682,例外的に、性的な関係を求める者が集まる危険な場所も存在する。,"(VERB_ROOT
+  (ADJ_advcl AUX_cop PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj
+        (VERB_acl (NOUN_obj (ADJ_acl AUX_aux) ADP_case))
+        ADP_case))
+    (ADJ_acl AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['例外的', 'に', '、', '性的', 'な', '関係', 'を', '求める', '者', 'が', '集まる', '危険', 'な', '場所', 'も', '存在', 'する', '。']",0.7406997459370553,0.943730407523511,0.8422150767302832,0.8509972918260257,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N3
+原告は、未成年だった1999年から2002年の間に、アンドルーの友人であるアメリカ人実業家、ジェフリー・エプスタインから、アンドルーを含む複数の男と性的関係を持つよう強要されたとしている。,992464,,N3,1.0,0.743374,0.8716869950294495,原告は、未成年だった1999年から2002年の間に、アンドルーの友人であるアメリカ人実業家、ジェフリー・エプスタインから、アンドルーを含む複数の男と性的関係を持つよう強要されたとしている。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_acl (NOUN_nsubj ADP_case PUNCT_punct) AUX_cop AUX_aux)
+      (NOUN_nmod (NOUN_nmod NUM_nummod ADP_case) NUM_nummod ADP_case)
+      ADP_case
+      PUNCT_punct)
+    (VERB_advcl
+      (PROPN_obl
+        (NOUN_nmod
+          (NOUN_acl (PROPN_nmod ADP_case) (AUX_cop VERB_fixed))
+          NOUN_compound
+          PUNCT_punct)
+        PROPN_compound
+        SYM_compound
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obj
+        (NOUN_nmod
+          (VERB_acl (PROPN_obj ADP_case))
+          (NOUN_nmod ADP_case)
+          ADP_case)
+        ADJ_amod
+        ADP_case)
+      AUX_aux)
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['原告', 'は', '、', '未成年', 'だっ', 'た', '1999', '年', 'から', '2002', '年', 'の', '間', 'に', '、', 'アンドルー', 'の', '友人', 'で', 'ある', 'アメリカ人', '実業家', '、', 'ジェフリー', '・', 'エプスタイン', 'から', '、', 'アンドルー', 'を', '含む', '複数', 'の', '男', 'と', '性的', '関係', 'を', '持つ', 'よう', '強要', 'さ', 'れ', 'た', 'と', 'し', 'て', 'いる', '。']",0.7339233349696711,0.8967425823428001,0.8153329586562357,0.8435099768428426,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N3
+私のこと愛してくれてるって思ってたんだけど、実際は、私と関係を持ちたかっただけみたい。,389447,,N3,1.0,0.7485697,0.8742848634719849,私のこと愛してくれてるって思ってたんだけど、実際は、私と関係を持ちたかっただけみたい。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl (PRON_nmod ADP_case))
+      (SCONJ_mark VERB_fixed)
+      AUX_aux
+      PART_mark)
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark AUX_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl ADP_case PUNCT_punct)
+  (PRON_obl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PART_mark
+  AUX_aux
+  PUNCT_punct)","['私', 'の', 'こと', '愛し', 'て', 'くれ', 'てる', 'って', '思っ', 'て', 'た', 'ん', 'だ', 'けど', '、', '実際', 'は', '、', '私', 'と', '関係', 'を', '持ち', 'たかっ', 'た', 'だけ', 'みたい', '。']",0.7115086432492749,0.8806923076923077,0.7961004754707912,0.835192669471388,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N3
+三人の女性と関係を持ったという意味ではありません。,117689,,N3,1.0,0.7368844,0.8684422075748444,三人の女性と関係を持ったという意味ではありません。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obj
+      (NOUN_nmod (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+      ADP_case)
+    AUX_aux
+    (ADP_case VERB_fixed))
+  (AUX_cop ADP_fixed VERB_fixed AUX_fixed AUX_fixed)
+  PUNCT_punct)","['三', '人', 'の', '女性', 'と', '関係', 'を', '持っ', 'た', 'と', 'いう', '意味', 'で', 'は', 'あり', 'ませ', 'ん', '。']",0.7173225138720306,0.8645110053477655,0.790916759609898,0.8296794835923712,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N3

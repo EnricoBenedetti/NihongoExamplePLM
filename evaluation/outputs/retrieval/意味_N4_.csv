@@ -1,0 +1,44 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,-1,20001.0,N1,0.0,0.0,0.0,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,"(VERB_ROOT
+  (NOUN_obl DET_det ADP_case PUNCT_punct)
+  (NOUN_nsubj ADP_case PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl (PRON_nmod ADP_case) NOUN_compound PUNCT_punct)
+      (NOUN_obj ADP_case)
+      AUX_aux
+      AUX_aux
+      ADP_case)
+    SCONJ_mark
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['この', '意味', 'で', '、', '会話', 'は', '、', '彼', 'の', '意図', '通り', '、', '方向', 'を', '転換', 'し', 'た', 'と', '云っ', 'て', 'も', '差支え', 'ない', '。']",,,,,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N4
+この意味ですね。,149372,,N4,1.0,0.70282865,0.8514143228530884,この意味ですね。,(NOUN_ROOT DET_det AUX_cop PART_mark PUNCT_punct),"['この', '意味', 'です', 'ね', '。']",0.8,0.9476372924648786,0.8738186462324393,0.8626164845427639,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N4
+どういう意味？」「,333832,,N4,1.0,0.63288724,0.8164436221122742,どういう意味？」「,(NOUN_ROOT DET_acl PUNCT_punct PUNCT_punct),"['どういう', '意味', '？', '」', '「']",0.7833333333333333,0.9478178368121442,0.8655755850727387,0.8410096035925064,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N4
+この意味をちょっと御説明していただけませんか。,132497,,N4,1.0,0.6597551,0.8298775553703308,この意味をちょっと御説明していただけませんか。,"(VERB_ROOT
+  (NOUN_obj DET_det ADP_case)
+  ADV_advmod
+  ADJ_compound
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['この', '意味', 'を', 'ちょっと', '御', '説明', 'し', 'て', 'いただけ', 'ませ', 'ん', 'か', '。']",0.7958634221227643,0.9245423057892131,0.8602028639559888,0.8450402096631597,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N4
+ギリシャの古い話は色んな意味で本当に勉強になります。,7581,,N4,1.0,0.70479524,0.852397620677948,ギリシャの古い話は色んな意味で本当に勉強になります。,"(VERB_ROOT
+  (NOUN_nsubj (PROPN_nmod ADP_case) ADJ_acl ADP_case)
+  (NOUN_obl ADJ_amod ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ギリシャ', 'の', '古い', '話', 'は', '色んな', '意味', 'で', '本当', 'に', '勉強', 'に', 'なり', 'ます', '。']",0.7570139784324179,0.9142614601018676,0.8356377192671427,0.8440176699725453,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N4
+いったいどういう意味か分からず、私は謎に包まれたままです。,322534,,N4,1.0,0.64203507,0.8210175335407257,いったいどういう意味か分からず、私は謎に包まれたままです。,"(NOUN_ROOT
+  (VERB_acl
+    ADV_advmod
+    (NOUN_obl DET_acl ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (PRON_nsubj ADP_case)
+  (VERB_acl (NOUN_obl ADP_case) AUX_aux AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['いったい', 'どういう', '意味', 'か', '分から', 'ず', '、', '私', 'は', '謎', 'に', '包ま', 'れ', 'た', 'まま', 'です', '。']",0.7493433392165803,0.90085833188833,0.8251008355524552,0.8230591845465904,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N4

@@ -1,0 +1,46 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+しかし自分ながら、なぜそんなに腹が立つのだか分からない。,-1,20001.0,N2,0.1999999999999999,0.0,0.0999999999999999,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl SCONJ_mark PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    (ADJ_advcl AUX_aux)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark AUX_fixed)
+    PART_mark)
+  AUX_aux
+  PUNCT_punct)","['しかし', '自分', 'ながら', '、', 'なぜ', 'そんな', 'に', '腹', 'が', '立つ', 'の', 'だ', 'か', '分から', 'ない', '。']",,,,,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N4
+自分にも腹が立っている。,6533297,,N4,1.0,0.8240206,0.9120103120803832,自分にも腹が立っている。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['自分', 'に', 'も', '腹', 'が', '立っ', 'て', 'いる', '。']",0.7309038901175609,0.9391304347826088,0.8350171624500848,0.8735137372652341,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N4
+それから僕には多くの腹の立つ出来事が起こり始めた。,533237,,N4,1.0,0.7811361,0.8905680477619171,それから僕には多くの腹の立つ出来事が起こり始めた。,"(VERB_ROOT
+  (PRON_dep ADP_fixed)
+  (PRON_obl ADP_case ADP_case)
+  (NOUN_nsubj
+    (NOUN_nmod ADP_case)
+    (VERB_acl (NOUN_nmod ADP_case))
+    ADP_case)
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['それ', 'から', '僕', 'に', 'は', '多く', 'の', '腹', 'の', '立つ', '出来事', 'が', '起こり', '始め', 'た', '。']",0.6520950789878541,0.9202503209242618,0.786172699956058,0.8383703738589876,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N4
+自分に腹が立つの。,371483,,N4,1.0,0.9190645,0.9595322608947754,自分に腹が立つの。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj ADP_case)
+  PART_mark
+  PUNCT_punct)","['自分', 'に', '腹', 'が', '立つ', 'の', '。']",0.6150482377580391,0.8343118686868687,0.7246800532224539,0.8421061570586146,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N4
+本当に本当に腹が立つ。,1074548,,N4,1.0,0.86901057,0.93450528383255,本当に本当に腹が立つ。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj ADP_case)
+  PUNCT_punct)","['本当', 'に', '本当', 'に', '腹', 'が', '立つ', '。']",0.5674293616132907,0.7894423676151267,0.6784358646142087,0.8064705742233793,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N4
+彼氏が他の娘と話してたら腹が立つの。,345427,,N4,1.0,0.8551779,0.927588939666748,彼氏が他の娘と話してたら腹が立つの。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux
+    AUX_aux)
+  (NOUN_nsubj ADP_case)
+  PART_mark
+  PUNCT_punct)","['彼氏', 'が', '他', 'の', '娘', 'と', '話し', 'て', 'たら', '腹', 'が', '立つ', 'の', '。']",0.5306600998197524,0.7653627084122773,0.6480114041160148,0.7878001718913814,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N4

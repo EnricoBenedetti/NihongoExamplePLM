@@ -1,0 +1,95 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+学校の外では「広場の王様」とあだ名されたという。,-1,20001.0,N3,0.8,0.0,0.4,学校の外では「広場の王様」とあだ名されたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    (NOUN_obl (NOUN_nmod PUNCT_punct ADP_case) PUNCT_punct ADP_case)
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['学校', 'の', '外', 'で', 'は', '「', '広場', 'の', '王様', '」', 'と', 'あだ名', 'さ', 'れ', 'た', 'と', 'いう', '。']",,,,,1,学校の外では「広場の王様」とあだ名されたという。,外,N2
+に中西太が選手兼任監督になるとキャプテンに任命され、以後はチーム内外からキャップとのニックネームで親しまれた。,3715733,,N2,1.0,0.75421715,0.8771085739135742,に中西太が選手兼任監督になるとキャプテンに任命され、以後はチーム内外からキャップとのニックネームで親しまれた。,ADP_ROOT,"['に', '中西', '太', 'が', '選手兼任監督', 'に', 'なる', 'と', 'キャプテン', 'に', '任命', 'さ', 'れ', '、', '以後', 'は', 'チーム内', '外', 'から', 'キャップ', 'と', 'の', 'ニックネーム', 'で', '親しま', 'れ', 'た', '。']",1.0,0.9071146245059288,0.9535573122529644,0.9153329430832692,1,学校の外では「広場の王様」とあだ名されたという。,外,N2
+大変な女好きでもあり、現役中に離婚歴があり、グラウンド内外でよくそのことを野次られていたようであった。,3225213,,N2,1.0,0.81030506,0.9051525294780732,大変な女好きでもあり、現役中に離婚歴があり、グラウンド内外でよくそのことを野次られていたようであった。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_advcl
+      (ADJ_acl AUX_aux)
+      (AUX_cop ADP_fixed VERB_fixed)
+      PUNCT_punct)
+    (NOUN_obl NOUN_compound ADP_case)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    PUNCT_punct)
+  (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+  ADV_advmod
+  (NOUN_obj DET_det ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  (AUX_aux VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['大変', 'な', '女好き', 'で', 'も', 'あり', '、', '現役', '中', 'に', '離婚', '歴', 'が', 'あり', '、', 'グラウンド', '内', '外', 'で', 'よく', 'その', 'こと', 'を', '野次ら', 'れ', 'て', 'い', 'た', 'よう', 'で', 'あっ', 'た', '。']",0.9625525354962466,0.8949450366422385,0.9287487860692424,0.9169506577736578,1,学校の外では「広場の王様」とあだ名されたという。,外,N2
+一方、牢獄の外では妻やかつての盟友たちが熱心に減刑運動を展開しており、敵味方問わず多くの署名が集まった。,5407073,,N2,1.0,0.8111708,0.9055854082107544,一方、牢獄の外では妻やかつての盟友たちが熱心に減刑運動を展開しており、敵味方問わず多くの署名が集まった。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    (NOUN_nsubj
+      (NOUN_nmod ADP_case)
+      (ADV_advmod ADP_case)
+      NOUN_compound
+      ADP_case)
+    (ADJ_advcl AUX_aux)
+    (NOUN_obj NOUN_compound ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (VERB_advcl (NOUN_obl NOUN_compound) AUX_aux)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['一方', '、', '牢獄', 'の', '外', 'で', 'は', '妻', 'や', 'かつて', 'の', '盟友', 'たち', 'が', '熱心', 'に', '減刑', '運動', 'を', '展開', 'し', 'て', 'おり', '、', '敵', '味方', '問わ', 'ず', '多く', 'の', '署名', 'が', '集まっ', 'た', '。']",0.9103267691838268,0.8780792474071872,0.894203008295507,0.8998942082531307,1,学校の外では「広場の王様」とあだ名されたという。,外,N2
+球場の外では身なりにもほどよく気を配り、ファンからも人気があったという。,2907711,,N2,1.0,0.87215585,0.9360779225826265,球場の外では身なりにもほどよく気を配り、ファンからも人気があったという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (VERB_obl
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+        ADP_case
+        ADP_case)
+      (NOUN_obj ADJ_acl ADP_case)
+      PUNCT_punct)
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['球場', 'の', '外', 'で', 'は', '身なり', 'に', 'も', 'ほどよく', '気', 'を', '配り', '、', 'ファン', 'から', 'も', '人気', 'が', 'あっ', 'た', 'と', 'いう', '。']",0.8510736456781749,0.8440741715146736,0.8475739085964242,0.8918259155895253,1,学校の外では「広場の王様」とあだ名されたという。,外,N2
+宮廷の外では、クリスチャン7世が完全に精神疾患に冒されているとは考えられておらず、ただ常にひどい扱いを受ける中で意志が弱まってしまっただけだと信じられていた。,3837735,,N2,1.0,0.83942217,0.9197110831737518,宮廷の外では、クリスチャン7世が完全に精神疾患に冒されているとは考えられておらず、ただ常にひどい扱いを受ける中で意志が弱まってしまっただけだと信じられていた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_ccomp
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case PUNCT_punct)
+        (NOUN_nsubj PROPN_compound NUM_nummod ADP_case)
+        (ADJ_advcl AUX_aux)
+        (NOUN_obl ADP_case)
+        AUX_aux
+        (SCONJ_mark VERB_fixed)
+        ADP_case
+        ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obl
+      (VERB_acl
+        ADV_advmod
+        (NOUN_obl ADP_case)
+        (NOUN_obj ADJ_acl ADP_case))
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PART_mark
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['宮廷', 'の', '外', 'で', 'は', '、', 'クリスチャン', '7', '世', 'が', '完全', 'に', '精神疾患', 'に', '冒さ', 'れ', 'て', 'いる', 'と', 'は', '考え', 'られ', 'て', 'おら', 'ず', '、', 'ただ', '常', 'に', 'ひどい', '扱い', 'を', '受ける', '中', 'で', '意志', 'が', '弱まっ', 'て', 'しまっ', 'た', 'だけ', 'だ', 'と', '信じ', 'られ', 'て', 'い', 'た', '。']",0.8260961126532832,0.8317663656810178,0.8289312391671505,0.8743211611704511,1,学校の外では「広場の王様」とあだ名されたという。,外,N2

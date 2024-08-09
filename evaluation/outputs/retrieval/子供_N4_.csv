@@ -1,0 +1,38 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+子供らは古い時計のかかった茶の間に集まった。,-1,20001.0,N3,0.6,0.0,0.3,子供らは古い時計のかかった茶の間に集まった。,"(VERB_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (NOUN_obl (VERB_acl (NOUN_nmod ADJ_acl ADP_case) AUX_aux) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['子供', 'ら', 'は', '古い', '時計', 'の', 'かかっ', 'た', '茶の間', 'に', '集まっ', 'た', '。']",,,,,1,子供らは古い時計のかかった茶の間に集まった。,子供,N4
+子供が楽しそうにギョウザを包んでいる。,382318,,N4,1.0,0.83714616,0.9185730814933776,子供が楽しそうにギョウザを包んでいる。,"(VERB_ROOT
+  (ADJ_advcl (NOUN_nsubj ADP_case) AUX_aux AUX_aux)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['子供', 'が', '楽し', 'そう', 'に', 'ギョウザ', 'を', '包ん', 'で', 'いる', '。']",0.6437468123565553,0.9583333333333334,0.8010400728449443,0.859806577169161,1,子供らは古い時計のかかった茶の間に集まった。,子供,N4
+子供らは、ソファーの上でピョンピョンし始めた。,390391,,N4,1.0,0.9295269,0.9647634625434875,子供らは、ソファーの上でピョンピョンし始めた。,"(ADV_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['子供', 'ら', 'は', '、', 'ソファー', 'の', '上', 'で', 'ピョンピョン', 'し', '始め', 'た', '。']",0.6022413395741104,0.8955523360172317,0.7488968377956711,0.8568301501695793,1,子供らは古い時計のかかった茶の間に集まった。,子供,N4
+子供と一緒に遊んだりもする。,7044249,,N4,1.0,0.7957021,0.8978510499000549,子供と一緒に遊んだりもする。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    PART_mark
+    ADP_case)
+  PUNCT_punct)","['子供', 'と', '一緒', 'に', '遊ん', 'だり', 'も', 'する', '。']",0.6543557052124138,0.8994769532526969,0.7769163292325554,0.8373836895663052,1,子供らは古い時計のかかった茶の間に集まった。,子供,N4
+ほぼ毎日、子供を公園に連れてってます。,390230,,N4,1.0,0.80993736,0.9049686789512634,ほぼ毎日、子供を公園に連れてってます。,"(VERB_ROOT
+  (ADV_advmod ADV_advmod PUNCT_punct)
+  (NOUN_obl (NOUN_obj ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ほぼ', '毎日', '、', '子供', 'を', '公園', 'に', '連れ', 'てっ', 'て', 'ます', '。']",0.647233823920836,0.8987441715463023,0.7729889977335691,0.8389788383424163,1,子供らは古い時計のかかった茶の間に集まった。,子供,N4
+子供は日が暮れるまで外で遊んでいた。,315845,,N4,1.0,0.8696912,0.9348455965518953,子供は日が暮れるまで外で遊んでいた。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (VERB_obl (NOUN_nsubj ADP_case) PART_mark)
+  (NOUN_obl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['子供', 'は', '日', 'が', '暮れる', 'まで', '外', 'で', '遊ん', 'で', 'い', 'た', '。']",0.6070145265835385,0.8853076739445801,0.7461611002640594,0.8405033484079772,1,子供らは古い時計のかかった茶の間に集まった。,子供,N4

@@ -1,0 +1,40 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+画家はただ自分の本当の仕事だけをやればよい事となってしまった。,-1,20001.0,N1,0.0,0.0,0.0,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_nmod ADP_case)
+        (NOUN_nmod ADP_case)
+        ADP_case
+        ADP_case)
+      (SCONJ_mark AUX_fixed))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['画家', 'は', 'ただ', '自分', 'の', '本当', 'の', '仕事', 'だけ', 'を', 'やれ', 'ば', 'よい', '事', 'と', 'なっ', 'て', 'しまっ', 'た', '。']",,,,,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N4
+何をやるか。,143634,,N4,1.0,0.6705581,0.8352790474891663,何をやるか。,(VERB_ROOT (PRON_obj ADP_case) PART_mark PUNCT_punct),"['何', 'を', 'やる', 'か', '。']",0.8333333333333334,0.97,0.9016666666666666,0.8684728570779164,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N4
+そして少し文学をやりたいという。,2516143,,N4,1.0,0.7004089,0.8502044379711151,そして少し文学をやりたいという。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_ccomp ADV_advmod (NOUN_obj ADP_case) AUX_aux ADP_case)
+  PUNCT_punct)","['そして', '少し', '文学', 'を', 'やり', 'たい', 'と', 'いう', '。']",0.7684675097747194,0.9558823529411764,0.8621749313579479,0.8561896846645315,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N4
+これからは、自分のことは自分でやらなければいけませんよ。,284746,,N4,1.0,0.75621986,0.8781099319458008,これからは、自分のことは自分でやらなければいけませんよ。,"(VERB_ROOT
+  (PRON_obl ADP_case ADP_case PUNCT_punct)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  (VERB_advcl (NOUN_obl ADP_case) AUX_aux SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['これ', 'から', 'は', '、', '自分', 'の', 'こと', 'は', '自分', 'で', 'やら', 'なけれ', 'ば', 'いけ', 'ませ', 'ん', 'よ', '。']",0.7425704930853518,0.9322916666666666,0.8374310798760092,0.857770505910905,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N4
+仕事一生懸命やっているようだし。,129107,,N4,1.0,0.7337874,0.8668937087059021,仕事一生懸命やっているようだし。,"(VERB_ROOT
+  (NOUN_advcl NOUN_compound)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['仕事', '一生懸命', 'やっ', 'て', 'いる', 'よう', 'だ', 'し', '。']",0.7162162112608914,0.9299619437939112,0.8230890775274012,0.8449913931166517,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N4
+自分の仕事をやりなさい。,387518,,N4,1.0,0.781979,0.8909895122051239,自分の仕事をやりなさい。,"(VERB_ROOT
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['自分', 'の', '仕事', 'を', 'やり', 'なさい', '。']",0.6843409428884542,0.902988614800759,0.7936647788446065,0.8423271455248652,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N4

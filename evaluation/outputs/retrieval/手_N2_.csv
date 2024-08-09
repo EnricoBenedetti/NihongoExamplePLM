@@ -1,0 +1,105 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一方で投機にも手を出しては失敗を重ねていた。,-1,20001.0,N1,0.6,0.0,0.3,一方で投機にも手を出しては失敗を重ねていた。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (VERB_advcl
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_obj ADP_case)
+    SCONJ_mark
+    ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['一方', 'で', '投機', 'に', 'も', '手', 'を', '出し', 'て', 'は', '失敗', 'を', '重ね', 'て', 'い', 'た', '。']",,,,,1,一方で投機にも手を出しては失敗を重ねていた。,手,N2
+松永家における浪費、飲食業経営、土地転がし、株の投資に手を出したことが経営を著しく悪化させた最大の要因である。,2066527,,N2,1.0,0.89634216,0.948171079158783,松永家における浪費、飲食業経営、土地転がし、株の投資に手を出したことが経営を著しく悪化させた最大の要因である。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_acl
+      (NOUN_nsubj
+        (VERB_acl
+          (NOUN_advmod
+            (NOUN_nmod
+              (NOUN_nmod
+                (NOUN_nmod
+                  PROPN_compound
+                  (ADP_case VERB_fixed AUX_fixed))
+                PUNCT_punct)
+              NOUN_compound
+              PUNCT_punct)
+            NOUN_compound
+            PUNCT_punct)
+          (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+          (NOUN_obj ADP_case)
+          AUX_aux)
+        ADP_case)
+      (NOUN_obj ADP_case)
+      ADJ_advcl
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['松永', '家', 'に', 'おけ', 'る', '浪費', '、', '飲食業', '経営', '、', '土地', '転がし', '、', '株', 'の', '投資', 'に', '手', 'を', '出し', 'た', 'こと', 'が', '経営', 'を', '著しく', '悪化', 'さ', 'せ', 'た', '最大', 'の', '要因', 'で', 'ある', '。']",0.8097760338227881,0.9096223395018384,0.8596991866623133,0.903935132910548,1,一方で投機にも手を出しては失敗を重ねていた。,手,N2
+また、元々は正業だった企業や商店でも資金繰りなどに窮して取り込み詐欺に手を出すケースもある。,2759543,,N2,1.0,0.8182349,0.9091174602508544,また、元々は正業だった企業や商店でも資金繰りなどに窮して取り込み詐欺に手を出すケースもある。,"(NOUN_ROOT
+  (CCONJ_dep PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_acl AUX_cop AUX_aux) ADP_case)
+    ADP_case
+    ADP_case)
+  (VERB_advcl (NOUN_obl NOUN_compound ADP_case ADP_case) SCONJ_mark))","['また', '、', '元々', 'は', '正業', 'だっ', 'た', '企業', 'や', '商店', 'で', 'も', '資金', '繰り', 'など', 'に', '窮し', 'て', '取り込み', '詐欺', 'に', '手', 'を', '出す', 'ケース', 'も', 'ある', '。']",0.8235453940965477,0.8878015194681861,0.855673456782367,0.8823954585166107,1,一方で投機にも手を出しては失敗を重ねていた。,手,N2
+しかし事務所の業務に関心が持てず、南米鉱山株の投機や新聞発行に手を出すも失敗して破産した。,1862631,,N2,1.0,0.89292365,0.9464618265628816,しかし事務所の業務に関心が持てず、南米鉱山株の投機や新聞発行に手を出すも失敗して破産した。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (NOUN_nmod
+          (NOUN_nmod PROPN_compound NOUN_compound ADP_case)
+          ADP_case)
+        NOUN_compound
+        ADP_case)
+      (NOUN_obj ADP_case)
+      ADP_case)
+    AUX_aux
+    SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['しかし', '事務所', 'の', '業務', 'に', '関心', 'が', '持て', 'ず', '、', '南米', '鉱山', '株', 'の', '投機', 'や', '新聞', '発行', 'に', '手', 'を', '出す', 'も', '失敗', 'し', 'て', '破産', 'し', 'た', '。']",0.7535401229748634,0.8585456677735056,0.8060428953741845,0.876252360968533,1,一方で投機にも手を出しては失敗を重ねていた。,手,N2
+父親はベテラン配管工だったが、女癖が悪く、頼母子講に熱中して闇金融に手を出し、周囲の評判は悪かった。,2896719,,N2,1.0,0.84376305,0.9218815267086028,父親はベテラン配管工だったが、女癖が悪く、頼母子講に熱中して闇金融に手を出し、周囲の評判は悪かった。,"(ADJ_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (ADJ_advcl
+        (NOUN_advcl
+          (NOUN_nsubj ADP_case)
+          NOUN_compound
+          NOUN_compound
+          AUX_cop
+          AUX_aux
+          SCONJ_mark
+          PUNCT_punct)
+        (NOUN_nsubj ADP_case)
+        PUNCT_punct)
+      (NOUN_obl NOUN_compound ADP_case)
+      AUX_aux
+      SCONJ_mark)
+    (NOUN_obl ADP_case)
+    (NOUN_obj ADP_case)
+    PUNCT_punct)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['父親', 'は', 'ベテラン', '配管', '工', 'だっ', 'た', 'が', '、', '女癖', 'が', '悪く', '、', '頼母子', '講', 'に', '熱中', 'し', 'て', '闇金融', 'に', '手', 'を', '出し', '、', '周囲', 'の', '評判', 'は', '悪かっ', 'た', '。']",0.7206268680170437,0.840445431880286,0.7805361499486648,0.8512088383286338,1,一方で投機にも手を出しては失敗を重ねていた。,手,N2
+生活が苦しいこともあるが、金銭欲が激しく時に犯罪に手を染めることもある。,3532483,,N2,1.0,0.82445794,0.9122289717197418,生活が苦しいこともあるが、金銭欲が激しく時に犯罪に手を染めることもある。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_compound ADP_fixed VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (ADJ_advcl (NOUN_nsubj NOUN_compound ADP_case))
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['生活', 'が', '苦しい', 'こと', 'も', 'ある', 'が', '、', '金銭', '欲', 'が', '激しく', '時', 'に', '犯罪', 'に', '手', 'を', '染める', 'こと', 'も', 'ある', '。']",0.7211809067652452,0.824085780204003,0.7726333434846241,0.842431157602183,1,一方で投機にも手を出しては失敗を重ねていた。,手,N2

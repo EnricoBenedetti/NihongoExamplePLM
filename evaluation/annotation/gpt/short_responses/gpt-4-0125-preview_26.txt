@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N4; Sense: similar; Reject: No
+2. Difficulty: N2; Sense: similar; Reject: No
+3. Difficulty: N3; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: similar; Reject: No
+Sentence diversity: High
+
+System 3 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N4; Sense: similar; Reject: No
+3. Difficulty: N4; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System ranking: System 2 > System 3 > System 1
+
+Comment: System 2 offers the highest diversity in sentence structure and usage of the target word "早い," catering to a broader range of proficiency levels from N5 to N2, which is beneficial for learners seeking to progress. Although the target level is N5, the inclusion of more complex sentences can provide learners with exposure to higher-level content. System 3 and System 1 both provide sentences that are closely aligned with the N5 level, but System 3 has slightly more diversity in the context of usage, making it more beneficial for learners. System 1, while still useful, offers sentences that are very straightforward and similar in structure, limiting the exposure to varied uses of the target word.
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System "2" > System "3" > System "1"
+
+Comment: System 2 offers the highest diversity in sentence structure and usage of the target word "早い", which is beneficial for learners to see the word in various contexts. Although one of its sentences is at the N2 level, which is higher than the target N5 level, it still provides a good example of the word in a more complex sentence. System 3 and System 1 both offer sentences that are mostly at the target N5 level, but System 3 has slightly more variety in the contexts in which "早い" is used, making it more useful for learners wanting to see the word in different situations. System 1, while all sentences are at the appropriate level, lacks a bit in diversity compared to the others.
+System 1 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System "2" > System "3" > System "1"
+
+Comment: System 2 offers the highest diversity in sentence structure and usage of the target word "早い", which is beneficial for learners to see the word in various contexts. Although one of its sentences is at the N2 level, which is higher than the target N5 level, it still provides a good example of the word in a more complex sentence. System 3 and System 1 both offer sentences that are mostly at the target N5 level, but System 3 has slightly more variety in the contexts in which "早い" is used, making it more useful for learners wanting to see the word in different situations. System 1, while all sentences are at the appropriate level and maintain a similar sense to the context sentence, offers less diversity in sentence structure compared to the others.

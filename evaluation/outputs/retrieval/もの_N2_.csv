@@ -1,0 +1,141 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+軽量なものでは5kgを切るような車体を作成することも可能である。,-1,20001.0,N3,0.8,0.0,0.4,軽量なものでは5kgを切るような車体を作成することも可能である。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl (ADJ_acl AUX_aux) ADP_case ADP_case)
+      (NOUN_obj
+        (VERB_acl (NOUN_obj NUM_nummod ADP_case) AUX_aux AUX_aux)
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['軽量', 'な', 'もの', 'で', 'は', '5', 'kg', 'を', '切る', 'よう', 'な', '車体', 'を', '作成', 'する', 'こと', 'も', '可能', 'で', 'ある', '。']",,,,,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N2
+業務用・放送用ビデオカメラは、よほど特殊なもの以外は3管式／3板式である。,498456,,N2,1.0,0.75967693,0.8798384666442871,業務用・放送用ビデオカメラは、よほど特殊なもの以外は3管式／3板式である。,"(NOUN_ROOT
+  (NOUN_nsubj
+    NOUN_compound
+    SYM_compound
+    NOUN_compound
+    NOUN_compound
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj (ADJ_acl ADV_advmod AUX_aux) NOUN_compound ADP_case)
+  NUM_compound
+  NOUN_compound
+  NOUN_compound
+  SYM_compound
+  NUM_compound
+  NOUN_compound
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['業務用', '・', '放送', '用', 'ビデオカメラ', 'は', '、', 'よほど', '特殊', 'な', 'もの', '以外', 'は', '3', '管', '式', '／', '3', '板', '式', 'で', 'ある', '。']",0.8780450756971176,0.907711038961039,0.8928780573290783,0.8863582619866828,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N2
+船舶や車両といった移動体や地上固定式でも小型のものでは、航空機用のジェットエンジンの設計に基づく軽量のものが製造されており、軽量型に分類される。,473775,,N2,1.0,0.8581795,0.92908975481987,船舶や車両といった移動体や地上固定式でも小型のものでは、航空機用のジェットエンジンの設計に基づく軽量のものが製造されており、軽量型に分類される。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (ADJ_nmod
+        (NOUN_obl
+          (NOUN_nmod
+            (NOUN_nmod
+              (NOUN_nmod ADP_case)
+              (ADP_case VERB_fixed AUX_fixed))
+            ADP_case)
+          NOUN_compound
+          NOUN_compound
+          ADP_case
+          ADP_case)
+        ADP_case)
+      ADP_case
+      ADP_case
+      PUNCT_punct)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl
+          (NOUN_nmod (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+          ADP_case))
+      (NOUN_nmod ADP_case)
+      ADP_case)
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_obl NOUN_compound ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['船舶', 'や', '車両', 'と', 'いっ', 'た', '移動体', 'や', '地上', '固定', '式', 'で', 'も', '小型', 'の', 'もの', 'で', 'は', '、', '航空機', '用', 'の', 'ジェットエンジン', 'の', '設計', 'に', '基づく', '軽量', 'の', 'もの', 'が', '製造', 'さ', 'れ', 'て', 'おり', '、', '軽量', '型', 'に', '分類', 'さ', 'れる', '。']",0.7696323473053831,0.8823048454415026,0.8259685963734429,0.8775291755966564,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N2
+一般的なロードバイクと比べアップライトポジション（深い前傾姿勢とならない高さにハンドルが位置する）であり、振動吸収性を高めたものが多い。,456752,,N2,1.0,0.81534326,0.9076716303825378,一般的なロードバイクと比べアップライトポジション（深い前傾姿勢とならない高さにハンドルが位置する）であり、振動吸収性を高めたものが多い。,"(ADJ_ROOT
+  (VERB_advcl
+    (ADJ_obl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl (ADJ_acl AUX_cop) NOUN_compound ADP_case))
+        (NOUN_obl
+          NOUN_compound
+          PUNCT_punct
+          ADJ_amod
+          NOUN_compound
+          NOUN_compound
+          ADP_case)
+        AUX_aux)
+      PART_mark
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    PUNCT_punct
+    (AUX_aux VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj NOUN_compound NOUN_compound ADP_case)
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['一般的', 'な', 'ロード', 'バイク', 'と', '比べ', 'アップライト', 'ポジション', '（', '深い', '前傾', '姿勢', 'と', 'なら', 'ない', '高', 'さ', 'に', 'ハンドル', 'が', '位置', 'する', '）', 'で', 'あり', '、', '振動', '吸収', '性', 'を', '高め', 'た', 'もの', 'が', '多い', '。']",0.7101372105628467,0.8862138487208009,0.7981755296418238,0.8529235800121808,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N2
+非常に小さなものもあるため気軽に使うことができるが、軽いことと手に持って使うというスタイルのせいでカメラブレがしやすく、見易い映像を撮影するにはかなりの鍛錬が必要である。,498450,,N2,1.0,0.8044697,0.9022348523139954,非常に小さなものもあるため気軽に使うことができるが、軽いことと手に持って使うというスタイルのせいでカメラブレがしやすく、見易い映像を撮影するにはかなりの鍛錬が必要である。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl (NOUN_nsubj (ADJ_amod (ADJ_advcl AUX_aux)) ADP_case)))
+    (ADJ_advcl AUX_aux)
+    (NOUN_compound ADP_fixed AUX_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_obl ADJ_acl ADP_case)
+            (NOUN_obl ADP_case)
+            SCONJ_mark)
+          (ADP_case VERB_fixed))
+        ADP_case)
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl AUX_aux (NOUN_dep ADP_case))
+    AUX_aux
+    ADP_case
+    ADP_case)
+  (NOUN_nsubj (ADJ_nmod ADP_case) ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['非常', 'に', '小さな', 'もの', 'も', 'ある', 'ため', '気軽', 'に', '使う', 'こと', 'が', 'できる', 'が', '、', '軽い', 'こと', 'と', '手', 'に', '持っ', 'て', '使う', 'と', 'いう', 'スタイル', 'の', 'せい', 'で', 'カメラブレ', 'が', 'し', 'やすく', '、', '見', '易い', '映像', 'を', '撮影', 'する', 'に', 'は', 'かなり', 'の', '鍛錬', 'が', '必要', 'で', 'ある', '。']",0.6929600069723358,0.8742695824479159,0.7836147947101259,0.8429248235120606,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N2
+輪行は、スポーツ用自転車であればおおよそ可能であるが、ランドナーは設計の段階から輪行を意識されたものが多い。,460765,,N2,1.0,0.8080473,0.9040236473083496,輪行は、スポーツ用自転車であればおおよそ可能であるが、ランドナーは設計の段階から輪行を意識されたものが多い。,"(ADJ_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj NOUN_compound ADP_case PUNCT_punct)
+    (NOUN_advcl
+      NOUN_compound
+      NOUN_compound
+      (AUX_cop VERB_fixed)
+      SCONJ_mark)
+    ADV_advmod
+    (AUX_aux VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_dislocated ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obj NOUN_compound ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['輪', '行', 'は', '、', 'スポーツ', '用', '自転車', 'で', 'あれ', 'ば', 'おおよそ', '可能', 'で', 'ある', 'が', '、', 'ランドナー', 'は', '設計', 'の', '段階', 'から', '輪', '行', 'を', '意識', 'さ', 'れ', 'た', 'もの', 'が', '多い', '。']",0.6988209592980247,0.8475264358781556,0.7731736975880901,0.8385986724482198,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N2

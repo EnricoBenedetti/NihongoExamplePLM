@@ -1,0 +1,79 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+卵から産まれて成虫になるまでの間の成長過程のものを指す。,-1,9574.0,N3,0.8,0.0,0.4,卵から産まれて成虫になるまでの間の成長過程のものを指す。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod
+        (VERB_nmod
+          (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+          (NOUN_obl ADP_case)
+          PART_mark
+          ADP_case)
+        ADP_case)
+      NOUN_compound
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['卵', 'から', '産まれ', 'て', '成虫', 'に', 'なる', 'まで', 'の', '間', 'の', '成長', '過程', 'の', 'もの', 'を', '指す', '。']",,,,,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N2
+本種含むゴキブリは不完全変態であり、卵から孵化した幼虫は脱皮を繰り返して羽化したのち成虫へと成長していく。,9453433,,N2,1.0,0.92482424,0.9624121189117432,本種含むゴキブリは不完全変態であり、卵から孵化した幼虫は脱皮を繰り返して羽化したのち成虫へと成長していく。,(VERB_ROOT NOUN_compound),"['本種', '含む', 'ゴキブリ', 'は', '不完全', '変態', 'で', 'あり', '、', '卵', 'から', '孵化', 'し', 'た', '幼虫', 'は', '脱皮', 'を', '繰り返し', 'て', '羽化', 'し', 'た', 'のち', '成虫', 'へ', 'と', '成長', 'し', 'て', 'いく', '。']",1.0,0.9195833333333332,0.9597916666666666,0.9611018927892048,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N2
+卵から2齢幼虫までの雌雄判別は難しく行動や外見では全く見分けがつかない。,1079835,,N2,1.0,0.89898604,0.949493020772934,卵から2齢幼虫までの雌雄判別は難しく行動や外見では全く見分けがつかない。,"(VERB_ROOT
+  (NOUN_dislocated
+    (NOUN_nmod
+      (NOUN_nmod ADP_case)
+      NUM_compound
+      NOUN_compound
+      ADP_case
+      ADP_case)
+    NOUN_compound
+    ADP_case)
+  ADJ_advcl
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+  ADV_advmod
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['卵', 'から', '2', '齢', '幼虫', 'まで', 'の', '雌雄', '判別', 'は', '難しく', '行動', 'や', '外見', 'で', 'は', '全く', '見分け', 'が', 'つか', 'ない', '。']",0.927599445325962,0.9056461352657004,0.9166227902958312,0.9330579055343826,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N2
+卵→幼虫→蛹→成虫という一生を送る完全変態の昆虫である。,3651560,,N2,1.0,0.9269439,0.9634719491004944,卵→幼虫→蛹→成虫という一生を送る完全変態の昆虫である。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obj
+      (NOUN_nmod
+        NOUN_compound
+        SYM_compound
+        NOUN_compound
+        SYM_compound
+        NOUN_compound
+        SYM_compound
+        (ADP_case VERB_fixed))
+      ADP_case))
+  (NOUN_nmod ADJ_amod ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['卵', '→', '幼虫', '→', '蛹', '→', '成虫', 'と', 'いう', '一生', 'を', '送る', '完全', '変態', 'の', '昆虫', 'で', 'ある', '。']",0.8603877410636964,0.8950991537198434,0.8777434473917699,0.9206076982461322,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N2
+卵から成虫までに成長できる生存率は低く、産卵された全ての個体が生育途中で死亡するケースも珍しくない。,3691104,,N2,1.0,0.94463074,0.9723153710365297,卵から成虫までに成長できる生存率は低く、産卵された全ての個体が生育途中で死亡するケースも珍しくない。,"(ADJ_ROOT
+  (ADJ_advcl
+    (ADJ_advcl
+      (NOUN_obl ADP_case)
+      (NOUN_nsubj
+        (VERB_acl (NOUN_obl ADP_case ADP_case) AUX_aux)
+        NOUN_compound
+        ADP_case)
+      PUNCT_punct)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_nsubj
+          (VERB_acl AUX_aux AUX_aux AUX_aux)
+          (NOUN_nmod ADP_case)
+          ADP_case)
+        (NOUN_obl NOUN_compound ADP_case)
+        AUX_aux)
+      ADP_case))
+  PUNCT_punct)","['卵', 'から', '成虫', 'まで', 'に', '成長', 'できる', '生存', '率', 'は', '低く', '、', '産卵', 'さ', 'れ', 'た', '全て', 'の', '個体', 'が', '生育', '途中', 'で', '死亡', 'する', 'ケース', 'も', '珍しく', 'ない', '。']",0.80688335131699,0.8878954117982332,0.8473893815576116,0.9098523762970704,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N2
+オタマジャクシを経由せずに卵からカエルの形態で孵化するため、繁殖に水辺を必要としない。,8326956,,N2,1.0,0.90942824,0.9547141194343568,オタマジャクシを経由せずに卵からカエルの形態で孵化するため、繁殖に水辺を必要としない。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl (NOUN_obj ADP_case) AUX_aux AUX_aux ADP_case)
+      (NOUN_obl ADP_case)
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux)
+    PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['オタマジャクシ', 'を', '経由', 'せ', 'ず', 'に', '卵', 'から', 'カエル', 'の', '形態', 'で', '孵化', 'する', 'ため', '、', '繁殖', 'に', '水辺', 'を', '必要', 'と', 'し', 'ない', '。']",0.7995237131666246,0.8778375733855186,0.8386806432760716,0.8966973813552142,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N2

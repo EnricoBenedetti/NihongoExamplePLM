@@ -1,0 +1,93 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+学校の外では「広場の王様」とあだ名されたという。,-1,20001.0,N3,0.6,0.0,0.3,学校の外では「広場の王様」とあだ名されたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    (NOUN_obl (NOUN_nmod PUNCT_punct ADP_case) PUNCT_punct ADP_case)
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['学校', 'の', '外', 'で', 'は', '「', '広場', 'の', '王様', '」', 'と', 'あだ名', 'さ', 'れ', 'た', 'と', 'いう', '。']",,,,,1,学校の外では「広場の王様」とあだ名されたという。,外,N1
+しかしそれは、観客の口笛と怒号、劇場内外での騒擾の渦巻く惨憺たる大失敗であった。,3034293,,N1,1.0,0.7779989,0.8889994621276855,しかしそれは、観客の口笛と怒号、劇場内外での騒擾の渦巻く惨憺たる大失敗であった。,"(CCONJ_ROOT
+  (PRON_punct
+    ADP_case
+    PUNCT_punct
+    (VERB_dep
+      (VERB_advcl (NOUN_nmod ADP_case) SCONJ_mark)
+      PUNCT_punct)
+    (VERB_compound
+      (NOUN_nmod
+        (NOUN_nmod NOUN_compound NOUN_compound ADP_case ADP_case)
+        ADP_case))))","['しかし', 'それ', 'は', '、', '観客', 'の', '口笛', 'と', '怒号', '、', '劇場', '内', '外', 'で', 'の', '騒擾', 'の', '渦巻く', '惨憺', 'たる', '大', '失敗', 'で', 'あっ', 'た', '。']",0.9525838207888884,0.9201839826839828,0.9363839017364356,0.9126916819320604,1,学校の外では「広場の王様」とあだ名されたという。,外,N1
+ヒロインたちは人気アイドルのため学校内外では彼女たちを巡って様々な障害が発生する。,4174964,,N1,1.0,0.8446387,0.9223193526268004,ヒロインたちは人気アイドルのため学校内外では彼女たちを巡って様々な障害が発生する。,"(VERB_ROOT
+  (NOUN_dislocated NOUN_compound ADP_case)
+  (NOUN_obl (NOUN_nmod NOUN_compound ADP_case))
+  (NOUN_obl NOUN_compound NOUN_compound ADP_case ADP_case)
+  (NOUN_nsubj
+    (ADJ_acl
+      (VERB_advcl (NOUN_obj PRON_nmod ADP_case) SCONJ_mark)
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ヒロイン', 'たち', 'は', '人気', 'アイドル', 'の', 'ため', '学校', '内', '外', 'で', 'は', '彼女', 'たち', 'を', '巡っ', 'て', '様々', 'な', '障害', 'が', '発生', 'する', '。']",0.8847589273984194,0.8956685155451759,0.8902137214717977,0.906266537049299,1,学校の外では「広場の王様」とあだ名されたという。,外,N1
+当時はバンドブームだったため、ボーカルのこと一緒に、学校外で他校の友人とバンドを組んだりもしていた。,1814260,,N1,1.0,0.8114819,0.9057409465312958,当時はバンドブームだったため、ボーカルのこと一緒に、学校外で他校の友人とバンドを組んだりもしていた。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_acl (NOUN_obl ADP_case) NOUN_compound AUX_cop AUX_aux)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod (NOUN_nmod ADP_case)) ADP_case PUNCT_punct)
+    (NOUN_obl NOUN_compound ADP_case)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obj ADP_case)
+    PART_mark
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['当時', 'は', 'バンド', 'ブーム', 'だっ', 'た', 'ため', '、', 'ボーカル', 'の', 'こと', '一緒', 'に', '、', '学校', '外', 'で', '他校', 'の', '友人', 'と', 'バンド', 'を', '組ん', 'だり', 'も', 'し', 'て', 'い', 'た', '。']",0.8124372640640998,0.882756424861688,0.8475968444628939,0.8766688954970948,1,学校の外では「広場の王様」とあだ名されたという。,外,N1
+さらにコート外でも非常に問題行動が多く、ブラウンは近年のドラフトにおいての最悪の失敗例とまで揶揄されてしまった。,3587872,,N1,1.0,0.7635681,0.881784051656723,さらにコート外でも非常に問題行動が多く、ブラウンは近年のドラフトにおいての最悪の失敗例とまで揶揄されてしまった。,"(VERB_ROOT
+  CCONJ_cc
+  (ADJ_advcl
+    (NOUN_obl NOUN_compound ADP_case ADP_case)
+    (ADJ_advcl AUX_aux)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod ADP_case)
+      (ADP_case VERB_fixed SCONJ_fixed)
+      ADP_case)
+    (ADJ_nmod ADP_case)
+    NOUN_compound
+    ADP_case
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['さらに', 'コート', '外', 'で', 'も', '非常', 'に', '問題', '行動', 'が', '多く', '、', 'ブラウン', 'は', '近年', 'の', 'ドラフト', 'に', 'おい', 'て', 'の', '最悪', 'の', '失敗', '例', 'と', 'まで', '揶揄', 'さ', 'れ', 'て', 'しまっ', 'た', '。']",0.7931942032837835,0.8712139772067363,0.8322040902452599,0.8569940709509914,1,学校の外では「広場の王様」とあだ名されたという。,外,N1
+道場主の稲田明からは道場内の厳しい稽古は勿論の事、道場外でも「トイレでは握力を鍛えろ」「電車ではつり革に掴らず爪先で立て」という厳しい指導を受けた。,2169952,,N1,1.0,0.79720986,0.8986049294471741,道場主の稲田明からは道場内の厳しい稽古は勿論の事、道場外でも「トイレでは握力を鍛えろ」「電車ではつり革に掴らず爪先で立て」という厳しい指導を受けた。,"(VERB_ROOT
+  (PROPN_obl
+    (NOUN_nmod NOUN_compound ADP_case)
+    PROPN_compound
+    ADP_case
+    ADP_case)
+  (NOUN_nsubj (ADJ_acl (NOUN_nmod NOUN_compound ADP_case)) ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) PUNCT_punct)
+  (NOUN_obl
+    NOUN_compound
+    ADP_case
+    ADP_case
+    (VERB_dep
+      (VERB_advcl
+        (NOUN_obl PUNCT_punct ADP_case ADP_case)
+        (NOUN_obj ADP_case)
+        PUNCT_punct)
+      (ADJ_advcl (NOUN_obl PUNCT_punct ADP_case ADP_case) ADP_case)
+      (VERB_advcl VERB_nmod AUX_aux)
+      (NOUN_obl ADP_case)
+      PUNCT_punct
+      (ADP_case VERB_fixed)))
+  (NOUN_obj ADJ_acl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['道場', '主', 'の', '稲田', '明', 'から', 'は', '道場', '内', 'の', '厳しい', '稽古', 'は', '勿論', 'の', '事', '、', '道場', '外', 'で', 'も', '「', 'トイレ', 'で', 'は', '握力', 'を', '鍛えろ', '」', '「', '電車', 'で', 'は', 'つり革', 'に', '掴', 'ら', 'ず', '爪先', 'で', '立て', '」', 'と', 'いう', '厳しい', '指導', 'を', '受け', 'た', '。']",0.758834125743878,0.8555288262334079,0.8071814759886429,0.8528932027179085,1,学校の外では「広場の王様」とあだ名されたという。,外,N1

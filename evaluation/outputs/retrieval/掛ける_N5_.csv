@@ -1,0 +1,35 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+罪人はおとなしく椅子に腰を掛ける。,-1,7774.0,N3,0.1999999999999999,0.0,0.0999999999999999,罪人はおとなしく椅子に腰を掛ける。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADJ_advcl
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['罪人', 'は', 'おとなしく', '椅子', 'に', '腰', 'を', '掛ける', '。']",,,,,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N5
+私は全部の戸に鍵を掛けた後で、寝た。,223586,,N5,1.0,0.66702527,0.8335126340389252,私は全部の戸に鍵を掛けた後で、寝た。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  AUX_aux
+  PUNCT_punct)","['私', 'は', '全部', 'の', '戸', 'に', '鍵', 'を', '掛け', 'た', '後', 'で', '、', '寝', 'た', '。']",0.6552057955975873,0.95,0.8026028977987936,0.8180577659188594,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N5
+腰を掛けてください。,240844,,N5,1.0,0.7210037,0.8605018556118011,腰を掛けてください。,(VERB_ROOT (NOUN_obj ADP_case) (SCONJ_mark AUX_fixed) PUNCT_punct),"['腰', 'を', '掛け', 'て', 'ください', '。']",0.6468551752583604,0.9095622119815668,0.7782086936199637,0.8193552746158824,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N5
+私たちのドアを鍵を掛けない。,335603,,N5,1.0,0.591485,0.7957425117492676,私たちのドアを鍵を掛けない。,"(VERB_ROOT
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私たち', 'の', 'ドア', 'を', '鍵', 'を', '掛け', 'ない', '。']",0.5750656968265877,0.8706597222222222,0.7228627095244049,0.7593026106368362,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N5
+電話を掛けなければなりません。,203623,,N5,1.0,0.49977908,0.74988953769207,電話を掛けなければなりません。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj ADP_case) AUX_aux SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['電話', 'を', '掛け', 'なけれ', 'ば', 'なり', 'ませ', 'ん', '。']",0.5605219377110962,0.8733439179867751,0.7169329278489356,0.7334112327705028,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N5
+トムは上着を脱いで椅子に掛けました。,356808,,N4,0.6,0.80946094,0.7047304689884186,トムは上着を脱いで椅子に掛けました。,"(VERB_ROOT
+  (VERB_advcl (NOUN_nsubj ADP_case) (NOUN_obj ADP_case) SCONJ_mark)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['トム', 'は', '上着', 'を', '脱い', 'で', '椅子', 'に', '掛け', 'まし', 'た', '。']",0.5362988630024719,0.8565224003163112,0.6964106316593915,0.700570550323905,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N5

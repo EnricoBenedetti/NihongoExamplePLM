@@ -1,0 +1,46 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一人のこらず死んだような場所もあります。,-1,20001.0,N1,0.0,0.0,0.0,一人のこらず死んだような場所もあります。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl (NOUN_nmod ADP_case) AUX_aux)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['一人', 'の', 'こら', 'ず', '死ん', 'だ', 'よう', 'な', '場所', 'も', 'あり', 'ます', '。']",,,,,1,一人のこらず死んだような場所もあります。,場所,N4
+何処かここではない場所へ。,121154,,N4,1.0,0.7581417,0.8790708482265472,何処かここではない場所へ。,"(NOUN_ROOT
+  (PRON_nmod ADP_case)
+  (PRON_acl (AUX_cop ADP_fixed AUX_fixed))
+  ADP_case
+  PUNCT_punct)","['何処', 'か', 'ここ', 'で', 'は', 'ない', '場所', 'へ', '。']",0.75,0.9772727272727272,0.8636363636363636,0.8713536059314555,1,一人のこらず死んだような場所もあります。,場所,N4
+あなたはおもしろい場所をたくさん知っていますね。,298446,,N4,1.0,0.78073204,0.8903660178184509,あなたはおもしろい場所をたくさん知っていますね。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obj ADJ_acl ADP_case)
+  ADV_advmod
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['あなた', 'は', 'おもしろい', '場所', 'を', 'たくさん', '知っ', 'て', 'い', 'ます', 'ね', '。']",0.7738095238095238,0.9558823529411764,0.8648459383753502,0.8776059780969006,1,一人のこらず死んだような場所もあります。,場所,N4
+なんだかヘンな場所だ。,13080,,N4,1.0,0.7903632,0.8951815962791443,なんだかヘンな場所だ。,"(NOUN_ROOT
+  (PRON_acl AUX_cop ADP_case)
+  (ADJ_acl AUX_cop)
+  AUX_cop
+  PUNCT_punct)","['なん', 'だ', 'か', 'ヘン', 'な', '場所', 'だ', '。']",0.7421079000071105,0.9219924812030076,0.832050190605059,0.8636158934421017,1,一人のこらず死んだような場所もあります。,場所,N4
+彼はそんな場所に行ったことがない。,191619,,N4,1.0,0.7645032,0.8822515904903412,彼はそんな場所に行ったことがない。,"(ADJ_ROOT
+  (PRON_dislocated ADP_case)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl PRON_nmod ADP_case) AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['彼', 'は', 'そんな', '場所', 'に', '行っ', 'た', 'こと', 'が', 'ない', '。']",0.733743757789662,0.9193199685534592,0.8265318631715606,0.8543917268309509,1,一人のこらず死んだような場所もあります。,場所,N4
+どこにもあるようで、どこにもない場所をつくり続けております。,118835,,N4,1.0,0.7896311,0.8948155641555786,どこにもあるようで、どこにもない場所をつくり続けております。,"(VERB_ROOT
+  (VERB_advcl
+    (PRON_obl ADP_case ADP_case)
+    AUX_aux
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obj (ADJ_acl (PRON_obl ADP_case ADP_case)) ADP_case)
+  VERB_advcl
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['どこ', 'に', 'も', 'ある', 'よう', 'で', '、', 'どこ', 'に', 'も', 'ない', '場所', 'を', 'つくり', '続け', 'て', 'おり', 'ます', '。']",0.7225549714092228,0.8724116161616161,0.7974832937854195,0.846149428970499,1,一人のこらず死んだような場所もあります。,場所,N4

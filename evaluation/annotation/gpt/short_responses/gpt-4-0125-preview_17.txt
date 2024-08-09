@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "not similar"; Reject: "Yes"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 offers the most diverse set of sentences, covering different contexts and uses of the word 開く, which is beneficial for learners at the N3 level. System 2 provides sentences that are all related to train stations and doors opening, which is relevant but lacks diversity. System 3 has a mix of relevant and irrelevant sentences, with one being rejected due to not maintaining a close sense to the original context and another for being too basic and not fitting the target level. Overall, System 1 is the best for learners looking for varied examples to understand the usage of 開く in different contexts.
+System 1 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 offers the highest diversity in sentence structure and usage of the target word 開く, making it the most beneficial for learners at the N3 level. It covers a range of contexts from meetings to software, providing a broad understanding of the word's application. System 2, while consistent in difficulty level and relevance to the context sentence, lacks diversity, focusing mainly on train station scenarios. System 3 has the most varied contexts but includes a rejected sentence due to lack of similarity in sense and a generally lower difficulty level, making it less suitable for N3 learners.
+System 1 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 offers the highest diversity in sentence structure and usage of the target word 開く, making it the most beneficial for learners at the N3 level. It provides examples that span from N2 to N4, closely aligning with the target difficulty and showing the word in various contexts. System 2, while consistent in difficulty, lacks diversity, offering limited learning value beyond understanding the specific context of train stations and doors opening. System 3 has a mix of levels but includes a rejected sentence due to lack of similarity in sense, and overall, it presents less coherence and usefulness compared to the others.

@@ -1,0 +1,73 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+私は母の愛というものに就いて考える。,-1,20001.0,N1,0.1999999999999999,0.0,0.0999999999999999,私は母の愛というものに就いて考える。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_nmod ADP_case) (ADP_case VERB_fixed))
+    ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['私', 'は', '母', 'の', '愛', 'と', 'いう', 'もの', 'に', '就いて', '考える', '。']",,,,,1,私は母の愛というものに就いて考える。,考える,N3
+ひとが私を考える、と言うべきでしょう。,795409,,N3,1.0,0.7673048,0.88365238904953,ひとが私を考える、と言うべきでしょう。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_nsubj ADP_case)
+    (PRON_obj ADP_case)
+    PUNCT_punct
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ひと', 'が', '私', 'を', '考える', '、', 'と', '言う', 'べき', 'でしょう', '。']",0.75,0.9565217391304348,0.8532608695652174,0.8684566293073737,1,私は母の愛というものに就いて考える。,考える,N3
+今日、様々な国家とコミュニケーションすることがどれだけ困難か考えて下さい。,781205,,N3,1.0,0.6958284,0.8479141891002655,今日、様々な国家とコミュニケーションすることがどれだけ困難か考えて下さい。,"(VERB_ROOT
+  (ADV_advmod PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl (ADJ_acl AUX_aux) ADP_case) AUX_aux)
+    ADP_case)
+  (ADJ_obl (PRON_obl ADP_case) ADP_case)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['今日', '、', '様々', 'な', '国家', 'と', 'コミュニケーション', 'する', 'こと', 'が', 'どれ', 'だけ', '困難', 'か', '考え', 'て', '下さい', '。']",0.7592182604764081,0.951219512195122,0.855218886335765,0.8515665377180153,1,私は母の愛というものに就いて考える。,考える,N3
+生産者（企業）の行動について考える。,567269,,N3,1.0,0.7565216,0.8782607913017273,生産者（企業）の行動について考える。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod PUNCT_punct NOUN_compound PUNCT_punct ADP_case)
+    (ADP_case VERB_fixed SCONJ_fixed))
+  PUNCT_punct)","['生産者', '（', '企業', '）', 'の', '行動', 'に', 'つい', 'て', '考える', '。']",0.7163539295286341,0.9322916666666666,0.8243227980976504,0.8512917946996889,1,私は母の愛というものに就いて考える。,考える,N3
+その際、新約聖書に記されているイエスの癒やしの一つを考えるうちに回復に向かったということから、それに霊感を受けて彼女自身で聖書の研究会を立ち上げた。,565401,,N3,1.0,0.7320277,0.8660138547420502,その際、新約聖書に記されているイエスの癒やしの一つを考えるうちに回復に向かったということから、それに霊感を受けて彼女自身で聖書の研究会を立ち上げた。,"(VERB_ROOT
+  (NOUN_obl DET_det PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obj
+            (NOUN_nmod
+              (PROPN_nmod
+                (VERB_acl
+                  (NOUN_obl PROPN_compound ADP_case)
+                  AUX_aux
+                  (SCONJ_mark VERB_fixed))
+                ADP_case)
+              ADP_case)
+            NUM_nummod
+            ADP_case))
+        ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      (ADP_case VERB_fixed))
+    ADP_case
+    PUNCT_punct)
+  (VERB_advcl (PRON_obl ADP_case) (NOUN_obj ADP_case) SCONJ_mark)
+  (NOUN_obl PRON_nmod ADP_case)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['その', '際', '、', '新約', '聖書', 'に', '記さ', 'れ', 'て', 'いる', 'イエス', 'の', '癒やし', 'の', '一', 'つ', 'を', '考える', 'うち', 'に', '回復', 'に', '向かっ', 'た', 'と', 'いう', 'こと', 'から', '、', 'それ', 'に', '霊感', 'を', '受け', 'て', '彼女', '自身', 'で', '聖書', 'の', '研究会', 'を', '立ち上げ', 'た', '。']",0.7227292156797188,0.9042189601075752,0.813474087893647,0.8397439713178485,1,私は母の愛というものに就いて考える。,考える,N3
+この問題を通じて、日本人こそ日本とは何かを真剣に考えるべきだ」と提案した。,1482635,,N3,1.0,0.76267684,0.8813384175300598,この問題を通じて、日本人こそ日本とは何かを真剣に考えるべきだ」と提案した。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj DET_det (ADP_case VERB_fixed SCONJ_fixed) PUNCT_punct)
+    (PRON_obj
+      (PROPN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+      ADP_case
+      ADP_case)
+    (ADJ_advcl AUX_aux)
+    AUX_aux
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['この', '問題', 'を', '通じ', 'て', '、', '日本人', 'こそ', '日本', 'と', 'は', '何', 'か', 'を', '真剣', 'に', '考える', 'べき', 'だ', '」', 'と', '提案', 'し', 'た', '。']",0.6935085337302291,0.8950678349349915,0.7942881843326104,0.8378133009313351,1,私は母の愛というものに就いて考える。,考える,N3

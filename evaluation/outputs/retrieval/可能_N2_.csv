@@ -1,0 +1,130 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+現在の旅は非常に多様であり、さまざまに分類することが可能である。,-1,20001.0,N3,0.8,0.0,0.4,現在の旅は非常に多様であり、さまざまに分類することが可能である。,"(ADJ_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (ADJ_advcl AUX_aux)
+    (AUX_aux VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (ADJ_advcl AUX_aux) AUX_aux) ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['現在', 'の', '旅', 'は', '非常', 'に', '多様', 'で', 'あり', '、', 'さまざま', 'に', '分類', 'する', 'こと', 'が', '可能', 'で', 'ある', '。']",,,,,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N2
+例えば、イギリス人という集団に着目した場合でもなどと様々に分類が可能であり、つまり、「イギリス人」という集合に関しても、さまざまな部分集合を作ることができる。,1792676,,N2,1.0,0.81737065,0.9086853265762328,例えば、イギリス人という集団に着目した場合でもなどと様々に分類が可能であり、つまり、「イギリス人」という集合に関しても、さまざまな部分集合を作ることができる。,"(VERB_ROOT
+  (ADJ_advcl
+    (ADV_advmod PUNCT_punct)
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_obl (NOUN_nmod (ADP_case VERB_fixed)) ADP_case)
+        AUX_aux
+        AUX_aux)
+      ADP_case
+      ADP_case
+      PART_mark
+      ADP_case)
+    (ADJ_advcl AUX_aux)
+    (NOUN_nsubj ADP_case)
+    (AUX_aux VERB_fixed)
+    PUNCT_punct)
+  (ADV_advmod PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod PUNCT_punct PUNCT_punct (ADP_case VERB_fixed))
+    (ADP_case VERB_fixed SCONJ_fixed)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obj (ADJ_acl AUX_aux) NOUN_compound ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['例えば', '、', 'イギリス人', 'と', 'いう', '集団', 'に', '着目', 'し', 'た', '場合', 'で', 'も', 'など', 'と', '様々', 'に', '分類', 'が', '可能', 'で', 'あり', '、', 'つまり', '、', '「', 'イギリス人', '」', 'と', 'いう', '集合', 'に', '関し', 'て', 'も', '、', 'さまざま', 'な', '部分', '集合', 'を', '作る', 'こと', 'が', 'できる', '。']",0.7900896946563906,0.865988514173998,0.8280391044151942,0.8683622154957136,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N2
+しかしながら、これらの問題点は、論文が、救済、罪の贖いなど、各々のケースで論じられているならば、2つ目のアプローチ法で避けることが可能である。,1304050,,N2,1.0,0.8192627,0.9096313416957856,しかしながら、これらの問題点は、論文が、救済、罪の贖いなど、各々のケースで論じられているならば、2つ目のアプローチ法で避けることが可能である。,"(ADJ_ROOT
+  CCONJ_cc
+  SCONJ_dep
+  PUNCT_punct
+  (NOUN_dislocated
+    (NOUN_nmod PRON_nmod ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl
+          (NOUN_nmod
+            (NOUN_nmod
+              (VERB_nmod
+                (NOUN_nsubj ADP_case PUNCT_punct)
+                PUNCT_punct)
+              ADP_case)
+            ADP_case
+            PUNCT_punct)
+          (NOUN_nmod ADP_case)
+          ADP_case)
+        AUX_aux
+        (SCONJ_mark VERB_fixed)
+        AUX_aux
+        SCONJ_mark
+        PUNCT_punct)
+      (NOUN_obl
+        (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+        NOUN_compound
+        ADP_case))
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['しかし', 'ながら', '、', 'これ', 'ら', 'の', '問題点', 'は', '、', '論文', 'が', '、', '救済', '、', '罪', 'の', '贖い', 'など', '、', '各々', 'の', 'ケース', 'で', '論じ', 'られ', 'て', 'いる', 'なら', 'ば', '、', '2', 'つ', '目', 'の', 'アプローチ', '法', 'で', '避ける', 'こと', 'が', '可能', 'で', 'ある', '。']",0.7595451980890201,0.8409591669087828,0.8002521824989015,0.8549417620973435,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N2
+これはいくつかの観点から分類が可能である。,1339987,,N2,1.0,0.9116093,0.9558046460151672,これはいくつかの観点から分類が可能である。,"(ADJ_ROOT
+  (PRON_dislocated ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case ADP_case) ADP_case)
+  (NOUN_nsubj ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['これ', 'は', 'いくつ', 'か', 'の', '観点', 'から', '分類', 'が', '可能', 'で', 'ある', '。']",0.6810165776335757,0.8131110917899016,0.7470638347117387,0.8514342403634529,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N2
+1733年から1840年付近までの第一次産業革命と、それ以降の第二次産業革命に大別することも可能である。,1579940,,N2,1.0,0.85987777,0.9299388825893402,1733年から1840年付近までの第一次産業革命と、それ以降の第二次産業革命に大別することも可能である。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (NOUN_nmod
+      (NOUN_nmod
+        (NOUN_nmod NUM_nummod ADP_case)
+        NUM_compound
+        NOUN_compound
+        ADP_case
+        ADP_case)
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      NOUN_compound
+      ADP_case
+      PUNCT_punct)
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod PRON_nmod ADP_case)
+        NOUN_compound
+        NUM_compound
+        NOUN_compound
+        NOUN_compound
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['1733', '年', 'から', '1840', '年', '付近', 'まで', 'の', '第', '一', '次', '産業', '革命', 'と', '、', 'それ', '以降', 'の', '第', '二', '次', '産業', '革命', 'に', '大別', 'する', 'こと', 'も', '可能', 'で', 'ある', '。']",0.6638959040792234,0.8040647015202076,0.7339803027997155,0.8319595926945278,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N2
+そのため、神話論のはっきりしない文書は、客観的思考を重視していた異教としての、ギリシャ哲学や、オリエントの諸宗教と関連づけすることも可能となっている。,880404,,N2,1.0,0.7953992,0.8976995944976807,そのため、神話論のはっきりしない文書は、客観的思考を重視していた異教としての、ギリシャ哲学や、オリエントの諸宗教と関連づけすることも可能となっている。,"(VERB_ROOT
+  (NOUN_obl DET_det PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj
+        (NOUN_nmod NOUN_compound ADP_case)
+        (ADV_advmod AUX_aux AUX_aux)
+        ADP_case
+        PUNCT_punct)
+      (NOUN_nmod
+        (NOUN_nmod
+          (VERB_acl
+            (NOUN_obj NOUN_compound ADP_case)
+            AUX_aux
+            (SCONJ_mark VERB_fixed)
+            AUX_aux)
+          (ADP_case AUX_fixed SCONJ_fixed)
+          ADP_case
+          PUNCT_punct)
+        PROPN_compound
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl (PROPN_nmod ADP_case) NOUN_compound ADP_case)
+      AUX_aux)
+    ADP_case)
+  (ADJ_advcl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['その', 'ため', '、', '神話', '論', 'の', 'はっきり', 'し', 'ない', '文書', 'は', '、', '客観的', '思考', 'を', '重視', 'し', 'て', 'い', 'た', '異教', 'と', 'し', 'て', 'の', '、', 'ギリシャ', '哲学', 'や', '、', 'オリエント', 'の', '諸宗', '教', 'と', '関連づけ', 'する', 'こと', 'も', '可能', 'と', 'なっ', 'て', 'いる', '。']",0.6841752412767808,0.8053657268921033,0.744770484084442,0.8212350392910613,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N2

@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N4; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N3; Sense: similar; Reject: No
+2. Difficulty: N3; Sense: similar; Reject: No
+3. Difficulty: N3; Sense: similar; Reject: No
+4. Difficulty: N3; Sense: similar; Reject: No
+5. Difficulty: N3; Sense: similar; Reject: No
+Sentence diversity: Low
+
+System 3 sentences:
+1. Difficulty: N2; Sense: similar; Reject: No
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: not similar; Reject: Yes
+4. Difficulty: N4; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides sentences that are most appropriate for the target level (N5), with a good variety of simple, everyday contexts where the word "相手" is used naturally. System 3 also offers sentences close to the target level but includes one sentence that does not maintain the sense similarity and is rejected. System 2's sentences, while relevant and maintaining sense similarity, are consistently at a higher difficulty level than the target, making them less suitable for N5 learners. System 1 is ranked highest due to its alignment with the target proficiency level and sentence diversity.
+System 1 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N4; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N3; Sense: similar; Reject: No
+2. Difficulty: N3; Sense: similar; Reject: No
+3. Difficulty: N3; Sense: similar; Reject: No
+4. Difficulty: N3; Sense: similar; Reject: No
+5. Difficulty: N3; Sense: similar; Reject: No
+Sentence diversity: Low
+
+System 3 sentences:
+1. Difficulty: N3; Sense: similar; Reject: No
+2. Difficulty: N1; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: not similar; Reject: Yes
+4. Difficulty: N4; Sense: similar; Reject: No
+5. Difficulty: N1; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides sentences that are most appropriate for the target N5 level, with a good variety of simple, everyday contexts where the word "相手" is used naturally. System 3 offers a wider range of sentence complexity but includes a sentence that is not similar in sense to the target context and has two sentences that are too advanced for N5 learners. System 2's sentences, while relevant and maintaining a similar sense, are consistently at a higher difficulty level than the target, making them less suitable for N5 learners. Additionally, System 2's sentences lack diversity in structure and usage, focusing mainly on abstract interactions, which might not be as helpful for beginners trying to grasp the basic uses of "相手".
+System 1 sentences:
+1. Difficulty: N5; Sense: similar; Reject: no
+2. Difficulty: N4; Sense: similar; Reject: no
+3. Difficulty: N5; Sense: similar; Reject: no
+4. Difficulty: N5; Sense: similar; Reject: no
+5. Difficulty: N5; Sense: similar; Reject: no
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N3; Sense: similar; Reject: no
+2. Difficulty: N3; Sense: similar; Reject: no
+3. Difficulty: N3; Sense: similar; Reject: no
+4. Difficulty: N3; Sense: similar; Reject: no
+5. Difficulty: N3; Sense: similar; Reject: no
+Sentence diversity: Low
+
+System 3 sentences:
+1. Difficulty: N2; Sense: similar; Reject: no
+2. Difficulty: N1; Sense: similar; Reject: no
+3. Difficulty: N5; Sense: not similar; Reject: yes
+4. Difficulty: N4; Sense: similar; Reject: no
+5. Difficulty: N1; Sense: similar; Reject: no
+Sentence diversity: Medium
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides sentences that are most appropriate for the target level (N5), with a good variety of simple, everyday contexts where the word "相手" is used naturally. System 3 offers a wider range of sentence complexity and includes a direct reference to the context sentence, but one sentence was rejected due to not maintaining the sense similarity and being too advanced for N5 learners. System 2's sentences, while relevant and maintaining sense similarity, are consistently at a higher difficulty level than the target, with low diversity in sentence structure, making it less suitable for N5 learners.

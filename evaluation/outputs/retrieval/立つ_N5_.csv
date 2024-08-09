@@ -1,0 +1,41 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+しかし自分ながら、なぜそんなに腹が立つのだか分からない。,-1,20001.0,N2,0.0,0.0,0.0,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl SCONJ_mark PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    (ADJ_advcl AUX_aux)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark AUX_fixed)
+    PART_mark)
+  AUX_aux
+  PUNCT_punct)","['しかし', '自分', 'ながら', '、', 'なぜ', 'そんな', 'に', '腹', 'が', '立つ', 'の', 'だ', 'か', '分から', 'ない', '。']",,,,,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N5
+馬は立ったまま寝るって本当ですか？,329177,,N5,1.0,0.40789494,0.7039474695920944,馬は立ったまま寝るって本当ですか？,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl (VERB_acl AUX_aux))
+    PART_mark)
+  AUX_cop
+  PART_mark
+  PUNCT_punct)","['馬', 'は', '立っ', 'た', 'まま', '寝る', 'って', '本当', 'です', 'か', '？']",0.7762408977533346,0.9907407407407408,0.8834908192470377,0.793719144419566,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N5
+誰も立ちませんでした。,152123,,N5,1.0,0.44244036,0.7212201803922653,誰も立ちませんでした。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['誰', 'も', '立ち', 'ませ', 'ん', 'でし', 'た', '。']",0.7587469659177782,0.9785714285714284,0.8686591972446034,0.7949396888184344,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N5
+きっとお役に立つと思います。,119345,,N5,1.0,0.47840446,0.739202231168747,きっとお役に立つと思います。,"(VERB_ROOT
+  (VERB_ccomp ADV_advmod (NOUN_obl NOUN_compound ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['きっと', 'お', '役', 'に', '立つ', 'と', '思い', 'ます', '。']",0.708080067983033,0.9659090909090908,0.836994579446062,0.7880984053074045,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N5
+自分に腹が立つの。,371483,,N4,0.6,0.9190645,0.7595322608947754,自分に腹が立つの。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj ADP_case)
+  PART_mark
+  PUNCT_punct)","['自分', 'に', '腹', 'が', '立つ', 'の', '。']",0.6847550817962001,0.8823538075534207,0.7835544446748104,0.7715433527847929,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N5
+私の前に立たないで。,343111,,N5,1.0,0.45297948,0.7264897376298904,私の前に立たないで。,"(VERB_ROOT
+  (NOUN_obl (PRON_nmod ADP_case) ADP_case)
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['私', 'の', '前', 'に', '立た', 'ない', 'で', '。']",0.6457723856574575,0.8809456084068832,0.7633589970321704,0.7449243673310304,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N5

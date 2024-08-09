@@ -1,0 +1,86 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+本人の意思が強ければ止められるわ。,-1,20001.0,N3,1.0,0.0,0.5,本人の意思が強ければ止められるわ。,"(VERB_ROOT
+  (VERB_advcl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case) SCONJ_mark)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['本人', 'の', '意思', 'が', '強けれ', 'ば', '止め', 'られる', 'わ', '。']",,,,,1,本人の意思が強ければ止められるわ。,強い,N3
+声優は精神面が強くないと続けられないため、精神的に強くなること、夢を諦めないことを新人達に教えているという。,1315553,,N3,1.0,0.6905948,0.8452973961830139,声優は精神面が強くないと続けられないため、精神的に強くなること、夢を諦めないことを新人達に教えているという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl
+      (VERB_acl
+        (ADJ_advcl
+          (NOUN_nsubj NOUN_compound ADP_case)
+          ADJ_advcl
+          ADP_case)
+        AUX_aux
+        AUX_aux)
+      PUNCT_punct)
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_obl
+          (VERB_acl (ADJ_advcl AUX_cop) ADJ_advcl)
+          PUNCT_punct)
+        (NOUN_obj ADP_case)
+        AUX_aux)
+      ADP_case)
+    (NOUN_obl NOUN_compound ADP_case)
+    (SCONJ_mark VERB_fixed)
+    ADP_case)
+  PUNCT_punct)","['声優', 'は', '精神', '面', 'が', '強く', 'ない', 'と', '続け', 'られ', 'ない', 'ため', '、', '精神的', 'に', '強く', 'なる', 'こと', '、', '夢', 'を', '諦め', 'ない', 'こと', 'を', '新人', '達', 'に', '教え', 'て', 'いる', 'と', 'いう', '。']",0.7207329923455079,0.943181818181818,0.831957405263663,0.8386274007233385,1,本人の意思が強ければ止められるわ。,強い,N3
+磁石が強ければ、列車のような重たい物でも浮かすことができる。,2153523,,N3,1.0,0.72632897,0.863164484500885,磁石が強ければ、列車のような重たい物でも浮かすことができる。,"(VERB_ROOT
+  (VERB_advcl (NOUN_nsubj ADP_case) SCONJ_mark PUNCT_punct)
+  (NOUN_obl
+    (NOUN_acl (NOUN_nmod ADP_case) AUX_cop)
+    ADJ_acl
+    ADP_case
+    ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['磁石', 'が', '強けれ', 'ば', '、', '列車', 'の', 'よう', 'な', '重たい', '物', 'で', 'も', '浮かす', 'こと', 'が', 'できる', '。']",0.6648684869307244,0.9144804928532376,0.789674489891981,0.826419487196433,1,本人の意思が強ければ止められるわ。,強い,N3
+キャラクターの感知力が強いと成功する確率が上がる。,2613807,,N3,1.0,0.71817714,0.8590885698795319,キャラクターの感知力が強いと成功する確率が上がる。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+    ADP_case)
+  (NOUN_nsubj (VERB_acl AUX_aux) ADP_case)
+  PUNCT_punct)","['キャラクター', 'の', '感知', '力', 'が', '強い', 'と', '成功', 'する', '確率', 'が', '上がる', '。']",0.6281654471088784,0.9125597365286244,0.7703625918187514,0.8147255808491416,1,本人の意思が強ければ止められるわ。,強い,N3
+ただし、腕っぷしの強さに関してはかなり信頼されている。,1337910,,N3,1.0,0.61011463,0.8050573170185089,ただし、腕っぷしの強さに関してはかなり信頼されている。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (ADJ_obl
+    (PROPN_nmod ADP_case)
+    PART_mark
+    (ADP_case VERB_fixed SCONJ_fixed)
+    ADP_case)
+  ADV_advmod
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['ただし', '、', '腕っぷし', 'の', '強', 'さ', 'に', '関し', 'て', 'は', 'かなり', '信頼', 'さ', 'れ', 'て', 'いる', '。']",0.7040753470441902,0.9013740081178924,0.8027246775810413,0.8038909972997751,1,本人の意思が強ければ止められるわ。,強い,N3
+香港大学助教授のジェイソン・ホー・カーハンは、ヘンタイの魅力は幻想であり、窮屈で保守的な文化からの逃避だとみており、「抑圧が強ければ強いほど、反発も大きい。,2502096,,N3,1.0,0.6887673,0.8443836569786072,香港大学助教授のジェイソン・ホー・カーハンは、ヘンタイの魅力は幻想であり、窮屈で保守的な文化からの逃避だとみており、「抑圧が強ければ強いほど、反発も大きい。,"(ADJ_ROOT
+  (VERB_advcl
+    (PRON_advcl
+      (NOUN_nsubj
+        (NOUN_nmod NOUN_nmod ADP_case)
+        PROPN_compound
+        SYM_compound
+        PROPN_compound
+        SYM_compound
+        ADP_case
+        PUNCT_punct)
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      (AUX_cop VERB_fixed)
+      PUNCT_punct)
+    (NOUN_ccomp
+      (NOUN_nmod
+        (ADJ_acl (ADJ_acl AUX_aux) AUX_cop)
+        ADP_case
+        ADP_case)
+      AUX_cop
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (ADJ_advcl
+    (VERB_advcl (NOUN_nsubj PUNCT_punct ADP_case) SCONJ_mark)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  PUNCT_punct)","['香港大学', '助教授', 'の', 'ジェイソン', '・', 'ホー', '・', 'カーハン', 'は', '、', 'ヘンタイ', 'の', '魅力', 'は', '幻想', 'で', 'あり', '、', '窮屈', 'で', '保守的', 'な', '文化', 'から', 'の', '逃避', 'だ', 'と', 'み', 'て', 'おり', '、', '「', '抑圧', 'が', '強けれ', 'ば', '強い', 'ほど', '、', '反発', 'も', '大きい', '。']",0.6809301014615321,0.888925886731864,0.784927994096698,0.8146558255376526,1,本人の意思が強ければ止められるわ。,強い,N3

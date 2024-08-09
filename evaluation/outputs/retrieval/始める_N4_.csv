@@ -1,0 +1,43 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+空からはちらほらと、たゆたいながら雪が落ち始める。,-1,20001.0,N2,0.1999999999999999,0.0,0.0999999999999999,空からはちらほらと、たゆたいながら雪が落ち始める。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (ADV_advmod ADP_case PUNCT_punct)
+  (NOUN_advcl SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['空', 'から', 'は', 'ちらほら', 'と', '、', 'たゆたい', 'ながら', '雪', 'が', '落ち', '始める', '。']",,,,,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N4
+ここは冷え始めたね。,352805,,N4,1.0,0.74704677,0.8735233843326569,ここは冷え始めたね。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  VERB_advcl
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['ここ', 'は', '冷え', '始め', 'た', 'ね', '。']",0.6666666666666667,0.975,0.8208333333333333,0.8471783588329951,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N4
+蝉が鳴き始める。,700931,,N4,1.0,0.84194064,0.9209703207015992,蝉が鳴き始める。,(VERB_ROOT (NOUN_nsubj ADP_case) VERB_advcl PUNCT_punct),"['蝉', 'が', '鳴き', '始める', '。']",0.5888888888888888,0.9386363636363636,0.7637626262626263,0.8423664734821127,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N4
+外を見ると雨が降り始めている。,153450,,N4,1.0,0.80909353,0.9045467674732208,外を見ると雨が降り始めている。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  VERB_advcl
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['外', 'を', '見る', 'と', '雨', 'が', '降り', '始め', 'て', 'いる', '。']",0.5444444444444445,0.9296875,0.7370659722222223,0.8208063698477215,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N4
+天気がよくとても暖かかったので、桜が急に咲き始めた気がします。,131463,,N4,1.0,0.75545394,0.8777269721031189,天気がよくとても暖かかったので、桜が急に咲き始めた気がします。,"(VERB_ROOT
+  (ADJ_advcl
+    (ADV_advmod (NOUN_nsubj ADP_case) ADV_advmod)
+    AUX_aux
+    (SCONJ_mark AUX_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj ADP_case)
+      (ADJ_advcl AUX_aux)
+      VERB_advcl
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['天気', 'が', 'よく', 'とても', '暖かかっ', 'た', 'の', 'で', '、', '桜', 'が', '急', 'に', '咲き', '始め', 'た', '気', 'が', 'し', 'ます', '。']",0.5702937023260322,0.9158232118758436,0.7430584571009378,0.8103927146020283,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N4
+月が青白い顔を雲間から見せ始めた。,243530,,N4,1.0,0.831644,0.9158219993114473,月が青白い顔を雲間から見せ始めた。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obj ADJ_acl ADP_case)
+  (NOUN_obl ADP_case)
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['月', 'が', '青白い', '顔', 'を', '雲間', 'から', '見せ', '始め', 'た', '。']",0.5327673978282231,0.9033444022770398,0.7180559000526314,0.8169389496820393,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N4

@@ -1,0 +1,43 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+私は母の愛というものに就いて考える。,-1,20001.0,N1,0.0,0.0,0.0,私は母の愛というものに就いて考える。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_nmod ADP_case) (ADP_case VERB_fixed))
+    ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['私', 'は', '母', 'の', '愛', 'と', 'いう', 'もの', 'に', '就いて', '考える', '。']",,,,,1,私は母の愛というものに就いて考える。,考える,N4
+そんなことを考える今日この頃です。,127883,,N4,1.0,0.68761337,0.8438066840171814,そんなことを考える今日この頃です。,(VERB_ROOT (NOUN_obj PRON_nmod ADP_case)),"['そんな', 'こと', 'を', '考える', '今日', 'この頃', 'です', '。']",1.0,0.975,0.9875,0.9156533420085908,1,私は母の愛というものに就いて考える。,考える,N4
+日本人は真剣に考える必要があります。,85502,,N4,1.0,0.7410569,0.8705284595489502,日本人は真剣に考える必要があります。,"(VERB_ROOT
+  (NOUN_dislocated ADP_case)
+  (NOUN_nsubj (VERB_acl (ADJ_advcl AUX_aux)) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['日本人', 'は', '真剣', 'に', '考える', '必要', 'が', 'あり', 'ます', '。']",0.9166666666666666,0.95,0.9333333333333332,0.9019308964411418,1,私は母の愛というものに就いて考える。,考える,N4
+そう考える事にしよう。,127399,,N4,1.0,0.7088954,0.8544476926326752,そう考える事にしよう。,"(VERB_ROOT
+  ADV_advmod
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['そう', '考える', '事', 'に', 'しよう', '。']",0.875,0.9375,0.90625,0.8803488463163376,1,私は母の愛というものに就いて考える。,考える,N4
+でも今は、自分の責任をもっと広げて考えられるようになりました。,112861,,N4,1.0,0.70847946,0.8542397320270538,でも今は、自分の責任をもっと広げて考えられるようになりました。,"(VERB_ROOT
+  (ADP_dep ADP_fixed)
+  (NOUN_obl ADP_case PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      ADV_advmod
+      SCONJ_mark)
+    AUX_aux
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['で', 'も', '今', 'は', '、', '自分', 'の', '責任', 'を', 'もっと', '広げ', 'て', '考え', 'られる', 'よう', 'に', 'なり', 'まし', 'た', '。']",0.8409459240638122,0.9375,0.8892229620319061,0.87173134702948,1,私は母の愛というものに就いて考える。,考える,N4
+きっと何か考えるきっかけやヒントがあると思いますので是非。,19449,,N4,1.0,0.7011175,0.8505587577819824,きっと何か考えるきっかけやヒントがあると思いますので是非。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_ccomp
+      ADV_advmod
+      (NOUN_nsubj
+        (NOUN_nmod (VERB_acl (PRON_obl ADP_case)) ADP_case)
+        ADP_case)
+      ADP_case)
+    AUX_aux
+    (SCONJ_mark AUX_fixed))
+  PUNCT_punct)","['きっと', '何', 'か', '考える', 'きっかけ', 'や', 'ヒント', 'が', 'ある', 'と', '思い', 'ます', 'の', 'で', '是非', '。']",0.8171826872406778,0.9270833333333334,0.8721330102870055,0.861345884034494,1,私は母の愛というものに就いて考える。,考える,N4

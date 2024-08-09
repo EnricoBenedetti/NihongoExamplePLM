@@ -1,0 +1,78 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+囚人虐待事件への対応などの影響から退任を求める声が出始めた。,-1,20001.0,N3,1.0,0.0,0.5,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod
+          (NOUN_nmod NOUN_compound NOUN_compound ADP_case ADP_case)
+          ADP_case
+          ADP_case)
+        ADP_case)
+      (NOUN_obj ADP_case))
+    ADP_case)
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['囚人', '虐待', '事件', 'へ', 'の', '対応', 'など', 'の', '影響', 'から', '退任', 'を', '求める', '声', 'が', '出', '始め', 'た', '。']",,,,,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N3
+呉市議会議員や呉市民からも完成4車線の早期着工を求める声が寄せられ、2015年（平成27年）1月10日には4車線化工事の起工式が行われた。,1149434,,N3,1.0,0.8221417,0.911070853471756,呉市議会議員や呉市民からも完成4車線の早期着工を求める声が寄せられ、2015年（平成27年）1月10日には4車線化工事の起工式が行われた。,"(NOUN_ROOT
+  (NOUN_obl
+    (NOUN_nmod PROPN_compound ADP_case)
+    PROPN_compound
+    ADP_case
+    ADP_case))","['呉', '市議会議員', 'や', '呉', '市民', 'から', 'も', '完成', '4', '車線', 'の', '早期', '着工', 'を', '求める', '声', 'が', '寄せ', 'られ', '、', '2015', '年', '（', '平成', '27', '年', '）', '1', '月', '10', '日', 'に', 'は', '4', '車線', '化', '工事', 'の', '起工式', 'が', '行わ', 'れ', 'た', '。']",0.8837992651164569,0.9071238460140348,0.8954615555652459,0.9032662045185008,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N3
+閣内から辞任を求める声が挙がっていたが、最終的に12月7日にニコライ2世はアレクサンドラの意見を受け入れ、プロトポポフの留任を決定した。,4050152,,N3,1.0,0.9068616,0.95343080163002,閣内から辞任を求める声が挙がっていたが、最終的に12月7日にニコライ2世はアレクサンドラの意見を受け入れ、プロトポポフの留任を決定した。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_nsubj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (ADJ_advcl AUX_cop)
+    (NOUN_obl NUM_compound NOUN_compound NUM_nummod ADP_case)
+    (NOUN_nsubj PROPN_compound NUM_nummod ADP_case)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    PUNCT_punct)
+  (NOUN_obj (PROPN_nmod NOUN_compound ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['閣内', 'から', '辞任', 'を', '求める', '声', 'が', '挙がっ', 'て', 'い', 'た', 'が', '、', '最終的', 'に', '12', '月', '7', '日', 'に', 'ニコライ', '2', '世', 'は', 'アレクサンドラ', 'の', '意見', 'を', '受け入れ', '、', 'プロト', 'ポポフ', 'の', '留任', 'を', '決定', 'し', 'た', '。']",0.798995404030388,0.8731701502692965,0.8360827771498422,0.8947567893899312,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N3
+1991年（平成3年）春ごろには、不動産業界から緩和を求める要望が出始めた。,4390001,,N3,1.0,0.84658647,0.9232932329177856,1991年（平成3年）春ごろには、不動産業界から緩和を求める要望が出始めた。,"(NOUN_ROOT
+  NUM_nummod
+  PUNCT_punct
+  PROPN_compound
+  NUM_compound
+  NOUN_nmod
+  PUNCT_punct)","['1991', '年', '（', '平成', '3', '年', '）', '春ごろ', 'に', 'は', '、', '不動産業', '界', 'から', '緩和', 'を', '求める', '要望', 'が', '出', '始め', 'た', '。']",0.8145919596946201,0.8328002270367516,0.8236960933656858,0.8734946631417357,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N3
+2006年7月に行われた読売新聞の世論調査では、「辞任」を求める声が72%に達した。,2480405,,N3,1.0,0.92291063,0.9614553153514862,2006年7月に行われた読売新聞の世論調査では、「辞任」を求める声が72%に達した。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl NUM_compound NOUN_compound NUM_nummod ADP_case)
+      AUX_aux
+      AUX_aux)
+    (NOUN_nmod NOUN_compound ADP_case)
+    NOUN_compound
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obj PUNCT_punct PUNCT_punct ADP_case))
+    ADP_case)
+  (NOUN_obl NUM_nummod ADP_case)
+  AUX_aux
+  PUNCT_punct)","['2006', '年', '7', '月', 'に', '行わ', 'れ', 'た', '読売', '新聞', 'の', '世論', '調査', 'で', 'は', '、', '「', '辞任', '」', 'を', '求める', '声', 'が', '72', '%', 'に', '達し', 'た', '。']",0.7595649098723175,0.8162728239355697,0.7879188669039436,0.8746870911277149,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N3
+党内からは泉に対して代表辞任を求める声が上がったが、泉は続投を決めた。,2067653,,N3,1.0,0.9228525,0.9614262580871582,党内からは泉に対して代表辞任を求める声が上がったが、泉は続投を決めた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl ADP_case ADP_case)
+        (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed))
+        (NOUN_obj NOUN_compound ADP_case))
+      ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['党内', 'から', 'は', '泉', 'に', '対し', 'て', '代表', '辞任', 'を', '求める', '声', 'が', '上がっ', 'た', 'が', '、', '泉', 'は', '続投', 'を', '決め', 'た', '。']",0.7093225450137174,0.7977205054212144,0.7535215252174658,0.857473891652312,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N3

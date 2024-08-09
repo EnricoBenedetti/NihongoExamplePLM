@@ -1,0 +1,33 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分が自分の心でするべき事だ。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,自分が自分の心でするべき事だ。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['自分', 'が', '自分', 'の', '心', 'で', 'する', 'べき', '事', 'だ', '。']",,,,,1,自分が自分の心でするべき事だ。,する,N5
+ビジネスサイクルを実践しましょう。,56565,,N5,1.0,0.6260483,0.8130241632461548,ビジネスサイクルを実践しましょう。,"(VERB_ROOT
+  (NOUN_obj NOUN_compound ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ビジネス', 'サイクル', 'を', '実践', 'し', 'ましょう', '。']",0.75,0.9722222222222222,0.8611111111111112,0.837067637178633,1,自分が自分の心でするべき事だ。,する,N5
+今年も仲良くしてくださいね～。,4405,,N5,1.0,0.49567991,0.7478399574756622,今年も仲良くしてくださいね～。,"(VERB_ROOT
+  (ADV_advmod (ADV_advmod ADP_case))
+  (SCONJ_mark AUX_fixed)
+  PART_mark
+  SYM_dep
+  PUNCT_punct)","['今年', 'も', '仲良く', 'し', 'て', 'ください', 'ね', '～', '。']",0.7833333333333333,0.962962962962963,0.8731481481481482,0.8104940528119052,1,自分が自分の心でするべき事だ。,する,N5
+今度はあなたが決断する時です。,47117,,N5,1.0,0.6943508,0.8471753895282745,今度はあなたが決断する時です。,"(NOUN_ROOT
+  (VERB_acl (NOUN_obl ADP_case) (PRON_nsubj ADP_case) AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['今度', 'は', 'あなた', 'が', '決断', 'する', '時', 'です', '。']",0.6720781674151232,0.9513888888888888,0.811733528152006,0.8294544588401402,1,自分が自分の心でするべき事だ。,する,N5
+偏見はなくしたいと思います。,47524,,N5,1.0,0.60333705,0.8016685247421265,偏見はなくしたいと思います。,"(VERB_ROOT
+  (VERB_ccomp (ADJ_advcl (NOUN_nsubj ADP_case)) AUX_aux ADP_case)
+  AUX_aux
+  PUNCT_punct)","['偏見', 'は', 'なく', 'し', 'たい', 'と', '思い', 'ます', '。']",0.6613549930202336,0.9444444444444444,0.802899718732339,0.8022841217372327,1,自分が自分の心でするべき事だ。,する,N5
+私は押し入れの片付けをよくします。,56527,,N5,1.0,0.59769166,0.7988458275794983,私は押し入れの片付けをよくします。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  ADJ_advmod
+  AUX_aux
+  PUNCT_punct)","['私', 'は', '押し入れ', 'の', '片付け', 'を', 'よく', 'し', 'ます', '。']",0.661093870480821,0.9221706864564008,0.791632278468611,0.7952390530240546,1,自分が自分の心でするべき事だ。,する,N5

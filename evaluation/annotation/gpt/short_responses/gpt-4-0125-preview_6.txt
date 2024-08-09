@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides sentences that are closer to the target difficulty level (N1) and maintain a similar sense to the context sentence, focusing on historical or significant "earliness" in various contexts. Although not exactly N1 level, they are more complex and relevant than the other systems' outputs. System 2 includes one sentence that matches the target context and difficulty but lacks diversity and relevance in the rest. System 3's sentences are too basic and repetitive, focusing on everyday quickness without touching upon the historical or significant aspect of "earliness," making it the least useful for N1 learners.
+System 1 sentences:
+1. Difficulty: N2; Sense: "similar"; Reject: "no"
+2. Difficulty: N2; Sense: "similar"; Reject: "no"
+3. Difficulty: N2; Sense: "similar"; Reject: "no"
+4. Difficulty: N2; Sense: "similar"; Reject: "no"
+5. Difficulty: N2; Sense: "similar"; Reject: "no"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: N3; Sense: "not similar"; Reject: "no"
+2. Difficulty: N4; Sense: "not similar"; Reject: "no"
+3. Difficulty: N4; Sense: "not similar"; Reject: "no"
+4. Difficulty: N1; Sense: "similar"; Reject: "no"
+5. Difficulty: N4; Sense: "not similar"; Reject: "no"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: N4; Sense: "not similar"; Reject: "no"
+2. Difficulty: N4; Sense: "not similar"; Reject: "no"
+3. Difficulty: N4; Sense: "not similar"; Reject: "no"
+4. Difficulty: N4; Sense: "not similar"; Reject: "no"
+5. Difficulty: N3; Sense: "not similar"; Reject: "no"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides sentences that are closer to the target difficulty level (N1) and maintain a similar sense to the context sentence, focusing on historical or significant "earliest" achievements or developments. Although the sentences are more N2 in difficulty, they offer complex structures and vocabulary that are beneficial for advanced learners. System 2 and System 3 both fall short in terms of difficulty and sense similarity, with System 2 offering one sentence that matches the target level and sense. System 3's sentences are too basic and repetitive in structure, offering little to no challenge or diversity for an N1 learner.
+System 1 sentences:
+1. Difficulty: N2; Sense: "similar"; Reject: "No"
+2. Difficulty: N2; Sense: "similar"; Reject: "No"
+3. Difficulty: N2; Sense: "similar"; Reject: "No"
+4. Difficulty: N2; Sense: "similar"; Reject: "No"
+5. Difficulty: N2; Sense: "similar"; Reject: "No"
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N3; Sense: "similar"; Reject: "No"
+2. Difficulty: N4; Sense: "similar"; Reject: "No"
+3. Difficulty: N4; Sense: "similar"; Reject: "No"
+4. Difficulty: N1; Sense: "similar"; Reject: "No"
+5. Difficulty: N4; Sense: "similar"; Reject: "No"
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N4; Sense: "similar"; Reject: "No"
+2. Difficulty: N4; Sense: "similar"; Reject: "No"
+3. Difficulty: N4; Sense: "similar"; Reject: "No"
+4. Difficulty: N4; Sense: "similar"; Reject: "No"
+5. Difficulty: N3; Sense: "similar"; Reject: "No"
+Sentence diversity: Low
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides sentences that are closer to the target N1 level, with more complex structures and vocabulary, although they are more N2 in difficulty. They maintain a similar sense to the context sentence, focusing on historical or significant "earliness" in various contexts. System 2 offers a good mix, including one sentence that perfectly matches the target level and context, but the rest are simpler, making it less ideal for N1 learners. System 3's sentences are too basic for an N1 learner, focusing on everyday situations with simpler structures, thus offering the least diversity and challenge.

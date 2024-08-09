@@ -1,0 +1,99 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+利用する側から見ると全く複数のコンピュータが存在するように見える。,-1,20001.0,N3,0.8,0.0,0.4,利用する側から見ると全く複数のコンピュータが存在するように見える。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obl (VERB_acl AUX_aux) ADP_case) SCONJ_mark)
+  (VERB_advcl
+    ADV_advmod
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux
+    AUX_aux
+    AUX_aux)
+  PUNCT_punct)","['利用', 'する', '側', 'から', '見る', 'と', '全く', '複数', 'の', 'コンピュータ', 'が', '存在', 'する', 'よう', 'に', '見える', '。']",,,,,1,利用する側から見ると全く複数のコンピュータが存在するように見える。,見える,N2
+メタデータとファイルをテープ上の別パーティションに記録する事で、テープ中のファイルがあたかもディレクトリ構造を有しているように､ユーザー/アプリケーション側から見える｡,4384541,,N2,1.0,0.8048364,0.9024181962013244,メタデータとファイルをテープ上の別パーティションに記録する事で、テープ中のファイルがあたかもディレクトリ構造を有しているように､ユーザー/アプリケーション側から見える｡,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obl
+        (NOUN_nmod NOUN_compound ADP_case)
+        NOUN_compound
+        ADP_case)
+      AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_nsubj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+      ADV_advmod)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  SYM_dep)","['メタデータ', 'と', 'ファイル', 'を', 'テープ', '上', 'の', '別', 'パーティション', 'に', '記録', 'する', '事', 'で', '、', 'テープ', '中', 'の', 'ファイル', 'が', 'あたかも', 'ディレクトリ', '構造', 'を', '有し', 'て', 'いる', 'よう', 'に', '､', 'ユーザー', '/', 'アプリケーション', '側', 'から', '見える', '｡']",0.8939689121512263,0.920940170940171,0.9074545415456988,0.9049363688735116,1,利用する側から見ると全く複数のコンピュータが存在するように見える。,見える,N2
+電源から見ればコンピュータシステム全体が単純な抵抗器のように見える。,3183001,,N2,1.0,0.9134309,0.95671546459198,電源から見ればコンピュータシステム全体が単純な抵抗器のように見える。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_nmod
+      (ADJ_acl
+        (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+        (NOUN_nsubj NOUN_compound ADP_case)
+        AUX_aux)
+      ADP_case)
+    AUX_cop)
+  PUNCT_punct)","['電源', 'から', '見れ', 'ば', 'コンピュータシステム', '全体', 'が', '単純', 'な', '抵抗器', 'の', 'よう', 'に', '見える', '。']",0.7907913682522943,0.8892472865298953,0.8400193273910948,0.8983673959915374,1,利用する側から見ると全く複数のコンピュータが存在するように見える。,見える,N2
+プログラマからすれば、システムは永続的なオブジェクト保管所のように見える。,5063476,,N2,1.0,0.8903347,0.945167362689972,プログラマからすれば、システムは永続的なオブジェクト保管所のように見える。,"(VERB_ROOT
+  (NOUN_obl (ADP_case AUX_fixed SCONJ_fixed) PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (NOUN_advcl
+    (NOUN_nmod
+      (NOUN_acl PART_mark AUX_cop)
+      NOUN_compound
+      NOUN_compound
+      ADP_case)
+    AUX_cop)
+  PUNCT_punct)","['プログラマ', 'から', 'すれ', 'ば', '、', 'システム', 'は', '永続', '的', 'な', 'オブジェクト', '保管', '所', 'の', 'よう', 'に', '見える', '。']",0.7505875695702429,0.8579883216848188,0.8042879456275308,0.8747276541587514,1,利用する側から見ると全く複数のコンピュータが存在するように見える。,見える,N2
+ただし、終了するプロセスはユーザモードに戻らないため、カーネルの挙動を無視するとあたかもプロセスがシグナルにより「殺された」ように見える。,4112347,,N2,1.0,0.8245709,0.9122854471206664,ただし、終了するプロセスはユーザモードに戻らないため、カーネルの挙動を無視するとあたかもプロセスがシグナルにより「殺された」ように見える。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_nsubj (VERB_acl AUX_aux) ADP_case)
+      (NOUN_obl NOUN_compound ADP_case)
+      AUX_aux)
+    PUNCT_punct)
+  (VERB_advmod
+    (VERB_advcl
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux
+      SCONJ_mark))
+  (NOUN_nsubj ADP_case)
+  (VERB_advcl
+    (NOUN_obl (ADP_case VERB_fixed))
+    PUNCT_punct
+    AUX_aux
+    AUX_aux
+    PUNCT_punct
+    AUX_aux
+    AUX_aux)
+  PUNCT_punct)","['ただし', '、', '終了', 'する', 'プロセス', 'は', 'ユーザ', 'モード', 'に', '戻ら', 'ない', 'ため', '、', 'カーネル', 'の', '挙動', 'を', '無視', 'する', 'と', 'あたかも', 'プロセス', 'が', 'シグナル', 'に', 'より', '「', '殺さ', 'れ', 'た', '」', 'よう', 'に', '見える', '。']",0.7382936039227735,0.8510275242287461,0.7946605640757598,0.8534730055982132,1,利用する側から見ると全く複数のコンピュータが存在するように見える。,見える,N2
+彼女の携帯電話はウェブシューターの一つに取り付けられるように改造されており、あたかもカートリッジの一つであるかのように見える。,5959224,,N2,1.0,0.83936995,0.9196849763393402,彼女の携帯電話はウェブシューターの一つに取り付けられるように改造されており、あたかもカートリッジの一つであるかのように見える。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+    (VERB_advcl
+      (NOUN_obl
+        (NOUN_nmod NOUN_compound ADP_case)
+        NUM_nummod
+        ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  ADV_advmod
+  (NOUN_advcl
+    (NOUN_nmod
+      (NOUN_nmod ADP_case)
+      NUM_nummod
+      (AUX_cop VERB_fixed)
+      ADP_case
+      ADP_case)
+    AUX_cop)
+  PUNCT_punct)","['彼女', 'の', '携帯電話', 'は', 'ウェブ', 'シューター', 'の', '一', 'つ', 'に', '取り付け', 'られる', 'よう', 'に', '改造', 'さ', 'れ', 'て', 'おり', '、', 'あたかも', 'カートリッジ', 'の', '一', 'つ', 'で', 'ある', 'か', 'の', 'よう', 'に', '見える', '。']",0.7363773535767655,0.8298766148998369,0.7831269842383012,0.8514059802888208,1,利用する側から見ると全く複数のコンピュータが存在するように見える。,見える,N2

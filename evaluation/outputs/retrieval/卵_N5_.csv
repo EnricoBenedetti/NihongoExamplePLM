@@ -1,0 +1,45 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+卵から産まれて成虫になるまでの間の成長過程のものを指す。,-1,9574.0,N3,0.1999999999999999,0.0,0.0999999999999999,卵から産まれて成虫になるまでの間の成長過程のものを指す。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod
+        (VERB_nmod
+          (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+          (NOUN_obl ADP_case)
+          PART_mark
+          ADP_case)
+        ADP_case)
+      NOUN_compound
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['卵', 'から', '産まれ', 'て', '成虫', 'に', 'なる', 'まで', 'の', '間', 'の', '成長', '過程', 'の', 'もの', 'を', '指す', '。']",,,,,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N5
+すみません、卵はどこにありますか？,153015,,N5,1.0,0.6716478,0.8358238935470581,すみません、卵はどこにありますか？,"(VERB_ROOT
+  (VERB_dep AUX_aux AUX_aux PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['すみ', 'ませ', 'ん', '、', '卵', 'は', 'どこ', 'に', 'あり', 'ます', 'か', '？']",0.8333333333333334,0.9666666666666668,0.9,0.867911946773529,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N5
+昨日、卵を何個手に入れることができましたか。,310291,,N5,1.0,0.66203946,0.8310197293758392,昨日、卵を何個手に入れることができましたか。,"(VERB_ROOT
+  (ADV_advmod PUNCT_punct)
+  (NOUN_obj ADP_case)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['昨日', '、', '卵', 'を', '何個', '手', 'に', '入れる', 'こと', 'が', 'でき', 'まし', 'た', 'か', '。']",0.7821242909702842,0.9384920634920636,0.8603081772311738,0.8456639533035065,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N5
+卵をあまり固くゆでないでください。,158369,,N5,1.0,0.6690603,0.8345301449298859,卵をあまり固くゆでないでください。,"(VERB_ROOT
+  (NOUN_obj ADP_case)
+  (ADJ_advcl ADV_advmod)
+  AUX_aux
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['卵', 'を', 'あまり', '固く', 'ゆで', 'ない', 'で', 'ください', '。']",0.7376893376853102,0.9298148148148148,0.8337520762500625,0.8341411105899742,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N5
+卵はいくらですか？,366055,,N5,1.0,0.64851433,0.8242571651935577,卵はいくらですか？,(NOUN_ROOT (NOUN_nsubj ADP_case) AUX_cop PART_mark PUNCT_punct),"['卵', 'は', 'いくら', 'です', 'か', '？']",0.7253913803889638,0.9109848484848484,0.8181881144369061,0.8212226398152319,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N5
+卵はどのようになさいますか。,158380,,N5,1.0,0.6739015,0.8369507491588593,卵はどのようになさいますか。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_advcl DET_det AUX_cop)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['卵', 'は', 'どの', 'よう', 'に', 'なさい', 'ます', 'か', '。']",0.6702609202593093,0.8888888888888888,0.7795749045740991,0.8082628268664791,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N5

@@ -1,0 +1,73 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+これを認める研究者は少ない。,-1,20001.0,N2,0.6,0.0,0.3,これを認める研究者は少ない。,"(ADJ_ROOT
+  (NOUN_nsubj (VERB_acl (PRON_obj ADP_case)) ADP_case)
+  PUNCT_punct)","['これ', 'を', '認める', '研究者', 'は', '少ない', '。']",,,,,1,これを認める研究者は少ない。,認める,N3
+当初はこの彼の表の価値を認める学者はほとんどいなかった。,460287,,N3,1.0,0.84448904,0.922244518995285,当初はこの彼の表の価値を認める学者はほとんどいなかった。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_nmod (PRON_nmod DET_det ADP_case) ADP_case)
+        ADP_case))
+    ADP_case)
+  ADV_advmod
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['当初', 'は', 'この', '彼', 'の', '表', 'の', '価値', 'を', '認める', '学者', 'は', 'ほとんど', 'い', 'なかっ', 'た', '。']",0.7603812486161416,0.9261363636363636,0.8432588061262527,0.8827516625607689,1,これを認める研究者は少ない。,認める,N3
+発見者の一人であるブラウンもこの分類を認めることを表明している。,2943708,,N3,1.0,0.79862237,0.8993111848831177,発見者の一人であるブラウンもこの分類を認めることを表明している。,"(VERB_ROOT
+  (PROPN_nsubj
+    (NOUN_acl (NOUN_nmod ADP_case) (AUX_cop VERB_fixed))
+    ADP_case)
+  (NOUN_obj (VERB_acl (NOUN_obj DET_det ADP_case)) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['発見者', 'の', '一人', 'で', 'ある', 'ブラウン', 'も', 'この', '分類', 'を', '認める', 'こと', 'を', '表明', 'し', 'て', 'いる', '。']",0.702668473028097,0.9157509157509156,0.8092096943895064,0.854260439636312,1,これを認める研究者は少ない。,認める,N3
+ドラヴィダ語族との関係を主張する説もあるが、これを認める研究者は少ない。,398701,,N3,1.0,0.883718,0.941859006881714,ドラヴィダ語族との関係を主張する説もあるが、これを認める研究者は少ない。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        ADV_advmod
+        (NOUN_obj
+          (NOUN_nmod NOUN_compound ADP_case ADP_case)
+          ADP_case)
+        AUX_aux)
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (PRON_obj ADP_case)) ADP_case)
+  PUNCT_punct)","['ドラヴィダ', '語', '族', 'と', 'の', '関係', 'を', '主張', 'する', '説', 'も', 'ある', 'が', '、', 'これ', 'を', '認める', '研究者', 'は', '少ない', '。']",0.6449319758121643,0.8324967377808853,0.7387143567965249,0.8402866818391194,1,これを認める研究者は少ない。,認める,N3
+ただし、2005年以降、鞭打ち症と脳脊髄液減少症の因果関係を認める動きが出てきている。,3284137,,N3,1.0,0.7654597,0.8827298581600189,ただし、2005年以降、鞭打ち症と脳脊髄液減少症の因果関係を認める動きが出てきている。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (ADV_advmod NUM_compound NOUN_compound PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_nmod
+          (NOUN_nmod NOUN_compound ADP_case)
+          NOUN_compound
+          NOUN_compound
+          NOUN_compound
+          ADP_case)
+        NOUN_compound
+        ADP_case))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['ただし', '、', '2005', '年', '以降', '、', '鞭打ち', '症', 'と', '脳脊髄', '液', '減少', '症', 'の', '因果', '関係', 'を', '認める', '動き', 'が', '出', 'て', 'き', 'て', 'いる', '。']",0.6663766836431417,0.8306612634944309,0.7485189735687863,0.8156244158644026,1,これを認める研究者は少ない。,認める,N3
+日清食品ホールディングスによれば、インスタントラーメンは日清食品創業者の安藤百福が発明したもので、世界でもそれを認める報道が多い。,895332,,N3,1.0,0.75015336,0.8750766813755035,日清食品ホールディングスによれば、インスタントラーメンは日清食品創業者の安藤百福が発明したもので、世界でもそれを認める報道が多い。,"(ADJ_ROOT
+  (NOUN_advcl
+    (PROPN_obl (ADP_case VERB_fixed SCONJ_fixed) PUNCT_punct)
+    (VERB_acl
+      (NOUN_nsubj NOUN_compound ADP_case)
+      (PROPN_nsubj
+        (NOUN_nmod PROPN_nmod ADP_case)
+        PROPN_compound
+        ADP_case)
+      AUX_aux
+      AUX_aux)
+    AUX_cop
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl ADP_case ADP_case) (PRON_obj ADP_case))
+    ADP_case)
+  PUNCT_punct)","['日清食品ホールディングス', 'に', 'よれ', 'ば', '、', 'インスタント', 'ラーメン', 'は', '日清食品', '創業者', 'の', '安藤', '百福', 'が', '発明', 'し', 'た', 'もの', 'で', '、', '世界', 'で', 'も', 'それ', 'を', '認める', '報道', 'が', '多い', '。']",0.6435289062961005,0.8422772395585798,0.7429030729273401,0.8089898771514219,1,これを認める研究者は少ない。,認める,N3

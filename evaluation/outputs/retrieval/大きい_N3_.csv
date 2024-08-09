@@ -1,0 +1,92 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,-1,20001.0,N3,1.0,0.0,0.5,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_obl DET_det)
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_obj ADJ_amod ADP_case)
+        (NOUN_obl ADP_case)
+        AUX_aux)
+      ADP_case)
+    (NOUN_nsubj ADP_case))
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['その', '結果', '同じ', '画像', 'を', 'GIF', 'に', 'し', 'た', '場合', 'より', 'サイズ', 'が', '大きく', 'なっ', 'て', 'しまう', '。']",,,,,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N3
+サッカーコートが収まる大きさにしていたがスライド式可動席を採用しなかったため、同クラスのフェアグラウンドを持つ野球場よりかなりファウルグラウンドが大きくなっている。,999070,,N3,1.0,0.74467963,0.8723398149013519,サッカーコートが収まる大きさにしていたがスライド式可動席を採用しなかったため、同クラスのフェアグラウンドを持つ野球場よりかなりファウルグラウンドが大きくなっている。,(VERB_ROOT (NOUN_nsubj NOUN_compound ADP_case)),"['サッカー', 'コート', 'が', '収まる', '大きさ', 'に', 'し', 'て', 'い', 'た', 'が', 'スライド', '式', '可動', '席', 'を', '採用', 'し', 'なかっ', 'た', 'ため', '、', '同', 'クラス', 'の', 'フェアグラウンド', 'を', '持つ', '野球場', 'より', 'かなり', 'ファウルグラウンド', 'が', '大きく', 'なっ', 'て', 'いる', '。']",0.9304479642107036,0.8954375254375254,0.9129427448241144,0.8926412798627332,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N3
+後者は、可逆圧縮ではデータサイズが相対的に大きくなりやすい画像、音声、動画の高能率圧縮に用いられる。,1600422,,N3,1.0,0.89819485,0.9490974247455596,後者は、可逆圧縮ではデータサイズが相対的に大きくなりやすい画像、音声、動画の高能率圧縮に用いられる。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod
+        (NOUN_nmod
+          (VERB_acl
+            (NOUN_obl NOUN_compound ADP_case ADP_case)
+            (NOUN_nsubj NOUN_compound ADP_case)
+            (ADJ_advcl (ADJ_advcl AUX_cop))
+            AUX_aux)
+          PUNCT_punct)
+        PUNCT_punct)
+      ADP_case)
+    NOUN_compound
+    NOUN_compound
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['後者', 'は', '、', '可逆', '圧縮', 'で', 'は', 'データ', 'サイズ', 'が', '相対的', 'に', '大きく', 'なり', 'やすい', '画像', '、', '音声', '、', '動画', 'の', '高能', '率', '圧縮', 'に', '用い', 'られる', '。']",0.7782981866464761,0.8885147876814544,0.8334064871639653,0.8912519559547625,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N3
+このため従来のゴシック体と比較して同じサイズの文字でも大きく見え、字間・行間が狭く見える。,867195,,N3,1.0,0.8523576,0.926178812980652,このため従来のゴシック体と比較して同じサイズの文字でも大きく見え、字間・行間が狭く見える。,"(VERB_ROOT
+  (NOUN_obl DET_det)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux
+      SCONJ_mark)
+    (NOUN_advcl (NOUN_nmod ADJ_amod ADP_case) AUX_cop ADP_case)
+    ADJ_advcl
+    PUNCT_punct)
+  (NOUN_nsubj NOUN_compound SYM_compound ADP_case)
+  ADJ_advcl
+  PUNCT_punct)","['この', 'ため', '従来', 'の', 'ゴシック体', 'と', '比較', 'し', 'て', '同じ', 'サイズ', 'の', '文字', 'で', 'も', '大きく', '見え', '、', '字間', '・', '行間', 'が', '狭く', '見える', '。']",0.7241040804603188,0.8841497738294455,0.8041269271448821,0.865152870062767,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N3
+これを解消するには、使用中のメモリ領域を移動させ、隣り合わせに配置し直すことで相対的に連続未使用領域を大きくする。,2192685,,N3,1.0,0.7971703,0.8985851407051086,これを解消するには、使用中のメモリ領域を移動させ、隣り合わせに配置し直すことで相対的に連続未使用領域を大きくする。,"(VERB_ROOT
+  (VERB_advcl
+    (PRON_obj ADP_case)
+    AUX_aux
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (ADJ_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_obj
+              (NOUN_nmod NOUN_compound ADP_case)
+              NOUN_compound
+              ADP_case)
+            AUX_aux
+            AUX_aux
+            PUNCT_punct)
+          (NOUN_obl ADP_case)
+          AUX_aux
+          VERB_advcl)
+        ADP_case)
+      (ADJ_advcl AUX_cop)
+      AUX_aux
+      (NOUN_punct ADP_case)))
+  PUNCT_punct)","['これ', 'を', '解消', 'する', 'に', 'は', '、', '使用', '中', 'の', 'メモリ', '領域', 'を', '移動', 'さ', 'せ', '、', '隣り合わせ', 'に', '配置', 'し', '直す', 'こと', 'で', '相対的', 'に', '連続', '未使用', '領域', 'を', '大きく', 'する', '。']",0.7309039832920097,0.8757075835545417,0.8033057834232757,0.8509454620641922,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N3
+アナログ式監視カメラでは伝送ノイズが多く、インターレース動画であるために、デジタルで保存すると容量が大きくなる。,1496864,,N3,1.0,0.84944856,0.924724280834198,アナログ式監視カメラでは伝送ノイズが多く、インターレース動画であるために、デジタルで保存すると容量が大きくなる。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_obl
+      NOUN_compound
+      NOUN_compound
+      NOUN_compound
+      ADP_case
+      ADP_case)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    PUNCT_punct)
+  (NOUN_advcl
+    NOUN_compound
+    (AUX_cop VERB_fixed)
+    (SCONJ_mark SCONJ_fixed)
+    PUNCT_punct)
+  (VERB_advcl (NOUN_obl ADP_case) AUX_aux SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  ADJ_advcl
+  PUNCT_punct)","['アナログ', '式', '監視', 'カメラ', 'で', 'は', '伝送', 'ノイズ', 'が', '多く', '、', 'インターレース', '動画', 'で', 'ある', 'ため', 'に', '、', 'デジタル', 'で', '保存', 'する', 'と', '容量', 'が', '大きく', 'なる', '。']",0.6921334343844269,0.8695988841011779,0.7808661592428023,0.8527952200385002,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N3

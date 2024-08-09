@@ -1,0 +1,33 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+本人の意思が強ければ止められるわ。,-1,20001.0,N3,0.6,0.0,0.3,本人の意思が強ければ止められるわ。,"(VERB_ROOT
+  (VERB_advcl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case) SCONJ_mark)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['本人', 'の', '意思', 'が', '強けれ', 'ば', '止め', 'られる', 'わ', '。']",,,,,1,本人の意思が強ければ止められるわ。,強い,N4
+物凄く我慢強いですよ」と語っている。,643926,,N4,1.0,0.5929137,0.7964568436145782,物凄く我慢強いですよ」と語っている。,"(VERB_ROOT
+  (ADJ_advcl
+    ADJ_advcl
+    NOUN_obl
+    AUX_aux
+    PART_mark
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['物凄く', '我慢', '強い', 'です', 'よ', '」', 'と', '語っ', 'て', 'いる', '。']",0.75,0.988095238095238,0.8690476190476191,0.8327522313310987,1,本人の意思が強ければ止められるわ。,強い,N4
+彼は私より力が強い。,185201,,N4,1.0,0.6279101,0.8139550387859344,彼は私より力が強い。,"(ADJ_ROOT
+  (PRON_dislocated ADP_case)
+  (PRON_obl ADP_case)
+  (NOUN_nsubj ADP_case)
+  PUNCT_punct)","['彼', 'は', '私', 'より', '力', 'が', '強い', '。']",0.7000602989088528,0.9655172413793104,0.8327887701440815,0.823371904465008,1,本人の意思が強ければ止められるわ。,強い,N4
+よく「自我が強い」と言われます。,379139,,N4,1.0,0.6253301,0.8126650452613831,よく「自我が強い」と言われます。,"(VERB_ROOT
+  ADV_advmod
+  (ADJ_ccomp (NOUN_nsubj PUNCT_punct ADP_case) PUNCT_punct ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['よく', '「', '自我', 'が', '強い', '」', 'と', '言わ', 'れ', 'ます', '。']",0.689146007033195,0.9298611111111112,0.8095035590721531,0.8110843021667681,1,本人の意思が強ければ止められるわ。,強い,N4
+チームが強ければいい。,114726,,N4,1.0,0.7155983,0.8577991425991058,チームが強ければいい。,(VERB_ROOT (NOUN_nsubj ADP_case) (SCONJ_mark AUX_fixed) PUNCT_punct),"['チーム', 'が', '強けれ', 'ば', 'いい', '。']",0.6265027993434721,0.8980131377400731,0.7622579685417725,0.8100285555704392,1,本人の意思が強ければ止められるわ。,強い,N4
+これは力の強い人が使う弓です。,305202,,N4,1.0,0.616157,0.8080784976482391,これは力の強い人が使う弓です。,"(NOUN_ROOT
+  (PRON_nsubj ADP_case)
+  (VERB_acl (NOUN_nsubj (ADJ_acl (NOUN_nmod ADP_case)) ADP_case))
+  AUX_cop
+  PUNCT_punct)","['これ', 'は', '力', 'の', '強い', '人', 'が', '使う', '弓', 'です', '。']",0.6421034914593665,0.8871173030615755,0.764610397260471,0.7863444474543551,1,本人の意思が強ければ止められるわ。,強い,N4

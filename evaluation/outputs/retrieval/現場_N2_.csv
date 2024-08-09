@@ -1,0 +1,106 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+這入りこんで現場を見届けてやろう。,-1,14743.0,N2,1.0,0.0,0.5,這入りこんで現場を見届けてやろう。,"(VERB_ROOT
+  (PRON_obl NOUN_compound ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['這入り', 'こん', 'で', '現場', 'を', '見届け', 'て', 'やろう', '。']",,,,,1,這入りこんで現場を見届けてやろう。,現場,N2
+急いで現場へ向かったキヨたちは、まさに祐希が連れ去られようとするところに間一髪で間に合い、それぞれ特技を生かした活躍で祐希を無事に取り返すと、チンピラたちにきっちりと「お話」する。,6818609,,N2,1.0,0.80384433,0.9019221663475036,急いで現場へ向かったキヨたちは、まさに祐希が連れ去られようとするところに間一髪で間に合い、それぞれ特技を生かした活躍で祐希を無事に取り返すと、チンピラたちにきっちりと「お話」する。,"(NOUN_ROOT
+  (NOUN_nsubj
+    (VERB_acl (VERB_advcl SCONJ_mark) (NOUN_obl ADP_case) AUX_aux)
+    PROPN_compound
+    ADP_case
+    PUNCT_punct)
+  (VERB_acl
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          ADV_advmod
+          (PROPN_nsubj ADP_case)
+          (VERB_advcl NOUN_compound ADP_case))
+        ADP_case)
+      (NOUN_obl ADP_case)
+      PUNCT_punct)
+    ADV_advmod
+    (NOUN_obl (VERB_acl (NOUN_obj ADP_case) AUX_aux) ADP_case)
+    (PROPN_obj ADP_case)
+    (ADJ_advcl AUX_aux)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl NOUN_compound ADP_case)
+  (ADV_advmod ADP_case)
+  PUNCT_punct
+  NOUN_compound
+  PUNCT_punct
+  AUX_aux
+  PUNCT_punct)","['急い', 'で', '現場', 'へ', '向かっ', 'た', 'キヨ', 'たち', 'は', '、', 'まさに', '祐希', 'が', '連れ去ら', 'れよう', 'と', 'する', 'ところ', 'に', '間一髪', 'で', '間に合い', '、', 'それぞれ', '特技', 'を', '生かし', 'た', '活躍', 'で', '祐希', 'を', '無事', 'に', '取り返す', 'と', '、', 'チンピラ', 'たち', 'に', 'きっちり', 'と', '「', 'お', '話', '」', 'する', '。']",0.8769147186974693,0.9208931419457737,0.8989039303216214,0.9004130483345625,1,這入りこんで現場を見届けてやろう。,現場,N2
+ただ、現場へおもむかなかったことで実際には事態が悪化することを防げたという後年なされた推測もある。,5901781,,N2,1.0,0.84600073,0.9230003654956818,ただ、現場へおもむかなかったことで実際には事態が悪化することを防げたという後年なされた推測もある。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obj
+          (VERB_acl
+            (NOUN_obl
+              (VERB_acl (NOUN_obl ADP_case) AUX_aux AUX_aux)
+              ADP_case)
+            (NOUN_obl ADP_case ADP_case)
+            (NOUN_nsubj ADP_case)
+            AUX_aux)
+          ADP_case)
+        AUX_aux
+        (ADP_case VERB_fixed))
+      NOUN_compound
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['ただ', '、', '現場', 'へ', 'おもむか', 'なかっ', 'た', 'こと', 'で', '実際', 'に', 'は', '事態', 'が', '悪化', 'する', 'こと', 'を', '防げ', 'た', 'と', 'いう', '後年', 'なさ', 'れ', 'た', '推測', 'も', 'ある', '。']",0.8093324922352815,0.9020935960591132,0.8557130441471974,0.8893567048214396,1,這入りこんで現場を見届けてやろう。,現場,N2
+万が一に備えて防弾チョッキと防弾ヘルメットを装着して現場をリポートしたが、デモは和やかなものだった。,6147792,,N2,1.0,0.81590426,0.9079521298408508,万が一に備えて防弾チョッキと防弾ヘルメットを装着して現場をリポートしたが、デモは和やかなものだった。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl
+      (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+      (NOUN_obj
+        (NOUN_nmod NOUN_compound ADP_case)
+        NOUN_compound
+        ADP_case)
+      AUX_aux
+      SCONJ_mark)
+    (NOUN_obj ADP_case)
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (ADJ_acl AUX_aux)
+  AUX_cop
+  AUX_aux
+  PUNCT_punct)","['万が一', 'に', '備え', 'て', '防弾', 'チョッキ', 'と', '防弾', 'ヘルメット', 'を', '装着', 'し', 'て', '現場', 'を', 'リポート', 'し', 'た', 'が', '、', 'デモ', 'は', '和やか', 'な', 'もの', 'だっ', 'た', '。']",0.7829547685320541,0.891069330199765,0.8370120493659096,0.8724820896033803,1,這入りこんで現場を見届けてやろう。,現場,N2
+また田渕は後方で検死を行っただけで現場を見ておらず、蜷川から引き継ぎも行っていない。,7294845,,N2,1.0,0.8359039,0.9179519414901732,また田渕は後方で検死を行っただけで現場を見ておらず、蜷川から引き継ぎも行っていない。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (PROPN_nsubj ADP_case)
+    (VERB_advcl
+      (NOUN_obl ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux
+      PART_mark
+      AUX_case)
+    (NOUN_obj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (PROPN_obl ADP_case)
+  (VERB_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['また', '田渕', 'は', '後方', 'で', '検死', 'を', '行っ', 'た', 'だけ', 'で', '現場', 'を', '見', 'て', 'おら', 'ず', '、', '蜷川', 'から', '引き継ぎ', 'も', '行っ', 'て', 'い', 'ない', '。']",0.7466215789095227,0.8833481701979183,0.8149848745537205,0.8664684080219469,1,這入りこんで現場を見届けてやろう。,現場,N2
+だがその説明に不信感を抱いたクレイは現場を調べなおす。,5583457,,N2,1.0,0.82452667,0.9122633337974548,だがその説明に不信感を抱いたクレイは現場を調べなおす。,"(NOUN_ROOT
+  (VERB_acl
+    (CCONJ_dep SCONJ_fixed)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl DET_det ADP_case)
+        (NOUN_obj ADP_case)
+        AUX_aux)
+      ADP_case)
+    (NOUN_obj ADP_case))
+  PUNCT_punct)","['だ', 'が', 'その', '説明', 'に', '不信感', 'を', '抱い', 'た', 'クレイ', 'は', '現場', 'を', '調べ', 'なおす', '。']",0.736956870792699,0.8808243134713845,0.8088905921320417,0.8605769629647483,1,這入りこんで現場を見届けてやろう。,現場,N2

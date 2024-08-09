@@ -1,0 +1,83 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一人のこらず死んだような場所もあります。,-1,20001.0,N1,0.6,0.0,0.3,一人のこらず死んだような場所もあります。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl (NOUN_nmod ADP_case) AUX_aux)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['一人', 'の', 'こら', 'ず', '死ん', 'だ', 'よう', 'な', '場所', 'も', 'あり', 'ます', '。']",,,,,1,一人のこらず死んだような場所もあります。,場所,N2
+日本語文化研究者・劉克華の報告では、日本全国に存在する三万社以上の稲荷社が狐像を備えており、「狐」自体を「稲荷神」として信仰する場所も少なくない。,2323265,,N2,1.0,0.71403015,0.857015073299408,日本語文化研究者・劉克華の報告では、日本全国に存在する三万社以上の稲荷社が狐像を備えており、「狐」自体を「稲荷神」として信仰する場所も少なくない。,"(PROPN_ROOT
+  NOUN_compound
+  NOUN_compound
+  NOUN_compound
+  SYM_compound
+  PROPN_nmod)","['日本語', '文化', '研究者', '・', '劉', '克', '華', 'の', '報告', 'で', 'は', '、', '日本', '全国', 'に', '存在', 'する', '三万', '社', '以上', 'の', '稲荷', '社', 'が', '狐', '像', 'を', '備え', 'て', 'おり', '、', '「', '狐', '」', '自体', 'を', '「', '稲荷', '神', '」', 'と', 'し', 'て', '信仰', 'する', '場所', 'も', '少なく', 'ない', '。']",1.0,0.9403460837887068,0.9701730418943534,0.9135940575968806,1,一人のこらず死んだような場所もあります。,場所,N2
+ワタナベはどこでもない場所のまん中から緑を呼び続けていた。,2867042,,N2,1.0,0.75820976,0.879104882478714,ワタナベはどこでもない場所のまん中から緑を呼び続けていた。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case)
+  (NOUN_obl
+    (NOUN_nmod (ADJ_acl (PRON_obl AUX_cop ADP_case)) ADP_case)
+    ADP_case)
+  (NOUN_obj ADP_case)
+  VERB_advcl
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['ワタナベ', 'は', 'どこ', 'で', 'も', 'ない', '場所', 'の', 'まん中', 'から', '緑', 'を', '呼び', '続け', 'て', 'い', 'た', '。']",0.8965945619575418,0.9258072174738842,0.911200889715713,0.8951528860972136,1,一人のこらず死んだような場所もあります。,場所,N2
+また1980年代から主に退役軍人らが開墾を始めて入植した屯田兵のような場所もある。,2587412,,N2,1.0,0.78276855,0.8913842737674713,また1980年代から主に退役軍人らが開墾を始めて入植した屯田兵のような場所もある。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_obl NUM_compound NOUN_compound ADP_case)
+  (NOUN_nsubj
+    (NOUN_acl
+      (PROPN_nmod
+        (VERB_acl
+          ADV_advmod
+          (NOUN_nsubj NOUN_compound NOUN_compound ADP_case)
+          (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+          AUX_aux
+          AUX_aux)
+        ADP_case)
+      AUX_cop)
+    ADP_case)
+  PUNCT_punct)","['また', '1980', '年', '代', 'から', '主に', '退役', '軍人', 'ら', 'が', '開墾', 'を', '始め', 'て', '入植', 'し', 'た', '屯田兵', 'の', 'よう', 'な', '場所', 'も', 'ある', '。']",0.8466899715978978,0.8998872933356401,0.873288632466769,0.8823364531171202,1,一人のこらず死んだような場所もあります。,場所,N2
+正式地名でなくとも、かつての旧地名が慣習的に残ったり、特徴からくる俗称で呼ばれる場所や地域がある。,1753165,,N2,1.0,0.74441046,0.8722052276134491,正式地名でなくとも、かつての旧地名が慣習的に残ったり、特徴からくる俗称で呼ばれる場所や地域がある。,"(VERB_ROOT
+  (NOUN_advcl ADJ_amod (AUX_cop AUX_fixed) SCONJ_mark PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (VERB_acl
+        (VERB_advcl
+          (NOUN_nsubj (ADV_advmod ADP_case) NOUN_compound ADP_case)
+          (NOUN_advcl PART_mark AUX_cop)
+          PART_mark
+          PUNCT_punct)
+        (NOUN_obl (VERB_acl (NOUN_obl ADP_case)) ADP_case)
+        AUX_aux)
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['正式', '地名', 'で', 'なく', 'とも', '、', 'かつて', 'の', '旧', '地名', 'が', '慣習', '的', 'に', '残っ', 'たり', '、', '特徴', 'から', 'くる', '俗称', 'で', '呼ば', 'れる', '場所', 'や', '地域', 'が', 'ある', '。']",0.8142332171067611,0.8961883514787952,0.8552107842927781,0.8637080059531136,1,一人のこらず死んだような場所もあります。,場所,N2
+一部封鎖されている場所があるのは、ただ単に道が崩れていて危険であるという理由と宗教的な理由とがある。,3316596,,N2,1.0,0.773768,0.8868840038776398,一部封鎖されている場所があるのは、ただ単に道が崩れていて危険であるという理由と宗教的な理由とがある。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl ADV_advmod AUX_aux AUX_aux (SCONJ_mark VERB_fixed))
+      ADP_case)
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl
+    (ADJ_acl
+      (NOUN_nmod
+        (ADJ_acl
+          (VERB_advcl
+            ADV_advmod
+            ADV_advmod
+            (NOUN_nsubj ADP_case)
+            (SCONJ_mark VERB_fixed)
+            SCONJ_mark)
+          (AUX_aux VERB_fixed)
+          (ADP_case VERB_fixed))
+        ADP_case)
+      AUX_cop)
+    ADP_case
+    ADP_case)
+  PUNCT_punct)","['一部', '封鎖', 'さ', 'れ', 'て', 'いる', '場所', 'が', 'ある', 'の', 'は', '、', 'ただ', '単に', '道', 'が', '崩れ', 'て', 'い', 'て', '危険', 'で', 'ある', 'と', 'いう', '理由', 'と', '宗教的', 'な', '理由', 'と', 'が', 'ある', '。']",0.7733062739160605,0.8753695467966358,0.8243379103563482,0.855610957116994,1,一人のこらず死んだような場所もあります。,場所,N2

@@ -1,0 +1,59 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+電話をかけることを習いました。,-1,13680.0,N5,0.3999999999999999,0.0,0.1999999999999999,電話をかけることを習いました。,"(VERB_ROOT
+  (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['電話', 'を', 'かける', 'こと', 'を', '習い', 'まし', 'た', '。']",,,,,1,電話をかけることを習いました。,電話,N2
+Ｃａｌｌ　ｕｐは電話をかけるという意味の成句です。,300469,,N2,1.0,0.9032434,0.95162171125412,Ｃａｌｌ　ｕｐは電話をかけるという意味の成句です。,(NOUN_ROOT SYM_dep),"['Ｃａｌｌ', '\u3000', 'ｕｐ', 'は', '電話', 'を', 'かける', 'と', 'いう', '意味', 'の', '成句', 'です', '。']",1.0,0.9086847553666776,0.9543423776833388,0.9529820444687294,1,電話をかけることを習いました。,電話,N2
+単に機械的に電話をかけているに過ぎないんだろうが。,87541,,N2,1.0,0.90657556,0.9532877802848816,単に機械的に電話をかけているに過ぎないんだろうが。,"(VERB_ROOT
+  ADV_advmod
+  (ADJ_advcl AUX_cop)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (ADP_case VERB_fixed AUX_fixed)
+  (SCONJ_mark AUX_fixed)
+  SCONJ_mark
+  PUNCT_punct)","['単に', '機械的', 'に', '電話', 'を', 'かけ', 'て', 'いる', 'に', '過ぎ', 'ない', 'ん', 'だろう', 'が', '。']",0.9215327963359796,0.911548402255639,0.9165405992958092,0.9349141897903456,1,電話をかけることを習いました。,電話,N2
+電話をかけたときに発信者が通話中なのか応答可能なのかを示す独特の「オンフック」「オフフック」状態のフリー・ビジートーンと同様の考え方である。,11743012,,N2,1.0,0.84756196,0.9237809777259828,電話をかけたときに発信者が通話中なのか応答可能なのかを示す独特の「オンフック」「オフフック」状態のフリー・ビジートーンと同様の考え方である。,"(NOUN_ROOT
+  (NOUN_nmod
+    (NOUN_nmod
+      (VERB_acl
+        (ADJ_obj
+          (NOUN_obl (VERB_acl (NOUN_obj ADP_case) AUX_aux) ADP_case)
+          (NOUN_advcl
+            (NOUN_nsubj NOUN_compound ADP_case)
+            NOUN_compound
+            AUX_cop
+            SCONJ_mark
+            PART_mark)
+          NOUN_compound
+          AUX_aux
+          SCONJ_mark
+          ADP_case
+          ADP_case))
+      (ADJ_nmod ADP_case)
+      PUNCT_punct
+      PUNCT_punct)
+    PUNCT_punct
+    NOUN_compound
+    PUNCT_punct
+    ADP_case)
+  NOUN_compound
+  SYM_compound)","['電話', 'を', 'かけ', 'た', 'とき', 'に', '発信', '者', 'が', '通話', '中', 'な', 'の', 'か', '応答', '可能', 'な', 'の', 'か', 'を', '示す', '独特', 'の', '「', 'オンフック', '」', '「', 'オフフック', '」', '状態', 'の', 'フリー', '・', 'ビジー', 'トーン', 'と', '同様', 'の', '考え方', 'で', 'ある', '。']",0.955055728267862,0.8821820175438597,0.9186188729058608,0.9211999253159218,1,電話をかけることを習いました。,電話,N2
+電話をする事は、間違いである。,203626,,N2,1.0,0.91147864,0.9557393193244934,電話をする事は、間違いである。,"(NOUN_ROOT
+  (NOUN_nsubj (VERB_acl (NOUN_obj ADP_case)) ADP_case PUNCT_punct)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['電話', 'を', 'する', '事', 'は', '、', '間違い', 'で', 'ある', '。']",0.911076074015628,0.866421568627451,0.8887488213215395,0.9222440703230164,1,電話をかけることを習いました。,電話,N2
+いまは、電話で話しているから、相手が遠くにいるとはかぎらない。,91866,,N2,1.0,0.8674871,0.9337435364723206,いまは、電話で話しているから、相手が遠くにいるとはかぎらない。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl ADP_case PUNCT_punct)
+      (NOUN_obl ADP_case)
+      (SCONJ_mark VERB_fixed)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl ADP_case)
+    ADP_case
+    ADP_case)
+  (AUX_aux PUNCT_punct))","['いま', 'は', '、', '電話', 'で', '話し', 'て', 'いる', 'から', '、', '相手', 'が', '遠く', 'に', 'いる', 'と', 'は', 'かぎら', 'ない', '。']",0.9206983473535496,0.8541315827030113,0.8874149650282803,0.9105792507503004,1,電話をかけることを習いました。,電話,N2

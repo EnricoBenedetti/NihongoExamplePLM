@@ -1,0 +1,44 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+僕は勿論社会科学に何の知識も持っていなかった。,-1,20001.0,N2,0.1999999999999999,0.0,0.0999999999999999,僕は勿論社会科学に何の知識も持っていなかった。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl NOUN_compound ADP_case)
+  (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['僕', 'は', '勿論', '社会', '科学', 'に', '何', 'の', '知識', 'も', '持っ', 'て', 'い', 'なかっ', 'た', '。']",,,,,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N4
+社会以外の４教科を教える何でも屋で重宝されています。,76575,,N4,1.0,0.61285836,0.8064291775226593,社会以外の４教科を教える何でも屋で重宝されています。,"(VERB_ROOT
+  (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) NUM_nummod ADP_case))","['社会', '以外', 'の', '４', '教科', 'を', '教える', '何', 'で', 'も', '屋', 'で', '重宝', 'さ', 'れ', 'て', 'い', 'ます', '。']",1.0,0.9352813852813852,0.9676406926406926,0.887034935081676,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N4
+本当に社会の事がよく見えるようになるんです。,129206,,N4,1.0,0.73259515,0.866297572851181,本当に社会の事がよく見えるようになるんです。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    ADV_advmod
+    AUX_aux
+    AUX_aux)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['本当', 'に', '社会', 'の', '事', 'が', 'よく', '見える', 'よう', 'に', 'なる', 'ん', 'です', '。']",0.8913247561217962,0.9282386867790596,0.9097817214504278,0.8880396471508044,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N4
+ますますマトモな社会生活が難しくなりますね。,8024,,N4,1.0,0.6591625,0.8295812606811523,ますますマトモな社会生活が難しくなりますね。,"(VERB_ROOT
+  (ADJ_advcl
+    ADV_advmod
+    (NOUN_nsubj (ADJ_acl AUX_aux) NOUN_compound ADP_case))
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['ますます', 'マトモ', 'な', '社会', '生活', 'が', '難しく', 'なり', 'ます', 'ね', '。']",0.8499982603003173,0.9247023809523808,0.8873503206263491,0.8584657906537507,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N4
+今回は、随分、日本社会に批判的な文章になってしまいました…。,101049,,N4,1.0,0.6962694,0.8481346964836121,今回は、随分、日本社会に批判的な文章になってしまいました…。,"(VERB_ROOT
+  (NOUN_obl ADP_case PUNCT_punct)
+  (ADV_advmod PUNCT_punct)
+  (NOUN_obl
+    (ADJ_acl (NOUN_obl PROPN_compound ADP_case) AUX_cop)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  SYM_dep
+  PUNCT_punct)","['今回', 'は', '、', '随分', '、', '日本', '社会', 'に', '批判的', 'な', '文章', 'に', 'なっ', 'て', 'しまい', 'まし', 'た', '…', '。']",0.7801191701859203,0.9143431406089634,0.8472311553974419,0.847682925940527,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N4
+半分英語、半分社会のような時間です。,126375,,N4,1.0,0.64736944,0.8236847221851349,半分英語、半分社会のような時間です。,"(NOUN_ROOT
+  (NOUN_nmod ADV_advmod PUNCT_punct)
+  (NOUN_acl (NOUN_nmod ADV_advmod ADP_case) AUX_cop)
+  AUX_cop
+  PUNCT_punct)","['半分', '英語', '、', '半分', '社会', 'の', 'よう', 'な', '時間', 'です', '。']",0.790536823590708,0.8966269841269842,0.8435819038588461,0.8336333130219905,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N4

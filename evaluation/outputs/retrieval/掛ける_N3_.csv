@@ -1,0 +1,107 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+罪人はおとなしく椅子に腰を掛ける。,-1,7774.0,N3,1.0,0.0,0.5,罪人はおとなしく椅子に腰を掛ける。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADJ_advcl
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['罪人', 'は', 'おとなしく', '椅子', 'に', '腰', 'を', '掛ける', '。']",,,,,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N3
+応接間の椅子の中に人間が潜んでいて、その上に男や女が腰を掛けたら怖いだろうな」と閃いたという。,6536810,,N3,1.0,0.768085,0.884042501449585,応接間の椅子の中に人間が潜んでいて、その上に男や女が腰を掛けたら怖いだろうな」と閃いたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (ADJ_advcl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl
+            (NOUN_nmod (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+            ADP_case)
+          (NOUN_nsubj ADP_case)
+          (SCONJ_mark VERB_fixed)
+          SCONJ_mark
+          PUNCT_punct)
+        (NOUN_obl DET_det ADP_case)
+        (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+        (NOUN_obj ADP_case)
+        AUX_aux)
+      AUX_aux
+      PART_mark
+      PUNCT_punct
+      ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['応接', '間', 'の', '椅子', 'の', '中', 'に', '人間', 'が', '潜ん', 'で', 'い', 'て', '、', 'その', '上', 'に', '男', 'や', '女', 'が', '腰', 'を', '掛け', 'たら', '怖い', 'だろう', 'な', '」', 'と', '閃い', 'た', 'と', 'いう', '。']",0.7624391850730681,0.9429112554112554,0.8526752202421617,0.8683588608458733,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N3
+彼はこれを両手で祝福し、副輔祭が主教にパナギアを手渡し、主教はパナギアに接吻してこれを首に掛ける。,6791263,,N3,1.0,0.8020556,0.9010277986526488,彼はこれを両手で祝福し、副輔祭が主教にパナギアを手渡し、主教はパナギアに接吻してこれを首に掛ける。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (PRON_nsubj ADP_case)
+      (PRON_obj ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_nsubj NOUN_compound NOUN_compound ADP_case)
+    (NOUN_obl ADP_case)
+    (PROPN_obj ADP_case)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (PROPN_obl ADP_case)
+    AUX_aux
+    SCONJ_mark)
+  (PRON_obj ADP_case)
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['彼', 'は', 'これ', 'を', '両手', 'で', '祝福', 'し', '、', '副', '輔', '祭', 'が', '主教', 'に', 'パナギア', 'を', '手渡し', '、', '主教', 'は', 'パナギア', 'に', '接吻', 'し', 'て', 'これ', 'を', '首', 'に', '掛ける', '。']",0.6754382748308412,0.8976207642393655,0.7865295195351034,0.8437786590938762,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N3
+また、鎌倉時代に日蓮一行7人が布教のためこの地を訪れた際に道端の7つの石に腰を掛け休憩したことから名づけられたという説も伝えられる。,7873697,,N3,1.0,0.7004369,0.8502184450626373,また、鎌倉時代に日蓮一行7人が布教のためこの地を訪れた際に道端の7つの石に腰を掛け休憩したことから名づけられたという説も伝えられる。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obl PROPN_compound ADP_case)
+          (NOUN_nsubj
+            NOUN_compound
+            NOUN_compound
+            NUM_nummod
+            ADP_case
+            (VERB_dep
+              (NOUN_obl (NOUN_nmod ADP_case))
+              (NOUN_obj DET_det ADP_case)
+              AUX_aux
+              (NOUN_case ADP_fixed)))
+          (NOUN_obl
+            (NOUN_nmod ADP_case)
+            (NOUN_nmod NUM_nummod ADP_case)
+            ADP_case)
+          (NOUN_obj ADP_case)
+          VERB_advcl
+          AUX_aux
+          AUX_aux)
+        ADP_case)
+      AUX_aux
+      AUX_aux
+      (ADP_case VERB_fixed))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['また', '、', '鎌倉', '時代', 'に', '日蓮', '一行', '7', '人', 'が', '布教', 'の', 'ため', 'この', '地', 'を', '訪れ', 'た', '際', 'に', '道端', 'の', '7', 'つ', 'の', '石', 'に', '腰', 'を', '掛け', '休憩', 'し', 'た', 'こと', 'から', '名づけ', 'られ', 'た', 'と', 'いう', '説', 'も', '伝え', 'られる', '。']",0.7258894833656357,0.8770952610453817,0.8014923722055087,0.825855408634073,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N3
+老人はベンチに腰を掛けている。,303041,,N3,1.0,0.80933815,0.9046690762043,老人はベンチに腰を掛けている。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['老人', 'は', 'ベンチ', 'に', '腰', 'を', '掛け', 'て', 'いる', '。']",0.66064975722296,0.8607270201873447,0.7606883887051523,0.8326787324547261,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N3
+衆議院本会議の演説において、松浪健四郎が野次に激昂し、壇上からコップの水を掛けるという事件が起こった。,6271889,,N3,1.0,0.74249667,0.871248334646225,衆議院本会議の演説において、松浪健四郎が野次に激昂し、壇上からコップの水を掛けるという事件が起こった。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl
+          (NOUN_nmod NOUN_compound PROPN_compound ADP_case)
+          (ADP_case VERB_fixed SCONJ_fixed)
+          PUNCT_punct)
+        (NOUN_nsubj PROPN_compound ADP_case)
+        (NOUN_obl ADP_case)
+        AUX_aux
+        PUNCT_punct)
+      (NOUN_obl ADP_case)
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      (ADP_case VERB_fixed))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['衆議', '院本', '会議', 'の', '演説', 'に', 'おい', 'て', '、', '松浪', '健四郎', 'が', '野次', 'に', '激昂', 'し', '、', '壇上', 'から', 'コップ', 'の', '水', 'を', '掛ける', 'と', 'いう', '事件', 'が', '起こっ', 'た', '。']",0.6616278409134988,0.8547809829059829,0.7582044119097409,0.8147263732779829,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N3

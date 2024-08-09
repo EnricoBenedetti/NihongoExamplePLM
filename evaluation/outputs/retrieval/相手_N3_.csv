@@ -1,0 +1,86 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,-1,20001.0,N2,0.6,0.0,0.3,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    NOUN_compound
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['また', '、', '東西', 'お', '互い', 'に', '相手', 'を', '非難', 'する', 'プロパガンダ', '放送', 'を', '流し合っ', 'て', 'い', 'た', '。']",,,,,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11,A
+イスマーイールとシャイバーニー朝の君主ムハンマド・シャイバーニーは、書簡を通して互いに相手の信仰を非難しあい、1510年の秋にイスマーイールはホラーサーン地方に進軍した。,2600027,,N3,1.0,0.7827294,0.8913646936416626,イスマーイールとシャイバーニー朝の君主ムハンマド・シャイバーニーは、書簡を通して互いに相手の信仰を非難しあい、1510年の秋にイスマーイールはホラーサーン地方に進軍した。,(NOUN_ROOT (NOUN_nmod ADP_case)),"['イスマーイール', 'と', 'シャイ', 'バーニー', '朝', 'の', '君主', 'ムハンマド', '・', 'シャイ', 'バーニー', 'は', '、', '書簡', 'を', '通し', 'て', '互い', 'に', '相手', 'の', '信仰', 'を', '非難', 'し', 'あい', '、', '1510', '年', 'の', '秋', 'に', 'イスマーイール', 'は', 'ホラーサーン', '地方', 'に', '進軍', 'し', 'た', '。']",1.0,0.8845416700456843,0.942270835022842,0.9168177643322524,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11,A
+ウクライナにおいては相手を罵倒する表現として「チェルノボグに殺されてしまえ」というものが残っている。,4645554,,N3,1.0,0.81924886,0.9096244275569916,ウクライナにおいては相手を罵倒する表現として「チェルノボグに殺されてしまえ」というものが残っている。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (PROPN_obl (ADP_case VERB_fixed SCONJ_fixed) ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    (ADP_case AUX_fixed SCONJ_fixed))
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl PUNCT_punct ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      PUNCT_punct
+      (ADP_case VERB_fixed))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['ウクライナ', 'に', 'おい', 'て', 'は', '相手', 'を', '罵倒', 'する', '表現', 'と', 'し', 'て', '「', 'チェルノボグ', 'に', '殺さ', 'れ', 'て', 'しまえ', '」', 'と', 'いう', 'もの', 'が', '残っ', 'て', 'いる', '。']",0.8659248870590384,0.8798723425068475,0.872898614782943,0.8912615211699673,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11,A
+宗教戦争では相手の宗教を冒涜し、罵倒することが行われる。,5913173,,N3,1.0,0.82307804,0.9115390181541444,宗教戦争では相手の宗教を冒涜し、罵倒することが行われる。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl NOUN_compound ADP_case ADP_case)
+        (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+        AUX_aux
+        PUNCT_punct)
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['宗教', '戦争', 'で', 'は', '相手', 'の', '宗教', 'を', '冒涜', 'し', '、', '罵倒', 'する', 'こと', 'が', '行わ', 'れる', '。']",0.79874081247167,0.8668995900246891,0.8328202012481796,0.8721796097011619,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11,A
+戦争終結後、双方が捕虜を拘束し続けているとして相手を非難した。,3253499,,N3,1.0,0.8275842,0.9137921035289764,戦争終結後、双方が捕虜を拘束し続けているとして相手を非難した。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl NOUN_compound NOUN_compound PUNCT_punct)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux
+      VERB_advcl
+      (SCONJ_mark VERB_fixed)
+      ADP_case)
+    SCONJ_mark)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['戦争', '終結', '後', '、', '双方', 'が', '捕虜', 'を', '拘束', 'し', '続け', 'て', 'いる', 'と', 'し', 'て', '相手', 'を', '非難', 'し', 'た', '。']",0.7544984049519277,0.8337601841325617,0.7941292945422447,0.8539606990356106,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11,A
+イギリスや、それと文化的なつながりの深い地域の人々の間では、手のひらを自分の方に向ける形でこのサインを示し、相手への敵対、挑発のジェスチャーとする。,5312309,,N3,1.0,0.79131025,0.8956551253795624,イギリスや、それと文化的なつながりの深い地域の人々の間では、手のひらを自分の方に向ける形でこのサインを示し、相手への敵対、挑発のジェスチャーとする。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod
+        (PROPN_nmod ADP_case PUNCT_punct)
+        (NOUN_nmod
+          (ADJ_acl
+            (NOUN_nmod
+              (ADJ_acl (PRON_nmod ADP_case) AUX_cop)
+              ADP_case))
+          ADP_case)
+        ADP_case)
+      ADP_case
+      ADP_case
+      PUNCT_punct)
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_obj ADP_case)
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+      ADP_case)
+    (NOUN_obj DET_det ADP_case)
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_nmod ADP_case ADP_case) PUNCT_punct)
+    (NOUN_nmod ADP_case)
+    ADP_case)
+  PUNCT_punct)","['イギリス', 'や', '、', 'それ', 'と', '文化的', 'な', 'つながり', 'の', '深い', '地域', 'の', '人々', 'の', '間', 'で', 'は', '、', '手のひら', 'を', '自分', 'の', '方', 'に', '向ける', '形', 'で', 'この', 'サイン', 'を', '示し', '、', '相手', 'へ', 'の', '敵対', '、', '挑発', 'の', 'ジェスチャー', 'と', 'する', '。']",0.732136339938329,0.8420054567522293,0.7870708983452792,0.8413630118624208,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N3,11,A

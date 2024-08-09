@@ -1,0 +1,67 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分の将来の目的に向かってバリバリ勉強していた。,-1,82.0,N2,0.1999999999999999,0.0,0.0999999999999999,自分の将来の目的に向かってバリバリ勉強していた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    SCONJ_mark)
+  ADV_advmod
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['自分', 'の', '将来', 'の', '目的', 'に', '向かっ', 'て', 'バリバリ', '勉強', 'し', 'て', 'い', 'た', '。']",,,,,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N4
+バリバリの受験生です。,392682,,N5,0.8,0.6906273,0.7453136384487152,バリバリの受験生です。,(NOUN_ROOT (ADV_advmod ADP_case) AUX_cop PUNCT_punct),"['バリバリ', 'の', '受験生', 'です', '。']",0.6666666666666667,0.9375,0.8020833333333334,0.7736984858910243,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N4
+のちに漫画バリバリ伝説でも雨の糟野として描かれている。,11931007,,N4,1.0,0.45710623,0.7285531163215637,のちに漫画バリバリ伝説でも雨の糟野として描かれている。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_obl (NOUN_obl ADP_case))
+    ADV_advmod
+    ADP_case
+    ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) (ADP_case AUX_fixed SCONJ_fixed))
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['のち', 'に', '漫画', 'バリバリ', '伝説', 'で', 'も', '雨', 'の', '糟野', 'と', 'し', 'て', '描か', 'れ', 'て', 'いる', '。']",0.6170679876707832,0.9139097744360902,0.7654888810534367,0.7470209986875003,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N4
+節子は車の知識を身につけ、セールスレディとしてバリバリ仕事をして、会社で優秀な営業成績を上げる。,8350319,,N3,0.6,0.7327161,0.6663580417633057,節子は車の知識を身につけ、セールスレディとしてバリバリ仕事をして、会社で優秀な営業成績を上げる。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obl ADP_case)
+      PUNCT_punct)
+    (NOUN_obl (ADP_case AUX_fixed SCONJ_fixed))
+    ADV_advmod
+    (NOUN_obj ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obj
+    (ADJ_acl (NOUN_obl ADP_case) AUX_aux)
+    NOUN_compound
+    ADP_case)
+  PUNCT_punct)","['節子', 'は', '車', 'の', '知識', 'を', '身', 'に', 'つけ', '、', 'セールスレディ', 'と', 'し', 'て', 'バリバリ', '仕事', 'を', 'し', 'て', '、', '会社', 'で', '優秀', 'な', '営業', '成績', 'を', '上げる', '。']",0.668295962666586,0.8826378599335847,0.7754669113000854,0.7209124765316955,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N4
+と尋ねると、「バリバリ、インタビューの練習をしてました」と述べ、観客の大爆笑を誘っている。,8370695,,N3,0.6,0.73587084,0.6679354190826416,と尋ねると、「バリバリ、インタビューの練習をしてました」と述べ、観客の大爆笑を誘っている。,"(VERB_ROOT
+  ADP_dep
+  (VERB_advcl SCONJ_mark PUNCT_punct)
+  (VERB_advcl
+    (VERB_ccomp
+      (ADV_advmod PUNCT_punct PUNCT_punct)
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      PUNCT_punct
+      ADP_case)
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['と', '尋ねる', 'と', '、', '「', 'バリバリ', '、', 'インタビュー', 'の', '練習', 'を', 'し', 'て', 'まし', 'た', '」', 'と', '述べ', '、', '観客', 'の', '大爆笑', 'を', '誘っ', 'て', 'いる', '。']",0.6710473499519715,0.8540884020354497,0.7625678759937106,0.715251647538176,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N4
+鳥越俊太郎さんもお元気なって、バリバリ現場取材なさってます。,46067,,N3,0.6,0.66463834,0.6323191702365876,鳥越俊太郎さんもお元気なって、バリバリ現場取材なさってます。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj PROPN_compound PROPN_compound ADP_case)
+    NOUN_compound
+    AUX_aux
+    ADP_case
+    PUNCT_punct)
+  ADV_advmod
+  VERB_compound
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['鳥越', '俊太郎', 'さん', 'も', 'お', '元気', 'な', 'って', '、', 'バリバリ', '現場', '取材', 'なさっ', 'て', 'ます', '。']",0.6844371670240461,0.8616214142999857,0.773029290662016,0.7026742304493018,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N4

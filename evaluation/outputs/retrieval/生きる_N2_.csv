@@ -1,0 +1,123 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,-1,15761.0,N1,0.6,0.0,0.3,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark)
+      (PRON_obj ADP_case)
+      PART_mark)
+    (NOUN_obj ADP_case)
+    (NOUN_compound ADP_fixed AUX_fixed)
+    AUX_aux
+    AUX_aux)
+  PUNCT_punct)","['私', 'は', 'この', '力', 'を', '以', 'て', '己れ', 'を', '鞭', 'ち', '他', 'を', '生きる', '事', 'が', '出来る', 'よう', 'に', '思う', '。']",,,,,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N2
+座右の銘は、漫画『最遊記』に登場する「無一物」から取った「何物にもとらわれず縛られずただあるがままに己を生きる」である。,8391498,,N2,1.0,0.8669236,0.9334617853164672,座右の銘は、漫画『最遊記』に登場する「無一物」から取った「何物にもとらわれず縛られずただあるがままに己を生きる」である。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obl
+            PUNCT_punct
+            NOUN_compound
+            NOUN_compound
+            NOUN_compound
+            PUNCT_punct
+            ADP_case)
+          AUX_aux)
+        PUNCT_punct
+        PUNCT_punct
+        ADP_case)
+      AUX_aux)
+    (VERB_advcl (NOUN_obl PUNCT_punct ADP_case ADP_case) AUX_aux)
+    AUX_aux
+    AUX_aux
+    (ADV_dep VERB_fixed)
+    ADP_case)
+  (NOUN_obl ADP_case)
+  (PRON_obj ADP_case)
+  PUNCT_punct
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['座右', 'の', '銘', 'は', '、', '漫画', '『', '最', '遊', '記', '』', 'に', '登場', 'する', '「', '無一物', '」', 'から', '取っ', 'た', '「', '何物', 'に', 'も', 'とらわれ', 'ず', '縛ら', 'れ', 'ず', 'ただ', 'ある', 'が', 'まま', 'に', '己', 'を', '生きる', '」', 'で', 'ある', '。']",0.8038076761192295,0.9393817204301076,0.8715946982746685,0.902528241795568,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N2
+鏡子はすでに「人生という邪教」を生きる決意をしている。,7163226,,N2,1.0,0.8146746,0.9073373079299928,鏡子はすでに「人生という邪教」を生きる決意をしている。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_nmod PUNCT_punct (ADP_case VERB_fixed))
+        PUNCT_punct
+        ADP_case))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['鏡子', 'は', 'すでに', '「', '人生', 'と', 'いう', '邪教', '」', 'を', '生きる', '決意', 'を', 'し', 'て', 'いる', '。']",0.7933761829060314,0.923800799467022,0.8585884911865267,0.8829628995582597,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N2
+この勝手に湧いてくる雑念から離れ、無の状態に近づける、今ここを生きることを助けるのがジブリッシュの大きな特徴である。,11673694,,N2,1.0,0.84470886,0.9223544299602509,この勝手に湧いてくる雑念から離れ、無の状態に近づける、今ここを生きることを助けるのがジブリッシュの大きな特徴である。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_csubj
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl
+            (VERB_acl
+              (NOUN_advcl DET_det AUX_aux)
+              (SCONJ_mark VERB_fixed))
+            ADP_case)
+          PUNCT_punct)
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+        PUNCT_punct)
+      (NOUN_obj (VERB_acl ADV_advmod (PRON_obj ADP_case)) ADP_case)
+      SCONJ_mark
+      ADP_case)
+    ADP_case)
+  ADJ_amod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['この', '勝手', 'に', '湧い', 'て', 'くる', '雑念', 'から', '離れ', '、', '無', 'の', '状態', 'に', '近づける', '、', '今', 'ここ', 'を', '生きる', 'こと', 'を', '助ける', 'の', 'が', 'ジブリッシュ', 'の', '大きな', '特徴', 'で', 'ある', '。']",0.763693766169957,0.8980527347054885,0.8308732504377228,0.8766138401989868,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N2
+新しい通信技術の開発に従事するなかで「人生いかに生きるべきか」について思い悩み、そこにおいて松前重義は内村鑑三の思想と人類の救済を説く情熱的な訴えに深く感銘した。,1202457,,N2,1.0,0.83021516,0.9151075780391692,新しい通信技術の開発に従事するなかで「人生いかに生きるべきか」について思い悩み、そこにおいて松前重義は内村鑑三の思想と人類の救済を説く情熱的な訴えに深く感銘した。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obl
+            (NOUN_nmod ADJ_acl NOUN_compound ADP_case)
+            ADP_case)
+          AUX_aux)
+        ADP_case)
+      (VERB_advcl
+        (ADV_advmod (NOUN_obl PUNCT_punct))
+        AUX_aux
+        PART_mark
+        PUNCT_punct
+        (ADP_case VERB_fixed SCONJ_fixed))
+      PUNCT_punct)
+    (PRON_obl (ADP_case VERB_fixed SCONJ_fixed))
+    (PROPN_nsubj PROPN_compound ADP_case)
+    (NOUN_obj
+      (NOUN_nmod (PROPN_nmod PROPN_compound ADP_case) ADP_case)
+      (NOUN_nmod ADP_case)
+      ADP_case))
+  (NOUN_obl (ADJ_acl AUX_cop) ADP_case)
+  ADJ_advcl
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['新しい', '通信', '技術', 'の', '開発', 'に', '従事', 'する', 'なか', 'で', '「', '人生', 'いかに', '生きる', 'べき', 'か', '」', 'に', 'つい', 'て', '思い悩み', '、', 'そこ', 'に', 'おい', 'て', '松前', '重義', 'は', '内村', '鑑三', 'の', '思想', 'と', '人類', 'の', '救済', 'を', '説く', '情熱的', 'な', '訴え', 'に', '深く', '感銘', 'し', 'た', '。']",0.7411243581656324,0.8926699382252123,0.8168971481954224,0.8660023631172958,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N2
+一方、リョーヴィンは、キティとの間に子供をもうけ、領地で幸せな家庭を築き、人は他人や神のために生きるべきものだという思いに至る。,4681606,,N2,1.0,0.83548295,0.9177414774894714,一方、リョーヴィンは、キティとの間に子供をもうけ、領地で幸せな家庭を築き、人は他人や神のために生きるべきものだという思いに至る。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_nsubj
+    ADP_case
+    PUNCT_punct
+    (NOUN_dep
+      (VERB_acl
+        (VERB_advcl
+          (VERB_advcl
+            (NOUN_obl (PROPN_nmod ADP_case ADP_case) ADP_case)
+            (NOUN_obj ADP_case)
+            PUNCT_punct)
+          (NOUN_obj (ADJ_acl (NOUN_obl ADP_case) AUX_aux) ADP_case)
+          PUNCT_punct)
+        (NOUN_nsubj ADP_case)
+        (NOUN_obl (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+        AUX_aux)
+      AUX_cop
+      (ADP_case VERB_fixed)))
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['一方', '、', 'リョーヴィン', 'は', '、', 'キティ', 'と', 'の', '間', 'に', '子供', 'を', 'もうけ', '、', '領地', 'で', '幸せ', 'な', '家庭', 'を', '築き', '、', '人', 'は', '他人', 'や', '神', 'の', 'ため', 'に', '生きる', 'べき', 'もの', 'だ', 'と', 'いう', '思い', 'に', '至る', '。']",0.7146002193998002,0.8839899951393108,0.7992951072695555,0.8585182923795135,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N2

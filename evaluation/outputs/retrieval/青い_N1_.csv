@@ -1,0 +1,63 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,-1,3936.0,N3,0.6,0.0,0.3,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj ADP_case) AUX_aux ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADJ_amod ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADJ_acl ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['クリスタル', 'を', '取得', 'する', 'と', '以降', 'は', '同じ', '位置', 'に', '青い', '星', 'の', 'かけら', 'が', '配置', 'さ', 'れる', '。']",,,,,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N1
+にあるスミソニアン博物館に仮設された同社の社名を冠した展示場にて、世界最大の青いダイヤモンド、ホープダイヤモンドに隣あわせて陳列、展示された。,8331257,,N1,1.0,0.68250716,0.8412535786628723,にあるスミソニアン博物館に仮設された同社の社名を冠した展示場にて、世界最大の青いダイヤモンド、ホープダイヤモンドに隣あわせて陳列、展示された。,ADP_ROOT,"['に', 'ある', 'スミソニアン', '博物館', 'に', '仮設', 'さ', 'れ', 'た', '同社', 'の', '社名', 'を', '冠し', 'た', '展示場', 'にて', '、', '世界', '最大', 'の', '青い', 'ダイヤモンド', '、', 'ホープ', 'ダイヤモンド', 'に', '隣', 'あわせ', 'て', '陳列', '、', '展示', 'さ', 'れ', 'た', '。']",1.0,0.914504477004477,0.9572522385022384,0.8992529085825554,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N1
+ナザール・ボンジュウという青い目玉のお守りを身に着けたり、飛行機に塗装するなりの厄祓いがみられる。,5949915,,N1,1.0,0.8083199,0.9041599631309508,ナザール・ボンジュウという青い目玉のお守りを身に着けたり、飛行機に塗装するなりの厄祓いがみられる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj
+      (NOUN_nmod
+        (NOUN_nmod NOUN_compound SYM_compound (ADP_case VERB_fixed))
+        ADJ_amod
+        ADP_case)
+      ADP_case)
+    (NOUN_obl ADP_case)
+    PART_mark
+    PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod (VERB_acl (NOUN_obl ADP_case) AUX_aux) ADP_case)
+    NOUN_compound
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ナザール', '・', 'ボンジュウ', 'と', 'いう', '青い', '目玉', 'の', 'お守り', 'を', '身', 'に', '着け', 'たり', '、', '飛行機', 'に', '塗装', 'する', 'なり', 'の', '厄', '祓い', 'が', 'み', 'られる', '。']",0.8568924613904959,0.9091779455484276,0.8830352034694617,0.8935975833002063,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N1
+写真は見るからに青い炎の理沙である。,31370,,N1,1.0,0.7516273,0.8758136630058289,写真は見るからに青い炎の理沙である。,"(NOUN_ROOT
+  (NOUN_nsubj ADP_case)
+  (VERB_obl SCONJ_mark ADP_case)
+  (NOUN_nmod ADJ_acl ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['写真', 'は', '見る', 'から', 'に', '青い', '炎', 'の', '理沙', 'で', 'ある', '。']",0.8168636828130492,0.902042573276693,0.8594531280448712,0.86763339552535,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N1
+また、オリジナルのワドルディはコピーと区別するために青いバンダナを頭に巻き、ゲームに於ける「バンダナワドルディ」になった。,3045475,,N1,1.0,0.79249966,0.8962498307228088,また、オリジナルのワドルディはコピーと区別するために青いバンダナを頭に巻き、ゲームに於ける「バンダナワドルディ」になった。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (VERB_advcl
+    (NOUN_nsubj (ADJ_nmod ADP_case) ADP_case)
+    (VERB_advcl (NOUN_obl ADP_case) AUX_aux (SCONJ_mark SCONJ_fixed))
+    (NOUN_obj ADJ_amod ADP_case)
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (VERB_advcl (NOUN_obl ADP_case) AUX_aux)
+  (NOUN_obl PUNCT_punct PUNCT_punct ADP_case)
+  AUX_aux
+  PUNCT_punct)","['また', '、', 'オリジナル', 'の', 'ワドルディ', 'は', 'コピー', 'と', '区別', 'する', 'ため', 'に', '青い', 'バンダナ', 'を', '頭', 'に', '巻き', '、', 'ゲーム', 'に', '於け', 'る', '「', 'バンダナワドルディ', '」', 'に', 'なっ', 'た', '。']",0.7769894591468735,0.893409420289855,0.8351994397183642,0.8657246352205865,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N1
+魔法のような青い光に輝く、この上なく美しいこの場所は、ユンタにとって聖なる空間だ。,9113013,,N1,1.0,0.7410865,0.8705432415008545,魔法のような青い光に輝く、この上なく美しいこの場所は、ユンタにとって聖なる空間だ。,"(NOUN_ROOT
+  (NOUN_nsubj
+    (ADJ_acl
+      (ADJ_advcl
+        (VERB_advcl
+          (NOUN_obl
+            (NOUN_acl (NOUN_nmod ADP_case) AUX_cop)
+            ADJ_acl
+            ADP_case)
+          PUNCT_punct)
+        (NOUN_obl DET_det)))
+    DET_det
+    ADP_case
+    PUNCT_punct)
+  (NOUN_acl (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed)) AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['魔法', 'の', 'よう', 'な', '青い', '光', 'に', '輝く', '、', 'この', '上', 'なく', '美しい', 'この', '場所', 'は', '、', 'ユンタ', 'に', 'とっ', 'て', '聖', 'なる', '空間', 'だ', '。']",0.7536714681455602,0.8952098882665962,0.8244406782060782,0.8474919598534664,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N1

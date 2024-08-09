@@ -1,0 +1,52 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+成東の停車場をおりて、町形をした家並みを出る。,-1,20001.0,N1,0.6,0.0,0.3,成東の停車場をおりて、町形をした家並みを出る。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_obj (PROPN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl (NOUN_obj NOUN_compound ADP_case) AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['成東', 'の', '停車場', 'を', 'おり', 'て', '、', '町', '形', 'を', 'し', 'た', '家並み', 'を', '出る', '。']",,,,,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N2
+東大阪市の市役所、大阪府立中央図書館の最寄り駅の荒本駅を過ぎると地上に出る。,1371313,,N2,1.0,0.7867412,0.8933705985546112,東大阪市の市役所、大阪府立中央図書館の最寄り駅の荒本駅を過ぎると地上に出る。,"(NOUN_ROOT
+  (NOUN_nmod (PROPN_nmod ADP_case) PUNCT_punct)
+  PROPN_compound
+  NOUN_compound)","['東大阪市', 'の', '市役所', '、', '大阪', '府', '立', '中央', '図書館', 'の', '最寄り', '駅', 'の', '荒本駅', 'を', '過ぎる', 'と', '地上', 'に', '出る', '。']",0.9237517986143834,0.932046332046332,0.9278990653303576,0.9106348319424844,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N2
+概ね徒歩約5分前後で西大通りに出る。,1419056,,N2,1.0,0.78173864,0.8908693194389343,概ね徒歩約5分前後で西大通りに出る。,"(VERB_ROOT
+  ADV_advmod
+  (NOUN_obl
+    NOUN_compound
+    NOUN_compound
+    NUM_compound
+    NOUN_compound
+    ADP_case)
+  (NOUN_obl PROPN_compound ADP_case)
+  PUNCT_punct)","['概ね', '徒歩', '約', '5', '分', '前後', 'で', '西大', '通り', 'に', '出る', '。']",0.8912505995381278,0.9166572088896224,0.9039539042138752,0.8974116118264047,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N2
+薩摩布計駅を出ると通っていた山野川橋梁、堂原隧道、柴尾隧道は残存している。,1850103,,N2,1.0,0.75147855,0.8757392764091492,薩摩布計駅を出ると通っていた山野川橋梁、堂原隧道、柴尾隧道は残存している。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obj PROPN_compound NOUN_compound NOUN_compound ADP_case)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux)","['薩摩', '布', '計', '駅', 'を', '出る', 'と', '通っ', 'て', 'い', 'た', '山野川', '橋梁', '、', '堂原', '隧道', '、', '柴尾', '隧道', 'は', '残存', 'し', 'て', 'いる', '。']",0.918656230409114,0.9008453258453258,0.90975077812722,0.8927450272681845,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N2
+荒尾駅を出ると、国道208号が接近する付近から左手に市道が分岐していくのが見えるが、これは荒尾市営電気鉄道の跡である。,836889,,N2,1.0,0.788271,0.8941355049610138,荒尾駅を出ると、国道208号が接近する付近から左手に市道が分岐していくのが見えるが、これは荒尾市営電気鉄道の跡である。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark PUNCT_punct)
+    (VERB_csubj
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_nsubj NOUN_compound NUM_nummod ADP_case)
+          AUX_aux)
+        ADP_case)
+      (NOUN_obl ADP_case)
+      (NOUN_nsubj ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      SCONJ_mark
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (PRON_nsubj ADP_case)
+  (NOUN_nmod PROPN_compound PROPN_compound NOUN_compound ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['荒尾駅', 'を', '出る', 'と', '、', '国道', '208', '号', 'が', '接近', 'する', '付近', 'から', '左手', 'に', '市道', 'が', '分岐', 'し', 'て', 'いく', 'の', 'が', '見える', 'が', '、', 'これ', 'は', '荒尾', '市営', '電気', '鉄道', 'の', '跡', 'で', 'ある', '。']",0.89103009193512,0.8884499808981408,0.8897400364166304,0.8919377706888221,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N2
+同駅を出ると進行方向右手には舞鶴若狭自動車道の若狭美浜インターチェンジが見えてくる。,813608,,N2,1.0,0.79343444,0.8967172205448151,同駅を出ると進行方向右手には舞鶴若狭自動車道の若狭美浜インターチェンジが見えてくる。,(NOUN_ROOT (VERB_acl (NOUN_obj ADP_case) SCONJ_case) NOUN_compound),"['同駅', 'を', '出る', 'と', '進行', '方向', '右手', 'に', 'は', '舞鶴', '若狭', '自動車道', 'の', '若狭', '美浜', 'インターチェンジ', 'が', '見え', 'て', 'くる', '。']",0.8785855595163627,0.8811958874458875,0.8798907234811251,0.8883039720129701,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N2

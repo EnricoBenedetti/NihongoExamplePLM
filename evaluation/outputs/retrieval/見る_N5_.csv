@@ -1,0 +1,41 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,-1,20001.0,N2,0.0,0.0,0.0,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,"(VERB_ROOT
+  (ADJ_advcl
+    (VERB_advcl
+      (NOUN_nsubj NOUN_compound ADP_case)
+      (NOUN_obj (NOUN_nmod NUM_compound ADP_case) ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (ADJ_advcl AUX_aux)
+    (NOUN_nsubj ADP_case))
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['婆', 'さん', 'は', '三百', '弗', 'の', '小切手', 'を', '見る', 'と', '、', '急', 'に', '愛想', 'が', 'よく', 'なり', 'まし', 'た', '。']",,,,,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N5
+値札を見て。,345215,,N5,1.0,0.71496725,0.8574836254119873,値札を見て。,(VERB_ROOT (NOUN_obj ADP_case) SCONJ_mark PUNCT_punct),"['値札', 'を', '見', 'て', '。']",0.6729851836310976,0.98,0.8264925918155488,0.841988108613768,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N5
+この辺で茶色い財布を見ませんでしたか。,285649,,N5,1.0,0.6691028,0.8345513939857483,この辺で茶色い財布を見ませんでしたか。,"(VERB_ROOT
+  (NOUN_obl DET_det ADP_case)
+  (NOUN_obj ADJ_acl ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['この', '辺', 'で', '茶色い', '財布', 'を', '見', 'ませ', 'ん', 'でし', 'た', 'か', '。']",0.6698259251488821,0.9533834586466166,0.8116046918977493,0.8230780429417488,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N5
+君が昨日買った絵、見ていい？,358059,,N5,1.0,0.65140116,0.825700581073761,君が昨日買った絵、見ていい？,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl (PRON_nsubj ADP_case) ADV_advmod AUX_aux)
+      PUNCT_punct)
+    SCONJ_mark)
+  PUNCT_punct)","['君', 'が', '昨日', '買っ', 'た', '絵', '、', '見', 'て', 'いい', '？']",0.7060608910652457,0.9327664399092972,0.8194136654872715,0.8225571232805162,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N5
+あなた、鏡で私のカードを見たでしょ！,342687,,N5,1.0,0.69820917,0.8491045832633972,あなた、鏡で私のカードを見たでしょ！,"(VERB_ROOT
+  (PRON_obl PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obj (PRON_nmod ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['あなた', '、', '鏡', 'で', '私', 'の', 'カード', 'を', '見', 'た', 'でしょ', '！']",0.6582406270048113,0.916935011709602,0.7875878193572066,0.8183462013103019,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N5
+目の前の貼り紙を見て。,398359,,N5,1.0,0.7112069,0.8556034564971924,目の前の貼り紙を見て。,"(VERB_ROOT
+  (NOUN_obj (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+  SCONJ_mark
+  PUNCT_punct)","['目', 'の', '前', 'の', '貼り紙', 'を', '見', 'て', '。']",0.6454995669905113,0.8809912608942781,0.7632454139423948,0.8094244352197936,1,婆さんは三百弗の小切手を見ると、急に愛想がよくなりました。,見る,N5

@@ -1,0 +1,41 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+学校の外では「広場の王様」とあだ名されたという。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,学校の外では「広場の王様」とあだ名されたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    (NOUN_obl (NOUN_nmod PUNCT_punct ADP_case) PUNCT_punct ADP_case)
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['学校', 'の', '外', 'で', 'は', '「', '広場', 'の', '王様', '」', 'と', 'あだ名', 'さ', 'れ', 'た', 'と', 'いう', '。']",,,,,1,学校の外では「広場の王様」とあだ名されたという。,外,N5
+天気の良い日は、本を持って、外に出てみませんか。,139295,,N5,1.0,0.6612225,0.8306112587451935,天気の良い日は、本を持って、外に出てみませんか。,"(VERB_ROOT
+  (NOUN_obl (ADJ_acl (NOUN_nmod ADP_case)) ADP_case PUNCT_punct)
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['天気', 'の', '良い', '日', 'は', '、', '本', 'を', '持っ', 'て', '、', '外', 'に', '出', 'て', 'み', 'ませ', 'ん', 'か', '。']",0.8455292089220174,0.9473684210526316,0.8964488149873245,0.8635300368662591,1,学校の外では「広場の王様」とあだ名されたという。,外,N5
+外はひどい雨ですね。,129494,,N5,1.0,0.6443119,0.8221559524536133,外はひどい雨ですね。,"(NOUN_ROOT
+  (NOUN_nsubj ADP_case)
+  ADJ_acl
+  AUX_cop
+  PART_mark
+  PUNCT_punct)","['外', 'は', 'ひどい', '雨', 'です', 'ね', '。']",0.7806741287747866,0.9388888888888888,0.8597815088318377,0.8409687306427255,1,学校の外では「広場の王様」とあだ名されたという。,外,N5
+家の外で待っていてください。,253088,,N5,1.0,0.7257629,0.8628814518451691,家の外で待っていてください。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['家', 'の', '外', 'で', '待っ', 'て', 'い', 'て', 'ください', '。']",0.7453251072490705,0.9076042022224752,0.8264646547357728,0.8446730532904709,1,学校の外では「広場の王様」とあだ名されたという。,外,N5
+たいてい外で飲み会をします。,269790,,N5,1.0,0.7041916,0.8520958125591278,たいてい外で飲み会をします。,"(VERB_ROOT
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['たいてい', '外', 'で', '飲み会', 'を', 'し', 'ます', '。']",0.7222449259263091,0.8990186510518325,0.8106317884890708,0.8313638005240993,1,学校の外では「広場の王様」とあだ名されたという。,外,N5
+外でも家でも叫びます。,96827,,N5,1.0,0.7147097,0.8573548495769501,外でも家でも叫びます。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_obl ADP_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['外', 'で', 'も', '家', 'で', 'も', '叫び', 'ます', '。']",0.6734111612119844,0.8758838383838384,0.7746474997979114,0.8160011746874307,1,学校の外では「広場の王様」とあだ名されたという。,外,N5

@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "no"
+2. Difficulty: N5; Sense: "similar"; Reject: "no"
+3. Difficulty: N4; Sense: "similar"; Reject: "no"
+4. Difficulty: N5; Sense: "similar"; Reject: "no"
+5. Difficulty: N4; Sense: "similar"; Reject: "no"
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "no"
+2. Difficulty: N5; Sense: "not similar"; Reject: "yes"
+3. Difficulty: N5; Sense: "similar"; Reject: "no"
+4. Difficulty: N5; Sense: "similar"; Reject: "no"
+5. Difficulty: N5; Sense: "not similar"; Reject: "yes"
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "no"
+2. Difficulty: N5; Sense: "similar"; Reject: "no"
+3. Difficulty: N5; Sense: "similar"; Reject: "no"
+4. Difficulty: N5; Sense: "similar"; Reject: "no"
+5. Difficulty: N5; Sense: "not similar"; Reject: "yes"
+Sentence diversity: Low
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides the most consistent use of the target word 出す at the N5 level, maintaining a close sense to the original context across most sentences, though it lacks diversity in sentence structure. System 1 offers a good variety of sentences but slightly ventures into N4 territory, which might be slightly advanced for N5 learners. System 2, while also providing sentences at the appropriate level, includes two sentences where the use of 出す does not maintain a similar sense to the target context, leading to its lower ranking.
+System 1 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N4; Sense: similar; Reject: No
+4. Difficulty: N4; Sense: similar; Reject: No
+5. Difficulty: N3; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N5; Sense: similar; Reject: No
+2. Difficulty: N5; Sense: not similar; Reject: Yes
+3. Difficulty: N4; Sense: similar; Reject: No
+4. Difficulty: N4; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: not similar; Reject: Yes
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N4; Sense: similar; Reject: No
+2. Difficulty: N5; Sense: similar; Reject: No
+3. Difficulty: N5; Sense: similar; Reject: No
+4. Difficulty: N5; Sense: similar; Reject: No
+5. Difficulty: N5; Sense: not similar; Reject: Yes
+Sentence diversity: Low
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides a good range of sentences that are mostly relevant to the target word "出す" and its usage in various contexts, suitable for learners at the N5 level and slightly above. System 3 also offers sentences that are closely related to the target word and its basic usage, making it useful for beginners, though it lacks diversity in sentence structure. System 2, while attempting to cover different uses, includes sentences that deviate from the target word's intended sense or are unnatural, reducing its overall usefulness for learners at the N5 level.
+System 1 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N4; Sense: "similar"; Reject: "No"
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "not similar"; Reject: "Yes"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "not similar"; Reject: "Yes"
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N5; Sense: "not similar"; Reject: "Yes"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "not similar"; Reject: "Yes"
+Sentence diversity: Low
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides a range of sentences that are closely related to the target word's use in the context sentence, with a good mix of scenarios where the word 出す is used naturally. System 2 also offers relevant sentences, but two of them do not maintain the sense similarity, making them less useful for learners at the N5 level. System 3 has the lowest diversity and includes sentences that are not similar in sense to the target context, reducing its usefulness for learners.

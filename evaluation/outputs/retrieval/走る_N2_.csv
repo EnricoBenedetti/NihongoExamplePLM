@@ -1,0 +1,73 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,-1,20001.0,N3,0.8,0.0,0.4,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod
+        (VERB_acl (PROPN_obl ADP_case) (SCONJ_mark VERB_fixed))
+        ADP_case)
+      ADP_case
+      PUNCT_punct)
+    (VERB_advcl (NOUN_nsubj ADP_case) SCONJ_mark)
+    (NOUN_obl ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['新之助', 'に', '向っ', 'て', 'いる', '輪', 'の', '中', 'から', '、', '一人', 'が', '抜け', 'て', '前方', 'に', '走ろう', 'と', 'し', 'た', '。']",,,,,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N2
+そろそろいきもうそ」と西郷軍は城山を出て走り出す。,10143832,,N2,1.0,0.7242054,0.8621026873588562,そろそろいきもうそ」と西郷軍は城山を出て走り出す。,"(VERB_ROOT
+  (NOUN_obl ADV_advmod (VERB_nsubj ADP_case) PUNCT_punct ADP_case)
+  (NOUN_nsubj PROPN_compound ADP_case)
+  (VERB_advcl (PROPN_obj ADP_case) SCONJ_mark)
+  AUX_advcl
+  PUNCT_punct)","['そろそろ', 'いき', 'も', 'うそ', '」', 'と', '西郷', '軍', 'は', '城山', 'を', '出', 'て', '走り', '出す', '。']",0.7479627003224828,0.9662162162162162,0.8570894582693496,0.8595960728141029,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N2
+ナネットはマデリンを抱き運んでいるところで、アラナは少し先を走っているところであった。,5256631,,N2,1.0,0.7724674,0.8862336874008179,ナネットはマデリンを抱き運んでいるところで、アラナは少し先を走っているところであった。,"(NOUN_ROOT
+  (PROPN_nsubj ADP_case)
+  (NOUN_acl
+    (VERB_acl
+      (PROPN_obj ADP_case)
+      VERB_advcl
+      (SCONJ_mark VERB_fixed))
+    AUX_cop
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (VERB_acl ADV_advmod (NOUN_obj ADP_case) (SCONJ_mark VERB_fixed))
+  (AUX_cop VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['ナネット', 'は', 'マデリン', 'を', '抱き', '運ん', 'で', 'いる', 'ところ', 'で', '、', 'アラナ', 'は', '少し', '先', 'を', '走っ', 'て', 'いる', 'ところ', 'で', 'あっ', 'た', '。']",0.7548888921473135,0.904442674340922,0.8296657832441177,0.8579497353224678,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N2
+決められた距離を直進した後、ゴールポスト、或いはフィールド中央へ向かって斜めに走る。,9079543,,N2,1.0,0.7625476,0.8812738060951233,決められた距離を直進した後、ゴールポスト、或いはフィールド中央へ向かって斜めに走る。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod
+        (NOUN_nmod
+          (VERB_acl
+            (NOUN_obj (VERB_acl AUX_aux AUX_aux) ADP_case)
+            AUX_aux
+            AUX_aux)
+          PUNCT_punct)
+        PUNCT_punct)
+      CCONJ_cc
+      NOUN_compound
+      ADP_case)
+    SCONJ_mark)
+  (NOUN_advcl AUX_cop)
+  PUNCT_punct)","['決め', 'られ', 'た', '距離', 'を', '直進', 'し', 'た', '後', '、', 'ゴールポスト', '、', '或いは', 'フィールド', '中央', 'へ', '向かっ', 'て', '斜め', 'に', '走る', '。']",0.735434626793707,0.8995185806517209,0.8174766037227139,0.8493752049089186,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N2
+馬はすさまじい速さで西へ走り続け、もはや捕まらないと思われた。,3668524,,N2,1.0,0.7915732,0.8957866132259369,馬はすさまじい速さで西へ走り続け、もはや捕まらないと思われた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl ADJ_advcl ADP_case)
+    (NOUN_obl ADP_case)
+    VERB_advcl
+    PUNCT_punct
+    (VERB_dep ADV_advmod AUX_aux ADP_case))
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['馬', 'は', 'すさまじい', '速さ', 'で', '西', 'へ', '走り', '続け', '、', 'もはや', '捕まら', 'ない', 'と', '思わ', 'れ', 'た', '。']",0.6947489481198699,0.8949940838864107,0.7948715160031403,0.8453290646145386,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N2
+と着陸準備中の機内を出口に向かって走り始めたことを記している。,9025725,,N2,1.0,0.7625177,0.8812588453292847,と着陸準備中の機内を出口に向かって走り始めたことを記している。,"(VERB_ROOT
+  ADP_dep
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+      (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+      VERB_advcl
+      AUX_aux)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['と', '着陸', '準備中', 'の', '機内', 'を', '出口', 'に', '向かっ', 'て', '走り', '始め', 'た', 'こと', 'を', '記し', 'て', 'いる', '。']",0.6990879935294767,0.8800316764132554,0.7895598349713661,0.8354093401503253,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N2

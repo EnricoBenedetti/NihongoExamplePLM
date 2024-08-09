@@ -1,0 +1,77 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+僕は勿論社会科学に何の知識も持っていなかった。,-1,20001.0,N2,0.6,0.0,0.3,僕は勿論社会科学に何の知識も持っていなかった。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl NOUN_compound ADP_case)
+  (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['僕', 'は', '勿論', '社会', '科学', 'に', '何', 'の', '知識', 'も', '持っ', 'て', 'い', 'なかっ', 'た', '。']",,,,,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N3
+以下に挙げる学問分野が明確に社会科学とされる代表的なものである。,697334,,N3,1.0,0.8531689,0.9265844523906708,以下に挙げる学問分野が明確に社会科学とされる代表的なものである。,"(NOUN_ROOT
+  (VERB_acl
+    (ADJ_advcl
+      (NOUN_nsubj
+        (VERB_acl (NOUN_obl ADP_case))
+        NOUN_compound
+        ADP_case)
+      AUX_aux)
+    (NOUN_obl NOUN_compound ADP_case)
+    AUX_aux)
+  (ADJ_acl AUX_cop)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['以下', 'に', '挙げる', '学問', '分野', 'が', '明確', 'に', '社会', '科学', 'と', 'さ', 'れる', '代表的', 'な', 'もの', 'で', 'ある', '。']",0.8172955325135549,0.9567099567099568,0.8870027446117559,0.9067935985012132,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N3
+上記三分法によって社会思想史書を分類記述すれば、次のようになる。,2684380,,N3,1.0,0.8371884,0.9185942113399506,上記三分法によって社会思想史書を分類記述すれば、次のようになる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      (ADP_case VERB_fixed SCONJ_fixed))
+    (VERB_compound (NOUN_obj NOUN_compound NOUN_compound ADP_case))
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop)
+  PUNCT_punct)","['上記', '三', '分', '法', 'に', 'よっ', 'て', '社会', '思想', '史書', 'を', '分類', '記述', 'すれ', 'ば', '、', '次', 'の', 'よう', 'に', 'なる', '。']",0.7779493355948566,0.9471247563352828,0.8625370459650696,0.8905656286525101,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N3
+当時の社会科学研究者に大きな影響を与えた。,2900144,,N3,1.0,0.8985936,0.9492968022823334,当時の社会科学研究者に大きな影響を与えた。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod ADP_case)
+    NOUN_compound
+    NOUN_compound
+    ADP_case)
+  (NOUN_obj ADJ_amod ADP_case)
+  AUX_aux
+  PUNCT_punct)","['当時', 'の', '社会', '科学', '研究者', 'に', '大きな', '影響', 'を', '与え', 'た', '。']",0.7134226256024845,0.9232441471571906,0.8183333863798375,0.8838150943310854,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N3
+社会科学の諸分野を包括的に学習することができる「社会科学部」が早稲田大学など一部の大学に存在するが、その数は非常に少ない。,697338,,N3,1.0,0.86332214,0.931661069393158,社会科学の諸分野を包括的に学習することができる「社会科学部」が早稲田大学など一部の大学に存在するが、その数は非常に少ない。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obj
+          (NOUN_nmod NOUN_compound ADP_case)
+          NOUN_compound
+          ADP_case)
+        (ADJ_advcl AUX_cop)
+        AUX_aux
+        (NOUN_compound ADP_fixed AUX_fixed))
+      PUNCT_punct
+      PUNCT_punct
+      ADP_case)
+    (NOUN_obl (PROPN_nmod ADP_case) (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj DET_det ADP_case)
+  (ADJ_advcl AUX_aux)
+  PUNCT_punct)","['社会', '科学', 'の', '諸', '分野', 'を', '包括的', 'に', '学習', 'する', 'こと', 'が', 'できる', '「', '社会科学部', '」', 'が', '早稲田大学', 'など', '一部', 'の', '大学', 'に', '存在', 'する', 'が', '、', 'その', '数', 'は', '非常', 'に', '少ない', '。']",0.7110774330287862,0.9072716465226868,0.8091745397757365,0.8704178045844473,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N3
+ヤングは訓練の方法として、社会科学の書籍を読むことを勧めている。,4181237,,N3,1.0,0.8894325,0.9447162449359894,ヤングは訓練の方法として、社会科学の書籍を読むことを勧めている。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl
+    (NOUN_nmod ADP_case)
+    (ADP_case AUX_fixed SCONJ_fixed)
+    PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) ADP_case))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['ヤング', 'は', '訓練', 'の', '方法', 'と', 'し', 'て', '、', '社会', '科学', 'の', '書籍', 'を', '読む', 'こと', 'を', '勧め', 'て', 'いる', '。']",0.6796275055112657,0.8902979282199485,0.784962716865607,0.8648394809007982,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N3

@@ -1,0 +1,116 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,-1,20001.0,N1,0.1999999999999999,0.0,0.0999999999999999,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,"(VERB_ROOT
+  (NOUN_dislocated PRON_nmod ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_acl
+          (VERB_advcl
+            (NOUN_obj
+              (NOUN_nmod ADP_case)
+              (NOUN_nmod DET_det ADP_case)
+              NOUN_compound
+              (ADP_case VERB_fixed SCONJ_fixed))
+            SCONJ_mark
+            ADP_case))
+        (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+        ADP_case))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark AUX_fixed VERB_fixed)
+  PUNCT_punct)","['彼', 'ら', 'は', 'じつ', 'に', 'その', '生涯', 'の', '勤勉', '努力', 'を', 'もっ', 'て', 'し', 'て', 'も', 'なおかつ', '三十', '円', '以上', 'の', '月給', 'を', '取る', 'こと', 'が', '許さ', 'れ', 'ない', 'の', 'で', 'ある', '。']",,,,,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N3
+当初は思わず靴を脱いで二階に上がってしまったり、二階のほうが一階より高い料金を取るか取らないかを聞く人までいたという。,892665,,N3,1.0,0.77346945,0.8867347240447998,当初は思わず靴を脱いで二階に上がってしまったり、二階のほうが一階より高い料金を取るか取らないかを聞く人までいたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl
+      (VERB_acl
+        (VERB_advcl
+          (VERB_advcl
+            (NOUN_obl ADP_case)
+            (VERB_advcl AUX_aux)
+            (NOUN_obj ADP_case)
+            SCONJ_mark)
+          (NOUN_obl NUM_nummod ADP_case)
+          (SCONJ_mark VERB_fixed)
+          PART_mark
+          PUNCT_punct)
+        (VERB_obj
+          (NOUN_nsubj (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+          (VERB_advcl
+            (NOUN_obj
+              (ADJ_acl (NOUN_obl NUM_nummod ADP_case))
+              ADP_case)
+            PART_mark)
+          AUX_aux
+          PART_mark
+          ADP_case))
+      ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['当初', 'は', '思わ', 'ず', '靴', 'を', '脱い', 'で', '二', '階', 'に', '上がっ', 'て', 'しまっ', 'たり', '、', '二', '階', 'の', 'ほう', 'が', '一', '階', 'より', '高い', '料金', 'を', '取る', 'か', '取ら', 'ない', 'か', 'を', '聞く', '人', 'まで', 'い', 'た', 'と', 'いう', '。']",0.7946815397106823,0.925487987987988,0.8600847638493352,0.8734097439470675,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N3
+そのため、日本では古い時代から利子を取ることはタブー視されなかった。,1116481,,N3,1.0,0.77919024,0.8895951211452484,そのため、日本では古い時代から利子を取ることはタブー視されなかった。,"(NOUN_ROOT
+  (NOUN_obl DET_det PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (PROPN_obl ADP_case ADP_case)
+      (NOUN_obl ADJ_acl ADP_case)
+      (NOUN_obj ADP_case))
+    ADP_case)
+  NOUN_compound
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['その', 'ため', '、', '日本', 'で', 'は', '古い', '時代', 'から', '利子', 'を', '取る', 'こと', 'は', 'タブー', '視', 'さ', 'れ', 'なかっ', 'た', '。']",0.7358032251682314,0.9047424986501428,0.820272861909187,0.8549339915272177,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N3
+エディ・アルバートは、全員があまりに楽しんでいたので、「金（出演料）を取るのが恥ずかしいほどだった」と語っている。,1584171,,N3,1.0,0.7846076,0.8923037946224213,エディ・アルバートは、全員があまりに楽しんでいたので、「金（出演料）を取るのが恥ずかしいほどだった」と語っている。,"(VERB_ROOT
+  (ADJ_advcl
+    (VERB_advcl
+      (PROPN_dislocated
+        PROPN_compound
+        SYM_compound
+        ADP_case
+        PUNCT_punct)
+      (NOUN_nsubj ADP_case)
+      (ADJ_advcl AUX_aux)
+      (SCONJ_mark VERB_fixed)
+      AUX_aux
+      (SCONJ_mark AUX_fixed)
+      PUNCT_punct)
+    (VERB_csubj
+      (NOUN_obj
+        PUNCT_punct
+        NOUN_compound
+        PUNCT_punct
+        PUNCT_punct
+        ADP_case)
+      SCONJ_mark
+      ADP_case)
+    ADP_case
+    AUX_aux
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['エディ', '・', 'アルバート', 'は', '、', '全員', 'が', 'あまり', 'に', '楽しん', 'で', 'い', 'た', 'の', 'で', '、', '「', '金', '（', '出演料', '）', 'を', '取る', 'の', 'が', '恥ずかしい', 'ほど', 'だっ', 'た', '」', 'と', '語っ', 'て', 'いる', '。']",0.7283416218801506,0.889831161552473,0.8090863917163118,0.8506950931693665,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N3
+仲介するエスクローエージェントは、手数料を取ることで利益を得る。,2511737,,N3,1.0,0.7337786,0.8668892979621887,仲介するエスクローエージェントは、手数料を取ることで利益を得る。,"(VERB_ROOT
+  (NOUN_nsubj (VERB_acl AUX_aux) NOUN_compound ADP_case PUNCT_punct)
+  (NOUN_obl (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['仲介', 'する', 'エスクロー', 'エージェント', 'は', '、', '手数料', 'を', '取る', 'こと', 'で', '利益', 'を', '得る', '。']",0.7277724458203896,0.880163291370188,0.8039678685952888,0.8354285832787387,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N3
+"ダークブルーで勝つには家3軒のレンタル料（1,100または1,400ドル）を取るのが重要である。",4083503,,N3,1.0,0.76954263,0.884771317243576,"ダークブルーで勝つには家3軒のレンタル料（1,100または1,400ドル）を取るのが重要である。","(ADJ_ROOT
+  (VERB_csubj
+    (VERB_advcl (NOUN_obl ADP_case) ADP_case ADP_case)
+    (NOUN_obj
+      (NOUN_nmod NOUN_compound NUM_nummod ADP_case)
+      PUNCT_punct
+      NUM_compound
+      CCONJ_cc
+      ADP_case
+      NUM_compound
+      NOUN_compound
+      PUNCT_punct
+      ADP_case)
+    SCONJ_mark
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['ダークブルー', 'で', '勝つ', 'に', 'は', '家', '3', '軒', 'の', 'レンタル料', '（', '1,100', 'また', 'は', '1,400', 'ドル', '）', 'を', '取る', 'の', 'が', '重要', 'で', 'ある', '。']",0.7114181584388511,0.8584148468213922,0.7849165026301217,0.8348439099368489,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N3

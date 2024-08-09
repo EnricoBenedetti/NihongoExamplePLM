@@ -1,0 +1,273 @@
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 全然; target level: N5; context sentence: 作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。
+System 1 sentences:
+彼は全然笑わなかった。
+彼女は全然話さなかった。
+私たちは全然知らなかった。
+彼らは全然働かなかった。
+私たちは友達になったばかりなので、まだ全然話していない。
+System 2 sentences:
+彼女は全然ピアノを弾くことができない。
+雨が降らないので、今日は全然涼しくありません。
+その映画は全然怖くなかった。
+彼の英語の発音は全然上手ではありません。
+この料理は全然辛くないので、子供でも食べられます。
+System 3 sentences:
+私は全然変だと思いませんけど。
+それは全然関係ない話です。
+彼のこの本は全然おもしろくありません。
+私は全然違うと思います。
+ちょっと全然関係ないこと聞いてもいい？
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 2 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 3 sentences:
+1. Difficulty: N4; Sense: "similar"; Reject: "No"
+2. Difficulty: N4; Sense: "similar"; Reject: "No"
+3. Difficulty: N4; Sense: "similar"; Reject: "No"
+4. Difficulty: N4; Sense: "similar"; Reject: "No"
+5. Difficulty: N4; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 2 > System 3 > System 1
+
+Comment: System 2 provides a good range of sentences that are all relevant to the target word "全然" and its usage at the N5 level, with a slightly higher diversity in sentence structure and context compared to System 1, making it more useful for learners. System 3, while still relevant and at a slightly higher difficulty level, offers sentences that could challenge an N5 learner and also shows a good variety in usage. System 1, although accurate and at the correct level, lacks diversity in sentence structure, making it the least beneficial in terms of exposing learners to a variety of sentence constructions.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 全然; target level: N5; context sentence: 作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。
+System 1 sentences:
+彼は全然笑わなかった。
+彼女は全然話さなかった。
+私たちは全然知らなかった。
+彼らは全然働かなかった。
+私たちは友達になったばかりなので、まだ全然話していない。
+System 2 sentences:
+彼女は全然ピアノを弾くことができない。
+雨が降らないので、今日は全然涼しくありません。
+その映画は全然怖くなかった。
+彼の英語の発音は全然上手ではありません。
+この料理は全然辛くないので、子供でも食べられます。
+System 3 sentences:
+私は全然変だと思いませんけど。
+それは全然関係ない話です。
+彼のこの本は全然おもしろくありません。
+私は全然違うと思います。
+ちょっと全然関係ないこと聞いてもいい？
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 2 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 3 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "not similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 2 > System 3 > System 1
+
+Comment: System 2 provides a good variety of sentences that maintain the target word's sense and are appropriate for the N5 level, showcasing different contexts and structures. System 3 also offers diverse sentences but includes some that do not closely align with the original context's sense, reducing its overall usefulness. System 1, while all sentences are similar in sense and appropriate for N5, lacks diversity in sentence structure and context, making it the least beneficial for learners seeking varied examples.
++++++END_RESPONSE+++++
+This evaluation aims to rate and compare three systems in providing good example sentences for learners of Japanese at different proficiency levels.
+An annotation block consists of proposed sentences by 3 systems for a target word, a context sentence and a target difficulty level.
+The lists of sentences are supposed to help language learners to see diverse examples of a target word in context.
+
+Difficulty: Rate the difficulty of each sentence according to the JLPT (Japanese Language Proficiency Test) scale, where N1 is the most difficult and N5 is the easiest.
+Indicate which level a sentence belongs to (one of N1, N2, N3, N4, N5). It is possible that for the target level, the system proposes a sentence that is of a different level (higher or lower).
+Below is a summary of the proficiency levels.
+Level Description Summary Example
+N1 Complex and abstract Japanese across various contexts. 「現代社会において、グローバル化の進展が国際的なコミュニケーションの重要性を高めており、異文化間の相互理解が求められている。」
+N2 Everyday Japanese in varied situations, with clear materials on different topics. 「地球温暖化対策として、再生可能エネルギーの利用拡大が急務である。」
+N3 Japanese in common everyday situations. 「このレストランは美味しいだけでなく、雰囲気も良いので、週末はいつも混んでいます。」
+N4 Basic Japanese understanding, including familiar topics, basic vocabulary, and kanji. 「来週の日曜日に友達と映画を見に行く予定です。」
+N5 Fundamental Japanese, including hiragana, katakana, and basic kanji. 「私は毎日、日本語を勉強します。」
+
+Sense Similarity: Indicate if the target word in each sentence maintains a close sense as in the original context. Possible values: "similar", "not similar".
+Think broadly and intuitively, rather than strictly by dictionary definitions.
+
+Reject: For each sentence, indicate "Reject" if you think the sentence is not good or useful (for example because it does not reflect natural use).
+
+Sentence diversity: For each system output list, rate the sentences diversity, focusing on the amount of different uses of syntax and structure. Possible values: "Low", "Medium", "High".
+
+System ranking: Rank the systems' outputs from best to worst, considering the overall usefulness of the example sentences for that word, for a language learner of that proficiency level.
+
+Comment: Leave a short comment.
+
+Block to evaluate:
+Target word: 全然; target level: N5; context sentence: 作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。
+System 1 sentences:
+彼は全然笑わなかった。
+彼女は全然話さなかった。
+私たちは全然知らなかった。
+彼らは全然働かなかった。
+私たちは友達になったばかりなので、まだ全然話していない。
+System 2 sentences:
+彼女は全然ピアノを弾くことができない。
+雨が降らないので、今日は全然涼しくありません。
+その映画は全然怖くなかった。
+彼の英語の発音は全然上手ではありません。
+この料理は全然辛くないので、子供でも食べられます。
+System 3 sentences:
+私は全然変だと思いませんけど。
+それは全然関係ない話です。
+彼のこの本は全然おもしろくありません。
+私は全然違うと思います。
+ちょっと全然関係ないこと聞いてもいい？
+Following is the output structure:
+System 1 sentences:
+1. Difficulty: ""; Sense: ""; Reject: ""
+2. Difficulty: ""; Sense: ""; Reject: ""
+3. Difficulty: ""; Sense: ""; Reject: ""
+4. Difficulty: ""; Sense: ""; Reject: ""
+5. Difficulty: ""; Sense: ""; Reject: ""
+Syntactic similarity: ""
+
+[same for System 2]
+
+[same for System 3]
+
+System ranking: System "" > System "" > System ""
+
+Comment: ""
+
+===========RESPONSE===========
+System 1 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 2 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 3 sentences:
+1. Difficulty: N5; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "similar"; Reject: "No"
+3. Difficulty: N5; Sense: "similar"; Reject: "No"
+4. Difficulty: N5; Sense: "similar"; Reject: "No"
+5. Difficulty: N5; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 2 > System 3 > System 1
+
+Comment: All three systems provided sentences that are suitable for the N5 level, maintaining a similar sense to the target word "全然" in the context of negation or absence of something. System 2 and System 3 showed a slightly higher diversity in sentence structure and contexts compared to System 1, which used a very repetitive structure. System 2 is ranked highest due to its variety in contexts (e.g., weather, movies, food) that can help learners understand the use of "全然" in different situations. System 3 also provided diverse contexts but included a question, which adds a bit of variety but might be slightly less straightforward for absolute beginners compared to the declarative sentences in System 2. System 1, while accurate, offered less variety and thus is ranked last.
++++++END_RESPONSE+++++

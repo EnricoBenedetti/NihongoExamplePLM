@@ -1,0 +1,84 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,-1,7297.0,N3,0.6,0.0,0.3,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (PROPN_obj NOUN_compound ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    AUX_aux)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['その', '後', 'プロ', 'に', '転向', 'する', 'と', '、', '地元', '大阪', 'を', '中心', 'に', '大会', 'へ', '出場', 'し', '経験', 'を', '積む', '。']",,,,,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N1
+でトレーニングを積むが、入団には至らなかった。,7442286,,N1,1.0,0.78106165,0.8905308246612549,でトレーニングを積むが、入団には至らなかった。,ADP_ROOT,"['で', 'トレーニング', 'を', '積む', 'が', '、', '入団', 'に', 'は', '至ら', 'なかっ', 'た', '。']",1.0,0.9407169117647058,0.9703584558823528,0.9304446402718038,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N1
+2009年は国内で地方カート選手権およびもてぎカートレースシリーズ等に参戦する傍ら、中国で開催されたチャイナフォーミュラ・ウェストに参戦しフォーミュラカーの経験を積んだ。,8019008,,N1,1.0,0.84738743,0.9236937165260316,2009年は国内で地方カート選手権およびもてぎカートレースシリーズ等に参戦する傍ら、中国で開催されたチャイナフォーミュラ・ウェストに参戦しフォーミュラカーの経験を積んだ。,"(VERB_ROOT
+  (NOUN_nsubj NUM_nummod ADP_case)
+  (NOUN_obj
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obl
+          (VERB_acl
+            (NOUN_obl ADP_case)
+            (NOUN_obl
+              (NOUN_nmod NOUN_compound NOUN_compound)
+              CCONJ_cc
+              PROPN_compound
+              PROPN_compound
+              NOUN_compound
+              NOUN_compound
+              ADP_case)
+            AUX_aux)
+          PUNCT_punct)
+        (NOUN_obl
+          (VERB_acl (PROPN_obl ADP_case) AUX_aux AUX_aux AUX_aux)
+          PROPN_compound
+          NOUN_compound
+          SYM_compound
+          ADP_case)
+        AUX_aux)
+      ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['2009', '年', 'は', '国内', 'で', '地方', 'カート', '選手権', 'および', 'もてぎ', 'カート', 'レース', 'シリーズ', '等', 'に', '参戦', 'する', '傍ら', '、', '中国', 'で', '開催', 'さ', 'れ', 'た', 'チャイナ', 'フォーミュラ', '・', 'ウェスト', 'に', '参戦', 'し', 'フォーミュラカー', 'の', '経験', 'を', '積ん', 'だ', '。']",0.906632343315694,0.9173679060665362,0.9120001246911152,0.9178469206085732,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N1
+29歳で現役を退いた後、ユースチームや下部クラブを率い実績を積む。,8141625,,N1,1.0,0.8954448,0.9477224051952362,29歳で現役を退いた後、ユースチームや下部クラブを率い実績を積む。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl NUM_nummod ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    PUNCT_punct)
+  (NOUN_obj
+    (NOUN_nmod NOUN_compound ADP_case)
+    NOUN_compound
+    ADP_case)
+  NUM_advcl
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['29', '歳', 'で', '現役', 'を', '退い', 'た', '後', '、', 'ユース', 'チーム', 'や', '下部', 'クラブ', 'を', '率い', '実績', 'を', '積む', '。']",0.829903622189466,0.9023687184188643,0.8661361703041652,0.9069292877497008,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N1
+2年間在籍後、更なるレベルアップを計るため、専攻コースに進学して、多くの試合にも出場し実戦での経験を積む。,4715843,,N1,1.0,0.9038584,0.951929211616516,2年間在籍後、更なるレベルアップを計るため、専攻コースに進学して、多くの試合にも出場し実戦での経験を積む。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obl
+            NUM_compound
+            NOUN_compound
+            NOUN_compound
+            PUNCT_punct)
+          (NOUN_obj ADJ_amod ADP_case))
+        PUNCT_punct)
+      (NOUN_obl NOUN_compound ADP_case)
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    AUX_aux)
+  (NOUN_obj (NOUN_nmod ADP_case ADP_case) ADP_case)
+  PUNCT_punct)","['2', '年間', '在籍', '後', '、', '更なる', 'レベルアップ', 'を', '計る', 'ため', '、', '専攻', 'コース', 'に', '進学', 'し', 'て', '、', '多く', 'の', '試合', 'に', 'も', '出場', 'し', '実戦', 'で', 'の', '経験', 'を', '積む', '。']",0.7563441413154585,0.872114953886693,0.8142295476010757,0.8830793796087959,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N1
+ガルフ・コーストリーグを皮切りにマイナーリーグで経験を積む。,5879078,,N1,1.0,0.88694656,0.9434732794761658,ガルフ・コーストリーグを皮切りにマイナーリーグで経験を積む。,"(VERB_ROOT
+  (NOUN_obj PROPN_compound SYM_compound PROPN_compound ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['ガルフ', '・', 'コースト', 'リーグ', 'を', '皮切り', 'に', 'マイナーリーグ', 'で', '経験', 'を', '積む', '。']",0.7014558028454068,0.8577757387539997,0.7796157707997032,0.8615445251379346,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N1

@@ -1,0 +1,132 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+一番早く人口が20万人に到達した都市であったと思われる。,-1,19676.0,N3,1.0,0.0,0.5,一番早く人口が20万人に到達した都市であったと思われる。,"(VERB_ROOT
+  (NOUN_advcl
+    (VERB_acl
+      (ADJ_advcl ADV_advmod)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl NUM_compound ADP_case)
+      AUX_aux
+      AUX_aux)
+    (AUX_cop VERB_fixed)
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['一番', '早く', '人口', 'が', '20万', '人', 'に', '到達', 'し', 'た', '都市', 'で', 'あっ', 'た', 'と', '思わ', 'れる', '。']",,,,,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16,A
+地下1～3階には駐車場が整備されており、エレベータに自動車を乗り入れる方式の駐車場としては県下で最も早く作られたもののひとつである。,10314289,,N3,1.0,0.82772315,0.9138615727424622,地下1～3階には駐車場が整備されており、エレベータに自動車を乗り入れる方式の駐車場としては県下で最も早く作られたもののひとつである。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl
+      NOUN_compound
+      NUM_compound
+      SYM_compound
+      NUM_nummod
+      ADP_case
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_obl
+    (NOUN_nmod (NOUN_obj ADP_case) NOUN_compound ADP_case)
+    (ADP_case AUX_fixed SCONJ_fixed)
+    ADP_case)
+  (NOUN_nmod
+    (VERB_acl
+      (ADJ_advcl (NOUN_obl NOUN_compound ADP_case) ADV_advmod)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['地下', '1', '～', '3', '階', 'に', 'は', '駐車場', 'が', '整備', 'さ', 'れ', 'て', 'おり', '、', 'エレベータ', 'に', '自動車', 'を', '乗り入れる', '方式', 'の', '駐車場', 'と', 'し', 'て', 'は', '県', '下', 'で', '最も', '早く', '作ら', 'れ', 'た', 'もの', 'の', 'ひと', 'つ', 'で', 'ある', '。']",0.7969098458197708,0.9333333333333332,0.865121589576552,0.8894915811595071,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16,A
+2006年12月時点で1000万人を超える顧客を持ち、バングラデシュで最も早く普及した携帯電話ネットワークになっている。,7693025,,N3,1.0,0.8363966,0.91819828748703,2006年12月時点で1000万人を超える顧客を持ち、バングラデシュで最も早く普及した携帯電話ネットワークになっている。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_obl
+          NUM_compound
+          NOUN_compound
+          NUM_compound
+          NOUN_compound
+          ADP_case)
+        (NOUN_obj NUM_compound ADP_case))
+      ADP_case)
+    PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl
+      (PROPN_obl ADP_case)
+      (ADJ_advcl ADV_advmod)
+      AUX_aux
+      AUX_aux)
+    NOUN_compound
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['2006', '年', '12', '月', '時点', 'で', '1000万', '人', 'を', '超える', '顧客', 'を', '持ち', '、', 'バングラデシュ', 'で', '最も', '早く', '普及', 'し', 'た', '携帯電話', 'ネットワーク', 'に', 'なっ', 'て', 'いる', '。']",0.7142808016147746,0.9057413264640668,0.8100110640394207,0.8641046757632254,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16,A
+岡山県の鍾乳洞ではもっとも早く存在が認知されたといわれ、新見市内の洞窟群の中でも早くから開発が行われた。,7101028,,N3,1.0,0.82524085,0.9126204252243042,岡山県の鍾乳洞ではもっとも早く存在が認知されたといわれ、新見市内の洞窟群の中でも早くから開発が行われた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_ccomp
+      (NOUN_obl
+        (PROPN_nmod ADP_case)
+        NOUN_compound
+        ADP_case
+        ADP_case)
+      (ADJ_advcl ADV_advmod)
+      (NOUN_nsubj ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (ADJ_obl
+    (NOUN_obl
+      (NOUN_nmod
+        (NOUN_nmod PROPN_compound ADP_case)
+        NOUN_compound
+        ADP_case)
+      ADP_case
+      ADP_case)
+    ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['岡山県', 'の', '鍾乳', '洞', 'で', 'は', 'もっとも', '早く', '存在', 'が', '認知', 'さ', 'れ', 'た', 'と', 'いわ', 'れ', '、', '新見市', '内', 'の', '洞窟', '群', 'の', '中', 'で', 'も', '早く', 'から', '開発', 'が', '行わ', 'れ', 'た', '。']",0.7147027184712083,0.8855592289938244,0.8001309737325164,0.8563756994784103,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16,A
+林口線で最も早く開設された駅の一つである。,6479026,,N3,1.0,0.8792364,0.9396182000637054,林口線で最も早く開設された駅の一つである。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_acl
+      (NOUN_obl PROPN_compound ADP_case)
+      (ADJ_advcl ADV_advmod)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['林口', '線', 'で', '最も', '早く', '開設', 'さ', 'れ', 'た', '駅', 'の', '一', 'つ', 'で', 'ある', '。']",0.6867911362928272,0.8560594375883781,0.7714252869406026,0.855521743502154,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16,A
+1532年にパナマから上陸したスペイン人の征服者フランシスコ・ピサロによって建設され、ペルーで最も早く建設されたヨーロッパ型の都市となった。,5290513,,N3,1.0,0.8594799,0.9297399520874025,1532年にパナマから上陸したスペイン人の征服者フランシスコ・ピサロによって建設され、ペルーで最も早く建設されたヨーロッパ型の都市となった。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl
+        (PROPN_obl
+          (VERB_acl
+            (NOUN_obl NUM_nummod ADP_case)
+            (PROPN_obl ADP_case)
+            AUX_aux
+            AUX_aux)
+          (PROPN_nmod ADP_case)
+          PROPN_compound
+          PROPN_compound
+          SYM_compound
+          (ADP_case VERB_fixed SCONJ_fixed))
+        AUX_aux
+        AUX_aux
+        PUNCT_punct)
+      (ADJ_advcl (PROPN_obl ADP_case) ADV_advmod)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    (NOUN_nmod PROPN_compound ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['1532', '年', 'に', 'パナマ', 'から', '上陸', 'し', 'た', 'スペイン人', 'の', '征服者', 'フランシスコ', '・', 'ピサロ', 'に', 'よっ', 'て', '建設', 'さ', 'れ', '、', 'ペルー', 'で', '最も', '早く', '建設', 'さ', 'れ', 'た', 'ヨーロッパ', '型', 'の', '都市', 'と', 'なっ', 'た', '。']",0.6716795276302104,0.8345013428832758,0.7530904352567431,0.8414151936720727,1,一番早く人口が20万人に到達した都市であったと思われる。,早い,N3,16,A

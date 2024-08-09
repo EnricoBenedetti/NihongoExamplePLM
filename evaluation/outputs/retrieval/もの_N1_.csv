@@ -1,0 +1,94 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+軽量なものでは5kgを切るような車体を作成することも可能である。,-1,20001.0,N3,0.6,0.0,0.3,軽量なものでは5kgを切るような車体を作成することも可能である。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl (ADJ_acl AUX_aux) ADP_case ADP_case)
+      (NOUN_obj
+        (VERB_acl (NOUN_obj NUM_nummod ADP_case) AUX_aux AUX_aux)
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['軽量', 'な', 'もの', 'で', 'は', '5', 'kg', 'を', '切る', 'よう', 'な', '車体', 'を', '作成', 'する', 'こと', 'も', '可能', 'で', 'ある', '。']",,,,,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N1
+また、他の方式と比して多色化が容易で、多いものでは12種類のインキを使用し、微細噴射孔とも相俟って銀塩写真並みの高画質が実現されている。,474089,,N1,1.0,0.8132654,0.9066326916217804,また、他の方式と比して多色化が容易で、多いものでは12種類のインキを使用し、微細噴射孔とも相俟って銀塩写真並みの高画質が実現されている。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (VERB_advcl
+    (ADJ_advcl
+      (VERB_advcl
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+        SCONJ_mark)
+      (NOUN_nsubj NOUN_compound ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obl ADJ_acl ADP_case ADP_case)
+    (NOUN_obj (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl ADJ_amod NOUN_compound ADP_case ADP_case)
+    NOUN_compound
+    SCONJ_mark)
+  (NOUN_nsubj
+    (NOUN_nmod NOUN_compound NOUN_compound ADP_case)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '、', '他', 'の', '方式', 'と', '比し', 'て', '多色', '化', 'が', '容易', 'で', '、', '多い', 'もの', 'で', 'は', '12', '種類', 'の', 'インキ', 'を', '使用', 'し', '、', '微細', '噴射', '孔', 'と', 'も', '相', '俟っ', 'て', '銀塩', '写真', '並み', 'の', '高画質', 'が', '実現', 'さ', 'れ', 'て', 'いる', '。']",0.7486009219688401,0.9211752592349608,0.8348880906019004,0.8707603911118404,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N1
+無人機「ドローン」を半ば自律化させたものもある。,524796,,N1,1.0,0.7470013,0.873500645160675,無人機「ドローン」を半ば自律化させたものもある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (NOUN_acl
+      (NOUN_nmod
+        NOUN_compound
+        PUNCT_punct
+        NOUN_compound
+        PUNCT_punct
+        ADP_case
+        ADV_case)
+      NOUN_compound
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['無人', '機', '「', 'ドローン', '」', 'を', '半ば', '自律', '化', 'さ', 'せ', 'た', 'もの', 'も', 'ある', '。']",0.7551878313711949,0.9120770419339695,0.8336324366525822,0.8535665409066286,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N1
+タイヤのほかハンドルバー、ブレーキシステム、ダイナモなどの備品に至るまで特徴的なデザインのものが多い。,460713,,N1,1.0,0.7764458,0.8882229030132294,タイヤのほかハンドルバー、ブレーキシステム、ダイナモなどの備品に至るまで特徴的なデザインのものが多い。,"(ADJ_ROOT
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod
+        (NOUN_nmod (NOUN_nmod (NOUN_nmod ADP_case)) PUNCT_punct)
+        NOUN_compound
+        PUNCT_punct)
+      ADP_case
+      ADP_case)
+    (ADP_case VERB_fixed ADP_fixed))
+  (NOUN_nsubj (NOUN_nmod (ADJ_acl AUX_cop) ADP_case) ADP_case)
+  PUNCT_punct)","['タイヤ', 'の', 'ほか', 'ハンドルバー', '、', 'ブレーキ', 'システム', '、', 'ダイナモ', 'など', 'の', '備品', 'に', '至る', 'まで', '特徴的', 'な', 'デザイン', 'の', 'もの', 'が', '多い', '。']",0.7037118505267943,0.9075488686040454,0.8056303595654198,0.8469266312893247,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N1
+さらに電車ならばゲージなど様々な周辺部品を加え、飛行機ならば実際に飛ばせるものなどへと、高度かつ高価なものとなってゆく。,484339,,N1,1.0,0.7340619,0.8670309484004974,さらに電車ならばゲージなど様々な周辺部品を加え、飛行機ならば実際に飛ばせるものなどへと、高度かつ高価なものとなってゆく。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_advcl
+    (VERB_acl
+      (NOUN_advcl AUX_cop SCONJ_mark)
+      (NOUN_obj
+        (ADJ_acl (NOUN_obl ADP_case) AUX_aux)
+        NOUN_compound
+        ADP_case)
+      PUNCT_punct)
+    AUX_cop
+    SCONJ_mark)
+  (NOUN_obl
+    (VERB_acl (NOUN_obl ADP_case))
+    ADP_case
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl (ADJ_acl ADJ_advcl CCONJ_cc AUX_aux) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['さらに', '電車', 'なら', 'ば', 'ゲージ', 'など', '様々', 'な', '周辺', '部品', 'を', '加え', '、', '飛行機', 'なら', 'ば', '実際', 'に', '飛ばせる', 'もの', 'など', 'へ', 'と', '、', '高度', 'かつ', '高価', 'な', 'もの', 'と', 'なっ', 'て', 'ゆく', '。']",0.7173906257787429,0.8977462352462352,0.807568430512489,0.8372996894564932,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N1
+超軽量動力機など軽量のものはなおさらである。,473609,,N1,1.0,0.81688243,0.9084412157535552,超軽量動力機など軽量のものはなおさらである。,"(ADV_ROOT
+  (NOUN_nsubj
+    (NOUN_nmod NOUN_compound NOUN_compound NOUN_compound ADP_case)
+    (NOUN_nmod ADP_case)
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['超', '軽量', '動力', '機', 'など', '軽量', 'の', 'もの', 'は', 'なおさら', 'で', 'ある', '。']",0.6652947078347378,0.88317525591797,0.7742349818763539,0.8413380988149546,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N1

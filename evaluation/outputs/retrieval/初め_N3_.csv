@@ -1,0 +1,76 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+十一月の初めだった。,-1,15130.0,N4,0.8,0.0,0.4,十一月の初めだった。,"(NOUN_ROOT
+  (NOUN_nmod NUM_compound ADP_case)
+  AUX_cop
+  AUX_aux
+  PUNCT_punct)","['十一', '月', 'の', '初め', 'だっ', 'た', '。']",,,,,1,十一月の初めだった。,初め,N3
+傷が治った頃（7月初め）、君江は偶然、かつて世話になった川島に出会う。,9164930,,N3,1.0,0.80845416,0.904227077960968,傷が治った頃（7月初め）、君江は偶然、かつて世話になった川島に出会う。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl (NOUN_nsubj ADP_case) AUX_aux)
+    PUNCT_punct
+    NUM_compound
+    NOUN_compound
+    NOUN_nmod
+    PUNCT_punct
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (PROPN_obl
+    (VERB_acl
+      (ADV_advmod PUNCT_punct)
+      ADV_advmod
+      (NOUN_obl ADP_case)
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['傷', 'が', '治っ', 'た', '頃', '（', '7', '月', '初め', '）', '、', '君江', 'は', '偶然', '、', 'かつて', '世話', 'に', 'なっ', 'た', '川島', 'に', '出会う', '。']",0.75,0.9435483870967742,0.8467741935483871,0.8755006357546775,1,十一月の初めだった。,初め,N3
+そして4月初め、“雲”は現れた時と同じように、突然姿を消した。,3423888,,N3,1.0,0.77395976,0.886979877948761,そして4月初め、“雲”は現れた時と同じように、突然姿を消した。,"(VERB_ROOT
+  CCONJ_cc
+  (ADV_advmod NUM_compound NOUN_compound PUNCT_punct)
+  (NOUN_advcl
+    (ADJ_amod
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_nsubj PUNCT_punct PUNCT_punct ADP_case)
+          AUX_aux)
+        ADP_case))
+    AUX_cop
+    PUNCT_punct)
+  ADV_advmod
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['そして', '4', '月', '初め', '、', '“', '雲', '”', 'は', '現れ', 'た', '時', 'と', '同じ', 'よう', 'に', '、', '突然', '姿', 'を', '消し', 'た', '。']",0.7515714637301772,0.9161220043572984,0.8338467340437379,0.8604133059962494,1,十一月の初めだった。,初め,N3
+7月の初めから40日近くも踊っていたという。,8940945,,N3,1.0,0.79183567,0.8959178328514099,7月の初めから40日近くも踊っていたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+    (ADV_advmod NUM_compound NOUN_compound ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['7', '月', 'の', '初め', 'から', '40', '日', '近く', 'も', '踊っ', 'て', 'い', 'た', 'と', 'いう', '。']",0.7416169688586897,0.8948854908532328,0.8182512298559612,0.8570845313536856,1,十一月の初めだった。,初め,N3
+撮影スケジュールの都合から夏の終わりの設定だったのだが、最終稿では冬の初めの設定となっている。,11275840,,N3,1.0,0.803927,0.9019635021686554,撮影スケジュールの都合から夏の終わりの設定だったのだが、最終稿では冬の初めの設定となっている。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_nmod (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+    (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+    AUX_cop
+    AUX_aux
+    (SCONJ_mark AUX_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl NOUN_compound ADP_case ADP_case)
+  (NOUN_obl (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['撮影', 'スケジュール', 'の', '都合', 'から', '夏', 'の', '終わり', 'の', '設定', 'だっ', 'た', 'の', 'だ', 'が', '、', '最終', '稿', 'で', 'は', '冬', 'の', '初め', 'の', '設定', 'と', 'なっ', 'て', 'いる', '。']",0.7289522508938807,0.8736695906432749,0.8013109207685778,0.8516372114686166,1,十一月の初めだった。,初め,N3
+活動期間は4月後半から5月の初めで、最大活動日は5月6日である。,6190531,,N3,1.0,0.7535758,0.8767879009246826,活動期間は4月後半から5月の初めで、最大活動日は5月6日である。,"(NOUN_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (NOUN_nmod
+    (NOUN_nmod
+      (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+      NUM_nummod
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj NOUN_compound NOUN_compound ADP_case)
+  NUM_compound
+  NOUN_compound
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['活動', '期間', 'は', '4', '月', '後半', 'から', '5', '月', 'の', '初め', 'で', '、', '最大', '活動', '日', 'は', '5', '月', '6', '日', 'で', 'ある', '。']",0.7492410578497374,0.8531765016011872,0.8012087797254623,0.8389983403250725,1,十一月の初めだった。,初め,N3

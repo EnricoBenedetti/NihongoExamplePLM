@@ -1,0 +1,98 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,-1,20001.0,N2,0.6,0.0,0.3,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,"(VERB_ROOT
+  (NOUN_advcl
+    (PRON_nsubj ADP_case)
+    (ADJ_acl AUX_cop PUNCT_punct)
+    (NOUN_nmod
+      (VERB_acl (NOUN_nmod ADP_case) NOUN_compound AUX_aux)
+      ADP_case)
+    NUM_nummod
+    AUX_cop
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['これ', 'は', '結果的', 'に', '、', '後', 'の', 'メンバー', '昇格', 'する', '要因', 'の', '一', 'つ', 'だっ', 'た', 'と', '思わ', 'れる', '。']",,,,,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N3
+これが可変バルブタイミング機構を採用する理由の一つとなっている。,1745951,,N3,1.0,0.88990724,0.9449536204338074,これが可変バルブタイミング機構を採用する理由の一つとなっている。,(NOUN_ROOT (PRON_nsubj ADP_case)),"['これ', 'が', '可変', 'バルブ', 'タイミング', '機構', 'を', '採用', 'する', '理由', 'の', '一', 'つ', 'と', 'なっ', 'て', 'いる', '。']",0.9368419378931464,0.926126590987272,0.9314842644402092,0.9382189424370084,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N3
+また自身の音楽コンセプトを毎回変えるというスタイルもボウイから受けた影響の一つである。,1687658,,N3,1.0,0.83860314,0.9193015694618224,また自身の音楽コンセプトを毎回変えるというスタイルもボウイから受けた影響の一つである。,"(NOUN_ROOT
+  CCONJ_cc
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+      ADV_advmod
+      (ADP_case VERB_fixed))
+    ADP_case)
+  (NOUN_nmod (VERB_acl (PROPN_obl ADP_case) AUX_aux) ADP_case)
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['また', '自身', 'の', '音楽', 'コンセプト', 'を', '毎回', '変える', 'と', 'いう', 'スタイル', 'も', 'ボウイ', 'から', '受け', 'た', '影響', 'の', '一', 'つ', 'で', 'ある', '。']",0.900934602504533,0.9080939411069427,0.904514271805738,0.9119079206337802,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N3
+ノーザンファームの中島文彦は「ウインドインハーヘアがノーザンファームで繁殖生活を送っていたことも、レディブロンドを購入する決め手の一つになったと思います」と述べている。,3190222,,N3,1.0,0.88797075,0.9439853727817537,ノーザンファームの中島文彦は「ウインドインハーヘアがノーザンファームで繁殖生活を送っていたことも、レディブロンドを購入する決め手の一つになったと思います」と述べている。,"(VERB_ROOT
+  (VERB_ccomp
+    (PROPN_nsubj
+      (NOUN_nmod NOUN_compound ADP_case)
+      PROPN_compound
+      ADP_case)
+    (VERB_ccomp
+      (NOUN_nsubj
+        (VERB_acl
+          (NOUN_nsubj PUNCT_punct ADP_case)
+          (NOUN_obl NOUN_compound ADP_case)
+          (NOUN_obj NOUN_compound ADP_case)
+          (SCONJ_mark VERB_fixed)
+          AUX_aux)
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl
+        (NOUN_nmod
+          (VERB_acl ADV_advcl (NOUN_obj ADP_case) AUX_aux)
+          ADP_case)
+        NUM_nummod
+        ADP_case)
+      AUX_aux
+      ADP_case)
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['ノーザン', 'ファーム', 'の', '中島', '文彦', 'は', '「', 'ウインドインハーヘア', 'が', 'ノーザン', 'ファーム', 'で', '繁殖', '生活', 'を', '送っ', 'て', 'い', 'た', 'こと', 'も', '、', 'レディ', 'ブロンド', 'を', '購入', 'する', '決め手', 'の', '一', 'つ', 'に', 'なっ', 'た', 'と', '思い', 'ます', '」', 'と', '述べ', 'て', 'いる', '。']",0.8491673922378481,0.8684294871794872,0.8587984397086676,0.9013919062452106,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N3
+中野がアイネスフウジンの騎乗依頼を貰うきっかけの一つに、デビュー前の小倉競馬場滞在中に交通事故を起こしたことがあった。,2784178,,N3,1.0,0.84821695,0.924108475446701,中野がアイネスフウジンの騎乗依頼を貰うきっかけの一つに、デビュー前の小倉競馬場滞在中に交通事故を起こしたことがあった。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case)
+  (NOUN_obl
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obj (NOUN_nmod ADP_case) NOUN_compound ADP_case))
+      ADP_case)
+    NUM_nummod
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod NOUN_compound ADP_case)
+    PROPN_compound
+    NOUN_compound
+    NOUN_compound
+    ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['中野', 'が', 'アイネスフウジン', 'の', '騎乗', '依頼', 'を', '貰う', 'きっかけ', 'の', '一', 'つ', 'に', '、', 'デビュー', '前', 'の', '小倉', '競馬場', '滞在', '中', 'に', '交通事故', 'を', '起こし', 'た', 'こと', 'が', 'あっ', 'た', '。']",0.8398866033527965,0.8533668091168091,0.8466267062348027,0.8853675908407519,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N3
+また状況や設定を説明しすぎない歌詞もドラマの主題歌として輝いた理由の一つだと思う。,2591906,,N3,1.0,0.88492036,0.9424601793289183,また状況や設定を説明しすぎない歌詞もドラマの主題歌として輝いた理由の一つだと思う。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux
+      VERB_advcl
+      AUX_aux)
+    ADP_case)
+  (NOUN_ccomp
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obl
+          (NOUN_nmod ADP_case)
+          (ADP_case AUX_fixed SCONJ_fixed))
+        AUX_aux)
+      ADP_case)
+    NUM_nummod
+    AUX_cop
+    ADP_case)
+  PUNCT_punct)","['また', '状況', 'や', '設定', 'を', '説明', 'し', 'すぎ', 'ない', '歌詞', 'も', 'ドラマ', 'の', '主題歌', 'と', 'し', 'て', '輝い', 'た', '理由', 'の', '一', 'つ', 'だ', 'と', '思う', '。']",0.799977001075406,0.8463235992402659,0.823150300157836,0.8828052397433772,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N3

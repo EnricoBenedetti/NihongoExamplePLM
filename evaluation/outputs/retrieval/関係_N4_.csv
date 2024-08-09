@@ -1,0 +1,51 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,-1,20001.0,N1,0.0,0.0,0.0,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obl (PRON_nmod ADP_case) NOUN_compound)
+        (VERB_advcl SCONJ_mark)
+        (NOUN_obl NOUN_compound ADP_case))
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod DET_det ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['あなた', 'の', '御', '関係', 'なすっ', 'て', 'お', 'いで', 'に', 'なる', '男', 'の', '事', 'を', '、', 'ある', '偶然', 'の', '機会', 'で', '承知', 'し', 'まし', 'た', '。']",,,,,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N4
+彼と全く関係を持たないほうがよいよ。,198566,,N4,1.0,0.6812616,0.8406307995319366,彼と全く関係を持たないほうがよいよ。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (PRON_obl ADP_case)
+      ADV_advmod
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    ADP_case)
+  PART_mark
+  PUNCT_punct)","['彼', 'と', '全く', '関係', 'を', '持た', 'ない', 'ほう', 'が', 'よい', 'よ', '。']",0.8072695660869494,0.9662162162162162,0.8867428911515829,0.8636868453417598,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N4
+彼との関係はもう終わっている。,198636,,N4,1.0,0.6380395,0.8190197646617889,彼との関係はもう終わっている。,"(VERB_ROOT
+  (NOUN_nsubj (PRON_nmod ADP_case ADP_case) ADP_case)
+  ADV_advmod
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['彼', 'と', 'の', '関係', 'は', 'もう', '終わっ', 'て', 'いる', '。']",0.7682932229629672,0.9358075435203096,0.8520503832416384,0.8355350739517137,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N4
+サマンサとジャックの微妙な関係は今後どうなるのでしょうかね。,32117,,N4,1.0,0.57225084,0.7861254215240479,サマンサとジャックの微妙な関係は今後どうなるのでしょうかね。,"(VERB_ROOT
+  (NOUN_nsubj
+    (PROPN_nmod (PROPN_nmod ADP_case) ADP_case)
+    (ADJ_acl AUX_aux)
+    ADP_case)
+  ADV_advmod
+  ADV_advmod
+  (SCONJ_mark AUX_fixed)
+  PART_mark
+  PART_mark
+  PUNCT_punct)","['サマンサ', 'と', 'ジャック', 'の', '微妙', 'な', '関係', 'は', '今後', 'どう', 'なる', 'の', 'でしょう', 'か', 'ね', '。']",0.7318437490258456,0.9200968523002422,0.8259703006630439,0.8060478610935459,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N4
+きっと結婚後もいい関係が築けると思います。,45853,,N4,1.0,0.593779,0.7968895137310028,きっと結婚後もいい関係が築けると思います。,"(VERB_ROOT
+  (ADJ_ccomp
+    ADV_advmod
+    (NOUN_nsubj ADP_case)
+    (NOUN_nsubj ADJ_acl ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['きっと', '結婚後', 'も', 'いい', '関係', 'が', '築ける', 'と', '思い', 'ます', '。']",0.7063827983334994,0.9184292988640814,0.8124060485987904,0.8046477811648967,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N4
+の関係になる。,2043734,,N4,1.0,0.5616334,0.7808167040348053,の関係になる。,(VERB_ROOT (NOUN_obl ADP_case ADP_case) PUNCT_punct),"['の', '関係', 'に', 'なる', '。']",0.7108844032685859,0.90085833188833,0.805871367578458,0.7933440358066317,1,あなたの御関係なすっておいでになる男の事を、ある偶然の機会で承知しました。,関係,N4

@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "Reject"; Sense: "Reject"; Reject: "Yes"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides sentences that are closer to the target level (N1) in terms of difficulty, though slightly easier (N2), and maintains a similar sense to the context sentence, focusing on the abstract or metaphorical use of "持つ" (to hold, in terms of having qualities, feelings, etc.). System 3 offers simpler sentences (N4) that are more literal in their use of "持つ" but are too easy for the target N1 level and lack diversity. System 2, while offering the highest diversity and some sentences at the N1 level, diverges significantly in sense from the context sentence, focusing more on the physical aspect of holding objects, which is less relevant for the abstract usage intended at the N1 level.
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "not similar"; Reject: "Yes"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System "2" > System "1" > System "3"
+
+Comment: System 2 provides the highest diversity in sentence structure and usage of the target word "持つ," including sentences that are closely aligned with the N1 target level. System 1 consistently offers sentences at the N2 level, which are slightly below the target but maintain a good sense similarity. However, it lacks diversity in sentence complexity. System 3's sentences are much simpler than the target level, with one sentence being rejected due to a significant error, indicating it's the least suitable for N1 learners.
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 3 sentences:
+1. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N5"; Sense: "not similar"; Reject: "Yes"
+4. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N5"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides sentences that are closest in difficulty to the target level (N1) and maintain a similar sense to the context sentence, focusing on the abstract or metaphorical use of "持つ" (to hold, in terms of having or maintaining something like confidence, hope, or interest). System 2 offers a high diversity in sentence structure and usage but diverges significantly in sense from the target, focusing more on the physical aspect of holding objects, which is not closely related to the context sentence's use. System 3's sentences are much simpler than the target level, making them less useful for an N1 learner, despite maintaining a similar sense in most cases. However, one sentence was rejected due to an unrelated language snippet, indicating a quality issue.

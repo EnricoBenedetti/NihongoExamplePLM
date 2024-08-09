@@ -1,0 +1,88 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,-1,1221.0,N3,1.0,0.0,0.5,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (PROPN_nmod
+          (ADJ_acl (NOUN_obl ADV_advmod NUM_nummod) ADV_advmod)
+          ADP_case)
+        ADP_case))
+    ADP_case)
+  PUNCT_punct)","['作家', 'と', '読者', 'は', '、', 'もう', 'いち', 'ど', '全然', 'あたらしく', '地割り', 'の', '協定', 'を', 'やり直す', '必要', 'が', 'ある', '。']",,,,,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20,I
+これは全然別の仕方でしなければならない。,284010,,N3,1.0,0.83220273,0.9161013662815094,これは全然別の仕方でしなければならない。,"(AUX_ROOT
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl (ADJ_nmod ADP_case) ADP_case)
+  (AUX_aux SCONJ_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['これ', 'は', '全然', '別', 'の', '仕方', 'で', 'し', 'なけれ', 'ば', 'なら', 'ない', '。']",0.7677122494185366,0.96875,0.8682311247092682,0.8921662454953888,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20,I
+全然別個でいくということですか。,31578,,N3,1.0,0.78299344,0.8914967179298401,全然別個でいくということですか。,"(NOUN_ROOT
+  (VERB_acl ADV_advmod (ADJ_advcl AUX_aux) (ADP_case VERB_fixed))
+  AUX_cop
+  PART_mark
+  PUNCT_punct)","['全然', '別個', 'で', 'いく', 'と', 'いう', 'こと', 'です', 'か', '。']",0.7619440096022162,0.9523809523809524,0.8571624809915843,0.8743295994607122,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20,I
+変えるのと変わるのでは全然違うと思います」と語っている。,6116504,,N3,1.0,0.76562524,0.8828126192092896,変えるのと変わるのでは全然違うと思います」と語っている。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_ccomp
+      (VERB_advcl
+        (VERB_advcl SCONJ_mark ADP_case)
+        (SCONJ_mark AUX_fixed)
+        ADP_case)
+      ADV_advmod
+      ADP_case)
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['変える', 'の', 'と', '変わる', 'の', 'で', 'は', '全然', '違う', 'と', '思い', 'ます', '」', 'と', '語っ', 'て', 'いる', '。']",0.7504164492455526,0.9247023809523808,0.8375594150989667,0.8601860171541281,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20,I
+また2021年（令和3年）1月26日の朝日新聞は、現職事務次官の発言として「かつての事務次官会議が復活したように見えるが、中身は全然違う。,5375173,,N3,1.0,0.7504702,0.8752351105213165,また2021年（令和3年）1月26日の朝日新聞は、現職事務次官の発言として「かつての事務次官会議が復活したように見えるが、中身は全然違う。,"(VERB_ROOT
+  CCONJ_cc
+  (PROPN_nsubj
+    (NOUN_nmod
+      NUM_nummod
+      PUNCT_punct
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      PUNCT_punct
+      NUM_compound
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod NOUN_compound ADP_case)
+      (ADP_case AUX_fixed SCONJ_fixed))
+    (VERB_advcl
+      (NOUN_nsubj
+        (ADV_advmod PUNCT_punct ADP_case)
+        NOUN_compound
+        ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  PUNCT_punct)","['また', '2021', '年', '（', '令和', '3', '年', '）', '1', '月', '26', '日', 'の', '朝日新聞', 'は', '、', '現職', '事務次官', 'の', '発言', 'と', 'し', 'て', '「', 'かつて', 'の', '事務次官', '会議', 'が', '復活', 'し', 'た', 'よう', 'に', '見える', 'が', '、', '中身', 'は', '全然', '違う', '。']",0.752647444427622,0.9011890166196466,0.8269182305236342,0.8510766705224754,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20,I
+それは全然自分の普段の仕事と違う作品を見ても分かるし、楽しめる。,108113,,N3,1.0,0.7671963,0.8835981488227844,それは全然自分の普段の仕事と違う作品を見ても分かるし、楽しめる。,"(VERB_ROOT
+  (VERB_advcl
+    (PRON_nsubj ADP_case)
+    (VERB_advcl
+      ADV_advmod
+      (NOUN_obj
+        (VERB_acl
+          (NOUN_obl
+            (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+            ADP_case))
+        ADP_case)
+      SCONJ_mark
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  PUNCT_punct)","['それ', 'は', '全然', '自分', 'の', '普段', 'の', '仕事', 'と', '違う', '作品', 'を', '見', 'て', 'も', '分かる', 'し', '、', '楽しめる', '。']",0.7299384791710979,0.89268911557634,0.811313797373719,0.8474559730982517,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N3,20,I

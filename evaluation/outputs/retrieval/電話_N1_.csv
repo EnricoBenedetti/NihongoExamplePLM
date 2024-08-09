@@ -1,0 +1,55 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+電話をかけることを習いました。,-1,13680.0,N5,0.1999999999999999,0.0,0.0999999999999999,電話をかけることを習いました。,"(VERB_ROOT
+  (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['電話', 'を', 'かける', 'こと', 'を', '習い', 'まし', 'た', '。']",,,,,1,電話をかけることを習いました。,電話,N1
+なんでこの忙しいときに限って電話が引っ切り無しに鳴るんだよ。,307882,,N1,1.0,0.84447175,0.9222358763217926,なんでこの忙しいときに限って電話が引っ切り無しに鳴るんだよ。,"(VERB_ROOT
+  (PRON_obl ADP_case)
+  (VERB_advcl (NOUN_obl DET_det ADJ_acl ADP_case) SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl ADV_compound ADP_case)
+  (SCONJ_mark AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['なん', 'で', 'この', '忙しい', 'とき', 'に', '限っ', 'て', '電話', 'が', '引っ切り', '無し', 'に', '鳴る', 'ん', 'だ', 'よ', '。']",0.8571428571428572,0.962962962962963,0.91005291005291,0.9161443931873514,1,電話をかけることを習いました。,電話,N1
+電話はなしでは済まされないものだ。,203655,,N1,1.0,0.8909038,0.9454518854618073,電話はなしでは済まされないものだ。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj ADP_case)
+    (NOUN_advcl ADP_case ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['電話', 'は', 'なし', 'で', 'は', '済まさ', 'れ', 'ない', 'もの', 'だ', '。']",0.7943371768797034,0.9407894736842104,0.867563325281957,0.906507605371882,1,電話をかけることを習いました。,電話,N1
+二、三、電話をかけなくてははらない。,331513,,N1,1.0,0.90291023,0.9514551162719728,二、三、電話をかけなくてははらない。,"(VERB_ROOT
+  (NUM_compound NUM_compound PUNCT_nummod PUNCT_punct)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  SCONJ_mark
+  ADP_case
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['二', '、', '三', '、', '電話', 'を', 'かけ', 'なく', 'て', 'は', 'はら', 'ない', '。']",0.7416591909053603,0.9162494785148102,0.8289543347100852,0.8902047254910289,1,電話をかけることを習いました。,電話,N1
+その夜、黒ずくめの女（ベアトリス・ダル）が電話を貸してほしいと訪ねてくる。,6795482,,N1,1.0,0.81651556,0.908257782459259,その夜、黒ずくめの女（ベアトリス・ダル）が電話を貸してほしいと訪ねてくる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl DET_det PUNCT_punct)
+      (NOUN_nsubj
+        (NOUN_nmod NOUN_compound ADP_case)
+        PUNCT_punct
+        PROPN_compound
+        SYM_compound
+        PROPN_compound
+        PUNCT_punct
+        ADP_case)
+      (NOUN_obj ADP_case)
+      (SCONJ_mark AUX_fixed)
+      ADP_case)
+    SCONJ_mark)
+  PUNCT_punct)","['その', '夜', '、', '黒', 'ずくめ', 'の', '女', '（', 'ベアトリス', '・', 'ダル', '）', 'が', '電話', 'を', '貸し', 'て', 'ほしい', 'と', '訪ね', 'て', 'くる', '。']",0.7504830582365275,0.9150509204857032,0.8327669893611154,0.8705123859101872,1,電話をかけることを習いました。,電話,N1
+ひっきりなしに電話をかけることはよしてもらいたい。,263539,,N1,1.0,0.93176144,0.96588072180748,ひっきりなしに電話をかけることはよしてもらいたい。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl NOUN_compound ADP_case) (NOUN_obj ADP_case))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['ひっきり', 'なし', 'に', '電話', 'を', 'かける', 'こと', 'は', 'よし', 'て', 'もらい', 'たい', '。']",0.6976893503258423,0.8823240231735984,0.7900066867497204,0.8779437042786001,1,電話をかけることを習いました。,電話,N1

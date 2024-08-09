@@ -1,0 +1,105 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+そして弾丸が始終高い所ばかりを飛ぶようになった。,-1,20001.0,N2,0.6,0.0,0.3,そして弾丸が始終高い所ばかりを飛ぶようになった。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obj (ADJ_acl ADV_compound) ADP_case ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  PUNCT_punct)","['そして', '弾丸', 'が', '始終', '高い', '所', 'ばかり', 'を', '飛ぶ', 'よう', 'に', 'なっ', 'た', '。']",,,,,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N3
+高い角度のダイブで突入することは不可能で、せいぜい20～30度である。,1047868,,N3,1.0,0.81818986,0.9090949296951294,高い角度のダイブで突入することは不可能で、せいぜい20～30度である。,"(NOUN_ROOT
+  (ADJ_acl
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl (NOUN_nmod ADJ_acl ADP_case) ADP_case)
+        AUX_aux)
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  ADV_advmod
+  NUM_compound
+  SYM_compound
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['高い', '角度', 'の', 'ダイブ', 'で', '突入', 'する', 'こと', 'は', '不可能', 'で', '、', 'せいぜい', '20', '～', '30', '度', 'で', 'ある', '。']",0.8349906102036124,0.9705882352941176,0.9027894227488652,0.9059421762219972,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N3
+高いところでも鬼がそこに登らずに手が届く場合は捕まえられるというルールを用いることもある。,1495751,,N3,1.0,0.87144357,0.9357217848300934,高いところでも鬼がそこに登らずに手が届く場合は捕まえられるというルールを用いることもある。,"(VERB_ROOT
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obl ADJ_acl ADP_case ADP_case)
+          (NOUN_nsubj ADP_case)
+          (VERB_advcl (PRON_obl ADP_case) AUX_aux ADP_case)
+          (NOUN_nsubj ADP_case))
+        ADP_case)
+      AUX_aux
+      (ADP_case VERB_fixed))
+    ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['高い', 'ところ', 'で', 'も', '鬼', 'が', 'そこ', 'に', '登ら', 'ず', 'に', '手', 'が', '届く', '場合', 'は', '捕まえ', 'られる', 'と', 'いう', 'ルール', 'を', '用いる', 'こと', 'も', 'ある', '。']",0.7776360335483462,0.9301158846806106,0.8538759591144784,0.8947988719722859,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N3
+皆高いところ目指して頑張っていますが、高いところに登れば登るほど落ちたら痛いんです。,62,,N3,1.0,0.84232306,0.9211615324020386,皆高いところ目指して頑張っていますが、高いところに登れば登るほど落ちたら痛いんです。,"(ADJ_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl (NOUN_obl (ADJ_acl ADV_advmod)) SCONJ_mark)
+      (SCONJ_mark VERB_fixed)
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (VERB_advcl
+      (VERB_advcl (NOUN_obl ADJ_acl ADP_case) SCONJ_mark)
+      PART_mark)
+    AUX_aux)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['皆', '高い', 'ところ', '目指し', 'て', '頑張っ', 'て', 'い', 'ます', 'が', '、', '高い', 'ところ', 'に', '登れ', 'ば', '登る', 'ほど', '落ち', 'たら', '痛い', 'ん', 'です', '。']",0.7479006743882188,0.9172113289760347,0.8325560016821268,0.8768587670420827,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N3
+また卵を丸呑みした場合、卵の殻を割るために高い所から落ちると言われるが、これを意図して落ちるのではなく、誤って落ちることが理由である。,1851779,,N3,1.0,0.8794893,0.9397446513175964,また卵を丸呑みした場合、卵の殻を割るために高い所から落ちると言われるが、これを意図して落ちるのではなく、誤って落ちることが理由である。,"(NOUN_ROOT
+  CCONJ_cc
+  (VERB_acl
+    (VERB_ccomp
+      (NOUN_obl
+        (VERB_acl (NOUN_obj ADP_case) AUX_aux AUX_aux)
+        PUNCT_punct)
+      (VERB_advcl
+        (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+        (SCONJ_mark SCONJ_fixed))
+      (NOUN_obl ADJ_acl ADP_case)
+      ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_acl
+    (VERB_advcl (PRON_obj ADP_case) AUX_aux SCONJ_mark)
+    (SCONJ_mark AUX_fixed ADP_fixed AUX_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (VERB_advcl SCONJ_mark)) ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['また', '卵', 'を', '丸呑み', 'し', 'た', '場合', '、', '卵', 'の', '殻', 'を', '割る', 'ため', 'に', '高い', '所', 'から', '落ちる', 'と', '言わ', 'れる', 'が', '、', 'これ', 'を', '意図', 'し', 'て', '落ちる', 'の', 'で', 'は', 'なく', '、', '誤っ', 'て', '落ちる', 'こと', 'が', '理由', 'で', 'ある', '。']",0.7252539003872132,0.8790569491112274,0.8021554247492203,0.8709500380334083,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N3
+高い所（人によって程度の差がある）に登ると、それが安全な場所であっても、下に落ちてしまうのではないかという不安が生じる。,771402,,N3,1.0,0.8517812,0.9258905947208405,高い所（人によって程度の差がある）に登ると、それが安全な場所であっても、下に落ちてしまうのではないかという不安が生じる。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_advcl
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_obl
+              ADJ_acl
+              PUNCT_punct
+              NOUN_compound
+              (ADP_case VERB_fixed SCONJ_fixed))
+            (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+            PUNCT_punct
+            ADP_case)
+          SCONJ_mark
+          PUNCT_punct)
+        (PRON_nsubj ADP_case)
+        (ADJ_acl AUX_aux)
+        (AUX_cop VERB_fixed)
+        SCONJ_mark
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl ADP_case)
+      (SCONJ_mark VERB_fixed)
+      (SCONJ_mark AUX_fixed ADP_fixed AUX_fixed)
+      PART_mark
+      (ADP_case VERB_fixed))
+    ADP_case)
+  PUNCT_punct)","['高い', '所', '（', '人', 'に', 'よっ', 'て', '程度', 'の', '差', 'が', 'ある', '）', 'に', '登る', 'と', '、', 'それ', 'が', '安全', 'な', '場所', 'で', 'あっ', 'て', 'も', '、', '下', 'に', '落ち', 'て', 'しまう', 'の', 'で', 'は', 'ない', 'か', 'と', 'いう', '不安', 'が', '生じる', '。']",0.7231519012100246,0.8639771294480247,0.7935645153290247,0.8597275550249326,1,そして弾丸が始終高い所ばかりを飛ぶようになった。,高い,N3

@@ -1,0 +1,89 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,-1,20001.0,N2,0.8,0.0,0.4,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux)
+    NOUN_compound
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['また', '、', '東西', 'お', '互い', 'に', '相手', 'を', '非難', 'する', 'プロパガンダ', '放送', 'を', '流し合っ', 'て', 'い', 'た', '。']",,,,,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1,E
+外交経験が無い素人2人組の外交は半年が空費され、相手から一方的に条件を呑まされる寸前になり失敗に終わった。,1684583,,N1,1.0,0.72510344,0.8625517189502716,外交経験が無い素人2人組の外交は半年が空費され、相手から一方的に条件を呑まされる寸前になり失敗に終わった。,(ADJ_ROOT (NOUN_nsubj NOUN_compound ADP_case)),"['外交', '経験', 'が', '無い', '素人', '2', '人組', 'の', '外交', 'は', '半年', 'が', '空費', 'さ', 'れ', '、', '相手', 'から', '一方的', 'に', '条件', 'を', '呑まさ', 'れる', '寸前', 'に', 'なり', '失敗', 'に', '終わっ', 'た', '。']",1.0,0.9397916666666668,0.9698958333333334,0.9162237761418024,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1,E
+ドイツの戦略爆撃機とイギリス、アメリカの戦略爆撃機の合計の多い国家が少ない国家（ドイツ又はイギリス）を攻撃することになり、相手国家の工業力を低下させる。,5505912,,N1,1.0,0.72894824,0.8644741177558899,ドイツの戦略爆撃機とイギリス、アメリカの戦略爆撃機の合計の多い国家が少ない国家（ドイツ又はイギリス）を攻撃することになり、相手国家の工業力を低下させる。,"(NOUN_ROOT
+  (PROPN_nmod
+    (PROPN_nmod
+      (NOUN_nmod (PROPN_nmod ADP_case) NOUN_compound ADP_case)
+      PUNCT_punct)
+    ADP_case))","['ドイツ', 'の', '戦略', '爆撃機', 'と', 'イギリス', '、', 'アメリカ', 'の', '戦略', '爆撃機', 'の', '合計', 'の', '多い', '国家', 'が', '少ない', '国家', '（', 'ドイツ', '又', 'は', 'イギリス', '）', 'を', '攻撃', 'する', 'こと', 'に', 'なり', '、', '相手', '国家', 'の', '工業', '力', 'を', '低下', 'さ', 'せる', '。']",1.0,0.8906567750877632,0.9453283875438816,0.9049012526498856,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1,E
+これはその言葉を発した側が、その発言を持って相手を貶めようとしているためである。,1508529,,N1,1.0,0.7732476,0.8866237998008728,これはその言葉を発した側が、その発言を持って相手を貶めようとしているためである。,"(NOUN_ROOT
+  (VERB_acl
+    (PRON_nsubj ADP_case)
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_nsubj
+          (VERB_acl (NOUN_obj DET_det ADP_case) AUX_aux)
+          ADP_case
+          PUNCT_punct)
+        (NOUN_obj DET_det ADP_case)
+        SCONJ_mark)
+      (NOUN_obj ADP_case)
+      ADP_case)
+    (SCONJ_mark VERB_fixed))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['これ', 'は', 'その', '言葉', 'を', '発し', 'た', '側', 'が', '、', 'その', '発言', 'を', '持っ', 'て', '相手', 'を', '貶めよう', 'と', 'し', 'て', 'いる', 'ため', 'で', 'ある', '。']",0.9461913799765672,0.88499310680399,0.9155922433902786,0.9011080215955756,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1,E
+カトコフの主張は、一般的に穏健なものではあったが、ひとたびや筆を執るや否や、痛烈に相手を批判せずにはいられなかった。,3917741,,N1,1.0,0.77894247,0.8894712328910828,カトコフの主張は、一般的に穏健なものではあったが、ひとたびや筆を執るや否や、痛烈に相手を批判せずにはいられなかった。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+    (ADJ_acl (ADJ_advcl AUX_cop) AUX_aux)
+    (AUX_cop ADP_fixed VERB_fixed)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (ADV_advmod ADP_case)
+    (NOUN_obj ADP_case)
+    (ADP_case SCONJ_fixed ADP_fixed)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obj ADP_case)
+    AUX_aux
+    (AUX_aux ADP_fixed)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['カトコフ', 'の', '主張', 'は', '、', '一般的', 'に', '穏健', 'な', 'もの', 'で', 'は', 'あっ', 'た', 'が', '、', 'ひとたび', 'や', '筆', 'を', '執る', 'や', '否', 'や', '、', '痛烈', 'に', '相手', 'を', '批判', 'せ', 'ず', 'に', 'は', 'い', 'られ', 'なかっ', 'た', '。']",0.9067525748979268,0.8718710162576596,0.8893117955777932,0.889391514234438,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1,E
+また、両派ともに相手の絶滅を主張し、小型の出刃包丁やハンマーなどを使用した襲撃を続けたため逮捕者や離脱者が多数出て、組織の維持すら危うくなった。,1694412,,N1,1.0,0.7810908,0.8905453979969025,また、両派ともに相手の絶滅を主張し、小型の出刃包丁やハンマーなどを使用した襲撃を続けたため逮捕者や離脱者が多数出て、組織の維持すら危うくなった。,"(VERB_ROOT
+  (VERB_obl
+    CCONJ_cc
+    PUNCT_punct
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_obl NOUN_nmod ADP_case)
+            (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+            AUX_aux
+            PUNCT_punct)
+          (NOUN_obj
+            (VERB_acl
+              (PROPN_obj
+                (NOUN_nmod (ADJ_nmod ADP_case) ADP_case)
+                ADP_case
+                ADP_case)
+              AUX_aux
+              AUX_aux)
+            ADP_case)
+          AUX_aux))
+      (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+      ADV_advmod
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+  AUX_aux
+  PUNCT_punct)","['また', '、', '両派', 'とも', 'に', '相手', 'の', '絶滅', 'を', '主張', 'し', '、', '小型', 'の', '出刃包丁', 'や', 'ハンマー', 'など', 'を', '使用', 'し', 'た', '襲撃', 'を', '続け', 'た', 'ため', '逮捕者', 'や', '離脱', '者', 'が', '多数', '出', 'て', '、', '組織', 'の', '維持', 'すら', '危うく', 'なっ', 'た', '。']",0.8557034570198441,0.8662599699913133,0.8609817135055786,0.8757635557512405,1,また、東西お互いに相手を非難するプロパガンダ放送を流し合っていた。,相手,N1,1,E

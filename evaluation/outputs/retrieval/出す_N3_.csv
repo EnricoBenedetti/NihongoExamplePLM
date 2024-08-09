@@ -1,0 +1,70 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,-1,20001.0,N2,0.6,0.0,0.3,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl NOUN_compound ADP_case ADP_case)
+    (NOUN_obl
+      (NOUN_nmod (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+      PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    SCONJ_mark)
+  (NOUN_nmod
+    (VERB_acl (NOUN_obl ADP_case ADP_case) AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['音', '具', 'と', 'は', '音', 'を', '出す', '道具', 'の', 'うち', '、', '音', 'が', '出る', 'が', '楽器', 'と', 'は', '言い', 'にくい', '物', 'の', 'こと', '。']",,,,,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14,E
+5電鳴楽器は、最終的に電磁気力によって音を出す楽器で、電気楽器と電子楽器に分けられる。,3371010,,N3,1.0,0.89720786,0.9486039280891418,5電鳴楽器は、最終的に電磁気力によって音を出す楽器で、電気楽器と電子楽器に分けられる。,(NOUN_ROOT NUM_compound NOUN_compound),"['5', '電', '鳴', '楽器', 'は', '、', '最終的', 'に', '電磁', '気力', 'に', 'よっ', 'て', '音', 'を', '出す', '楽器', 'で', '、', '電気', '楽器', 'と', '電子', '楽器', 'に', '分け', 'られる', '。']",1.0,0.8786378205128205,0.9393189102564102,0.943961419172776,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14,E
+観客たちはそれぞれ叩いて音を出すための道具を持ちたいと考えるようになったのである。,2711558,,N3,1.0,0.8886629,0.9443314373493196,観客たちはそれぞれ叩いて音を出すための道具を持ちたいと考えるようになったのである。,"(VERB_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (VERB_advcl
+    (VERB_ccomp
+      (VERB_advcl ADV_advmod SCONJ_mark)
+      (NOUN_obj
+        (NOUN_nmod (NOUN_obj ADP_case) VERB_compound ADP_fixed)
+        ADP_case)
+      AUX_aux
+      ADP_case)
+    AUX_aux
+    AUX_aux)
+  AUX_aux
+  (SCONJ_mark AUX_fixed VERB_fixed)
+  PUNCT_punct)","['観客', 'たち', 'は', 'それぞれ', '叩い', 'て', '音', 'を', '出す', 'ため', 'の', '道具', 'を', '持ち', 'たい', 'と', '考える', 'よう', 'に', 'なっ', 'た', 'の', 'で', 'ある', '。']",0.9138094638592734,0.8549686433385688,0.8843890535989212,0.9143602454741204,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14,E
+有簧（リード）気鳴楽器は、一枚の薄板または一対の薄板に対して向けられた奏者の息によって音を出す楽器である。,1192889,,N3,1.0,0.8877429,0.9438714385032654,有簧（リード）気鳴楽器は、一枚の薄板または一対の薄板に対して向けられた奏者の息によって音を出す楽器である。,(NOUN_ROOT NOUN_nmod PROPN_obl),"['有', '簧（リード）', '気鳴', '楽器', 'は', '、', '一', '枚', 'の', '薄板', 'また', 'は', '一', '対', 'の', '薄板', 'に', '対し', 'て', '向け', 'られ', 'た', '奏者', 'の', '息', 'に', 'よっ', 'て', '音', 'を', '出す', '楽器', 'で', 'ある', '。']",0.9269785716998162,0.7918083536833537,0.8593934626915849,0.9016324505974253,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14,E
+広義には内部にぶら下げた舌（ぜつ）という分銅を振動させて音を出す器具も含めて「鐘」という。,2344541,,N3,1.0,0.890944,0.945472002029419,広義には内部にぶら下げた舌（ぜつ）という分銅を振動させて音を出す器具も含めて「鐘」という。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (VERB_advcl
+          (NOUN_obj
+            (VERB_acl
+              (NOUN_obl ADP_case)
+              AUX_aux
+              PUNCT_punct
+              (ADP_case VERB_fixed))
+            ADP_case)
+          AUX_aux
+          AUX_aux
+          SCONJ_mark)
+        (NOUN_obj ADP_case))
+      ADP_case)
+    SCONJ_mark)
+  (NOUN_obl PUNCT_punct PUNCT_punct ADP_case)
+  PUNCT_punct)","['広義', 'に', 'は', '内部', 'に', 'ぶら下げ', 'た', '舌（ぜつ）', 'と', 'いう', '分銅', 'を', '振動', 'さ', 'せ', 'て', '音', 'を', '出す', '器具', 'も', '含め', 'て', '「', '鐘', '」', 'と', 'いう', '。']",0.878905597427573,0.7966821135091469,0.8377938554683599,0.8916329287488894,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14,E
+縄文時代には既に土鈴（どれい）と呼ばれる音を出す用途を意図して作られた器物が存在した。,2344550,,N3,1.0,0.8802746,0.9401372969150544,縄文時代には既に土鈴（どれい）と呼ばれる音を出す用途を意図して作られた器物が存在した。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl NOUN_compound ADP_case ADP_case)
+      (VERB_advcl
+        (NOUN_obj
+          (VERB_acl
+            (NOUN_obj
+              (VERB_acl ADV_advmod (ADJ_obl ADP_case) AUX_aux)
+              ADP_case))
+          ADP_case)
+        AUX_aux
+        SCONJ_mark)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['縄文', '時代', 'に', 'は', '既に', '土鈴（どれい）', 'と', '呼ば', 'れる', '音', 'を', '出す', '用途', 'を', '意図', 'し', 'て', '作ら', 'れ', 'た', '器物', 'が', '存在', 'し', 'た', '。']",0.8393000839889655,0.8025472265703393,0.8209236552796524,0.8805304760973534,1,音具とは音を出す道具のうち、音が出るが楽器とは言いにくい物のこと。,出す,N3,14,E

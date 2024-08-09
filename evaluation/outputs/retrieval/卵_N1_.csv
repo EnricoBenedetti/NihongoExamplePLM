@@ -1,0 +1,101 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+卵から産まれて成虫になるまでの間の成長過程のものを指す。,-1,9574.0,N3,0.6,0.0,0.3,卵から産まれて成虫になるまでの間の成長過程のものを指す。,"(VERB_ROOT
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod
+        (VERB_nmod
+          (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+          (NOUN_obl ADP_case)
+          PART_mark
+          ADP_case)
+        ADP_case)
+      NOUN_compound
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['卵', 'から', '産まれ', 'て', '成虫', 'に', 'なる', 'まで', 'の', '間', 'の', '成長', '過程', 'の', 'もの', 'を', '指す', '。']",,,,,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N1
+卵-幼虫-成虫という成長段階を経る不完全変態の昆虫である。,1506974,,N1,1.0,0.92528206,0.962641030550003,卵-幼虫-成虫という成長段階を経る不完全変態の昆虫である。,(NOUN_ROOT SYM_dep),"['卵', '-', '幼虫', '-', '成虫', 'と', 'いう', '成長', '段階', 'を', '経る', '不完全', '変態', 'の', '昆虫', 'で', 'ある', '。']",1.0,0.9375,0.96875,0.9656955152750016,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N1
+また、「卵から生まれる」場合には、見かけ上の形態の変化は大きいが、その個体の形は、卵の中であらかじめ形成されており、変態には当たらない。,7226600,,N1,1.0,0.91899604,0.959498018026352,また、「卵から生まれる」場合には、見かけ上の形態の変化は大きいが、その個体の形は、卵の中であらかじめ形成されており、変態には当たらない。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (VERB_advcl
+    (ADJ_advcl
+      (NOUN_obl
+        (VERB_acl (NOUN_obl PUNCT_punct ADP_case) PUNCT_punct)
+        ADP_case
+        ADP_case
+        PUNCT_punct)
+      (NOUN_nsubj
+        (NOUN_nmod (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj (NOUN_nmod DET_det ADP_case) ADP_case PUNCT_punct)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    ADV_advmod
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (ADJ_advcl AUX_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['また', '、', '「', '卵', 'から', '生まれる', '」', '場合', 'に', 'は', '、', '見かけ', '上', 'の', '形態', 'の', '変化', 'は', '大きい', 'が', '、', 'その', '個体', 'の', '形', 'は', '、', '卵', 'の', '中', 'で', 'あらかじめ', '形成', 'さ', 'れ', 'て', 'おり', '、', '変態', 'に', 'は', '当たら', 'ない', '。']",0.9308221675887842,0.8996347402597402,0.9152284539242622,0.937363235975307,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N1
+卵から幼虫、第1若虫、第2若虫を経て、合計3回の脱皮で成虫になる。,2522923,,N1,1.0,0.9289895,0.96449476480484,卵から幼虫、第1若虫、第2若虫を経て、合計3回の脱皮で成虫になる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj
+      (NOUN_nmod
+        (NOUN_nmod (NOUN_nmod ADP_case) PUNCT_punct)
+        NOUN_compound
+        NUM_compound
+        NOUN_compound
+        PUNCT_punct)
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod NOUN_compound NUM_nummod ADP_case) ADP_case)
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['卵', 'から', '幼虫', '、', '第', '1', '若', '虫', '、', '第', '2', '若', '虫', 'を', '経', 'て', '、', '合計', '3', '回', 'の', '脱皮', 'で', '成虫', 'に', 'なる', '。']",0.858728008471632,0.8705806362325734,0.8646543223521027,0.9145745435784712,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N1
+通常の水生巻貝に見られるような幼生期は卵の中で過ごすため、孵化した子は小さくて巻きも少ないとはいえ既にカタツムリの形をしている。,1042943,,N1,1.0,0.883125,0.9415625035762788,通常の水生巻貝に見られるような幼生期は卵の中で過ごすため、孵化した子は小さくて巻きも少ないとはいえ既にカタツムリの形をしている。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+        AUX_aux
+        AUX_aux
+        AUX_aux)
+      NOUN_compound
+      ADP_case)
+    (NOUN_obl
+      (VERB_acl (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+      PUNCT_punct)
+    (ADJ_advcl
+      (NOUN_nsubj (VERB_acl AUX_aux AUX_aux) ADP_case)
+      SCONJ_mark)
+    (NOUN_nsubj ADP_case)
+    (ADP_case SCONJ_fixed SCONJ_fixed))
+  ADV_advmod
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['通常', 'の', '水生', '巻貝', 'に', '見', 'られる', 'よう', 'な', '幼生', '期', 'は', '卵', 'の', '中', 'で', '過ごす', 'ため', '、', '孵化', 'し', 'た', '子', 'は', '小さく', 'て', '巻き', 'も', '少ない', 'と', 'は', 'いえ', '既に', 'カタツムリ', 'の', '形', 'を', 'し', 'て', 'いる', '。']",0.8303934078008817,0.863598389056055,0.8469958984284683,0.8942792010023735,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N1
+古代エジプト人は、全てのハゲタカがメスで、オスの介入なしに卵から自発的に生まれると信じていたので、この鳥を純粋さや母性と結びつけた。,12214372,,N1,1.0,0.8841991,0.942099541425705,古代エジプト人は、全てのハゲタカがメスで、オスの介入なしに卵から自発的に生まれると信じていたので、この鳥を純粋さや母性と結びつけた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj NOUN_compound PROPN_compound ADP_case PUNCT_punct)
+      (NOUN_advcl
+        (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+        AUX_cop
+        PUNCT_punct)
+      (NOUN_obl (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+      (NOUN_obl ADP_case)
+      (ADJ_advcl AUX_cop)
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    (SCONJ_mark AUX_fixed)
+    PUNCT_punct)
+  (NOUN_obj DET_det ADP_case)
+  (NOUN_obl (ADJ_nmod PART_mark ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['古代', 'エジプト', '人', 'は', '、', '全て', 'の', 'ハゲタカ', 'が', 'メス', 'で', '、', 'オス', 'の', '介入', 'なし', 'に', '卵', 'から', '自発的', 'に', '生まれる', 'と', '信じ', 'て', 'い', 'た', 'の', 'で', '、', 'この', '鳥', 'を', '純粋', 'さ', 'や', '母性', 'と', '結びつけ', 'た', '。']",0.7867440287488604,0.8587295552022596,0.8227367919755599,0.8824181667006324,1,卵から産まれて成虫になるまでの間の成長過程のものを指す。,卵,N1

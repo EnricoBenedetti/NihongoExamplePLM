@@ -1,0 +1,66 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+英吉利語を教える報酬は僅かに月額六十円である。,-1,16260.0,N2,0.6,0.0,0.3,英吉利語を教える報酬は僅かに月額六十円である。,"(NOUN_ROOT
+  (NOUN_nsubj (VERB_acl (NOUN_obj VERB_acl ADP_case)) ADP_case)
+  (NOUN_obl ADP_case)
+  NOUN_compound
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['英吉利', '語', 'を', '教える', '報酬', 'は', '僅か', 'に', '月額', '六十', '円', 'で', 'ある', '。']",,,,,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N3
+わたしは台湾語を教えるのが大変に楽しい」と語っていたという。,9667784,,N3,1.0,0.822817,0.9114085137844086,わたしは台湾語を教えるのが大変に楽しい」と語っていたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (PRON_nsubj
+      ADP_case
+      (ADJ_dep
+        (VERB_csubj (NOUN_obj ADP_case) SCONJ_mark ADP_case)
+        (ADJ_advcl AUX_aux)
+        PUNCT_punct
+        ADP_case))
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['わたし', 'は', '台湾語', 'を', '教える', 'の', 'が', '大変', 'に', '楽しい', '」', 'と', '語っ', 'て', 'い', 'た', 'と', 'いう', '。']",0.8174240632021901,0.9464809384164224,0.8819525008093062,0.8966805072968573,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N3
+また、公式にロシア語を教えるための認定を受けている。,9858206,,N3,1.0,0.82322913,0.9116145670413972,また、公式にロシア語を教えるための認定を受けている。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (ADJ_advcl AUX_aux)
+  (NOUN_obj
+    (NOUN_nmod (PROPN_obj ADP_case) VERB_compound ADP_fixed)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '、', '公式', 'に', 'ロシア語', 'を', '教える', 'ため', 'の', '認定', 'を', '受け', 'て', 'いる', '。']",0.8026213956201349,0.9211805555555556,0.8619009755878453,0.8867577713146212,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N3
+1973年5月1日、平壌の士官学校で英語を教えるよう指示された。,1847416,,N3,1.0,0.7921717,0.8960858583450317,1973年5月1日、平壌の士官学校で英語を教えるよう指示された。,"(VERB_ROOT
+  (NOUN_obl
+    NUM_compound
+    NOUN_compound
+    NUM_compound
+    NOUN_compound
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (PROPN_nmod ADP_case) NOUN_compound ADP_case)
+    (NOUN_obj ADP_case)
+    AUX_aux)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['1973', '年', '5', '月', '1日', '、', '平壌', 'の', '士官', '学校', 'で', '英語', 'を', '教える', 'よう', '指示', 'さ', 'れ', 'た', '。']",0.7788758811018549,0.9147518382352942,0.8468138596685746,0.8714498590068032,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N3
+日本国籍の生徒は通年約20名ほど在籍し、日本語を教える教師も2人いる。,6684542,,N3,1.0,0.8003875,0.9001937508583069,日本国籍の生徒は通年約20名ほど在籍し、日本語を教える教師も2人いる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obl NOUN_compound NOUN_compound NUM_nummod ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+  ADV_advmod
+  PUNCT_punct)","['日本国籍', 'の', '生徒', 'は', '通年', '約', '20', '名', 'ほど', '在籍', 'し', '、', '日本語', 'を', '教える', '教師', 'も', '2人', 'いる', '。']",0.75342135276682,0.9082352135815992,0.8308282831742095,0.8655110170162582,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N3
+そして、スロバキア語とドイツ語は外国語として週に1時間だけ教えることを認められた。,4702001,,N3,1.0,0.8156285,0.9078142642974854,そして、スロバキア語とドイツ語は外国語として週に1時間だけ教えることを認められた。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_nsubj (NOUN_nmod PROPN_compound ADP_case) ADP_case)
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obl (ADP_case AUX_fixed SCONJ_fixed))
+      (NOUN_obl (NOUN_obl ADP_case) NUM_nummod ADP_case))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['そして', '、', 'スロバキア', '語', 'と', 'ドイツ語', 'は', '外国語', 'と', 'し', 'て', '週', 'に', '1', '時間', 'だけ', '教える', 'こと', 'を', '認め', 'られ', 'た', '。']",0.7229157253660157,0.8978764478764478,0.8103960866212317,0.8591051754593586,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N3

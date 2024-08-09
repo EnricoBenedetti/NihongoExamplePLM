@@ -1,0 +1,101 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+軽量なものでは5kgを切るような車体を作成することも可能である。,-1,20001.0,N3,1.0,0.0,0.5,軽量なものでは5kgを切るような車体を作成することも可能である。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl (ADJ_acl AUX_aux) ADP_case ADP_case)
+      (NOUN_obj
+        (VERB_acl (NOUN_obj NUM_nummod ADP_case) AUX_aux AUX_aux)
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['軽量', 'な', 'もの', 'で', 'は', '5', 'kg', 'を', '切る', 'よう', 'な', '車体', 'を', '作成', 'する', 'こと', 'も', '可能', 'で', 'ある', '。']",,,,,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N3
+今後も、たとえばレールから横に車両を突き出して支持する方法（カンチレバー式・片持ち式）など、この分類では区分できないものが登場してくる可能性はある。,478812,,N3,1.0,0.77412444,0.8870622217655182,今後も、たとえばレールから横に車両を突き出して支持する方法（カンチレバー式・片持ち式）など、この分類では区分できないものが登場してくる可能性はある。,"(VERB_ROOT
+  (ADV_advmod ADP_case PUNCT_punct)
+  ADV_advmod
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl
+          (VERB_acl
+            (VERB_advcl
+              (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+              (NOUN_obj ADP_case)
+              SCONJ_mark)
+            AUX_aux)
+          PUNCT_punct
+          NOUN_compound
+          NOUN_compound
+          SYM_compound
+          NOUN_compound
+          NOUN_compound
+          PUNCT_punct
+          ADP_case
+          PUNCT_punct)
+        (NOUN_nsubj
+          (VERB_acl
+            (NOUN_obl DET_det ADP_case ADP_case)
+            AUX_aux
+            AUX_aux)
+          ADP_case)
+        AUX_aux
+        SCONJ_mark))
+    ADP_case)
+  PUNCT_punct)","['今後', 'も', '、', 'たとえば', 'レール', 'から', '横', 'に', '車両', 'を', '突き出し', 'て', '支持', 'する', '方法', '（', 'カンチレバー', '式', '・', '片持ち', '式', '）', 'など', '、', 'この', '分類', 'で', 'は', '区分', 'でき', 'ない', 'もの', 'が', '登場', 'し', 'て', 'くる', '可能性', 'は', 'ある', '。']",0.7388232905259351,0.9311827956989248,0.8350030431124299,0.8610326324389741,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N3
+小規模なものは吊り下げ式の荷物輸送用設備や遊戯施設などに多用されている。,478835,,N3,1.0,0.8256824,0.9128412008285522,小規模なものは吊り下げ式の荷物輸送用設備や遊戯施設などに多用されている。,"(VERB_ROOT
+  (NOUN_nsubj (ADJ_acl AUX_cop) ADP_case)
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod NOUN_compound ADP_case)
+      NOUN_compound
+      NOUN_compound
+      NOUN_compound
+      ADP_case)
+    NOUN_compound
+    ADP_case
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['小規模', 'な', 'もの', 'は', '吊り下げ', '式', 'の', '荷物', '輸送', '用', '設備', 'や', '遊戯', '施設', 'など', 'に', '多用', 'さ', 'れ', 'て', 'いる', '。']",0.7330954338809264,0.9222883597883598,0.8276918968346431,0.8702665488315977,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N3
+したがって、いくつかの車種には例外があり、特に三輪のものについては構造が大きく異なる例もある。,459939,,N3,1.0,0.82971066,0.91485533118248,したがって、いくつかの車種には例外があり、特に三輪のものについては構造が大きく異なる例もある。,"(VERB_ROOT
+  (CCONJ_cc SCONJ_fixed PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl (NOUN_nmod ADP_case ADP_case) ADP_case ADP_case)
+        (NOUN_nsubj ADP_case)
+        PUNCT_punct)
+      ADV_advmod
+      (NOUN_obl
+        (NOUN_nmod NUM_nummod ADP_case)
+        (ADP_case VERB_fixed SCONJ_fixed)
+        ADP_case)
+      (ADJ_advcl (NOUN_nsubj ADP_case)))
+    ADP_case)
+  PUNCT_punct)","['したがっ', 'て', '、', 'いくつ', 'か', 'の', '車種', 'に', 'は', '例外', 'が', 'あり', '、', '特に', '三', '輪', 'の', 'もの', 'に', 'つい', 'て', 'は', '構造', 'が', '大きく', '異なる', '例', 'も', 'ある', '。']",0.715907955172149,0.9053827751196172,0.8106453651458831,0.8627503481641815,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N3
+値段の高いものではイメージ展開を行うマイコンチップを高性能化して、高速で出力できるようになっている。,474118,,N3,1.0,0.8446903,0.9223451614379884,値段の高いものではイメージ展開を行うマイコンチップを高性能化して、高速で出力できるようになっている。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_obl (ADJ_acl (NOUN_nmod ADP_case)) ADP_case ADP_case)
+        (NOUN_obj NOUN_compound ADP_case))
+      NOUN_compound
+      ADP_case)
+    NOUN_compound
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl (ADJ_advcl AUX_aux) AUX_aux AUX_aux AUX_aux)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['値段', 'の', '高い', 'もの', 'で', 'は', 'イメージ', '展開', 'を', '行う', 'マイコン', 'チップ', 'を', '高性能', '化', 'し', 'て', '、', '高速', 'で', '出力', 'できる', 'よう', 'に', 'なっ', 'て', 'いる', '。']",0.7015357124933843,0.8828935234944282,0.7922146179939062,0.8572798897159473,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N3
+小型のものは、家庭用や小規模なオフィス用として利用される。,474091,,N3,1.0,0.85416156,0.9270807802677156,小型のものは、家庭用や小規模なオフィス用として利用される。,"(VERB_ROOT
+  (NOUN_nsubj (ADJ_nmod ADP_case) ADP_case PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod ADP_case)
+    (ADJ_acl AUX_aux)
+    NOUN_compound
+    (ADP_case AUX_fixed SCONJ_fixed))
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['小型', 'の', 'もの', 'は', '、', '家庭用', 'や', '小規模', 'な', 'オフィス', '用', 'と', 'し', 'て', '利用', 'さ', 'れる', '。']",0.6802138453920885,0.8707693488943489,0.7754915971432187,0.851286188705467,1,軽量なものでは5kgを切るような車体を作成することも可能である。,もの,N3

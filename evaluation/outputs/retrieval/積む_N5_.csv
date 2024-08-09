@@ -1,0 +1,64 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,-1,7297.0,N3,0.1999999999999999,0.0,0.0999999999999999,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (PROPN_obj NOUN_compound ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    AUX_aux)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['その', '後', 'プロ', 'に', '転向', 'する', 'と', '、', '地元', '大阪', 'を', '中心', 'に', '大会', 'へ', '出場', 'し', '経験', 'を', '積む', '。']",,,,,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N5
+経験も積んできた。,102388,,N4,0.6,0.80720615,0.7036030769348145,経験も積んできた。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['経験', 'も', '積ん', 'で', 'き', 'た', '。']",0.75,0.9642857142857144,0.8571428571428572,0.7803729670388359,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N5
+みゆきはそこで経験を積んでいく事になる。,11802515,,N4,0.6,0.7922331,0.6961165547370911,みゆきはそこで経験を積んでいく事になる。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['みゆき', 'は', 'そこ', 'で', '経験', 'を', '積ん', 'で', 'いく', '事', 'に', 'なる', '。']",0.6944444444444444,0.9197689345314506,0.8071066894879475,0.7516116221125193,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N5
+車にスペアタイヤを積んでますか？,386499,,N5,1.0,0.405302,0.7026509940624237,車にスペアタイヤを積んでますか？,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['車', 'に', 'スペアタイヤ', 'を', '積ん', 'で', 'ます', 'か', '？']",0.6622005519943013,0.8973084886128364,0.7797545203035688,0.7412027571829962,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N5
+ライブ経験を積んだり、オーディションを受けたり、ボイストレーニングに通ったりしたという。,10887562,,N4,0.6,0.7266441,0.6633220493793488,ライブ経験を積んだり、オーディションを受けたり、ボイストレーニングに通ったりしたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obj NOUN_compound ADP_case)
+          PART_mark
+          PUNCT_punct)
+        (NOUN_obj ADP_case)
+        PART_mark
+        PUNCT_punct)
+      (VERB_obl ADP_case)
+      PART_mark)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['ライブ', '経験', 'を', '積ん', 'だり', '、', 'オーディション', 'を', '受け', 'たり', '、', 'ボイストレーニング', 'に', '通っ', 'たり', 'し', 'た', 'と', 'いう', '。']",0.6958039712924383,0.8721611721611722,0.7839825717268052,0.723652310553077,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N5
+レコーディング、作曲・アレンジャーとしてその後も活躍しキャリアを積んでいき現在も交流を持つ。,6858758,,N4,0.6,0.7169074,0.6584536910057068,レコーディング、作曲・アレンジャーとしてその後も活躍しキャリアを積んでいき現在も交流を持つ。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (NOUN_nmod PUNCT_punct)
+        NOUN_compound
+        SYM_compound
+        (ADP_case AUX_fixed SCONJ_fixed))
+      (NOUN_nsubj ADP_case)
+      AUX_aux)
+    (NOUN_obj ADP_case)
+    (SCONJ_mark VERB_fixed))
+  (ADV_advmod ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['レコーディング', '、', '作曲', '・', 'アレンジャー', 'と', 'し', 'て', 'その後', 'も', '活躍', 'し', 'キャリア', 'を', '積ん', 'で', 'いき', '現在', 'も', '交流', 'を', '持つ', '。']",0.6642329761915295,0.8656016973592057,0.7649173367753677,0.7116855138905372,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N5

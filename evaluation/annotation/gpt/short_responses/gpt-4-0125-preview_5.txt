@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N2; Sense: similar; Reject: ""
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N1; Sense: similar; Reject: ""
+2. Difficulty: N1; Sense: similar; Reject: ""
+3. Difficulty: N1; Sense: similar; Reject: ""
+4. Difficulty: N2; Sense: similar; Reject: ""
+5. Difficulty: N1; Sense: similar; Reject: ""
+Sentence diversity: High
+
+System 3 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most complex and diverse sentences that are most suitable for an N1 learner, with a high level of syntactic diversity and appropriate use of the target word "場合" in contexts that align well with the target difficulty level. System 1 offers sentences that are generally simpler than the target level but still relevant and useful, with a medium range of diversity. System 3, while maintaining relevance to the target word, offers the least diversity and complexity, making it the least suitable for N1 learners looking for challenging material.
+System 1 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N2; Sense: similar; Reject: ""
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N1; Sense: similar; Reject: ""
+2. Difficulty: N1; Sense: similar; Reject: ""
+3. Difficulty: N1; Sense: similar; Reject: ""
+4. Difficulty: N2; Sense: similar; Reject: ""
+5. Difficulty: N2; Sense: similar; Reject: ""
+Sentence diversity: High
+
+System 3 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides the most complex and diverse sentences that are closest to the target N1 level, with a high degree of syntactic variety and maintaining a similar sense to the context sentence. System 1 offers sentences that are generally simpler than the target level but still relevant and diverse in usage. System 3, while maintaining relevance, lacks diversity in sentence structure and complexity, making it the least useful for learners aiming for N1 proficiency.
+System 1 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System 2 sentences:
+1. Difficulty: N1; Sense: similar; Reject: ""
+2. Difficulty: N1; Sense: similar; Reject: ""
+3. Difficulty: N1; Sense: similar; Reject: ""
+4. Difficulty: N2; Sense: similar; Reject: ""
+5. Difficulty: N1; Sense: similar; Reject: ""
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System ranking: System 2 > System 1 = System 3
+
+Comment: System 2 provides sentences that are most appropriate for the target N1 level, with a good mix of complex structures and vocabulary. The sentences from Systems 1 and 3, while relevant and maintaining a similar sense to the target word, are more suited to an N3 level due to their simpler structures and more common vocabulary. System 2 also offers a higher sentence diversity compared to Systems 1 and 3, which both present low diversity in sentence structure and usage.

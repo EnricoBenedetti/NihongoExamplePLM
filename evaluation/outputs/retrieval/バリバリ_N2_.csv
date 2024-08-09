@@ -1,0 +1,68 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分の将来の目的に向かってバリバリ勉強していた。,-1,82.0,N2,1.0,0.0,0.5,自分の将来の目的に向かってバリバリ勉強していた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    SCONJ_mark)
+  ADV_advmod
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['自分', 'の', '将来', 'の', '目的', 'に', '向かっ', 'て', 'バリバリ', '勉強', 'し', 'て', 'い', 'た', '。']",,,,,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N2
+幹夫はクレーム係の仕事をバリバリこなし、毎朝お弁当まで作る。,6835635,,N2,1.0,0.75545955,0.8777297735214233,幹夫はクレーム係の仕事をバリバリこなし、毎朝お弁当まで作る。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_nsubj ADP_case)
+    (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+    ADV_advmod
+    PUNCT_punct)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['幹夫', 'は', 'クレーム', '係', 'の', '仕事', 'を', 'バリバリ', 'こなし', '、', '毎朝', 'お弁当', 'まで', '作る', '。']",0.5964932306166779,0.9583333333333334,0.7774132819750057,0.8275715277482145,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N2
+海賊精神を発揮してお互いバリバリやりましょう」といわれた。,4621544,,N2,1.0,0.739393,0.8696964979171753,海賊精神を発揮してお互いバリバリやりましょう」といわれた。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl (NOUN_obj NOUN_compound ADP_case) AUX_aux SCONJ_mark)
+    (NOUN_obl NOUN_compound)
+    ADV_advmod
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['海賊', '精神', 'を', '発揮', 'し', 'て', 'お', '互い', 'バリバリ', 'やり', 'ましょう', '」', 'と', 'いわ', 'れ', 'た', '。']",0.5846640944949324,0.9301257253384914,0.7573949099167119,0.8135457039169436,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N2
+彼はバリバリの仕事の鬼だ。,388097,,N2,1.0,0.62952137,0.814760684967041,彼はバリバリの仕事の鬼だ。,"(NOUN_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_nmod (ADV_advmod ADP_case) ADP_case)
+  AUX_cop
+  PUNCT_punct)","['彼', 'は', 'バリバリ', 'の', '仕事', 'の', '鬼', 'だ', '。']",0.6408571726836401,0.909684065934066,0.775270619308853,0.795015652137947,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N2
+でも他球団に目を向けてみれば自分と同じ年齢の選手がレギュラーでバリバリ活躍している。,2203042,,N2,1.0,0.6246529,0.8123264610767365,でも他球団に目を向けてみれば自分と同じ年齢の選手がレギュラーでバリバリ活躍している。,"(VERB_ROOT
+  (CCONJ_dep ADP_fixed)
+  (VERB_advcl
+    (NOUN_obl NOUN_compound ADP_case)
+    (NOUN_obj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark)
+  (NOUN_nsubj
+    (NOUN_nmod (ADJ_amod (NOUN_obl ADP_case)) ADP_case)
+    ADP_case)
+  (ADJ_advcl AUX_aux)
+  ADV_advmod
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['で', 'も', '他', '球団', 'に', '目', 'を', '向け', 'て', 'みれ', 'ば', '自分', 'と', '同じ', '年齢', 'の', '選手', 'が', 'レギュラー', 'で', 'バリバリ', '活躍', 'し', 'て', 'いる', '。']",0.6455295058242576,0.9016471333544503,0.773588319589354,0.7929573903330452,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N2
+なんだか半年置きくらいにこんなこと書いてるような気がしますけど、バリバリ作ってます。,3354,,N2,1.0,0.6784092,0.8392046093940735,なんだか半年置きくらいにこんなこと書いてるような気がしますけど、バリバリ作ってます。,"(VERB_ROOT
+  (VERB_advcl
+    (PRON_advcl AUX_cop ADP_case)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl ADV_advmod ADP_case ADP_case)
+        (NOUN_obl PRON_nmod)
+        AUX_aux
+        AUX_aux
+        AUX_aux)
+      ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  ADV_advmod
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['なん', 'だ', 'か', '半年', '置き', 'くらい', 'に', 'こんな', 'こと', '書い', 'てる', 'よう', 'な', '気', 'が', 'し', 'ます', 'けど', '、', 'バリバリ', '作っ', 'て', 'ます', '。']",0.5998869339975778,0.9027358490566038,0.7513113915270908,0.7952580004605821,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N2

@@ -1,0 +1,42 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,-1,3950.0,N2,0.0,0.0,0.0,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl ADJ_acl ADP_case)
+    (ADJ_advcl (NOUN_nsubj PRON_nmod ADP_case))
+    (NOUN_obl NUM_nummod ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark)
+  (VERB_obl ADP_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['鋭い', '鎌', 'で', 'どんな', '物', 'も', '真っ', '二', 'つ', 'に', 'し', 'て', 'しまう', 'が', 'こんにゃく', 'だけ', 'は', '切れ', 'ない', '。']",,,,,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N5
+編集なかなか鋭い質問ですね。,92333,,N4,0.6,0.5472666,0.5736333012580872,編集なかなか鋭い質問ですね。,NOUN_ROOT,"['編集', 'なかなか', '鋭い', '質問', 'です', 'ね', '。']",1.0,0.9814814814814816,0.9907407407407408,0.782187020999414,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N5
+ライオンの歯は鋭いからね。,356149,,N4,0.6,0.7334011,0.6667005598545075,ライオンの歯は鋭いからね。,"(ADJ_ROOT
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  SCONJ_mark
+  PART_mark
+  PUNCT_punct)","['ライオン', 'の', '歯', 'は', '鋭い', 'から', 'ね', '。']",0.8995764715960574,0.9493303571428572,0.9244534143694572,0.7955769871119824,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N5
+刃の鋭いナイフを手に入れた。,212283,,N4,0.6,0.80215114,0.7010755717754364,刃の鋭いナイフを手に入れた。,"(VERB_ROOT
+  (NOUN_obj (ADJ_acl (NOUN_nmod ADP_case)) ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['刃', 'の', '鋭い', 'ナイフ', 'を', '手', 'に', '入れ', 'た', '。']",0.7963865303498903,0.9383468834688348,0.8673667069093625,0.7842211393423995,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N5
+ウサギは鋭い聴力、キツネは嗅覚、ゴリラは怪力の能力を使うことができた。,2771396,,N4,0.6,0.7151531,0.6575765490531922,ウサギは鋭い聴力、キツネは嗅覚、ゴリラは怪力の能力を使うことができた。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nsubj ADP_case)
+    (NOUN_nsubj (NOUN_nmod ADJ_acl PUNCT_punct) ADP_case)
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  AUX_aux
+  PUNCT_punct)","['ウサギ', 'は', '鋭い', '聴力', '、', 'キツネ', 'は', '嗅覚', '、', 'ゴリラ', 'は', '怪力', 'の', '能力', 'を', '使う', 'こと', 'が', 'でき', 'た', '。']",0.7632812624815367,0.9119473422752112,0.837614302378374,0.7475954257157831,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N5
+歯が鋭いので咬まれないように注意が必要である。,5310490,,N4,0.6,0.7340714,0.6670356869697571,歯が鋭いので咬まれないように注意が必要である。,"(ADJ_ROOT
+  (VERB_advcl
+    (ADJ_advcl (NOUN_nsubj ADP_case) (SCONJ_mark AUX_fixed))
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    AUX_aux)
+  (NOUN_nsubj ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['歯', 'が', '鋭い', 'の', 'で', '咬ま', 'れ', 'ない', 'よう', 'に', '注意', 'が', '必要', 'で', 'ある', '。']",0.7105070643628326,0.898668164313222,0.8045876143380273,0.7358116506538922,1,鋭い鎌でどんな物も真っ二つにしてしまうがこんにゃくだけは切れない。,鋭い,N5

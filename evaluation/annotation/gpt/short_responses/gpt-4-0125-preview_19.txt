@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: N4; Sense: similar; Reject: ""
+2. Difficulty: N4; Sense: similar; Reject: ""
+3. Difficulty: N4; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N5; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N4; Sense: similar; Reject: ""
+Sentence diversity: Medium
+
+System 3 sentences:
+1. Difficulty: N2; Sense: not similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N2; Sense: not similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System ranking: System 1 > System 2 > System 3
+
+Comment: System 1 provides a good range of sentences that are mostly relevant to the target word "汚い" and its usage in everyday contexts, suitable for learners around the N3 level, with some sentences leaning towards N4. System 2 also offers relevant sentences but includes one that is simpler (N5), which might not challenge an N3 learner as much. System 3, while offering diverse contexts, includes sentences that diverge significantly in difficulty and relevance to the target context, making it less consistent for learners specifically aiming for N3 proficiency.
+System 1 sentences:
+1. Difficulty: N4; Sense: similar; Reject: ""
+2. Difficulty: N4; Sense: similar; Reject: ""
+3. Difficulty: N4; Sense: similar; Reject: ""
+4. Difficulty: N4; Sense: similar; Reject: ""
+5. Difficulty: N4; Sense: similar; Reject: ""
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N3; Sense: similar; Reject: ""
+2. Difficulty: N3; Sense: similar; Reject: ""
+3. Difficulty: N3; Sense: similar; Reject: ""
+4. Difficulty: N3; Sense: similar; Reject: ""
+5. Difficulty: N3; Sense: similar; Reject: ""
+Sentence diversity: Low
+
+System 3 sentences:
+1. Difficulty: N2; Sense: not similar; Reject: ""
+2. Difficulty: N3; Sense: not similar; Reject: ""
+3. Difficulty: N3; Sense: not similar; Reject: ""
+4. Difficulty: N2; Sense: not similar; Reject: ""
+5. Difficulty: N3; Sense: not similar; Reject: ""
+Sentence diversity: Medium
+
+System ranking: System 2 > System 1 > System 3
+
+Comment: System 2 provides sentences that are closest to the target difficulty level (N3) and maintains a similar sense to the context sentence, despite having low sentence diversity. System 1's sentences are slightly easier (N4) but still relevant and diverse in usage. System 3, while offering medium diversity, diverges significantly in sense from the target word's context, making it the least useful for learners aiming to understand the word in the given context.
+System 1 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "no"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "no"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "no"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "no"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "no"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "no"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "no"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "no"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "no"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "no"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N2"; Sense: "not similar"; Reject: "no"
+2. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+3. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+4. Difficulty: "N2"; Sense: "not similar"; Reject: "no"
+5. Difficulty: "N3"; Sense: "not similar"; Reject: "no"
+Sentence diversity: "High"
+
+System ranking: System "2" > System "1" > System "3"
+
+Comment: System 2 provides sentences that are closest to the target difficulty level (N3) and maintains a similar sense to the context sentence, though it lacks diversity. System 1 offers sentences that are slightly easier (N4) but still relevant and with a bit more diversity. System 3, while showing the highest diversity and some creative uses, diverges significantly in sense from the target context, making it less useful for learners specifically looking to understand the target word in the given context.

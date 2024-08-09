@@ -1,0 +1,64 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分の将来の目的に向かってバリバリ勉強していた。,-1,82.0,N2,0.6,0.0,0.3,自分の将来の目的に向かってバリバリ勉強していた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    SCONJ_mark)
+  ADV_advmod
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['自分', 'の', '将来', 'の', '目的', 'に', '向かっ', 'て', 'バリバリ', '勉強', 'し', 'て', 'い', 'た', '。']",,,,,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N3
+しげのの代表作『バリバリ伝説』の主人公の名前は、速水翼の出身地から取られている。,417874,,N3,1.0,0.4755223,0.7377611547708511,しげのの代表作『バリバリ伝説』の主人公の名前は、速水翼の出身地から取られている。,(NOUN_ROOT (PROPN_nmod ADP_case ADP_case)),"['しげ', 'の', 'の', '代表作', '『', 'バリバリ', '伝説', '』', 'の', '主人公', 'の', '名前', 'は', '、', '速水', '翼', 'の', '出身地', 'から', '取ら', 'れ', 'て', 'いる', '。']",1.0,0.935897435897436,0.967948717948718,0.8528549363597846,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N3
+節子は車の知識を身につけ、セールスレディとしてバリバリ仕事をして、会社で優秀な営業成績を上げる。,8350319,,N3,1.0,0.7327161,0.8663580417633057,節子は車の知識を身につけ、セールスレディとしてバリバリ仕事をして、会社で優秀な営業成績を上げる。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obl ADP_case)
+      PUNCT_punct)
+    (NOUN_obl (ADP_case AUX_fixed SCONJ_fixed))
+    ADV_advmod
+    (NOUN_obj ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obj
+    (ADJ_acl (NOUN_obl ADP_case) AUX_aux)
+    NOUN_compound
+    ADP_case)
+  PUNCT_punct)","['節子', 'は', '車', 'の', '知識', 'を', '身', 'に', 'つけ', '、', 'セールスレディ', 'と', 'し', 'て', 'バリバリ', '仕事', 'を', 'し', 'て', '、', '会社', 'で', '優秀', 'な', '営業', '成績', 'を', '上げる', '。']",0.920088888977287,0.9039027149321268,0.9119958019547068,0.8891769218590062,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N3
+と尋ねると、「バリバリ、インタビューの練習をしてました」と述べ、観客の大爆笑を誘っている。,8370695,,N3,1.0,0.73587084,0.8679354190826416,と尋ねると、「バリバリ、インタビューの練習をしてました」と述べ、観客の大爆笑を誘っている。,"(VERB_ROOT
+  ADP_dep
+  (VERB_advcl SCONJ_mark PUNCT_punct)
+  (VERB_advcl
+    (VERB_ccomp
+      (ADV_advmod PUNCT_punct PUNCT_punct)
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      PUNCT_punct
+      ADP_case)
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['と', '尋ねる', 'と', '、', '「', 'バリバリ', '、', 'インタビュー', 'の', '練習', 'を', 'し', 'て', 'まし', 'た', '」', 'と', '述べ', '、', '観客', 'の', '大爆笑', 'を', '誘っ', 'て', 'いる', '。']",0.8379244856668288,0.8697589464377123,0.8538417160522705,0.860888567567456,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N3
+バリバリ人の目を気にするタイプです。,397590,,N3,1.0,0.67309153,0.8365457653999329,バリバリ人の目を気にするタイプです。,"(NOUN_ROOT
+  (VERB_acl
+    ADV_advmod
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obl ADP_case))
+  AUX_cop
+  PUNCT_punct)","['バリバリ', '人', 'の', '目', 'を', '気', 'に', 'する', 'タイプ', 'です', '。']",0.8168584374333049,0.8713328585217012,0.844095647977503,0.8403207066887179,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N3
+鳥越俊太郎さんもお元気なって、バリバリ現場取材なさってます。,46067,,N3,1.0,0.66463834,0.8323191702365875,鳥越俊太郎さんもお元気なって、バリバリ現場取材なさってます。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj PROPN_compound PROPN_compound ADP_case)
+    NOUN_compound
+    AUX_aux
+    ADP_case
+    PUNCT_punct)
+  ADV_advmod
+  VERB_compound
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['鳥越', '俊太郎', 'さん', 'も', 'お', '元気', 'な', 'って', '、', 'バリバリ', '現場', '取材', 'なさっ', 'て', 'ます', '。']",0.810215987249697,0.8779093221645511,0.844062654707124,0.8381909124718558,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N3

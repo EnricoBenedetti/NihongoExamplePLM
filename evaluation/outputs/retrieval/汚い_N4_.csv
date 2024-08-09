@@ -1,0 +1,37 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,-1,616.0,N1,0.0,0.0,0.0,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_acl (NOUN_obj ADP_case) AUX_aux)
+    ADJ_acl
+    ADJ_acl
+    ADP_case
+    PUNCT_punct)
+  (ADJ_acl (NOUN_obl ADP_case AUX_cop ADP_case) AUX_aux AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['貝殻', 'を', '敷い', 'た', '細い', '汚い', '横町', 'で', '、', '貧民窟', 'と', 'で', 'も', 'いい', 'そう', 'な', '家並', 'だ', '。']",,,,,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N4
+それらは暗くて、汚い建物の中で星の様に輝きました。,270578,,N4,1.0,0.8128646,0.9064323008060456,それらは暗くて、汚い建物の中で星の様に輝きました。,"(VERB_ROOT
+  (ADJ_advcl (NOUN_nsubj PRON_nmod ADP_case) SCONJ_mark PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADJ_acl ADP_case) ADP_case)
+  (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['それ', 'ら', 'は', '暗く', 'て', '、', '汚い', '建物', 'の', '中', 'で', '星', 'の', '様', 'に', '輝き', 'まし', 'た', '。']",0.7167576715352191,0.9539473684210528,0.8353525199781359,0.8708924103920908,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N4
+あいつの部屋は、汚い。,366831,,N4,1.0,0.71761316,0.8588065803050995,あいつの部屋は、汚い。,"(ADJ_ROOT
+  (NOUN_nsubj (PRON_nmod ADP_case) ADP_case PUNCT_punct)
+  PUNCT_punct)","['あいつ', 'の', '部屋', 'は', '、', '汚い', '。']",0.7376134308726134,0.9273809523809524,0.8324971916267829,0.8456518859659412,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N4
+汚いところですけど、まあどうぞお入りください。,371777,,N4,1.0,0.6789424,0.8394711911678314,汚いところですけど、まあどうぞお入りください。,"(VERB_ROOT
+  (NOUN_advcl ADJ_acl AUX_cop SCONJ_mark PUNCT_punct)
+  ADV_advmod
+  ADV_advmod
+  NOUN_compound
+  AUX_aux
+  PUNCT_punct)","['汚い', 'ところ', 'です', 'けど', '、', 'まあ', 'どうぞ', 'お', '入り', 'ください', '。']",0.7350918967916751,0.928228021978022,0.8316599593848485,0.83556557527634,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N4
+汚い膝）となっている。,11643531,,N4,1.0,0.67943627,0.8397181332111359,汚い膝）となっている。,"(VERB_ROOT
+  (NOUN_obl ADJ_acl PUNCT_punct ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['汚い', '膝', '）', 'と', 'なっ', 'て', 'いる', '。']",0.7252009281238817,0.9215439618644068,0.8233724449941442,0.83154528910264,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N4
+この汚いゴミをすぐに捨てなければならない。,288663,,N4,1.0,0.6940028,0.8470014035701752,この汚いゴミをすぐに捨てなければならない。,"(VERB_ROOT
+  (NOUN_obj DET_det ADJ_acl ADP_case)
+  (ADV_advmod ADP_case)
+  (AUX_aux SCONJ_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['この', '汚い', 'ゴミ', 'を', 'すぐ', 'に', '捨て', 'なけれ', 'ば', 'なら', 'ない', '。']",0.7068360022164947,0.9207706766917292,0.813803339454112,0.8304023715121436,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N4

@@ -1,0 +1,39 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一方で投機にも手を出しては失敗を重ねていた。,-1,20001.0,N1,0.0,0.0,0.0,一方で投機にも手を出しては失敗を重ねていた。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (VERB_advcl
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_obj ADP_case)
+    SCONJ_mark
+    ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['一方', 'で', '投機', 'に', 'も', '手', 'を', '出し', 'て', 'は', '失敗', 'を', '重ね', 'て', 'い', 'た', '。']",,,,,1,一方で投機にも手を出しては失敗を重ねていた。,手,N5
+手がかじかんじゃった。,353964,,N5,1.0,0.40065342,0.7003267109394073,手がかじかんじゃった。,(VERB_ROOT (NOUN_nsubj ADP_case) AUX_aux AUX_aux PUNCT_punct),"['手', 'が', 'かじかん', 'じゃっ', 'た', '。']",0.6666666666666667,0.9337474120082816,0.8002070393374742,0.7502668751384407,1,一方で投機にも手を出しては失敗を重ねていた。,手,N5
+彼女が彼に手を貸します。,315692,,N5,1.0,0.562575,0.7812874913215637,彼女が彼に手を貸します。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['彼女', 'が', '彼', 'に', '手', 'を', '貸し', 'ます', '。']",0.5888888888888888,0.9046336206896552,0.7467612547892719,0.7640243730554178,1,一方で投機にも手を出しては失敗を重ねていた。,手,N5
+あなたはどれくらいのお金を手にしましたか。,298135,,N5,1.0,0.49012673,0.7450633645057678,あなたはどれくらいのお金を手にしましたか。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (PROPN_obj (PRON_nmod ADP_case ADP_case) ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['あなた', 'は', 'どれ', 'くらい', 'の', 'お金', 'を', '手', 'に', 'し', 'まし', 'た', 'か', '。']",0.5801587301587303,0.9011387163561076,0.740648723257419,0.7428560438815934,1,一方で投機にも手を出しては失敗を重ねていた。,手,N5
+絶対に手を出さないでください。,91092,,N5,1.0,0.5874196,0.7937098145484924,絶対に手を出さないでください。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['絶対', 'に', '手', 'を', '出さ', 'ない', 'で', 'ください', '。']",0.5219047619047619,0.878989898989899,0.7004473304473304,0.7470785724979114,1,一方で投機にも手を出しては失敗を重ねていた。,手,N5
+トムは口より手が早いです。,330441,,N5,1.0,0.4927274,0.7463636994361877,トムは口より手が早いです。,"(ADJ_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['トム', 'は', '口', 'より', '手', 'が', '早い', 'です', '。']",0.5126984126984127,0.8759843335543767,0.6943413731263947,0.7203525362812913,1,一方で投機にも手を出しては失敗を重ねていた。,手,N5

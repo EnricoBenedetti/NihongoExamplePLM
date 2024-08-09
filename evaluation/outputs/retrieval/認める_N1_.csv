@@ -1,0 +1,73 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+これを認める研究者は少ない。,-1,20001.0,N2,0.8,0.0,0.4,これを認める研究者は少ない。,"(ADJ_ROOT
+  (NOUN_nsubj (VERB_acl (PRON_obj ADP_case)) ADP_case)
+  PUNCT_punct)","['これ', 'を', '認める', '研究者', 'は', '少ない', '。']",,,,,1,これを認める研究者は少ない。,認める,N1
+のちの注釈・彖伝の、復、臨、剥の卦には今の卦の形は別のものから変化したとして、陰陽の消長を認めるような記述があらわれる。,3968565,,N1,1.0,0.63141227,0.8157061338424683,のちの注釈・彖伝の、復、臨、剥の卦には今の卦の形は別のものから変化したとして、陰陽の消長を認めるような記述があらわれる。,(NOUN_ROOT (NOUN_nmod ADP_case)),"['のち', 'の', '注釈', '・', '彖伝', 'の', '、', '復', '、', '臨', '、', '剥', 'の', '卦', 'に', 'は', '今', 'の', '卦', 'の', '形', 'は', '別', 'の', 'もの', 'から', '変化', 'し', 'た', 'と', 'し', 'て', '、', '陰陽', 'の', '消長', 'を', '認める', 'よう', 'な', '記述', 'が', 'あらわれる', '。']",1.0,0.9113645458183272,0.9556822729091636,0.885694203375816,1,これを認める研究者は少ない。,認める,N1
+ただし、全くの奇説であり、大多数の日本人はおろか、他国でも全く認められておらず。,565000,,N1,1.0,0.6918944,0.8459472060203552,ただし、全くの奇説であり、大多数の日本人はおろか、他国でも全く認められておらず。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_advcl (ADV_nmod ADP_case) (AUX_cop VERB_fixed) PUNCT_punct)
+  (VERB_obl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case) PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  ADV_advmod
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['ただし', '、', '全く', 'の', '奇説', 'で', 'あり', '、', '大多数', 'の', '日本人', 'は', 'おろか', '、', '他国', 'で', 'も', '全く', '認め', 'られ', 'て', 'おら', 'ず', '。']",0.9430681380674146,0.9063888888888888,0.9247285134781518,0.8853378597492535,1,これを認める研究者は少ない。,認める,N1
+何をもって共著と認めるかについては、やや曖昧さがある。,2470814,,N1,1.0,0.6904961,0.8452480435371399,何をもって共著と認めるかについては、やや曖昧さがある。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl (PRON_obj ADP_case) SCONJ_mark)
+    (NOUN_obl ADP_case)
+    PART_mark
+    (ADP_case VERB_fixed SCONJ_fixed)
+    ADP_case
+    PUNCT_punct)
+  (ADJ_nsubj ADV_advmod PART_mark ADP_case)
+  PUNCT_punct)","['何', 'を', 'もっ', 'て', '共著', 'と', '認める', 'か', 'に', 'つい', 'て', 'は', '、', 'やや', '曖昧', 'さ', 'が', 'ある', '。']",0.8903912308045214,0.8986997635933807,0.894545497198951,0.8698967703680455,1,これを認める研究者は少ない。,認める,N1
+1930年代に日本の歴史家、池内宏、鮎貝房之進、三品彰英の三人が集中的に花郎を研究し、多かれ少なかれ花郎に軍事的性格を認めた。,3921750,,N1,1.0,0.68063426,0.8403171300888062,1930年代に日本の歴史家、池内宏、鮎貝房之進、三品彰英の三人が集中的に花郎を研究し、多かれ少なかれ花郎に軍事的性格を認めた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl NUM_compound NOUN_compound ADP_case)
+    (NOUN_nsubj
+      (PROPN_nmod
+        (PROPN_nmod
+          (PROPN_nmod
+            (NOUN_nmod (PROPN_nmod ADP_case) PUNCT_punct)
+            PROPN_compound
+            PUNCT_punct)
+          PROPN_compound
+          PUNCT_punct)
+        PROPN_compound
+        ADP_case)
+      NUM_nummod
+      ADP_case)
+    (ADJ_advcl AUX_cop)
+    (NOUN_obj ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  ADJ_advcl
+  (NOUN_obl ADJ_compound ADP_case)
+  (NOUN_obj NOUN_compound ADP_case)
+  AUX_aux
+  PUNCT_punct)","['1930', '年', '代', 'に', '日本', 'の', '歴史家', '、', '池内', '宏', '、', '鮎貝', '房之進', '、', '三品', '彰英', 'の', '三', '人', 'が', '集中的', 'に', '花郎', 'を', '研究', 'し', '、', '多かれ', '少なかれ', '花郎', 'に', '軍事的', '性格', 'を', '認め', 'た', '。']",0.8626762051685977,0.8948867078638071,0.8787814565162024,0.8595492933025043,1,これを認める研究者は少ない。,認める,N1
+とはいえ、科学理論に対して技術的に検証不可能である場合、思想信条により科学理論が選択されうることは、多くの科学史家が認めるところである。,1305963,,N1,1.0,0.6917395,0.8458697497844696,とはいえ、科学理論に対して技術的に検証不可能である場合、思想信条により科学理論が選択されうることは、多くの科学史家が認めるところである。,"(NOUN_ROOT
+  (ADP_case SCONJ_fixed SCONJ_fixed PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        NOUN_compound
+        (ADP_case VERB_fixed SCONJ_fixed)
+        (ADJ_punct
+          (ADJ_advcl AUX_cop)
+          NOUN_compound
+          (AUX_aux VERB_fixed)))
+      (NOUN_obl PUNCT_punct)
+      (VERB_advcl
+        (NOUN_obl NOUN_compound (ADP_case VERB_fixed))
+        (NOUN_nsubj NOUN_compound ADP_case)
+        AUX_aux
+        AUX_aux))
+    ADP_case
+    PUNCT_punct)
+  (VERB_acl (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['と', 'は', 'いえ', '、', '科学', '理論', 'に', '対し', 'て', '技術的', 'に', '検証', '不可能', 'で', 'ある', '場合', '、', '思想', '信条', 'に', 'より', '科学', '理論', 'が', '選択', 'さ', 'れ', 'うる', 'こと', 'は', '、', '多く', 'の', '科学史', '家', 'が', '認める', 'ところ', 'で', 'ある', '。']",0.8331378514103857,0.88195222751471,0.8575450394625479,0.8517073946235088,1,これを認める研究者は少ない。,認める,N1

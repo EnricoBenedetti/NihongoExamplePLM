@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: N2; Sense: "similar"; Reject: "No"
+2. Difficulty: N3; Sense: "similar"; Reject: "No"
+3. Difficulty: N3; Sense: "similar"; Reject: "No"
+4. Difficulty: N3; Sense: "similar"; Reject: "No"
+5. Difficulty: N3; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: N3; Sense: "similar"; Reject: "No"
+2. Difficulty: N5; Sense: "not similar"; Reject: "Yes"
+3. Difficulty: N5; Sense: "not similar"; Reject: "Yes"
+4. Difficulty: N5; Sense: "not similar"; Reject: "Yes"
+5. Difficulty: N5; Sense: "not similar"; Reject: "Yes"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: N4; Sense: "similar"; Reject: "No"
+2. Difficulty: N4; Sense: "similar"; Reject: "No"
+3. Difficulty: N4; Sense: "similar"; Reject: "No"
+4. Difficulty: N4; Sense: "similar"; Reject: "No"
+5. Difficulty: N4; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides a range of sentences that are closely related to the context of mutual blame and propaganda, maintaining a good level of difficulty for N3 learners and offering medium diversity in sentence structure and context. System 3, while offering sentences that are somewhat relevant to the concept of interaction with an "opponent," tends to focus more on personal interactions and is slightly easier than the target level, with low diversity in sentence structure. System 2, despite one sentence being at the appropriate level and context, largely fails to maintain relevance to the original context and offers very low diversity, with most sentences being rejected due to not maintaining a similar sense of the target word.
+System 1 sentences:
+1. Difficulty: N2; Sense: similar; Reject: No
+2. Difficulty: N3; Sense: similar; Reject: No
+3. Difficulty: N3; Sense: similar; Reject: No
+4. Difficulty: N2; Sense: similar; Reject: No
+5. Difficulty: N3; Sense: similar; Reject: No
+Sentence diversity: High
+
+System 2 sentences:
+1. Difficulty: N3; Sense: similar; Reject: No
+2. Difficulty: Reject; Sense: not similar; Reject: Yes
+3. Difficulty: Reject; Sense: not similar; Reject: Yes
+4. Difficulty: Reject; Sense: not similar; Reject: Yes
+5. Difficulty: Reject; Sense: not similar; Reject: Yes
+Sentence diversity: Low
+
+System 3 sentences:
+1. Difficulty: N4; Sense: similar; Reject: No
+2. Difficulty: N4; Sense: similar; Reject: No
+3. Difficulty: N4; Sense: similar; Reject: No
+4. Difficulty: N4; Sense: similar; Reject: No
+5. Difficulty: N4; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides a diverse range of sentences that are closely related to the context of using "相手" in situations of conflict or opposition, matching the target N3 level with some sentences slightly above. System 3 offers sentences that are simpler and more general in their use of "相手," which could be useful for understanding basic interactions but are slightly below the target level. System 2's approach was too literal and context-specific without maintaining the sense of opposition or conflict, leading to a rejection of most sentences for not being useful in the given context.
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "Reject"; Sense: "not similar"; Reject: "Yes"
+3. Difficulty: "Reject"; Sense: "not similar"; Reject: "Yes"
+4. Difficulty: "Reject"; Sense: "not similar"; Reject: "Yes"
+5. Difficulty: "Reject"; Sense: "not similar"; Reject: "Yes"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides a diverse range of sentences that are closely related to the context of using "相手" in situations of conflict or opposition, matching the target level of N3 and offering some complexity in the examples. System 3, while offering sentences that are somewhat related to the concept of "相手" in terms of interaction and relationship, the sentences are simpler and more suited to an N4 level, lacking the specific context of propaganda or conflict. System 2's approach was too literal and context-specific without providing useful sentences for learning, with most examples being rejected due to lack of relevance or clarity in how "相手" is used.

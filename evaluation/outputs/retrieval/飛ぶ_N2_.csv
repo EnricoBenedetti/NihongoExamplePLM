@@ -1,0 +1,57 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,-1,6600.0,N1,0.6,0.0,0.3,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (NOUN_nmod ADP_case)
+      AUX_aux
+      ADP_case)
+    (NOUN_obj (NOUN_nmod DET_det ADP_case) ADP_case)
+    VERB_advmod
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (PRON_obj ADP_case)) ADP_case)
+  (ADJ_aux AUX_aux PUNCT_punct))","['心', 'は', '光り', 'の', '飛ぶ', 'ごとく', 'に', 'あらゆる', '道理', 'の', '中', 'を', '駈', '巡っ', 'た', 'が', '、', '何', 'を', 'とらえる', 'こと', 'も', '出来', '無かっ', 'た', '。']",,,,,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N2
+吹けば飛ぶようなボロい店構えだが、いつも常連客でにぎわってる。,384052,,N2,1.0,0.672823,0.8364115059375763,吹けば飛ぶようなボロい店構えだが、いつも常連客でにぎわってる。,"(VERB_ROOT
+  (NOUN_advcl
+    (VERB_acl (VERB_advcl SCONJ_mark) AUX_aux AUX_aux)
+    VERB_compound
+    AUX_cop
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl NOUN_nsubj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['吹け', 'ば', '飛ぶ', 'よう', 'な', 'ボロい', '店構え', 'だ', 'が', '、', 'いつも', '常連客', 'で', 'にぎわっ', 'てる', '。']",0.9711206071194978,0.9520833333333334,0.9616019702264156,0.8990067380819959,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N2
+時は飛ぶように過ぎる。,218923,,N2,1.0,0.719978,0.8599889874458313,時は飛ぶように過ぎる。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obl ADP_case) AUX_aux AUX_aux)
+  PUNCT_punct)","['時', 'は', '飛ぶ', 'よう', 'に', '過ぎる', '。']",0.8410818795066793,0.9279059449866904,0.8844939122466848,0.8722414498462581,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N2
+コオロギや蛙の鳴声、ホタルが飛ぶ様に模した光も、その効果を高めている。,4403839,,N2,1.0,0.69686717,0.8484335839748383,コオロギや蛙の鳴声、ホタルが飛ぶ様に模した光も、その効果を高めている。,"(VERB_ROOT
+  (NOUN_nsubj
+    (NOUN_nmod
+      (ADV_advmod ADP_case)
+      (NOUN_nmod ADP_case)
+      PUNCT_punct)
+    (VERB_acl
+      (VERB_advcl (NOUN_nsubj ADP_case) NOUN_aux ADP_case)
+      AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obj DET_det ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['コオロギ', 'や', '蛙', 'の', '鳴声', '、', 'ホタル', 'が', '飛ぶ', '様', 'に', '模し', 'た', '光', 'も', '、', 'その', '効果', 'を', '高め', 'て', 'いる', '。']",0.798592767816221,0.9162581699346404,0.8574254688754308,0.8529295264251345,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N2
+月日は飛ぶように過ぎた。,4691333,,N2,1.0,0.7532553,0.876627653837204,月日は飛ぶように過ぎた。,"(VERB_ROOT
+  (VERB_advcl (NOUN_nsubj ADP_case) AUX_aux AUX_aux)
+  AUX_aux
+  PUNCT_punct)","['月日', 'は', '飛ぶ', 'よう', 'に', '過ぎ', 'た', '。']",0.7270973944943424,0.881510989010989,0.8043041917526657,0.8404659227949348,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N2
+さらに、矢が飛ぶ際の蛇行現象そのものをアーチャーのパラドックスと呼ぶことがある。,6428572,,N2,1.0,0.6865457,0.843272864818573,さらに、矢が飛ぶ際の蛇行現象そのものをアーチャーのパラドックスと呼ぶことがある。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_obj
+    (NOUN_nmod
+      (NOUN_nmod (VERB_acl (NOUN_nsubj ADP_case)) ADP_case)
+      NOUN_compound)
+    DET_det
+    ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['さらに', '、', '矢', 'が', '飛ぶ', '際', 'の', '蛇行', '現象', 'その', 'もの', 'を', 'アーチャー', 'の', 'パラドックス', 'と', '呼ぶ', 'こと', 'が', 'ある', '。']",0.7296344424158314,0.8788895157069659,0.8042619790613987,0.8237674219399859,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N2

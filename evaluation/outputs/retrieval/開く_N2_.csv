@@ -1,0 +1,116 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+当駅ではすべてのドアが開く。,-1,20001.0,N3,0.8,0.0,0.4,当駅ではすべてのドアが開く。,"(VERB_ROOT
+  (NOUN_obl NOUN_compound ADP_case ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  PUNCT_punct)","['当', '駅', 'で', 'は', 'すべて', 'の', 'ドア', 'が', '開く', '。']",,,,,1,当駅ではすべてのドアが開く。,開く,N2
+そのためフォークリフトを用いてパレットに載せた荷物を隙間なく積むためには側面がすべて開くボディが要求されていた。,4018133,,N2,1.0,0.6730406,0.8365203142166138,そのためフォークリフトを用いてパレットに載せた荷物を隙間なく積むためには側面がすべて開くボディが要求されていた。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl DET_det)
+        (NOUN_obj
+          (VERB_acl
+            (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+            (NOUN_obl ADP_case)
+            AUX_aux)
+          ADP_case)
+        (ADJ_advcl NOUN_compound)
+        (SCONJ_mark SCONJ_fixed)
+        ADP_case)
+      (NOUN_nsubj ADP_case)
+      ADV_advmod)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['その', 'ため', 'フォークリフト', 'を', '用い', 'て', 'パレット', 'に', '載せ', 'た', '荷物', 'を', '隙間', 'なく', '積む', 'ため', 'に', 'は', '側面', 'が', 'すべて', '開く', 'ボディ', 'が', '要求', 'さ', 'れ', 'て', 'い', 'た', '。']",0.7883862517944713,0.9329268292682926,0.860656540531382,0.8485884273739979,1,当駅ではすべてのドアが開く。,開く,N2
+ホームが曲線上に位置する関係で、3番線の場合、自社通勤型車両では各車両中程の2ヶ所のみドアが開く。,2350851,,N2,1.0,0.92357403,0.9617870151996613,ホームが曲線上に位置する関係で、3番線の場合、自社通勤型車両では各車両中程の2ヶ所のみドアが開く。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl NOUN_compound ADP_case)
+      AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod NUM_nummod ADP_case) PUNCT_punct)
+  (NOUN_obl
+    NOUN_compound
+    NOUN_compound
+    NOUN_compound
+    ADP_case
+    ADP_case)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (NOUN_nmod NOUN_compound NOUN_compound ADP_case ADP_case)
+      NUM_nummod
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['ホーム', 'が', '曲線', '上', 'に', '位置', 'する', '関係', 'で', '、', '3', '番線', 'の', '場合', '、', '自社', '通勤', '型', '車両', 'で', 'は', '各', '車両', '中', '程', 'の', '2', 'ヶ所', 'のみ', 'ドア', 'が', '開く', '。']",0.6628810622876113,0.893635316854041,0.7782581895708262,0.8700226023852438,1,当駅ではすべてのドアが開く。,開く,N2
+有事の速やかな避難場所開設を考慮し、震度6弱以上の地震を感知すると扉が自動的に開く「地震自動解錠ボックス（住民避難所開設ボックス）」を設置した自治体もある。,3818276,,N2,1.0,0.6890055,0.8445027470588684,有事の速やかな避難場所開設を考慮し、震度6弱以上の地震を感知すると扉が自動的に開く「地震自動解錠ボックス（住民避難所開設ボックス）」を設置した自治体もある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_obj
+              (NOUN_nmod ADP_case)
+              (ADJ_acl AUX_aux)
+              NOUN_compound
+              NOUN_compound
+              ADP_case)
+            AUX_aux
+            PUNCT_punct)
+          (VERB_advcl
+            (NOUN_obj
+              (NOUN_nmod
+                NOUN_compound
+                NUM_compound
+                NOUN_compound
+                ADP_case)
+              ADP_case)
+            AUX_aux
+            SCONJ_mark)
+          (NOUN_nsubj ADP_case)
+          (ADJ_advcl AUX_cop))
+        PUNCT_punct
+        NOUN_compound
+        NOUN_compound
+        NOUN_compound
+        PUNCT_punct
+        NOUN_compound
+        NOUN_compound
+        NOUN_compound
+        NOUN_compound
+        NOUN_compound
+        PUNCT_punct
+        PUNCT_punct
+        ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['有事', 'の', '速やか', 'な', '避難', '場所', '開設', 'を', '考慮', 'し', '、', '震度', '6', '弱', '以上', 'の', '地震', 'を', '感知', 'する', 'と', '扉', 'が', '自動的', 'に', '開く', '「', '地震', '自動', '解錠', 'ボックス', '（', '住民', '避難', '所', '開設', 'ボックス', '）', '」', 'を', '設置', 'し', 'た', '自治体', 'も', 'ある', '。']",0.7147531312480565,0.9000238909086253,0.807388511078341,0.8259456290686047,1,当駅ではすべてのドアが開く。,開く,N2
+ワンマン電車は、一部の電車を除いては前の扉しか開かない。,2631771,,N2,1.0,0.84148395,0.9207419753074646,ワンマン電車は、一部の電車を除いては前の扉しか開かない。,"(VERB_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ワンマン', '電車', 'は', '、', '一部', 'の', '電車', 'を', '除い', 'て', 'は', '前', 'の', '扉', 'しか', '開か', 'ない', '。']",0.6532496081688106,0.8949185967032938,0.7740841024360522,0.8474130388717585,1,当駅ではすべてのドアが開く。,開く,N2
+1番線の場合、自社通勤型車両では各車両中程の2ヶ所のみドアが開く。,2350937,,N2,1.0,0.9206318,0.9603159129619598,1番線の場合、自社通勤型車両では各車両中程の2ヶ所のみドアが開く。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADV_compound ADP_case) PUNCT_punct)
+  (NOUN_obl
+    NOUN_compound
+    NOUN_compound
+    NOUN_compound
+    ADP_case
+    ADP_case)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (NOUN_nmod NOUN_compound NOUN_compound ADP_case ADP_case)
+      NUM_nummod
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['1番', '線', 'の', '場合', '、', '自社', '通勤', '型', '車両', 'で', 'は', '各', '車両', '中', '程', 'の', '2', 'ヶ所', 'のみ', 'ドア', 'が', '開く', '。']",0.6013854848915121,0.7824412393162392,0.6919133621038757,0.8261146375329178,1,当駅ではすべてのドアが開く。,開く,N2

@@ -1,0 +1,73 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+俺はそこで二時間ほど調べられた。,-1,20001.0,N3,0.8,0.0,0.4,俺はそこで二時間ほど調べられた。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  (NOUN_obl NUM_nummod ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['俺', 'は', 'そこ', 'で', '二', '時間', 'ほど', '調べ', 'られ', 'た', '。']",,,,,1,俺はそこで二時間ほど調べられた。,時間,N2
+あと2時間半の辛抱だ。,64244,,N2,1.0,0.78665847,0.8933292329311371,あと2時間半の辛抱だ。,"(NOUN_ROOT
+  (NOUN_nmod NOUN_compound NUM_compound NOUN_compound ADP_case)
+  AUX_cop
+  PUNCT_punct)","['あと', '2', '時間', '半', 'の', '辛抱', 'だ', '。']",0.8333333333333334,0.9736842105263158,0.9035087719298246,0.8984190024304808,1,俺はそこで二時間ほど調べられた。,時間,N2
+あん中へ手をつっこんで一時間も頑張ってさ。,81480,,N2,1.0,0.7708501,0.8854250609874725,あん中へ手をつっこんで一時間も頑張ってさ。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl NOUN_compound ADP_case)
+    (NOUN_obj ADP_case)
+    SCONJ_mark)
+  (NOUN_nsubj NUM_nummod ADP_case)
+  SCONJ_mark
+  PART_mark
+  PUNCT_punct)","['あん', '中', 'へ', '手', 'を', 'つっこん', 'で', '一', '時間', 'も', '頑張っ', 'て', 'さ', '。']",0.7967154705076598,0.9621212121212122,0.879418341314436,0.8824217011509543,1,俺はそこで二時間ほど調べられた。,時間,N2
+など、２時間以上飽きさせない。,103634,,N2,1.0,0.7788851,0.8894425630569458,など、２時間以上飽きさせない。,"(VERB_ROOT
+  (ADP_dep PUNCT_punct)
+  (ADV_advmod NUM_compound NOUN_compound)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['など', '、', '２', '時間', '以上', '飽き', 'させ', 'ない', '。']",0.74835773525383,0.9583333333333334,0.8533455342935816,0.8713940486752637,1,俺はそこで二時間ほど調べられた。,時間,N2
+しかしブッシュベイビーは滅多に鳴かない生物であり、結局2時間の間、檻の前で観察し続けた努力は徒労となったという。,1604679,,N2,1.0,0.79588854,0.8979442715644836,しかしブッシュベイビーは滅多に鳴かない生物であり、結局2時間の間、檻の前で観察し続けた努力は徒労となったという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_advcl
+      (VERB_acl
+        CCONJ_cc
+        (NOUN_nsubj PROPN_compound ADP_case)
+        (ADJ_advcl AUX_aux)
+        AUX_aux)
+      (AUX_cop VERB_fixed)
+      PUNCT_punct)
+    (NOUN_obl ADV_advmod (NOUN_nmod NUM_nummod ADP_case) PUNCT_punct)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+        AUX_aux
+        VERB_advcl
+        AUX_aux)
+      ADP_case)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['しかし', 'ブッシュ', 'ベイビー', 'は', '滅多', 'に', '鳴か', 'ない', '生物', 'で', 'あり', '、', '結局', '2', '時間', 'の', '間', '、', '檻', 'の', '前', 'で', '観察', 'し', '続け', 'た', '努力', 'は', '徒労', 'と', 'なっ', 'た', 'と', 'いう', '。']",0.7444488236029203,0.9250992063492064,0.8347740149760634,0.8663591432702735,1,俺はそこで二時間ほど調べられた。,時間,N2
+ディートリヒは命令を果たして午後2時半頃に「褐色の家」に戻ってきたが、この後、3時間ほどヒトラーの部屋の隣室で待たされた。,2194635,,N2,1.0,0.81861925,0.9093096256256104,ディートリヒは命令を果たして午後2時半頃に「褐色の家」に戻ってきたが、この後、3時間ほどヒトラーの部屋の隣室で待たされた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl (NOUN_obj ADP_case))
+        NOUN_compound
+        NUM_compound
+        NOUN_compound
+        ADP_case)
+      (NOUN_obl
+        (NOUN_nmod PUNCT_punct ADP_case)
+        PUNCT_punct
+        ADP_case)
+      SCONJ_mark)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl DET_det PUNCT_punct)
+  (NOUN_obl NUM_nummod ADP_case)
+  (NOUN_obl (NOUN_nmod (PROPN_nmod ADP_case) ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ディートリヒ', 'は', '命令', 'を', '果たして', '午後', '2', '時半', '頃', 'に', '「', '褐色', 'の', '家', '」', 'に', '戻っ', 'て', 'き', 'た', 'が', '、', 'この', '後', '、', '3', '時間', 'ほど', 'ヒトラー', 'の', '部屋', 'の', '隣室', 'で', '待たさ', 'れ', 'た', '。']",0.720487110235404,0.9083366573593936,0.8144118837973988,0.8618607547115046,1,俺はそこで二時間ほど調べられた。,時間,N2

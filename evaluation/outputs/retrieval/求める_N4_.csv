@@ -1,0 +1,55 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+囚人虐待事件への対応などの影響から退任を求める声が出始めた。,-1,20001.0,N3,0.6,0.0,0.3,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod
+          (NOUN_nmod NOUN_compound NOUN_compound ADP_case ADP_case)
+          ADP_case
+          ADP_case)
+        ADP_case)
+      (NOUN_obj ADP_case))
+    ADP_case)
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['囚人', '虐待', '事件', 'へ', 'の', '対応', 'など', 'の', '影響', 'から', '退任', 'を', '求める', '声', 'が', '出', '始め', 'た', '。']",,,,,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N4
+あなたは彼に助けを求めるかもしれない。,297409,,N4,1.0,0.50532734,0.7526636719703674,あなたは彼に助けを求めるかもしれない。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  (NOUN_obj ADP_case)
+  (PART_mark ADP_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['あなた', 'は', '彼', 'に', '助け', 'を', '求める', 'か', 'も', 'しれ', 'ない', '。']",0.759160094651874,0.9591212458286986,0.8591406702402863,0.8059021711053269,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N4
+明日は、テルアビブ大学で大規模な撤退を求める集会があるらしい。,26240,,N4,1.0,0.74801254,0.8740062713623047,明日は、テルアビブ大学で大規模な撤退を求める集会があるらしい。,"(VERB_ROOT
+  (NOUN_obl ADP_case PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_advcl AUX_cop)
+      (NOUN_obj (ADJ_acl AUX_cop) ADP_case))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['明日', 'は', '、', 'テルアビブ大学', 'で', '大規模', 'な', '撤退', 'を', '求める', '集会', 'が', 'ある', 'らしい', '。']",0.6264369941038752,0.9394590495449948,0.7829480218244351,0.8284771465933699,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N4
+改正を求めて行きたい。,93370,,N4,1.0,0.67136616,0.8356830775737762,改正を求めて行きたい。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+  AUX_aux
+  PUNCT_punct)","['改正', 'を', '求め', 'て', '行き', 'たい', '。']",0.5584813205870727,0.9379091259145168,0.7481952232507947,0.7919391504122855,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N4
+どうやら同意を求めています。,55374,,N4,1.0,0.6257429,0.8128714561462402,どうやら同意を求めています。,"(VERB_ROOT
+  (ADV_advmod ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['どう', 'やら', '同意', 'を', '求め', 'て', 'い', 'ます', '。']",0.5501768063126224,0.917164577075443,0.7336706916940328,0.7732710739201365,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N4
+では、「パリスの審判」の事を話してくださいよと求める。,3114791,,N4,1.0,0.49318945,0.7465947270393372,では、「パリスの審判」の事を話してくださいよと求める。,"(VERB_ROOT
+  ADP_dep
+  ADP_dep
+  PUNCT_punct
+  (VERB_advcl
+    (NOUN_obj
+      (NOUN_nmod
+        (PROPN_nmod PUNCT_punct ADP_case)
+        PUNCT_punct
+        ADP_case)
+      ADP_case)
+    (SCONJ_mark AUX_fixed)
+    PART_mark
+    ADP_case)
+  PUNCT_punct)","['で', 'は', '、', '「', 'パリス', 'の', '審判', '」', 'の', '事', 'を', '話し', 'て', 'ください', 'よ', 'と', '求める', '。']",0.6102455432857745,0.9044316375198728,0.7573385904028237,0.7519666587210805,1,囚人虐待事件への対応などの影響から退任を求める声が出始めた。,求める,N4

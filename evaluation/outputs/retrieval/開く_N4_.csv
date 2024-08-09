@@ -1,0 +1,34 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+当駅ではすべてのドアが開く。,-1,20001.0,N3,0.6,0.0,0.3,当駅ではすべてのドアが開く。,"(VERB_ROOT
+  (NOUN_obl NOUN_compound ADP_case ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  PUNCT_punct)","['当', '駅', 'で', 'は', 'すべて', 'の', 'ドア', 'が', '開く', '。']",,,,,1,当駅ではすべてのドアが開く。,開く,N4
+門ならもう開いてるよ。,377178,,N4,1.0,0.58624893,0.7931244671344757,門ならもう開いてるよ。,"(VERB_ROOT
+  (NOUN_advcl AUX_cop)
+  ADV_advmod
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['門', 'なら', 'もう', '開い', 'てる', 'よ', '。']",0.8,0.9852941176470588,0.8926470588235295,0.8428857629790025,1,当駅ではすべてのドアが開く。,開く,N4
+このボタンを押せばドアは開きます。,321689,,N4,1.0,0.72466886,0.8623344302177429,このボタンを押せばドアは開きます。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['この', 'ボタン', 'を', '押せ', 'ば', 'ドア', 'は', '開き', 'ます', '。']",0.6488555440661055,0.962962962962963,0.8059092535145342,0.8341218418661386,1,当駅ではすべてのドアが開く。,開く,N4
+窓は開く事が出来る様だが、開けないでと書かれている。,4387272,,N4,1.0,0.6627115,0.8313557505607605,窓は開く事が出来る様だが、開けないでと書かれている。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_compound ADP_fixed AUX_fixed)
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_ccomp AUX_aux SCONJ_mark ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['窓', 'は', '開く', '事', 'が', '出来る', '様', 'だ', 'が', '、', '開け', 'ない', 'で', 'と', '書か', 'れ', 'て', 'いる', '。']",0.6418548986141914,0.9456521739130436,0.7937535362636174,0.812554643412189,1,当駅ではすべてのドアが開く。,開く,N4
+エレベーターのドアが開く。,151967,,N4,1.0,0.7799089,0.8899544477462769,エレベーターのドアが開く。,(VERB_ROOT (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case) PUNCT_punct),"['エレベーター', 'の', 'ドア', 'が', '開く', '。']",0.6288211336687297,0.8752373632692781,0.7520292484690039,0.8209918481076404,1,当駅ではすべてのドアが開く。,開く,N4
+扉は２時３０分に開きます。,351760,,N4,1.0,0.76273996,0.8813699781894684,扉は２時３０分に開きます。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl NUM_compound NOUN_compound NUM_nummod ADP_case)
+  AUX_aux
+  PUNCT_punct)","['扉', 'は', '２', '時', '３０', '分', 'に', '開き', 'ます', '。']",0.5685816920733509,0.8652377461248429,0.716909719099097,0.7991398486442827,1,当駅ではすべてのドアが開く。,開く,N4

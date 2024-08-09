@@ -1,0 +1,59 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+現在の旅は非常に多様であり、さまざまに分類することが可能である。,-1,20001.0,N3,1.0,0.0,0.5,現在の旅は非常に多様であり、さまざまに分類することが可能である。,"(ADJ_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (ADJ_advcl AUX_aux)
+    (AUX_aux VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (ADJ_advcl AUX_aux) AUX_aux) ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['現在', 'の', '旅', 'は', '非常', 'に', '多様', 'で', 'あり', '、', 'さまざま', 'に', '分類', 'する', 'こと', 'が', '可能', 'で', 'ある', '。']",,,,,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N3
+貸切観光バスは、見た目は路線車に酷似しているが、行先表示装置がないことや社番などで区別は可能である。,1873424,,N3,1.0,0.7837157,0.8918578624725342,貸切観光バスは、見た目は路線車に酷似しているが、行先表示装置がないことや社番などで区別は可能である。,PROPN_ROOT,"['貸切', '観光', 'バス', 'は', '、', '見た目', 'は', '路線', '車', 'に', '酷似', 'し', 'て', 'いる', 'が', '、', '行先', '表示', '装置', 'が', 'ない', 'こと', 'や', '社', '番', 'など', 'で', '区別', 'は', '可能', 'で', 'ある', '。']",1.0,0.8942991889650279,0.947149594482514,0.919503728477524,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N3
+運要素の有無、プレイ人数、使用用具などによってさまざまな分類方法が可能であるが、上記に採用された代表的なマインドスポーツ競技を分類別に挙げると以下のようになる。,2142092,,N3,1.0,0.86205226,0.931026130914688,運要素の有無、プレイ人数、使用用具などによってさまざまな分類方法が可能であるが、上記に採用された代表的なマインドスポーツ競技を分類別に挙げると以下のようになる。,"(VERB_ROOT
+  (VERB_advcl
+    (ADJ_advcl
+      NOUN_obl
+      (NOUN_obl
+        (NOUN_nmod
+          (NOUN_nmod (NOUN_nmod ADP_case) PUNCT_punct)
+          VERB_compound
+          PUNCT_punct)
+        NOUN_compound
+        NOUN_compound
+        ADP_case
+        (ADP_case VERB_fixed SCONJ_fixed))
+      (NOUN_nsubj (ADJ_acl AUX_aux) NOUN_compound ADP_case)
+      (AUX_aux VERB_fixed)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_obj
+      (VERB_acl (NOUN_obl ADP_case) AUX_aux AUX_aux AUX_aux)
+      (ADJ_acl AUX_cop)
+      NOUN_compound
+      NOUN_compound
+      ADP_case)
+    (NOUN_obl NOUN_compound ADP_case)
+    SCONJ_case)
+  (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop)
+  PUNCT_punct)","['運', '要素', 'の', '有無', '、', 'プレイ', '人数', '、', '使用', '用', '具', 'など', 'に', 'よっ', 'て', 'さまざま', 'な', '分類', '方法', 'が', '可能', 'で', 'ある', 'が', '、', '上記', 'に', '採用', 'さ', 'れ', 'た', '代表的', 'な', 'マインド', 'スポーツ', '競技', 'を', '分類', '別', 'に', '挙げる', 'と', '以下', 'の', 'よう', 'に', 'なる', '。']",0.899081322397358,0.8745976003288461,0.8868394613631021,0.9089327961388952,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N3
+競技会（大会）は、エリアの広さで下記のように分類することも可能である。,2202161,,N3,1.0,0.89464754,0.9473237693309784,競技会（大会）は、エリアの広さで下記のように分類することも可能である。,"(ADJ_ROOT
+  (NOUN_obl
+    PUNCT_punct
+    NOUN_compound
+    PUNCT_punct
+    ADP_case
+    PUNCT_punct
+    (VERB_dep
+      (ADJ_obl (NOUN_nmod ADP_case) PART_mark ADP_case)
+      (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop)
+      AUX_aux))
+  (NOUN_nsubj ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['競技会', '（', '大会', '）', 'は', '、', 'エリア', 'の', '広', 'さ', 'で', '下記', 'の', 'よう', 'に', '分類', 'する', 'こと', 'も', '可能', 'で', 'ある', '。']",0.7848082832242943,0.833502833836538,0.8091555585304162,0.8782396639306973,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N3
+を自由に組み合わせることが可能である。,1699129,,N3,1.0,0.77144897,0.8857244849205017,を自由に組み合わせることが可能である。,ADP_ROOT,"['を', '自由', 'に', '組み合わせる', 'こと', 'が', '可能', 'で', 'ある', '。']",0.8108849699345766,0.8064464673016367,0.8086657186181067,0.8471951017693042,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N3
+地形によって分類することも可能である。,1488754,,N3,1.0,0.88199115,0.9409955739974976,地形によって分類することも可能である。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed)) AUX_aux)
+    ADP_case)
+  (AUX_aux VERB_fixed)
+  PUNCT_punct)","['地形', 'に', 'よっ', 'て', '分類', 'する', 'こと', 'も', '可能', 'で', 'ある', '。']",0.764710634091772,0.7641022961269971,0.7644064651093845,0.852701019553441,1,現在の旅は非常に多様であり、さまざまに分類することが可能である。,可能,N3

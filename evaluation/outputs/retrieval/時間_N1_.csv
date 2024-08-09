@@ -1,0 +1,96 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+俺はそこで二時間ほど調べられた。,-1,20001.0,N3,0.6,0.0,0.3,俺はそこで二時間ほど調べられた。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  (NOUN_obl NUM_nummod ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['俺', 'は', 'そこ', 'で', '二', '時間', 'ほど', '調べ', 'られ', 'た', '。']",,,,,1,俺はそこで二時間ほど調べられた。,時間,N1,3,E
+そして６時間の待ち時間を経て、いざドイツへ。,21982,,N1,1.0,0.79155046,0.8957752287387848,そして６時間の待ち時間を経て、いざドイツへ。,"(PROPN_ROOT
+  CCONJ_cc
+  (VERB_acl
+    (NOUN_obj (NOUN_nmod NUM_nummod ADP_case) VERB_compound ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  INTJ_advmod
+  ADP_case
+  PUNCT_punct)","['そして', '６', '時間', 'の', '待ち', '時間', 'を', '経', 'て', '、', 'いざ', 'ドイツ', 'へ', '。']",0.8333333333333334,0.97,0.9016666666666666,0.8987209477027257,1,俺はそこで二時間ほど調べられた。,時間,N1,3,E
+シリーズ終了後の時にはメンバー全員と1時間ずつ面接を行い「チェキッ娘の名を語ってヌードにはなるな」と言っていたという。,2362403,,N1,1.0,0.76771265,0.883856326341629,シリーズ終了後の時にはメンバー全員と1時間ずつ面接を行い「チェキッ娘の名を語ってヌードにはなるな」と言っていたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_ccomp
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl
+            (NOUN_nmod NOUN_compound NOUN_compound ADP_case)
+            ADP_case
+            ADP_case)
+          (NOUN_obl NOUN_compound ADP_case)
+          (NOUN_obl NUM_nummod ADP_case)
+          (NOUN_obj ADP_case))
+        (NOUN_obj
+          (NOUN_nmod PUNCT_punct NOUN_compound ADP_case)
+          ADP_case)
+        SCONJ_mark)
+      (NOUN_obl ADP_case ADP_case)
+      PART_mark
+      PUNCT_punct
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['シリーズ', '終了', '後', 'の', '時', 'に', 'は', 'メンバー', '全員', 'と', '1', '時間', 'ずつ', '面接', 'を', '行い', '「', 'チェキッ', '娘', 'の', '名', 'を', '語っ', 'て', 'ヌード', 'に', 'は', 'なる', 'な', '」', 'と', '言っ', 'て', 'い', 'た', 'と', 'いう', '。']",0.7986538049298333,0.928373015873016,0.8635134104014246,0.8736848683715268,1,俺はそこで二時間ほど調べられた。,時間,N1,3,E
+竹宮は一夜にして物語のプロットを頭に描き、翌日増山に8時間かけてストーリーを話した。,1274424,,N1,1.0,0.82613987,0.9130699336528778,竹宮は一夜にして物語のプロットを頭に描き、翌日増山に8時間かけてストーリーを話した。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (VERB_advcl (NOUN_obl ADP_case) SCONJ_mark)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    (NOUN_obl NOUN_compound ADP_case)
+    (NOUN_obl NUM_nummod)
+    SCONJ_mark)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['竹宮', 'は', '一夜', 'に', 'し', 'て', '物語', 'の', 'プロット', 'を', '頭', 'に', '描き', '、', '翌日', '増', '山', 'に', '8', '時間', 'かけ', 'て', 'ストーリー', 'を', '話し', 'た', '。']",0.7303149213351554,0.9108527131782944,0.820583817256725,0.8668268754548014,1,俺はそこで二時間ほど調べられた。,時間,N1,3,E
+原稿用紙１枚にも満たないメールに２時間かけるなんていうのは褒められたことではない。,314254,,N1,1.0,0.7806364,0.8903182148933411,原稿用紙１枚にも満たないメールに２時間かけるなんていうのは褒められたことではない。,"(NOUN_ROOT
+  (VERB_csubj
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (NOUN_obl
+            NOUN_compound
+            NOUN_compound
+            NOUN_compound
+            NUM_nummod
+            ADP_case
+            ADP_case)
+          AUX_aux)
+        ADP_case)
+      (NOUN_obl NUM_nummod)
+      PART_mark)
+    SCONJ_mark
+    ADP_case)
+  (VERB_acl AUX_aux AUX_aux)
+  (AUX_cop ADP_fixed AUX_fixed)
+  PUNCT_punct)","['原稿', '用', '紙', '１', '枚', 'に', 'も', '満た', 'ない', 'メール', 'に', '２', '時間', 'かける', 'なんて', 'いう', 'の', 'は', '褒め', 'られ', 'た', 'こと', 'で', 'は', 'ない', '。']",0.7189113142971417,0.9027260018639328,0.8108186580805373,0.8505684364869392,1,俺はそこで二時間ほど調べられた。,時間,N1,3,E
+後日対面を許され、萩本邸に招待されたが、そこで突然の無茶振りに始まり3時間にわたる指導を受け、以降はテレビ番組での共演も果たしている。,1469073,,N1,1.0,0.77938807,0.8896940350532532,後日対面を許され、萩本邸に招待されたが、そこで突然の無茶振りに始まり3時間にわたる指導を受け、以降はテレビ番組での共演も果たしている。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl ADV_advmod (NOUN_obj ADP_case) AUX_aux PUNCT_punct)
+      (NOUN_obl PROPN_compound ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (VERB_advcl
+      (PRON_obl ADP_case)
+      (NOUN_obl (ADV_advmod ADP_case) NOUN_compound ADP_case))
+    (NOUN_obj (NOUN_nmod NUM_nummod (ADP_case VERB_fixed)) ADP_case)
+    PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj (NOUN_nmod NOUN_compound ADP_case ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['後日', '対面', 'を', '許さ', 'れ', '、', '萩', '本邸', 'に', '招待', 'さ', 'れ', 'た', 'が', '、', 'そこ', 'で', '突然', 'の', '無茶', '振り', 'に', '始まり', '3', '時間', 'に', 'わたる', '指導', 'を', '受け', '、', '以降', 'は', 'テレビ', '番組', 'で', 'の', '共演', 'も', '果たし', 'て', 'いる', '。']",0.7063480325628335,0.8959797755580219,0.8011639040604277,0.8454289695568404,1,俺はそこで二時間ほど調べられた。,時間,N1,3,E

@@ -1,0 +1,41 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+英吉利語を教える報酬は僅かに月額六十円である。,-1,16260.0,N2,0.1999999999999999,0.0,0.0999999999999999,英吉利語を教える報酬は僅かに月額六十円である。,"(NOUN_ROOT
+  (NOUN_nsubj (VERB_acl (NOUN_obj VERB_acl ADP_case)) ADP_case)
+  (NOUN_obl ADP_case)
+  NOUN_compound
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['英吉利', '語', 'を', '教える', '報酬', 'は', '僅か', 'に', '月額', '六十', '円', 'で', 'ある', '。']",,,,,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N4
+社会以外の４教科を教える何でも屋で重宝されています。,76575,,N4,1.0,0.74176097,0.8708804845809937,社会以外の４教科を教える何でも屋で重宝されています。,"(VERB_ROOT
+  (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) NUM_nummod ADP_case))","['社会', '以外', 'の', '４', '教科', 'を', '教える', '何', 'で', 'も', '屋', 'で', '重宝', 'さ', 'れ', 'て', 'い', 'ます', '。']",0.9436768986249972,0.95405669599218,0.9488667973085884,0.9098736409447912,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N4
+デーヴィスさんは英語を教えるために日本に来たのですか。,268336,,N4,1.0,0.7771634,0.8885816931724548,デーヴィスさんは英語を教えるために日本に来たのですか。,"(VERB_ROOT
+  (NOUN_nsubj PROPN_compound ADP_case)
+  (VERB_advcl (NOUN_obj ADP_case) (SCONJ_mark SCONJ_fixed))
+  (PROPN_obl ADP_case)
+  AUX_aux
+  (SCONJ_mark AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['デーヴィス', 'さん', 'は', '英語', 'を', '教える', 'ため', 'に', '日本', 'に', '来', 'た', 'の', 'です', 'か', '。']",0.8851550588183561,0.9279059449866904,0.9065305019025232,0.897556097537489,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N4
+のまま教えることになった。,7694462,,N4,1.0,0.7817378,0.8908689022064209,のまま教えることになった。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['の', 'まま', '教える', 'こと', 'に', 'なっ', 'た', '。']",0.8116251484567971,0.9160046342270772,0.8638148913419371,0.8773418967741791,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N4
+彼の仕事は英語を教えることだ。,196657,,N4,1.0,0.80792844,0.9039642214775084,彼の仕事は英語を教えることだ。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+    (NOUN_obj ADP_case))
+  AUX_cop
+  PUNCT_punct)","['彼', 'の', '仕事', 'は', '英語', 'を', '教える', 'こと', 'だ', '。']",0.7853542982987846,0.8726745906746793,0.829014444486732,0.8664893329821203,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N4
+ただ、限度を超えてしまい、4月からは週7日教えることになりそうです。,92030,,N4,1.0,0.7654554,0.882727712392807,ただ、限度を超えてしまい、4月からは週7日教えることになりそうです。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (NOUN_obl NUM_nummod ADP_case ADP_case)
+  (NOUN_obl NOUN_compound NUM_nummod)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ただ', '、', '限度', 'を', '超え', 'て', 'しまい', '、', '4', '月', 'から', 'は', '週', '7', '日', '教える', 'こと', 'に', 'なり', 'そう', 'です', '。']",0.7598950026954903,0.8699455987435251,0.8149203007195076,0.8488240065561573,1,英吉利語を教える報酬は僅かに月額六十円である。,教える,N4

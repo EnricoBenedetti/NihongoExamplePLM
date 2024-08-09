@@ -1,0 +1,34 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,-1,8553.0,N3,0.1999999999999999,0.0,0.0999999999999999,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det ADP_case ADP_case)
+    (NOUN_nsubj
+      (NOUN_nmod NOUN_compound ADP_case)
+      VERB_compound
+      ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['この', '段階', 'で', 'は', '主', '鏡', 'の', '位置', '合わせ', 'が', '行わ', 'れ', 'て', 'おら', 'ず', '、', '焦点', 'は', '合っ', 'て', 'い', 'ない', '。']",,,,,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22,I
+その服、サイズが合う？,383356,,N5,1.0,0.4797578,0.7398788928985596,その服、サイズが合う？,"(VERB_ROOT
+  (NOUN_nsubj (NOUN_nmod DET_det PUNCT_punct) ADP_case)
+  PUNCT_punct)","['その', '服', '、', 'サイズ', 'が', '合う', '？']",0.637253305758653,0.9666666666666668,0.8019599862126598,0.7709194395556097,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22,I
+合ってると思いました。,86756,,N5,1.0,0.51615614,0.7580780684947968,合ってると思いました。,(VERB_ROOT (VERB_ccomp AUX_aux ADP_case) AUX_aux AUX_aux PUNCT_punct),"['合っ', 'てる', 'と', '思い', 'まし', 'た', '。']",0.6624177685862176,0.9594594594594594,0.8109386140228385,0.7845083412588176,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22,I
+目と目が合った。,159844,,N5,1.0,0.66732347,0.8336617350578308,目と目が合った。,"(VERB_ROOT
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['目', 'と', '目', 'が', '合っ', 'た', '。']",0.5429733241417731,0.9255681818181818,0.7342707529799775,0.7839662440189041,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22,I
+これはサイズが合いません。,284382,,N5,1.0,0.5908803,0.795440137386322,これはサイズが合いません。,"(VERB_ROOT
+  (PRON_dislocated ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['これ', 'は', 'サイズ', 'が', '合い', 'ませ', 'ん', '。']",0.5132346556367946,0.9124386252045826,0.7128366404206886,0.7541383889035054,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22,I
+君の時計は合ってる？,246038,,N5,1.0,0.6063699,0.8031849563121796,君の時計は合ってる？,"(VERB_ROOT
+  (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['君', 'の', '時計', 'は', '合っ', 'てる', '？']",0.4794358568379958,0.8921490246242405,0.6857924407311182,0.7444886985216489,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N5,22,I

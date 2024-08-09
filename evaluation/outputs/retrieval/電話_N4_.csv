@@ -1,0 +1,31 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+電話をかけることを習いました。,-1,13680.0,N5,0.8,0.0,0.4,電話をかけることを習いました。,"(VERB_ROOT
+  (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['電話', 'を', 'かける', 'こと', 'を', '習い', 'まし', 'た', '。']",,,,,1,電話をかけることを習いました。,電話,N4
+電話でもしておこう。,141967,,N4,1.0,0.8848782,0.9424391090869904,電話でもしておこう。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['電話', 'で', 'も', 'し', 'て', 'おこう', '。']",0.75,0.953125,0.8515625,0.8970008045434952,1,電話をかけることを習いました。,電話,N4
+一番よいのは彼女に電話することです。,256132,,N4,1.0,0.87122214,0.9356110692024232,一番よいのは彼女に電話することです。,"(NOUN_ROOT
+  (ADJ_advcl ADV_advmod SCONJ_mark ADP_case)
+  (VERB_acl (PRON_obl ADP_case) AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['一番', 'よい', 'の', 'は', '彼女', 'に', '電話', 'する', 'こと', 'です', '。']",0.7321751019564711,0.9444444444444444,0.8383097732004577,0.8869604212014404,1,電話をかけることを習いました。,電話,N4
+また電話をかければいいと思う。,336938,,N4,1.0,0.93175685,0.965878427028656,また電話をかければいいと思う。,"(VERB_ROOT
+  (VERB_ccomp
+    CCONJ_advmod
+    (NOUN_obj ADP_case)
+    (SCONJ_mark AUX_fixed)
+    ADP_case)
+  PUNCT_punct)","['また', '電話', 'を', 'かけれ', 'ば', 'いい', 'と', '思う', '。']",0.6889866732273426,0.9296875,0.8093370866136713,0.8876077568211637,1,電話をかけることを習いました。,電話,N4
+私達はまだ電話を取り付けていません。,219966,,N4,1.0,0.8842404,0.9421201944351196,私達はまだ電話を取り付けていません。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['私達', 'は', 'まだ', '電話', 'を', '取り付け', 'て', 'い', 'ませ', 'ん', '。']",0.6948640159571505,0.9136271529888552,0.8042455844730028,0.8731828894540612,1,電話をかけることを習いました。,電話,N4
+電話をとるな。,396180,,N4,1.0,0.9133626,0.9566813111305236,電話をとるな。,(VERB_ROOT (NOUN_obj ADP_case) PART_mark PUNCT_punct),"['電話', 'を', 'とる', 'な', '。']",0.6758360374446207,0.9019648829431438,0.7889004601938823,0.872790885662203,1,電話をかけることを習いました。,電話,N4

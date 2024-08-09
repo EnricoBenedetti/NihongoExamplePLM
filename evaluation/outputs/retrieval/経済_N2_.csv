@@ -1,0 +1,87 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,-1,20001.0,N2,1.0,0.0,0.5,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,"(ADJ_ROOT
+  (NOUN_obl
+    (NOUN_nmod PROPN_compound NUM_nummod ADP_case)
+    (ADP_case VERB_fixed SCONJ_fixed)
+    ADP_case
+    PUNCT_punct
+    (NOUN_dep
+      (ADV_advmod PUNCT_punct)
+      (ADJ_nmod NOUN_compound ADP_case)))
+  (NOUN_obl
+    (NOUN_nmod NUM_nummod ADP_case)
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (PRON_advcl AUX_case ADP_case)
+  PUNCT_punct)","['加州', '一', '藩', 'の', '経済', 'に', 'とっ', 'て', 'は', '、', '勿論', '、', '金', '無垢', 'の', '煙管', '一', '本', 'の', '費用', 'くらい', 'は', '、', '何', 'で', 'も', 'ない', '。']",,,,,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N2
+ただし、武家の経済は回復したが米価高は庶民の生活を圧迫することとなった。,1828642,,N2,1.0,0.81232053,0.9061602652072906,ただし、武家の経済は回復したが米価高は庶民の生活を圧迫することとなった。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux
+    AUX_aux
+    SCONJ_mark)
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  AUX_aux
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['ただし', '、', '武家', 'の', '経済', 'は', '回復', 'し', 'た', 'が', '米価', '高', 'は', '庶民', 'の', '生活', 'を', '圧迫', 'する', 'こと', 'と', 'なっ', 'た', '。']",0.8391588976991079,0.9226923076923076,0.8809256026957077,0.8935429339514992,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N2
+一方、都市の経済を支えるのは地下深く住む労働者達であり、マドンナは密かに若い労働者に恋をすることになる。,4711059,,N2,1.0,0.8119407,0.9059703648090364,一方、都市の経済を支えるのは地下深く住む労働者達であり、マドンナは密かに若い労働者に恋をすることになる。,"(NOUN_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_acl
+    (VERB_csubj
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      SCONJ_mark
+      ADP_case)
+    (VERB_acl (ADJ_advcl NOUN_compound))
+    NOUN_compound
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (ADJ_acl AUX_aux)
+  (NOUN_obl ADJ_acl ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  ADP_fixed
+  VERB_compound
+  PUNCT_punct)","['一方', '、', '都市', 'の', '経済', 'を', '支える', 'の', 'は', '地下', '深く', '住む', '労働者', '達', 'で', 'あり', '、', 'マドンナ', 'は', '密か', 'に', '若い', '労働者', 'に', '恋', 'を', 'する', 'こと', 'に', 'なる', '。']",0.7749519444096674,0.8941265060240964,0.834539225216882,0.8702547950129591,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N2
+実際に収入は年を追うごとに減少しており、三条西家の経済が崩壊していく動きを見て取ることができる。,3802538,,N2,1.0,0.82018626,0.9100931286811828,実際に収入は年を追うごとに減少しており、三条西家の経済が崩壊していく動きを見て取ることができる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl ADP_case)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl (NOUN_obj ADP_case) VERB_nmod ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      PUNCT_punct)
+    (NOUN_obj
+      (VERB_acl
+        (NOUN_nsubj (NOUN_nmod PROPN_compound ADP_case) ADP_case)
+        AUX_aux
+        (SCONJ_mark VERB_fixed))
+      ADP_case)
+    SCONJ_mark)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['実際', 'に', '収入', 'は', '年', 'を', '追う', 'ごと', 'に', '減少', 'し', 'て', 'おり', '、', '三条西', '家', 'の', '経済', 'が', '崩壊', 'し', 'て', 'いく', '動き', 'を', '見', 'て', '取る', 'こと', 'が', 'できる', '。']",0.7694744676040833,0.8821386603995299,0.8258065640018066,0.8679498463414947,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N2
+軍の依頼は黒谷の経済をおおいに潤し、この頃が黒谷の集落の全盛期であった。,5008804,,N2,1.0,0.8337583,0.9168791472911836,軍の依頼は黒谷の経済をおおいに潤し、この頃が黒谷の集落の全盛期であった。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (VERB_advcl (NOUN_obj (PROPN_nmod ADP_case) ADP_case))
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (NOUN_nmod (PROPN_nmod ADP_case) ADP_case)
+  (AUX_cop VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['軍', 'の', '依頼', 'は', '黒谷', 'の', '経済', 'を', 'おおいに', '潤し', '、', 'この頃', 'が', '黒谷', 'の', '集落', 'の', '全盛期', 'で', 'あっ', 'た', '。']",0.7444125484954924,0.8677782335104595,0.806095391002976,0.8614872691470797,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N2
+中世の間、このカウンティの経済の大半は羊毛の取引に基づいていた。,4231390,,N2,1.0,0.8218859,0.910942941904068,中世の間、このカウンティの経済の大半は羊毛の取引に基づいていた。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADP_case) PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod (NOUN_nmod DET_det ADP_case) ADP_case)
+    ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['中世', 'の', '間', '、', 'この', 'カウンティ', 'の', '経済', 'の', '大半', 'は', '羊毛', 'の', '取引', 'に', '基づい', 'て', 'い', 'た', '。']",0.7131952081143098,0.8637586308714289,0.7884769194928694,0.8497099306984687,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N2

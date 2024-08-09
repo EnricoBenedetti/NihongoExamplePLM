@@ -1,0 +1,162 @@
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides sentences that are most appropriate for the target N1 level, despite the sense not being closely similar to the context sentence. It offers high sentence diversity, showcasing various complex uses of 合う. System 1 offers sentences that are more at the N2 level but maintains a closer sense similarity to the context sentence, with medium diversity. System 2's sentences are too basic for an N1 learner, all falling around the N4 level, and they show low diversity in sentence structure and usage.
+System 1 sentences:
+1. Difficulty: N2; Sense: "similar"; Reject: "No"
+2. Difficulty: N2; Sense: "similar"; Reject: "No"
+3. Difficulty: N2; Sense: "similar"; Reject: "No"
+4. Difficulty: N2; Sense: "similar"; Reject: "No"
+5. Difficulty: N2; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: N3; Sense: "similar"; Reject: "No"
+2. Difficulty: N3; Sense: "similar"; Reject: "No"
+3. Difficulty: N3; Sense: "similar"; Reject: "No"
+4. Difficulty: N3; Sense: "similar"; Reject: "No"
+5. Difficulty: N3; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: N1; Sense: "similar"; Reject: "No"
+2. Difficulty: N1; Sense: "similar"; Reject: "No"
+3. Difficulty: N1; Sense: "similar"; Reject: "No"
+4. Difficulty: N1; Sense: "similar"; Reject: "No"
+5. Difficulty: N1; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides sentences that are closest to the target difficulty level (N1) and maintains a high level of sentence diversity, showing the target word in various complex contexts. System 1 offers sentences that are slightly below the target level but still maintains a good sense similarity and medium diversity. System 2's sentences are more basic and lack diversity, making it the least suitable for N1 learners looking for complex and varied examples.
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides the most appropriate level of complexity for the target N1 level, with sentences that closely match the context and difficulty of the target sentence. It also offers high sentence diversity, showing various uses of 合う in complex sentences. System 1, while providing sentences with a similar sense, targets a slightly lower difficulty level (N2) but still maintains a good variety in usage. System 2's sentences are more straightforward and are more suitable for N3 learners, with low diversity in sentence structure and complexity.
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N4"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+5. Difficulty: "N1"; Sense: "not similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides sentences that are most appropriate for the target N1 level, despite the sense not being closely similar to the context sentence. It offers high sentence diversity, showcasing various complex uses of 合う. System 1 offers sentences that are more at the N2 level but maintains a closer sense similarity to the context sentence, with medium diversity. System 2's sentences are too basic for an N1 learner, all falling around the N4 level, and they show low diversity in sentence structure and usage.
+System 1 sentences:
+1. Difficulty: N2; Sense: "similar"; Reject: "No"
+2. Difficulty: N2; Sense: "similar"; Reject: "No"
+3. Difficulty: N2; Sense: "similar"; Reject: "No"
+4. Difficulty: N2; Sense: "similar"; Reject: "No"
+5. Difficulty: N2; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: N3; Sense: "similar"; Reject: "No"
+2. Difficulty: N3; Sense: "similar"; Reject: "No"
+3. Difficulty: N3; Sense: "similar"; Reject: "No"
+4. Difficulty: N3; Sense: "similar"; Reject: "No"
+5. Difficulty: N3; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: N1; Sense: "similar"; Reject: "No"
+2. Difficulty: N1; Sense: "similar"; Reject: "No"
+3. Difficulty: N1; Sense: "similar"; Reject: "No"
+4. Difficulty: N1; Sense: "similar"; Reject: "No"
+5. Difficulty: N1; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides sentences that are closest to the target difficulty level (N1) and maintains a high level of sentence diversity, showing the target word in various complex contexts. System 1 offers sentences that are slightly below the target level but still maintains a good sense similarity and medium diversity. System 2's sentences are more basic and lack diversity, making it the least suitable for N1 learners looking for complex and varied examples.
+System 1 sentences:
+1. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N2"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N3"; Sense: "similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+2. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+3. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+4. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+5. Difficulty: "N1"; Sense: "similar"; Reject: "No"
+Sentence diversity: "High"
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides the most appropriate level of complexity for the target N1 level, with sentences that closely match the context and difficulty of the target sentence. It also offers high sentence diversity, showing various uses of 合う in complex sentences. System 1, while providing sentences with a similar sense, targets a slightly lower difficulty level (N2) but still maintains a good variety in usage. System 2's sentences are more straightforward and are more suitable for N3 learners, with low diversity in sentence structure and complexity.

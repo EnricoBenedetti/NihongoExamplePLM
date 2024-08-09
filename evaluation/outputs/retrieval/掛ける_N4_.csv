@@ -1,0 +1,45 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+罪人はおとなしく椅子に腰を掛ける。,-1,7774.0,N3,0.6,0.0,0.3,罪人はおとなしく椅子に腰を掛ける。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADJ_advcl
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['罪人', 'は', 'おとなしく', '椅子', 'に', '腰', 'を', '掛ける', '。']",,,,,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N4
+なんで目覚まし掛けてたのに鳴らなかったんだよ。,307880,,N4,1.0,0.5427247,0.7713623642921448,なんで目覚まし掛けてたのに鳴らなかったんだよ。,"(VERB_ROOT
+  (VERB_advcl
+    (PRON_obl ADP_case)
+    NOUN_obl
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['なん', 'で', '目覚まし', '掛け', 'て', 'た', 'の', 'に', '鳴ら', 'なかっ', 'た', 'ん', 'だ', 'よ', '。']",0.8333333333333334,0.96875,0.9010416666666669,0.8362020154794058,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N4
+彼女はカーテンを掛けた。,172774,,N4,1.0,0.737803,0.8689014911651611,彼女はカーテンを掛けた。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['彼女', 'は', 'カーテン', 'を', '掛け', 'た', '。']",0.7,0.935483870967742,0.817741935483871,0.8433217133245161,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N4
+トムは上着を脱いで椅子に掛けました。,356808,,N4,1.0,0.80946076,0.9047303795814514,トムは上着を脱いで椅子に掛けました。,"(VERB_ROOT
+  (VERB_advcl (NOUN_nsubj ADP_case) (NOUN_obj ADP_case) SCONJ_mark)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['トム', 'は', '上着', 'を', '脱い', 'で', '椅子', 'に', '掛け', 'まし', 'た', '。']",0.5978561841229009,0.8941562313655337,0.7460062077442173,0.8253682936628344,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N4
+必ずドアに鍵を掛けるようにして下さい。,165249,,N4,1.0,0.6441783,0.8220891356468201,必ずドアに鍵を掛けるようにして下さい。,"(VERB_ROOT
+  ADV_advmod
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obj ADP_case)
+    AUX_aux
+    AUX_aux)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['必ず', 'ドア', 'に', '鍵', 'を', '掛ける', 'よう', 'に', 'し', 'て', '下さい', '。']",0.6300471094640107,0.885,0.7575235547320054,0.7898063451894127,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N4
+私は壁にカレンダーを掛ける。,327979,,N4,1.0,0.73039544,0.8651977181434631,私は壁にカレンダーを掛ける。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['私', 'は', '壁', 'に', 'カレンダー', 'を', '掛ける', '。']",0.5970310750961305,0.8660253575114256,0.7315282163037781,0.7983629672236205,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N4

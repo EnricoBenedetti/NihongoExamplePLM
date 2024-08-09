@@ -1,0 +1,59 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,-1,15761.0,N1,0.1999999999999999,0.0,0.0999999999999999,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark)
+      (PRON_obj ADP_case)
+      PART_mark)
+    (NOUN_obj ADP_case)
+    (NOUN_compound ADP_fixed AUX_fixed)
+    AUX_aux
+    AUX_aux)
+  PUNCT_punct)","['私', 'は', 'この', '力', 'を', '以', 'て', '己れ', 'を', '鞭', 'ち', '他', 'を', '生きる', '事', 'が', '出来る', 'よう', 'に', '思う', '。']",,,,,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N3
+ザークォンはいう：「信者の諸君にいかに生きるべきかについて説こう。,2987177,,N3,1.0,0.82867664,0.914338320493698,ザークォンはいう：「信者の諸君にいかに生きるべきかについて説こう。,(VERB_ROOT (NOUN_nsubj ADP_case) SYM_dep),"['ザークォン', 'は', 'いう', '：', '「', '信者', 'の', '諸君', 'に', 'いかに', '生きる', 'べき', 'か', 'に', 'つい', 'て', '説こう', '。']",1.0,0.9487179487179488,0.9743589743589745,0.9443486474263364,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N3
+彼らのモットーである「悩まずに生きること」を示す合言葉の「ハクナ・マタタ」は、本作ではそれ以外でも感嘆詞のように扱われている。,8962614,,N3,1.0,0.81753683,0.9087684154510498,彼らのモットーである「悩まずに生きること」を示す合言葉の「ハクナ・マタタ」は、本作ではそれ以外でも感嘆詞のように扱われている。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_acl
+          (NOUN_nmod PRON_nmod ADP_case)
+          (AUX_cop VERB_fixed))
+        (VERB_acl (VERB_advcl PUNCT_punct AUX_aux ADP_case))
+        PUNCT_punct
+        ADP_case))
+    (NOUN_nmod ADP_case)
+    PUNCT_punct
+    NOUN_compound
+    SYM_compound
+    PUNCT_punct
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_obl PRON_nmod ADP_case ADP_case)
+  (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['彼', 'ら', 'の', 'モットー', 'で', 'ある', '「', '悩ま', 'ず', 'に', '生きる', 'こと', '」', 'を', '示す', '合言葉', 'の', '「', 'ハクナ', '・', 'マタタ', '」', 'は', '、', '本作', 'で', 'は', 'それ', '以外', 'で', 'も', '感嘆詞', 'の', 'よう', 'に', '扱わ', 'れ', 'て', 'いる', '。']",0.9409362694956678,0.9175966022651564,0.929266435880412,0.919017425665731,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N3
+いかに生きるべきかは人生における最も重要な問題だ。,295014,,N3,1.0,0.8075025,0.903751254081726,いかに生きるべきかは人生における最も重要な問題だ。,"(NOUN_ROOT
+  (VERB_csubj ADV_advmod AUX_aux PART_mark ADP_case)
+  (NOUN_nmod (ADP_case VERB_fixed AUX_fixed))
+  (ADJ_acl ADV_advmod AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['いかに', '生きる', 'べき', 'か', 'は', '人生', 'に', 'おけ', 'る', '最も', '重要', 'な', '問題', 'だ', '。']",0.8985788621416975,0.8949197719339885,0.896749317037843,0.9002502855597845,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N3
+すると、いつまで自分は生きるのかを決めていかなくてはならない。,119619,,N3,1.0,0.8342746,0.9171372950077056,すると、いつまで自分は生きるのかを決めていかなくてはならない。,"(VERB_ROOT
+  (VERB_dep SCONJ_fixed PUNCT_punct)
+  (VERB_obj
+    (PRON_obl ADP_case)
+    (NOUN_nsubj ADP_case)
+    SCONJ_mark
+    PART_mark
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (AUX_aux SCONJ_fixed ADP_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['する', 'と', '、', 'いつ', 'まで', '自分', 'は', '生きる', 'の', 'か', 'を', '決め', 'て', 'いか', 'なく', 'て', 'は', 'なら', 'ない', '。']",0.8482344358128637,0.891387480082555,0.8698109579477094,0.8934741264777075,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N3
+君は若いからこそ、私と同じように生きることができる。,6086403,,N3,1.0,0.827558,0.913778990507126,君は若いからこそ、私と同じように生きることができる。,"(VERB_ROOT
+  (ADJ_advcl (PRON_nsubj ADP_case) ADP_case ADP_case PUNCT_punct)
+  (NOUN_advcl (ADJ_amod (PRON_obl ADP_case)) AUX_cop)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['君', 'は', '若い', 'から', 'こそ', '、', '私', 'と', '同じ', 'よう', 'に', '生きる', 'こと', 'が', 'できる', '。']",0.8310598075037856,0.8772990217136609,0.8541794146087233,0.8839792025579245,1,私はこの力を以て己れを鞭ち他を生きる事が出来るように思う。,生きる,N3

@@ -1,0 +1,74 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+空からはちらほらと、たゆたいながら雪が落ち始める。,-1,20001.0,N2,0.8,0.0,0.4,空からはちらほらと、たゆたいながら雪が落ち始める。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (ADV_advmod ADP_case PUNCT_punct)
+  (NOUN_advcl SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['空', 'から', 'は', 'ちらほら', 'と', '、', 'たゆたい', 'ながら', '雪', 'が', '落ち', '始める', '。']",,,,,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N1
+兄弟なる空よ俺は歩き始めるよ。,244424,,N1,1.0,0.65033156,0.8251657783985138,兄弟なる空よ俺は歩き始めるよ。,(PART_ROOT (NOUN_nmod (VERB_acl NOUN_obl))),"['兄弟', 'なる', '空', 'よ', '俺', 'は', '歩き', '始める', 'よ', '。']",1.0,0.9456521739130436,0.9728260869565216,0.8989959326775178,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N1
+突然、フレデリック・ショパンの「幻想即興曲」がどこからともなくで流れ始め、アリッサは第二次世界大戦中のロンドンの街にタイムスリップしてしまう。,2989115,,N1,1.0,0.7427062,0.8713530898094177,突然、フレデリック・ショパンの「幻想即興曲」がどこからともなくで流れ始め、アリッサは第二次世界大戦中のロンドンの街にタイムスリップしてしまう。,"(VERB_ROOT
+  (VERB_advcl
+    (ADV_advmod PUNCT_punct)
+    (PROPN_nsubj
+      (PROPN_nmod PROPN_compound SYM_compound ADP_case)
+      PUNCT_punct
+      NOUN_compound
+      PUNCT_punct
+      ADP_case)
+    (ADJ_advcl (PRON_obl ADP_case ADP_case ADP_case) SCONJ_case)
+    VERB_advcl
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (NOUN_obl
+    (NOUN_nmod
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      NOUN_compound
+      NOUN_compound
+      ADP_case)
+    (PROPN_nmod ADP_case)
+    ADP_case)
+  NOUN_compound
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['突然', '、', 'フレデリック', '・', 'ショパン', 'の', '「', '幻想', '即興曲', '」', 'が', 'どこ', 'から', 'と', 'も', 'なく', 'で', '流れ', '始め', '、', 'アリッサ', 'は', '第', '二', '次', '世界', '大戦', '中', 'の', 'ロンドン', 'の', '街', 'に', 'タイム', 'スリップ', 'し', 'て', 'しまう', '。']",0.8874976304116402,0.9435483870967742,0.9155230087542072,0.8934380492818125,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N1
+私たちが駅に着くやいなや雨が降り始めた。,235218,,N1,1.0,0.7978944,0.8989472091197968,私たちが駅に着くやいなや雨が降り始めた。,"(VERB_ROOT
+  (VERB_advcl (NOUN_nsubj ADP_case) (NOUN_obl ADP_case) PART_mark)
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['私たち', 'が', '駅', 'に', '着く', 'や', 'いな', 'や', '雨', 'が', '降り', '始め', 'た', '。']",0.7817246953969009,0.9342105263157896,0.8579676108563452,0.878457409988071,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N1
+さらに富士山が噴火し、噴火の熱におびき寄せられガメラが飛来し、炎を食い始める。,3275720,,N1,1.0,0.74936426,0.8746821284294128,さらに富士山が噴火し、噴火の熱におびき寄せられガメラが飛来し、炎を食い始める。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (VERB_advcl (PROPN_nsubj ADP_case) AUX_aux PUNCT_punct)
+    (VERB_advcl (NOUN_obl (NOUN_nmod ADP_case) ADP_case) AUX_aux)
+    (PROPN_nsubj ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obj ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['さらに', '富士山', 'が', '噴火', 'し', '、', '噴火', 'の', '熱', 'に', 'おびき寄せ', 'られ', 'ガメラ', 'が', '飛来', 'し', '、', '炎', 'を', '食い', '始める', '。']",0.7605601785294227,0.9155420232609172,0.83805110089517,0.8563666146622915,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N1
+鳴き声が聞こえ始めるのとほぼ同時期に花を咲かせる橘や卯の花と取り合わせて詠まれることが多い。,2096799,,N1,1.0,0.72013766,0.8600688278675079,鳴き声が聞こえ始めるのとほぼ同時期に花を咲かせる橘や卯の花と取り合わせて詠まれることが多い。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl
+          (NOUN_nmod
+            (VERB_acl
+              (VERB_advcl
+                (NOUN_nsubj ADP_case)
+                VERB_advcl
+                SCONJ_mark
+                ADP_case)
+              (NOUN_obl ADV_advmod NOUN_compound ADP_case)
+              (NOUN_obj ADP_case)
+              AUX_aux)
+            ADP_case)
+          ADP_case)
+        SCONJ_mark)
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['鳴き声', 'が', '聞こえ', '始める', 'の', 'と', 'ほぼ', '同', '時期', 'に', '花', 'を', '咲か', 'せる', '橘', 'や', '卯の花', 'と', '取り合わせ', 'て', '詠ま', 'れる', 'こと', 'が', '多い', '。']",0.76185615970813,0.911085292509568,0.8364707261088491,0.8482697769881785,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N1

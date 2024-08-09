@@ -1,0 +1,68 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,-1,1221.0,N3,0.8,0.0,0.4,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (PROPN_nmod
+          (ADJ_acl (NOUN_obl ADV_advmod NUM_nummod) ADV_advmod)
+          ADP_case)
+        ADP_case))
+    ADP_case)
+  PUNCT_punct)","['作家', 'と', '読者', 'は', '、', 'もう', 'いち', 'ど', '全然', 'あたらしく', '地割り', 'の', '協定', 'を', 'やり直す', '必要', 'が', 'ある', '。']",,,,,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N2
+まあでも全然許容範囲内ですが。,61945,,N2,1.0,0.7191776,0.8595888018608093,まあでも全然許容範囲内ですが。,"(NOUN_ROOT
+  (ADV_obl ADP_case ADP_case)
+  ADV_advmod
+  NOUN_compound
+  NOUN_compound
+  AUX_cop
+  SCONJ_mark
+  PUNCT_punct)","['まあ', 'で', 'も', '全然', '許容', '範囲', '内', 'です', 'が', '。']",0.8571428571428572,0.9741379310344828,0.91564039408867,0.8876145979747396,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N2
+栗田本人は批判に関して、「戦略も戦術も全然無視した問題だから、それをわれわれがやったことに戦術がどうだこうだといわれては、困る。,3943206,,N2,1.0,0.74720675,0.8736033737659454,栗田本人は批判に関して、「戦略も戦術も全然無視した問題だから、それをわれわれがやったことに戦術がどうだこうだといわれては、困る。,"(ADV_ROOT
+  (NOUN_dislocated PROPN_compound ADP_case)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed) PUNCT_punct)
+      (NOUN_advcl
+        (VERB_acl
+          (NOUN_nsubj (NOUN_nsubj PUNCT_punct ADP_case) ADP_case)
+          ADV_advmod
+          AUX_aux
+          AUX_aux)
+        AUX_cop
+        SCONJ_mark
+        PUNCT_punct)
+      (PRON_obj ADP_case)
+      (PRON_nsubj ADP_case)
+      AUX_aux)
+    ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux)","['栗田', '本人', 'は', '批判', 'に', '関し', 'て', '、', '「', '戦略', 'も', '戦術', 'も', '全然', '無視', 'し', 'た', '問題', 'だ', 'から', '、', 'それ', 'を', 'われわれ', 'が', 'やっ', 'た', 'こと', 'に', '戦術', 'が', 'どう', 'だ', 'こう', 'だ', 'と', 'いわ', 'れ', 'て', 'は', '、', '困る', '。']",0.8596821542584163,0.9163647342995168,0.8880234442789666,0.880813409022456,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N2
+従来のゆき方とは全然異ならなければならぬ。,7294761,,N2,1.0,0.7883812,0.8941906094551086,従来のゆき方とは全然異ならなければならぬ。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADP_case) VERB_nmod ADP_case ADP_case)
+  ADV_advmod
+  (AUX_aux SCONJ_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['従来', 'の', 'ゆき', '方', 'と', 'は', '全然', '異なら', 'なけれ', 'ば', 'なら', 'ぬ', '。']",0.7848133125302681,0.9144153957879448,0.8496143541591065,0.8719024818071075,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N2
+いささか性急すぎる」「タレントたちは全然悪くはないと思う。,12562822,,N2,1.0,0.7348642,0.8674320876598358,いささか性急すぎる」「タレントたちは全然悪くはないと思う。,"(VERB_ROOT
+  (ADJ_ccomp
+    (ADJ_advcl ADV_advmod VERB_advcl PUNCT_punct)
+    (NOUN_dislocated PUNCT_punct NOUN_compound ADP_case)
+    ADV_advmod
+    (ADJ_advcl ADP_case)
+    ADP_case)
+  PUNCT_punct)","['いささか', '性急', 'すぎる', '」', '「', 'タレント', 'たち', 'は', '全然', '悪く', 'は', 'ない', 'と', '思う', '。']",0.7825015812973641,0.9096052631578948,0.8460534222276295,0.8567427549437326,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N2
+6月20日、田母神は中国新聞社に対し「核兵器は絶対に使われることのない兵器だが、持つか持たないかで国際的な発言力は全然違う。,7580389,,N2,1.0,0.7365163,0.868258148431778,6月20日、田母神は中国新聞社に対し「核兵器は絶対に使われることのない兵器だが、持つか持たないかで国際的な発言力は全然違う。,"(VERB_ROOT
+  (NOUN_obl NUM_compound NOUN_compound NUM_nummod PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (PROPN_obl PROPN_compound (ADP_case VERB_fixed))
+  (NOUN_advcl
+    (ADJ_acl
+      (NOUN_nsubj PUNCT_punct ADP_case)
+      (NOUN_nmod (VERB_acl (NOUN_obl ADP_case) AUX_aux) ADP_case))
+    AUX_cop
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl (VERB_advcl PART_mark) AUX_aux PART_mark AUX_aux)
+  (NOUN_nsubj (ADJ_acl AUX_cop) ADP_case)
+  ADV_advmod
+  PUNCT_punct)","['6', '月', '20', '日', '、', '田母神', 'は', '中国', '新聞社', 'に', '対し', '「', '核兵器', 'は', '絶対', 'に', '使わ', 'れる', 'こと', 'の', 'ない', '兵器', 'だ', 'が', '、', '持つ', 'か', '持た', 'ない', 'か', 'で', '国際的', 'な', '発言力', 'は', '全然', '違う', '。']",0.7874882699638422,0.9000329380764164,0.8437606040201293,0.8560093762259536,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N2

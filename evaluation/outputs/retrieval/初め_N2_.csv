@@ -1,0 +1,87 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+十一月の初めだった。,-1,15130.0,N4,0.6,0.0,0.3,十一月の初めだった。,"(NOUN_ROOT
+  (NOUN_nmod NUM_compound ADP_case)
+  AUX_cop
+  AUX_aux
+  PUNCT_punct)","['十一', '月', 'の', '初め', 'だっ', 'た', '。']",,,,,1,十一月の初めだった。,初め,N2
+ある12月の初め、小説家・香住庄介宅へ1人の婦人が突然来訪し、30年前に九州の「弓浦市」でお会いしたと言い、香住を懐かしむ。,9366806,,N2,1.0,0.8019051,0.90095254778862,ある12月の初め、小説家・香住庄介宅へ1人の婦人が突然来訪し、30年前に九州の「弓浦市」でお会いしたと言い、香住を懐かしむ。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_ccomp
+      (VERB_advcl
+        (NOUN_obl
+          (NOUN_nmod DET_det NUM_nummod ADP_case)
+          PUNCT_punct)
+        (NOUN_obl
+          (PROPN_compound NOUN_compound SYM_compound)
+          PROPN_compound
+          PROPN_compound
+          ADP_case)
+        (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+        ADV_advmod
+        AUX_aux
+        PUNCT_punct)
+      (NOUN_obl NUM_compound NOUN_compound ADP_case)
+      (PROPN_obl
+        (PROPN_nmod ADP_case)
+        PUNCT_punct
+        NOUN_compound
+        PUNCT_punct
+        ADP_case)
+      NOUN_compound
+      VERB_compound
+      AUX_aux
+      ADP_case)
+    PUNCT_punct)
+  (PROPN_obj ADP_case)
+  PUNCT_punct)","['ある', '12', '月', 'の', '初め', '、', '小説家', '・', '香住', '庄', '介', '宅', 'へ', '1人', 'の', '婦人', 'が', '突然', '来訪', 'し', '、', '30', '年', '前', 'に', '九州', 'の', '「', '弓', '浦市', '」', 'で', 'お', '会い', 'し', 'た', 'と', '言い', '、', '香住', 'を', '懐かしむ', '。']",0.7364733309985735,0.9291485507246376,0.8328109408616056,0.8668817443251128,1,十一月の初めだった。,初め,N2
+二月の初めのとある夕方、西銀座の喫茶店で高島竜二警部は、十年ぶりに女優の上杉弥生と再会していた。,10658677,,N2,1.0,0.82828826,0.91414412856102,二月の初めのとある夕方、西銀座の喫茶店で高島竜二警部は、十年ぶりに女優の上杉弥生と再会していた。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+      DET_amod
+      PUNCT_punct)
+    (PROPN_nmod NOUN_compound ADP_case)
+    ADP_case)
+  (NOUN_nsubj PROPN_compound PROPN_compound ADP_case PUNCT_punct)
+  (NOUN_obl NUM_compound NOUN_compound ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) PROPN_compound ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['二', '月', 'の', '初め', 'の', 'とある', '夕方', '、', '西', '銀座', 'の', '喫茶店', 'で', '高島', '竜二', '警部', 'は', '、', '十', '年', 'ぶり', 'に', '女優', 'の', '上杉', '弥生', 'と', '再会', 'し', 'て', 'い', 'た', '。']",0.7505074806384889,0.8995682404944454,0.8250378605664672,0.8695909945637436,1,十一月の初めだった。,初め,N2
+翌月1月の初め、彼は庶子のジャンともども降伏することになった。,10948307,,N2,1.0,0.74331874,0.8716593682765961,翌月1月の初め、彼は庶子のジャンともども降伏することになった。,"(PROPN_ROOT
+  (NOUN_nmod
+    (NOUN_nmod NOUN_compound NUM_nummod ADP_case)
+    PUNCT_punct)
+  (PRON_nsubj ADP_case)
+  (NOUN_nmod ADP_case))","['翌月', '1', '月', 'の', '初め', '、', '彼', 'は', '庶子', 'の', 'ジャン', 'ともども', '降伏', 'する', 'こと', 'に', 'なっ', 'た', '。']",0.8031464475857206,0.8778404269509222,0.8404934372683215,0.8560764027724588,1,十一月の初めだった。,初め,N2
+平成5年の夏の初め、京都で殺人事件が起こる。,7795060,,N2,1.0,0.812445,0.9062224924564362,平成5年の夏の初め、京都で殺人事件が起こる。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod PROPN_compound NUM_nummod ADP_case)
+      ADP_case)
+    PUNCT_punct)
+  (PROPN_obl ADP_case)
+  (NOUN_nsubj NOUN_compound ADP_case)
+  PUNCT_punct)","['平成', '5', '年', 'の', '夏', 'の', '初め', '、', '京都', 'で', '殺人', '事件', 'が', '起こる', '。']",0.7533605003738044,0.8694328633082756,0.8113966818410401,0.8588095871487381,1,十一月の初めだった。,初め,N2
+5月初めの事で、その後も探索してみたが不調で、銭湯での噂は誤りであったと悔やんだ。,9314898,,N2,1.0,0.7905623,0.8952811360359192,5月初めの事で、その後も探索してみたが不調で、銭湯での噂は誤りであったと悔やんだ。,"(VERB_ROOT
+  (NOUN_advcl
+    (ADJ_acl
+      (VERB_advcl
+        (NOUN_advcl
+          (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+          AUX_cop
+          PUNCT_punct)
+        (NOUN_nsubj ADP_case)
+        AUX_aux
+        (SCONJ_mark VERB_fixed)
+        AUX_aux
+        SCONJ_mark)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_nsubj (NOUN_nmod ADP_case ADP_case) ADP_case)
+    (AUX_cop VERB_fixed)
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['5', '月', '初め', 'の', '事', 'で', '、', 'その後', 'も', '探索', 'し', 'て', 'み', 'た', 'が', '不調', 'で', '、', '銭湯', 'で', 'の', '噂', 'は', '誤り', 'で', 'あっ', 'た', 'と', '悔やん', 'だ', '。']",0.7340275436335213,0.8577475661723798,0.7958875549029505,0.8455843454694348,1,十一月の初めだった。,初め,N2

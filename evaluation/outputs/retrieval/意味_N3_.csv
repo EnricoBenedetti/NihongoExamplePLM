@@ -1,0 +1,71 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,-1,20001.0,N1,0.1999999999999999,0.0,0.0999999999999999,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,"(VERB_ROOT
+  (NOUN_obl DET_det ADP_case PUNCT_punct)
+  (NOUN_nsubj ADP_case PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl (PRON_nmod ADP_case) NOUN_compound PUNCT_punct)
+      (NOUN_obj ADP_case)
+      AUX_aux
+      AUX_aux
+      ADP_case)
+    SCONJ_mark
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['この', '意味', 'で', '、', '会話', 'は', '、', '彼', 'の', '意図', '通り', '、', '方向', 'を', '転換', 'し', 'た', 'と', '云っ', 'て', 'も', '差支え', 'ない', '。']",,,,,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N3
+これらの意味でレイノルズ数は流れスケールの規模についての指標であるといえる。,1220591,,N3,1.0,0.8405813,0.9202906489372252,これらの意味でレイノルズ数は流れスケールの規模についての指標であるといえる。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_nmod (NOUN_nmod PRON_nmod ADP_case) ADP_case)
+    (NOUN_nsubj VERB_compound ADP_case)
+    (NOUN_nmod
+      (NOUN_nmod NOUN_compound ADP_case)
+      (ADP_case VERB_fixed SCONJ_fixed)
+      ADP_case)
+    (AUX_cop VERB_fixed)
+    ADP_case)
+  PUNCT_punct)","['これ', 'ら', 'の', '意味', 'で', 'レイノルズ', '数', 'は', '流れ', 'スケール', 'の', '規模', 'に', 'つい', 'て', 'の', '指標', 'で', 'ある', 'と', 'いえる', '。']",0.7744470971767464,0.929100790513834,0.8517739438452903,0.8860322963912578,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N3
+この意味で認知科学における直観は、より本能に近いと考えることができる。,2377106,,N3,1.0,0.87977374,0.9398868680000304,この意味で認知科学における直観は、より本能に近いと考えることができる。,"(VERB_ROOT
+  (ADJ_ccomp
+    (NOUN_obl DET_det ADP_case)
+    (NOUN_nsubj
+      (NOUN_nmod NOUN_compound (ADP_case VERB_fixed AUX_fixed))
+      ADP_case
+      PUNCT_punct)
+    (NOUN_obl ADV_advmod ADP_case)
+    ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['この', '意味', 'で', '認知', '科学', 'に', 'おけ', 'る', '直観', 'は', '、', 'より', '本能', 'に', '近い', 'と', '考える', 'こと', 'が', 'できる', '。']",0.6901445685911252,0.9019184303890384,0.7960314994900818,0.8679591837450562,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N3
+その意味で、神学を学ぶ神学部とは必ずしも同義ではない。,1949698,,N3,1.0,0.8459298,0.9229649007320404,その意味で、神学を学ぶ神学部とは必ずしも同義ではない。,"(NOUN_ROOT
+  (NOUN_nmod DET_det ADP_case PUNCT_punct)
+  (NOUN_obl (VERB_acl (NOUN_obj ADP_case)) ADP_case ADP_case)
+  (ADV_advmod ADP_case)
+  (AUX_cop ADP_fixed AUX_fixed)
+  PUNCT_punct)","['その', '意味', 'で', '、', '神学', 'を', '学ぶ', '神学部', 'と', 'は', '必ず', 'しも', '同義', 'で', 'は', 'ない', '。']",0.6901664389293451,0.8792841478696742,0.7847252933995097,0.853845097065775,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N3
+那須輝彦はその意味で「グレゴリオ聖歌はローマ聖歌と呼ぶのが正確である」と述べている。,1316142,,N3,1.0,0.8439373,0.921968638896942,那須輝彦はその意味で「グレゴリオ聖歌はローマ聖歌と呼ぶのが正確である」と述べている。,"(VERB_ROOT
+  (PROPN_nsubj
+    PROPN_compound
+    ADP_case
+    (ADJ_dep
+      (NOUN_obl DET_det ADP_case)
+      (VERB_csubj
+        (NOUN_nsubj PUNCT_punct NOUN_compound ADP_case)
+        (NOUN_obl PROPN_compound ADP_case)
+        SCONJ_mark
+        ADP_case)
+      (AUX_aux VERB_fixed)
+      PUNCT_punct
+      ADP_case))
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['那須', '輝彦', 'は', 'その', '意味', 'で', '「', 'グレゴリオ', '聖歌', 'は', 'ローマ', '聖歌', 'と', '呼ぶ', 'の', 'が', '正確', 'で', 'ある', '」', 'と', '述べ', 'て', 'いる', '。']",0.6859645535340199,0.865174771711469,0.7755696626227444,0.8487691507598433,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N3
+この意味で、いつかは1に到達するとの予想は確からしい。,3458436,,N3,1.0,0.83131754,0.9156587719917296,この意味で、いつかは1に到達するとの予想は確からしい。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_nmod
+      (NOUN_obl DET_det ADP_case PUNCT_punct)
+      (PRON_obl ADP_case ADP_case)
+      (NUM_obl ADP_case)
+      AUX_aux
+      ADP_case
+      ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['この', '意味', 'で', '、', 'いつ', 'か', 'は', '1', 'に', '到達', 'する', 'と', 'の', '予想', 'は', '確か', 'らしい', '。']",0.6699106390991934,0.851709636133293,0.7608101376162432,0.8382344548039864,1,この意味で、会話は、彼の意図通り、方向を転換したと云っても差支えない。,意味,N3

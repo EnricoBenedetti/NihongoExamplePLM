@@ -1,0 +1,85 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,-1,20001.0,N4,0.3999999999999999,0.0,0.1999999999999999,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,"(VERB_ROOT
+  ADV_cc
+  (PRON_nsubj ADP_case)
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_nsubj
+          (VERB_acl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case))
+          (NOUN_nmod ADP_case)
+          ADP_case)
+        AUX_aux))
+    ADV_advmod
+    PART_case)
+  (PRON_nsubj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['但し', 'これ', 'も', '人類', 'の', '文化', 'が', '進み', '人類', 'の', '感情', 'が', '進ん', 'だ', 'とき', 'どう', '変る', 'か', 'それ', 'は', 'わかり', 'ませ', 'ん', '。']",,,,,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N1
+当時、西洋の文化は社会進化の頂点だと信じていた種々の社会学者と人類学者の多くの競合した理論から成っている。,4867621,,N1,1.0,0.85581577,0.9279078841209412,当時、西洋の文化は社会進化の頂点だと信じていた種々の社会学者と人類学者の多くの競合した理論から成っている。,"(VERB_ROOT
+  (ADV_advmod PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_advcl
+        (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+        (NOUN_nmod NOUN_compound ADP_case)
+        AUX_cop
+        ADP_case)
+      (SCONJ_mark VERB_fixed)
+      AUX_aux)
+    (NOUN_nmod
+      (NOUN_nmod (ADJ_nmod ADP_case) NOUN_compound ADP_case)
+      NOUN_compound
+      ADP_case)
+    (VERB_acl (NOUN_obl ADP_case) AUX_aux AUX_aux)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['当時', '、', '西洋', 'の', '文化', 'は', '社会', '進化', 'の', '頂点', 'だ', 'と', '信じ', 'て', 'い', 'た', '種々', 'の', '社会学', '者', 'と', '人類学', '者', 'の', '多く', 'の', '競合', 'し', 'た', '理論', 'から', '成っ', 'て', 'いる', '。']",0.7998558148495332,0.923431460005947,0.8616436374277401,0.8947757607743406,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N1
+しかしツワナ人においては、生命力概念を中核とした人間（ムンツー）中心のバンツー哲学に通暁しており、生活習慣、文化と密接な関係をもっており、これを退けることは難しかった。,3733107,,N1,1.0,0.75897175,0.8794858753681183,しかしツワナ人においては、生命力概念を中核とした人間（ムンツー）中心のバンツー哲学に通暁しており、生活習慣、文化と密接な関係をもっており、これを退けることは難しかった。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_obl
+    PROPN_compound
+    (ADP_case VERB_fixed SCONJ_fixed)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obj ADJ_compound ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux)","['しかし', 'ツワナ', '人', 'に', 'おい', 'て', 'は', '、', '生命力', '概念', 'を', '中核', 'と', 'し', 'た', '人間（ムンツー）', '中心', 'の', 'バンツー', '哲学', 'に', '通暁', 'し', 'て', 'おり', '、', '生活習慣', '、', '文化', 'と', '密接', 'な', '関係', 'を', 'もっ', 'て', 'おり', '、', 'これ', 'を', '退ける', 'こと', 'は', '難しかっ', 'た', '。']",0.8612397352026061,0.8923627026568203,0.8768012189297132,0.8781435471489157,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N1
+世界の文化はアジアに始まってアジアに帰る。,116251,,N1,1.0,0.8419692,0.9209845960140228,世界の文化はアジアに始まってアジアに帰る。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (PROPN_obl ADP_case)
+    SCONJ_mark)
+  (PROPN_obl ADP_case)
+  PUNCT_punct)","['世界', 'の', '文化', 'は', 'アジア', 'に', '始まっ', 'て', 'アジア', 'に', '帰る', '。']",0.8437909952615049,0.8772863785650991,0.860538686913302,0.8907616414636624,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N1
+他方で、例えば人類の進化に関わって文化の程度を問う場合などに道具使用が挙げられることも多い。,3650411,,N1,1.0,0.81206965,0.9060348272323608,他方で、例えば人類の進化に関わって文化の程度を問う場合などに道具使用が挙げられることも多い。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl ADP_case PUNCT_punct)
+      ADV_advmod
+      (NOUN_obl
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+            SCONJ_mark)
+          (NOUN_obj (NOUN_nmod ADP_case) ADP_case))
+        ADP_case
+        ADP_case)
+      (NOUN_nsubj NOUN_compound ADP_case)
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['他方', 'で', '、', '例えば', '人類', 'の', '進化', 'に', '関わっ', 'て', '文化', 'の', '程度', 'を', '問う', '場合', 'など', 'に', '道具', '使用', 'が', '挙げ', 'られる', 'こと', 'も', '多い', '。']",0.801913806691779,0.8741788285789278,0.8380463176353534,0.8720405724338571,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N1
+とはいえ、社会や文化が徐々に変化していくという理論は近世ヨーロッパ思想では一般的であった。,4861282,,N1,1.0,0.8249703,0.9124851524829865,とはいえ、社会や文化が徐々に変化していくという理論は近世ヨーロッパ思想では一般的であった。,"(ADJ_ROOT
+  (ADP_dep SCONJ_fixed SCONJ_fixed PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed)
+      (ADP_case VERB_fixed))
+    ADP_case)
+  (NOUN_obl NOUN_compound PROPN_compound ADP_case ADP_case)
+  (AUX_cop VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['と', 'は', 'いえ', '、', '社会', 'や', '文化', 'が', '徐々', 'に', '変化', 'し', 'て', 'いく', 'と', 'いう', '理論', 'は', '近世', 'ヨーロッパ', '思想', 'で', 'は', '一般的', 'で', 'あっ', 'た', '。']",0.7608933068578482,0.8654306178201177,0.813161962338983,0.8628235574109847,1,但しこれも人類の文化が進み人類の感情が進んだときどう変るかそれはわかりません。,文化,N1

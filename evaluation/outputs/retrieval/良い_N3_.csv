@@ -1,0 +1,104 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+味噌を食事の一部にすることは非常に良いと考えられている。,-1,20001.0,N3,1.0,0.0,0.5,味噌を食事の一部にすることは非常に良いと考えられている。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj ADP_case)
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+    ADP_case)
+  (ADJ_ccomp (ADJ_advcl AUX_aux) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['味噌', 'を', '食事', 'の', '一部', 'に', 'する', 'こと', 'は', '非常', 'に', '良い', 'と', '考え', 'られ', 'て', 'いる', '。']",,,,,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N3
+カサの開いたものは香りが強い場合もあり、刻んで松茸ご飯や吸い物に利用すると良いとの意見もある。,1218074,,N3,1.0,0.79438406,0.8971920311450958,カサの開いたものは香りが強い場合もあり、刻んで松茸ご飯や吸い物に利用すると良いとの意見もある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (ADJ_nmod
+      (VERB_advcl
+        (NOUN_nsubj
+          (ADJ_acl
+            (NOUN_dislocated
+              (VERB_acl (NOUN_nmod ADP_case) AUX_aux)
+              ADP_case)
+            (NOUN_nsubj ADP_case))
+          ADP_case)
+        PUNCT_punct)
+      (VERB_advcl SCONJ_mark)
+      (VERB_advcl
+        (NOUN_obl (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+        AUX_aux
+        SCONJ_mark)
+      ADP_case
+      ADP_case)
+    ADP_case)
+  PUNCT_punct)","['カサ', 'の', '開い', 'た', 'もの', 'は', '香り', 'が', '強い', '場合', 'も', 'あり', '、', '刻ん', 'で', '松茸', 'ご飯', 'や', '吸い物', 'に', '利用', 'する', 'と', '良い', 'と', 'の', '意見', 'も', 'ある', '。']",0.7527660249064504,0.9372735507246376,0.8450197878155441,0.87110590948032,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N3
+ある日、佐賀では妊婦には良いとされるドジョウが用意されるが、ドジョウを食べられたのは帰省した篤子だけであった。,1265072,,N3,1.0,0.8554791,0.9277395606040956,ある日、佐賀では妊婦には良いとされるドジョウが用意されるが、ドジョウを食べられたのは帰省した篤子だけであった。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl DET_det PUNCT_punct)
+    (PROPN_obl ADP_case ADP_case)
+    (NOUN_nsubj
+      (VERB_acl
+        (ADJ_advcl (NOUN_obl ADP_case ADP_case) ADP_case)
+        AUX_aux)
+      ADP_case)
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_csubj
+    (NOUN_obj ADP_case)
+    AUX_aux
+    AUX_aux
+    SCONJ_mark
+    ADP_case)
+  (VERB_acl AUX_aux AUX_aux)
+  ADP_case
+  (AUX_cop VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['ある', '日', '、', '佐賀', 'で', 'は', '妊婦', 'に', 'は', '良い', 'と', 'さ', 'れる', 'ドジョウ', 'が', '用意', 'さ', 'れる', 'が', '、', 'ドジョウ', 'を', '食べ', 'られ', 'た', 'の', 'は', '帰省', 'し', 'た', '篤子', 'だけ', 'で', 'あっ', 'た', '。']",0.748113426629536,0.8895502645502645,0.8188318455899002,0.8732857030969978,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N3
+笑いが身体の免疫力を上げるのなら、健康維持や病気の身体にも良いということになる。,3757596,,N3,1.0,0.8360284,0.9180141985416412,笑いが身体の免疫力を上げるのなら、健康維持や病気の身体にも良いということになる。,"(VERB_ROOT
+  (ADJ_ccomp
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      SCONJ_mark
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obl
+      (NOUN_nmod NOUN_compound ADP_case)
+      (NOUN_nmod ADP_case)
+      ADP_case
+      ADP_case)
+    ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['笑い', 'が', '身体', 'の', '免疫力', 'を', '上げる', 'の', 'なら', '、', '健康', '維持', 'や', '病気', 'の', '身体', 'に', 'も', '良い', 'と', 'いう', 'こと', 'に', 'なる', '。']",0.7346789662450817,0.878090869375273,0.8063849178101774,0.8621995581759093,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N3
+また、民間療法で馬の糞から作られた馬糞汁を飲むのが良いとされた。,4098492,,N3,1.0,0.87339455,0.9366972744464874,また、民間療法で馬の糞から作られた馬糞汁を飲むのが良いとされた。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (ADJ_advcl
+    (VERB_csubj
+      (NOUN_obl NOUN_compound ADP_case)
+      (NOUN_obj
+        (VERB_acl
+          (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+          AUX_aux
+          AUX_aux)
+        NOUN_compound
+        ADP_case)
+      SCONJ_mark
+      ADP_case)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['また', '、', '民間', '療法', 'で', '馬', 'の', '糞', 'から', '作ら', 'れ', 'た', '馬糞', '汁', 'を', '飲む', 'の', 'が', '良い', 'と', 'さ', 'れ', 'た', '。']",0.7098081670056346,0.8658011262913381,0.7878046466484864,0.8622509605474868,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N3
+飲み過ぎても二日酔いせず、むしろ適度の飲用は健康に良いとされる。,2053228,,N3,1.0,0.8751333,0.9375666379928588,飲み過ぎても二日酔いせず、むしろ適度の飲用は健康に良いとされる。,"(VERB_ROOT
+  (ADJ_advcl
+    (VERB_advcl
+      (VERB_advcl VERB_advcl SCONJ_mark ADP_case)
+      (NOUN_obl NUM_nummod)
+      AUX_aux
+      AUX_aux
+      PUNCT_punct)
+    ADV_advmod
+    (NOUN_nsubj (ADJ_nmod ADP_case) ADP_case)
+    (ADJ_advcl AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['飲み', '過ぎ', 'て', 'も', '二', '日', '酔い', 'せ', 'ず', '、', 'むしろ', '適度', 'の', '飲用', 'は', '健康', 'に', '良い', 'と', 'さ', 'れる', '。']",0.6771551064236574,0.8500802053653416,0.7636176558944995,0.8505921469436792,1,味噌を食事の一部にすることは非常に良いと考えられている。,良い,N3

@@ -1,0 +1,53 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+技術は何によらず練習するより他に上達する道はない。,-1,20001.0,N1,0.0,0.0,0.0,技術は何によらず練習するより他に上達する道はない。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj ADP_case)
+      (VERB_advcl
+        (VERB_advcl (PRON_obl ADP_case) AUX_aux)
+        AUX_aux
+        ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['技術', 'は', '何', 'に', 'よら', 'ず', '練習', 'する', 'より', '他', 'に', '上達', 'する', '道', 'は', 'ない', '。']",,,,,1,技術は何によらず練習するより他に上達する道はない。,技術,N4
+たまにしかやらないので技術が追いつかないです。,84415,,N4,1.0,0.8424442,0.9212220907211304,たまにしかやらないので技術が追いつかないです。,"(ADJ_ROOT
+  (VERB_advcl (ADV_advmod ADP_case) AUX_aux (SCONJ_mark AUX_fixed))
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  AUX_aux
+  PUNCT_punct)","['たまに', 'しか', 'やら', 'ない', 'の', 'で', '技術', 'が', '追いつか', 'ない', 'です', '。']",0.7053613758880029,0.9396551724137931,0.822508274150898,0.8718651824360142,1,技術は何によらず練習するより他に上達する道はない。,技術,N4
+彼等と戦うには何か彼等以上の技術を持たないとと思いました。,108334,,N4,1.0,0.8184126,0.9092063009738922,彼等と戦うには何か彼等以上の技術を持たないとと思いました。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl (NOUN_obl PRON_nmod ADP_case) ADP_case ADP_case)
+    (NOUN_obj
+      (NOUN_nmod
+        (PRON_nmod ADP_case)
+        PRON_nmod
+        NOUN_compound
+        ADP_case)
+      ADP_case)
+    AUX_aux
+    ADP_case
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['彼', '等', 'と', '戦う', 'に', 'は', '何', 'か', '彼', '等', '以上', 'の', '技術', 'を', '持た', 'ない', 'と', 'と', '思い', 'まし', 'た', '。']",0.6726778485089575,0.9013480392156864,0.7870129438623219,0.8481096224181071,1,技術は何によらず練習するより他に上達する道はない。,技術,N4
+持っている技術が違うで。,1684043,,N4,1.0,0.82195145,0.9109757244586943,持っている技術が違うで。,"(VERB_ROOT
+  (NOUN_nsubj (VERB_acl (SCONJ_mark VERB_fixed)) ADP_case)
+  SCONJ_mark
+  PUNCT_punct)","['持っ', 'て', 'いる', '技術', 'が', '違う', 'で', '。']",0.6463770781211364,0.8931432973805855,0.769760187750861,0.8403679561047777,1,技術は何によらず練習するより他に上達する道はない。,技術,N4
+この技術では僕より君のほうが優れているはずだよ。,288169,,N4,1.0,0.7605067,0.8802533447742462,この技術では僕より君のほうが優れているはずだよ。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl DET_det ADP_case ADP_case)
+    (PRON_obl ADP_case)
+    (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+    (SCONJ_mark VERB_fixed))
+  AUX_cop
+  PART_mark
+  PUNCT_punct)","['この', '技術', 'で', 'は', '僕', 'より', '君', 'の', 'ほう', 'が', '優れ', 'て', 'いる', 'はず', 'だ', 'よ', '。']",0.6583826925603786,0.8839418087472202,0.7711622506537994,0.8257077977140228,1,技術は何によらず練習するより他に上達する道はない。,技術,N4
+バランスを保つ技術レベルが高いですね。,55315,,N4,1.0,0.7977393,0.898869663476944,バランスを保つ技術レベルが高いですね。,"(ADJ_ROOT
+  (NOUN_nsubj (VERB_acl (NOUN_obj ADP_case)) NOUN_compound ADP_case)
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['バランス', 'を', '保つ', '技術', 'レベル', 'が', '高い', 'です', 'ね', '。']",0.6150695754486504,0.8828488372093023,0.7489592063289763,0.8239144349029601,1,技術は何によらず練習するより他に上達する道はない。,技術,N4

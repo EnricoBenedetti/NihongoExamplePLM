@@ -1,0 +1,29 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+成東の停車場をおりて、町形をした家並みを出る。,-1,20001.0,N1,0.0,0.0,0.0,成東の停車場をおりて、町形をした家並みを出る。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_obj (PROPN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl (NOUN_obj NOUN_compound ADP_case) AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['成東', 'の', '停車場', 'を', 'おり', 'て', '、', '町', '形', 'を', 'し', 'た', '家並み', 'を', '出る', '。']",,,,,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N4
+ああもうバスが出る。,141769,,N4,1.0,0.6461116,0.8230558037757874,ああもうバスが出る。,INTJ_ROOT,"['ああ', 'もう', 'バス', 'が', '出る', '。']",1.0,0.9420454545454544,0.9710227272727272,0.8970392655242573,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N4
+この出口を出ると、図書館に一番近いです。,379863,,N4,1.0,0.7524146,0.8762072920799255,この出口を出ると、図書館に一番近いです。,"(ADJ_ROOT
+  (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark PUNCT_punct)
+  (NOUN_obl ADP_case)
+  ADV_advmod
+  AUX_aux
+  PUNCT_punct)","['この', '出口', 'を', '出る', 'と', '、', '図書館', 'に', '一番', '近い', 'です', '。']",0.904557683381844,0.9250474383301708,0.9148025608560074,0.8955049264679664,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N4
+雪の町から出る。,146995,,N4,1.0,0.76273,0.8813650012016296,雪の町から出る。,(VERB_ROOT (NOUN_obl (NOUN_nmod ADP_case) ADP_case) PUNCT_punct),"['雪', 'の', '町', 'から', '出る', '。']",0.8362655037618086,0.9041666666666668,0.8702160852142377,0.8757905432079336,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N4
+私たちはジャンクション１１で高速道路を出た。,155792,,N4,1.0,0.6882324,0.8441162109375,私たちはジャンクション１１で高速道路を出た。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NUM_compound NOUN_compound ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私たち', 'は', 'ジャンクション', '１１', 'で', '高速道路', 'を', '出', 'た', '。']",0.7947193114862232,0.9083333333333332,0.8515263224097782,0.8478212666736391,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N4
+このまま真っすぐ行くと、駅に出るよ。,393343,,N4,1.0,0.7246033,0.8623016476631165,このまま真っすぐ行くと、駅に出るよ。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obl DET_det) ADJ_advcl SCONJ_mark PUNCT_punct)
+  (NOUN_obl ADP_case)
+  PART_mark
+  PUNCT_punct)","['この', 'まま', '真っすぐ', '行く', 'と', '、', '駅', 'に', '出る', 'よ', '。']",0.7642699588797913,0.89575260804769,0.8300112834637406,0.8461564655634286,1,成東の停車場をおりて、町形をした家並みを出る。,出る,N4

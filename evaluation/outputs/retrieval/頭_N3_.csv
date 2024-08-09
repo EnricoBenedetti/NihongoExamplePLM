@@ -1,0 +1,85 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+このような動物は頭の真ん中に角が生えている。,-1,20001.0,N3,1.0,0.0,0.5,このような動物は頭の真ん中に角が生えている。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_acl DET_det AUX_cop) ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['この', 'よう', 'な', '動物', 'は', '頭', 'の', '真ん中', 'に', '角', 'が', '生え', 'て', 'いる', '。']",,,,,1,このような動物は頭の真ん中に角が生えている。,頭,N3
+その生物は体長1メートルほど、頭に3つのコブがあり、目は真っ赤で猫背で2本足で直立歩行していたという。,3681398,,N3,1.0,0.901251,0.9506255090236664,その生物は体長1メートルほど、頭に3つのコブがあり、目は真っ赤で猫背で2本足で直立歩行していたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (NOUN_dislocated DET_det ADP_case)
+      (NOUN_nsubj
+        (NOUN_nmod NOUN_compound NUM_nummod ADP_case PUNCT_punct)
+        (NOUN_obl ADP_case)
+        (NOUN_nmod NUM_nummod ADP_case)
+        ADP_case)
+      PUNCT_punct)
+    (ADJ_advcl (NOUN_nsubj ADP_case) AUX_aux)
+    (NOUN_obl ADP_case)
+    (NOUN_obl NUM_compound NOUN_compound ADP_case)
+    NOUN_obl
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['その', '生物', 'は', '体長', '1', 'メートル', 'ほど', '、', '頭', 'に', '3', 'つ', 'の', 'コブ', 'が', 'あり', '、', '目', 'は', '真っ赤', 'で', '猫背', 'で', '2', '本', '足', 'で', '直立', '歩行', 'し', 'て', 'い', 'た', 'と', 'いう', '。']",0.767423703865206,0.946078431372549,0.8567510676188774,0.903688288321272,1,このような動物は頭の真ん中に角が生えている。,頭,N3
+カルノタウルスやタラスコサウルスのように、頭に鶏冠を持ったアベリサウルス科の肉食恐竜である。,5098172,,N3,1.0,0.8746446,0.9373222887516022,カルノタウルスやタラスコサウルスのように、頭に鶏冠を持ったアベリサウルス科の肉食恐竜である。,"(NOUN_ROOT
+  (NOUN_acl
+    (NOUN_nmod (NOUN_nmod VERB_acl ADP_case) ADP_case)
+    AUX_cop
+    PUNCT_punct)
+  (VERB_acl (NOUN_obl ADP_case) (NOUN_obj ADP_case) AUX_aux)
+  (NOUN_nmod NOUN_compound ADP_case)
+  NOUN_compound
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['カルノ', 'タウルス', 'や', 'タラスコサウルス', 'の', 'よう', 'に', '、', '頭', 'に', '鶏冠', 'を', '持っ', 'た', 'アベリサウルス', '科', 'の', '肉食', '恐竜', 'で', 'ある', '。']",0.7591915947313151,0.9172079913543828,0.8381997930428489,0.8877610408972255,1,このような動物は頭の真ん中に角が生えている。,頭,N3
+オスの成体は、頭の毛が中央から左右に分かれ、桃割（ももわれ）と呼ばれる。,4634508,,N3,1.0,0.87064946,0.935324728488922,オスの成体は、頭の毛が中央から左右に分かれ、桃割（ももわれ）と呼ばれる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (SYM_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['オス', 'の', '成体', 'は', '、', '頭', 'の', '毛', 'が', '中央', 'から', '左右', 'に', '分かれ', '、', '桃割（ももわれ）', 'と', '呼ば', 'れる', '。']",0.7497512295612814,0.9024895351398988,0.82612038235059,0.8807225554197561,1,このような動物は頭の真ん中に角が生えている。,頭,N3
+動物にはそれぞれ、頭を中心に、四肢に相当する「ニク」と言う物がついており、これの数が多いほど動物は強くなる。,2880361,,N3,1.0,0.89307404,0.9465370178222656,動物にはそれぞれ、頭を中心に、四肢に相当する「ニク」と言う物がついており、これの数が多いほど動物は強くなる。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case ADP_case)
+    (ADV_advmod PUNCT_punct)
+    (NOUN_obl (NOUN_obj ADP_case) ADP_case PUNCT_punct)
+    (NOUN_nsubj
+      (NOUN_nmod
+        (VERB_acl (NOUN_obl ADP_case) AUX_aux)
+        PUNCT_punct
+        PUNCT_punct
+        (ADP_case VERB_fixed))
+      ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (ADJ_advcl (NOUN_nsubj (PRON_nmod ADP_case) ADP_case) ADP_case)
+  (NOUN_nsubj ADP_case)
+  ADJ_advcl
+  PUNCT_punct)","['動物', 'に', 'は', 'それぞれ', '、', '頭', 'を', '中心', 'に', '、', '四肢', 'に', '相当', 'する', '「', 'ニク', '」', 'と', '言う', '物', 'が', 'つい', 'て', 'おり', '、', 'これ', 'の', '数', 'が', '多い', 'ほど', '動物', 'は', '強く', 'なる', '。']",0.72879585252315,0.8868870316318576,0.8078414420775037,0.8771892299498847,1,このような動物は頭の真ん中に角が生えている。,頭,N3
+これは、頭は丸くて小さく、そこに嘴が着いているが、体には裸の人間と同じで手足がある、というものである。,7448849,,N3,1.0,0.89702594,0.9485129714012146,これは、頭は丸くて小さく、そこに嘴が着いているが、体には裸の人間と同じで手足がある、というものである。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl
+      (ADJ_advcl
+        (PRON_nsubj ADP_case PUNCT_punct)
+        (ADJ_advcl (NOUN_nsubj ADP_case) SCONJ_mark)
+        PUNCT_punct)
+      (PRON_obl ADP_case)
+      (NOUN_nsubj ADP_case)
+      (SCONJ_mark VERB_fixed)
+      SCONJ_mark
+      PUNCT_punct)
+    (ADJ_advcl
+      (NOUN_obl ADP_case ADP_case)
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux)
+    (NOUN_nsubj ADP_case)
+    PUNCT_punct
+    (ADP_case VERB_fixed))
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['これ', 'は', '、', '頭', 'は', '丸く', 'て', '小さく', '、', 'そこ', 'に', '嘴', 'が', '着い', 'て', 'いる', 'が', '、', '体', 'に', 'は', '裸', 'の', '人間', 'と', '同じ', 'で', '手足', 'が', 'ある', '、', 'と', 'いう', 'もの', 'で', 'ある', '。']",0.7184580831340961,0.8587970388045689,0.7886275609693325,0.8685702661852736,1,このような動物は頭の真ん中に角が生えている。,頭,N3

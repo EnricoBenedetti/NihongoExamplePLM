@@ -1,0 +1,84 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+しかし自分ながら、なぜそんなに腹が立つのだか分からない。,-1,20001.0,N2,1.0,0.0,0.5,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl SCONJ_mark PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    (ADJ_advcl AUX_aux)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark AUX_fixed)
+    PART_mark)
+  AUX_aux
+  PUNCT_punct)","['しかし', '自分', 'ながら', '、', 'なぜ', 'そんな', 'に', '腹', 'が', '立つ', 'の', 'だ', 'か', '分から', 'ない', '。']",,,,,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N2
+如何に腹が立つても建仁寺町は先輩である。,6806551,,N2,1.0,0.79400957,0.8970047831535339,如何に腹が立つても建仁寺町は先輩である。,"(NOUN_ROOT
+  (VERB_obl ADV_advmod (NOUN_nsubj ADP_case) SCONJ_mark ADP_case)
+  (PROPN_nsubj NOUN_compound ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['如何に', '腹', 'が', '立つ', 'て', 'も', '建仁', '寺町', 'は', '先輩', 'で', 'ある', '。']",0.768597867332425,0.9369987228607918,0.8527982950966084,0.8749015391250712,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N2
+ひとりきりになっても、腹の立つことを考え続けていたのでは効果がなく、腹の立つことを思い出すたびに怒りが少しずつ積み重なってゆくばかりだという。,4003512,,N2,1.0,0.8086985,0.9043492376804352,ひとりきりになっても、腹の立つことを考え続けていたのでは効果がなく、腹の立つことを思い出すたびに怒りが少しずつ積み重なってゆくばかりだという。,"(VERB_ROOT
+  (VERB_ccomp
+    (ADJ_advcl
+      (VERB_advcl
+        (VERB_advcl
+          ADV_advmod
+          (NOUN_obl ADP_case)
+          SCONJ_mark
+          ADP_case
+          PUNCT_punct)
+        (NOUN_obj (VERB_acl (NOUN_nmod ADP_case)) ADP_case)
+        VERB_advcl
+        (SCONJ_mark VERB_fixed)
+        AUX_aux
+        (SCONJ_mark AUX_fixed)
+        ADP_case)
+      (NOUN_nsubj ADP_case)
+      PUNCT_punct)
+    (NOUN_obl
+      (VERB_acl (NOUN_obj (VERB_acl (NOUN_nmod ADP_case)) ADP_case))
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    (ADV_advmod ADP_case)
+    (SCONJ_mark VERB_fixed)
+    PART_mark
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['ひとり', 'きり', 'に', 'なっ', 'て', 'も', '、', '腹', 'の', '立つ', 'こと', 'を', '考え', '続け', 'て', 'い', 'た', 'の', 'で', 'は', '効果', 'が', 'なく', '、', '腹', 'の', '立つ', 'こと', 'を', '思い出す', 'たび', 'に', '怒り', 'が', '少し', 'ずつ', '積み重なっ', 'て', 'ゆく', 'ばかり', 'だ', 'と', 'いう', '。']",0.7592547598199083,0.8485873515860034,0.8039210557029559,0.8541351466916955,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N2
+破壊と殺戮を繰り返す理由は、「人間を見ると腹が立ち、人間が嫌い」だからと18号が発言していた。,4329847,,N2,1.0,0.7731095,0.8865547478199005,破壊と殺戮を繰り返す理由は、「人間を見ると腹が立ち、人間が嫌い」だからと18号が発言していた。,"(VERB_ROOT
+  (NOUN_dislocated
+    (VERB_acl (NOUN_obj (NOUN_nmod ADP_case) ADP_case))
+    ADP_case
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl (NOUN_obj PUNCT_punct ADP_case) SCONJ_mark)
+    (NOUN_nsubj ADP_case)
+    PUNCT_punct)
+  (NOUN_advcl
+    (NOUN_nsubj ADP_case)
+    PUNCT_punct
+    AUX_cop
+    SCONJ_mark
+    ADP_case)
+  (NOUN_nsubj NUM_nummod ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['破壊', 'と', '殺戮', 'を', '繰り返す', '理由', 'は', '、', '「', '人間', 'を', '見る', 'と', '腹', 'が', '立ち', '、', '人間', 'が', '嫌い', '」', 'だ', 'から', 'と', '18', '号', 'が', '発言', 'し', 'て', 'い', 'た', '。']",0.7570314591769579,0.8436222943613415,0.8003268767691497,0.8434408122945252,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N2
+ほらを吹くから腹も立つ。,3423264,,N2,1.0,0.8041797,0.9020898640155792,ほらを吹くから腹も立つ。,"(VERB_ROOT
+  (VERB_advcl (INTJ_obj ADP_case) SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  PUNCT_punct)","['ほら', 'を', '吹く', 'から', '腹', 'も', '立つ', '。']",0.7078892263384042,0.8409297024398426,0.7744094643891234,0.8382496642023514,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N2
+気づいてやれなかった自分の不甲斐なさに腹が立つ」と自責の念があるとしている。,4190542,,N2,1.0,0.7915002,0.895750105381012,気づいてやれなかった自分の不甲斐なさに腹が立つ」と自責の念があるとしている。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (ADV_obl
+        (VERB_acl (SCONJ_mark VERB_fixed) AUX_aux AUX_aux)
+        (NOUN_nmod ADP_case)
+        PART_mark
+        ADP_case)
+      (NOUN_nsubj ADP_case)
+      PUNCT_punct
+      ADP_case)
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['気づい', 'て', 'やれ', 'なかっ', 'た', '自分', 'の', '不甲斐な', 'さ', 'に', '腹', 'が', '立つ', '」', 'と', '自責', 'の', '念', 'が', 'ある', 'と', 'し', 'て', 'いる', '。']",0.6890755568111866,0.8254898586988338,0.7572827077550102,0.8265164065680111,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N2

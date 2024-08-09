@@ -1,0 +1,49 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+このような動物は頭の真ん中に角が生えている。,-1,20001.0,N3,0.8,0.0,0.4,このような動物は頭の真ん中に角が生えている。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_acl DET_det AUX_cop) ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['この', 'よう', 'な', '動物', 'は', '頭', 'の', '真ん中', 'に', '角', 'が', '生え', 'て', 'いる', '。']",,,,,1,このような動物は頭の真ん中に角が生えている。,頭,N2
+角」字は獣の頭に生える硬質の突起である角を意味する。,5283270,,N2,1.0,0.84641623,0.9232081174850464,角」字は獣の頭に生える硬質の突起である角を意味する。,(NOUN_ROOT PUNCT_punct),"['角', '」', '字', 'は', '獣', 'の', '頭', 'に', '生える', '硬質', 'の', '突起', 'で', 'ある', '角', 'を', '意味', 'する', '。']",0.8,0.9411764705882352,0.8705882352941177,0.896898176389582,1,このような動物は頭の真ん中に角が生えている。,頭,N2
+プロガノケリスなど、初期のカメと異なり、不完全ながらも頭と四肢を甲羅に引っ込めることが出来た。,6592289,,N2,1.0,0.843452,0.9217259883880616,プロガノケリスなど、初期のカメと異なり、不完全ながらも頭と四肢を甲羅に引っ込めることが出来た。,"(VERB_ROOT
+  (ADV_advmod ADP_case PUNCT_punct)
+  (VERB_advcl (NOUN_obl (NOUN_nmod ADP_case) ADP_case) PUNCT_punct)
+  (ADJ_advcl SCONJ_mark ADP_case)
+  (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  AUX_aux
+  PUNCT_punct)","['プロガノケリス', 'など', '、', '初期', 'の', 'カメ', 'と', '異なり', '、', '不完全', 'ながら', 'も', '頭', 'と', '四肢', 'を', '甲羅', 'に', '引っ込める', 'こと', 'が', '出来', 'た', '。']",0.8160944386997194,0.9310344827586208,0.87356446072917,0.8976452245586157,1,このような動物は頭の真ん中に角が生えている。,頭,N2
+頭が固い骨板で覆われていることから「金頭」である。,2669642,,N2,1.0,0.8484566,0.924228310585022,頭が固い骨板で覆われていることから「金頭」である。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_acl
+      (NOUN_obl (ADJ_acl (NOUN_nsubj ADP_case)) ADP_case)
+      AUX_aux
+      (SCONJ_mark VERB_fixed))
+    ADP_case)
+  PUNCT_punct
+  PUNCT_punct
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['頭', 'が', '固い', '骨板', 'で', '覆わ', 'れ', 'て', 'いる', 'こと', 'から', '「', '金頭', '」', 'で', 'ある', '。']",0.7971519599690983,0.9062910798122066,0.8517215198906525,0.8879749152378372,1,このような動物は頭の真ん中に角が生えている。,頭,N2
+目が大きく、足が長く、頭に耳と思われる二つの小突起を持つ。,4190715,,N2,1.0,0.8825104,0.9412552118301392,目が大きく、足が長く、頭に耳と思われる二つの小突起を持つ。,"(VERB_ROOT
+  (NOUN_obj
+    (VERB_acl
+      (ADJ_advcl
+        (ADJ_advcl (NOUN_nsubj ADP_case) PUNCT_punct)
+        (NOUN_nsubj ADP_case)
+        PUNCT_punct)
+      (NOUN_obl (NOUN_obl ADP_case) ADP_case)
+      AUX_aux)
+    (NOUN_nmod NUM_nummod ADP_case)
+    NOUN_compound
+    ADP_case)
+  PUNCT_punct)","['目', 'が', '大きく', '、', '足', 'が', '長く', '、', '頭', 'に', '耳', 'と', '思わ', 'れる', '二', 'つ', 'の', '小', '突起', 'を', '持つ', '。']",0.7554337979573915,0.8964870013446885,0.8259603996510401,0.8836078057405896,1,このような動物は頭の真ん中に角が生えている。,頭,N2
+また同時に、頭と尻尾の骨を折り、背骨を抜き取る。,4689212,,N2,1.0,0.8742527,0.9371263384819032,また同時に、頭と尻尾の骨を折り、背骨を抜き取る。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (NOUN_obl ADP_case PUNCT_punct)
+    (NOUN_obj (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    PUNCT_punct)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['また', '同時', 'に', '、', '頭', 'と', '尻尾', 'の', '骨', 'を', '折り', '、', '背骨', 'を', '抜き取る', '。']",0.7381346040687028,0.886547845504921,0.8123412247868119,0.8747337816343574,1,このような動物は頭の真ん中に角が生えている。,頭,N2

@@ -1,0 +1,103 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,-1,20001.0,N3,0.8,0.0,0.4,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_obl DET_det)
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_obj ADJ_amod ADP_case)
+        (NOUN_obl ADP_case)
+        AUX_aux)
+      ADP_case)
+    (NOUN_nsubj ADP_case))
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['その', '結果', '同じ', '画像', 'を', 'GIF', 'に', 'し', 'た', '場合', 'より', 'サイズ', 'が', '大きく', 'なっ', 'て', 'しまう', '。']",,,,,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N2
+凸レンズが網膜から離れると網膜像が大きくなることは、凸レンズの老眼鏡を通常の位置に掛けた場合と離して掛けた場合とを比べれば容易に理解されよう。,912386,,N2,1.0,0.7499098,0.8749549090862274,凸レンズが網膜から離れると網膜像が大きくなることは、凸レンズの老眼鏡を通常の位置に掛けた場合と離して掛けた場合とを比べれば容易に理解されよう。,NOUN_ROOT,"['凸', 'レンズ', 'が', '網膜', 'から', '離れる', 'と', '網膜', '像', 'が', '大きく', 'なる', 'こと', 'は', '、', '凸', 'レンズ', 'の', '老眼鏡', 'を', '通常', 'の', '位置', 'に', '掛け', 'た', '場合', 'と', '離し', 'て', '掛け', 'た', '場合', 'と', 'を', '比べれ', 'ば', '容易', 'に', '理解', 'さ', 'れよう', '。']",1.0,0.8792916737016706,0.9396458368508354,0.9073003729685314,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N2
+一方で、近年、記録メディアの容量が飛躍的に増加したことで、データサイズは大きくなるものの、まったく劣化を生じさせない可逆圧縮を用いたコーデックも増えてきている。,1600428,,N2,1.0,0.88826835,0.9441341757774352,一方で、近年、記録メディアの容量が飛躍的に増加したことで、データサイズは大きくなるものの、まったく劣化を生じさせない可逆圧縮を用いたコーデックも増えてきている。,"(VERB_ROOT
+  (NOUN_obl ADP_case PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl
+        (ADV_advmod PUNCT_punct)
+        (NOUN_nsubj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+        (ADJ_advcl AUX_cop)
+        AUX_aux
+        AUX_aux)
+      ADP_case
+      PUNCT_punct)
+    (NOUN_nsubj NOUN_compound ADP_case)
+    ADJ_advcl
+    (SCONJ_mark SCONJ_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (VERB_acl ADV_advmod (NOUN_obj ADP_case) AUX_aux AUX_aux)
+        NOUN_compound
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['一方', 'で', '、', '近年', '、', '記録', 'メディア', 'の', '容量', 'が', '飛躍的', 'に', '増加', 'し', 'た', 'こと', 'で', '、', 'データ', 'サイズ', 'は', '大きく', 'なる', 'もの', 'の', '、', 'まったく', '劣化', 'を', '生じ', 'させ', 'ない', '可逆', '圧縮', 'を', '用い', 'た', 'コーデック', 'も', '増え', 'て', 'き', 'て', 'いる', '。']",0.8494760686082876,0.8715214164446115,0.8604987425264495,0.9023164591519424,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N2
+薄型のものが現れる以前のテレビはほとんどがブラウン管式だったが、ブラウン管で大きな画面のテレビを作ると奥行きと共に質量も非常に大きくなり、37インチ程度が実用上限界であった。,1985793,,N2,1.0,0.7780567,0.8890283405780792,薄型のものが現れる以前のテレビはほとんどがブラウン管式だったが、ブラウン管で大きな画面のテレビを作ると奥行きと共に質量も非常に大きくなり、37インチ程度が実用上限界であった。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_advcl
+      (NOUN_dislocated
+        (VERB_acl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case))
+        (NOUN_nmod ADP_case)
+        ADP_case)
+      (NOUN_nsubj ADP_case)
+      NOUN_compound
+      AUX_cop
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (VERB_advcl
+      (NOUN_obl ADP_case)
+      (NOUN_obj (NOUN_nmod ADJ_amod ADP_case) ADP_case)
+      SCONJ_mark)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_nsubj ADP_case)
+    (ADJ_advcl (ADJ_advcl AUX_aux))
+    PUNCT_punct)
+  (NOUN_nsubj NUM_compound NOUN_compound ADP_case)
+  NOUN_compound
+  NOUN_compound
+  (AUX_cop VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['薄型', 'の', 'もの', 'が', '現れる', '以前', 'の', 'テレビ', 'は', 'ほとんど', 'が', 'ブラウン管', '式', 'だっ', 'た', 'が', '、', 'ブラウン管', 'で', '大きな', '画面', 'の', 'テレビ', 'を', '作る', 'と', '奥行き', 'と', '共', 'に', '質量', 'も', '非常', 'に', '大きく', 'なり', '、', '37', 'インチ', '程度', 'が', '実用', '上限', '界', 'で', 'あっ', 'た', '。']",0.858674285035023,0.8693818786525713,0.8640280818437971,0.8765282112109382,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N2
+ログ残すのが面倒らしくトップの容量も大きくなるので消してく方向。,362,,N2,1.0,0.81963015,0.9098150730133056,ログ残すのが面倒らしくトップの容量も大きくなるので消してく方向。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_csubj NOUN_compound SCONJ_mark ADP_case)
+        AUX_aux)
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      ADJ_advcl
+      (SCONJ_mark AUX_fixed))
+    AUX_aux)
+  PUNCT_punct)","['ログ', '残す', 'の', 'が', '面倒', 'らしく', 'トップ', 'の', '容量', 'も', '大きく', 'なる', 'の', 'で', '消し', 'てく', '方向', '。']",0.8298904683597048,0.8654385470515653,0.8476645077056351,0.8787397903594704,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N2
+同じサイズで比較すると薄型テレビはブラウン管テレビより消費電力が低いが、画面サイズが大きくなる傾向があるためブラウン管テレビの世代に比べて省エネルギーが進んでいるとは一概に言えない。,1985827,,N2,1.0,0.82212114,0.9110605716705322,同じサイズで比較すると薄型テレビはブラウン管テレビより消費電力が低いが、画面サイズが大きくなる傾向があるためブラウン管テレビの世代に比べて省エネルギーが進んでいるとは一概に言えない。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (ADJ_advcl
+        (VERB_advcl (NOUN_obl ADJ_amod ADP_case) AUX_aux SCONJ_mark)
+        (NOUN_dislocated NOUN_compound ADP_case)
+        (NOUN_obl NOUN_compound ADP_case)
+        (NOUN_nsubj NOUN_compound ADP_case)
+        SCONJ_mark
+        PUNCT_punct)
+      (NOUN_nsubj
+        (VERB_acl (NOUN_nsubj NOUN_compound ADP_case) ADJ_advcl)
+        ADP_case)))
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+      SCONJ_mark)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    ADP_case
+    ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['同じ', 'サイズ', 'で', '比較', 'する', 'と', '薄型', 'テレビ', 'は', 'ブラウン管', 'テレビ', 'より', '消費', '電力', 'が', '低い', 'が', '、', '画面', 'サイズ', 'が', '大きく', 'なる', '傾向', 'が', 'ある', 'ため', 'ブラウン管', 'テレビ', 'の', '世代', 'に', '比べ', 'て', '省エネルギー', 'が', '進ん', 'で', 'いる', 'と', 'は', '一概', 'に', '言え', 'ない', '。']",0.7880855492624718,0.8476692159736215,0.8178773826180467,0.8644689771442895,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N2

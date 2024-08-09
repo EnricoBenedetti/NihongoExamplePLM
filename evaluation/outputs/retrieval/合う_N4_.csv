@@ -1,0 +1,58 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,-1,8553.0,N3,0.6,0.0,0.3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det ADP_case ADP_case)
+    (NOUN_nsubj
+      (NOUN_nmod NOUN_compound ADP_case)
+      VERB_compound
+      ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['この', '段階', 'で', 'は', '主', '鏡', 'の', '位置', '合わせ', 'が', '行わ', 'れ', 'て', 'おら', 'ず', '、', '焦点', 'は', '合っ', 'て', 'い', 'ない', '。']",,,,,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N4
+合ってるはずだよ。,329855,,N4,1.0,0.55291164,0.776455819606781,合ってるはずだよ。,(NOUN_ROOT (VERB_acl AUX_aux) AUX_cop PART_mark PUNCT_punct),"['合っ', 'てる', 'はず', 'だ', 'よ', '。']",0.8,0.9655172413793104,0.8827586206896552,0.8296072201482181,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N4
+ちょっとお手元の時計、合っているかどうかお確かめください。,1494975,,N4,1.0,0.653062,0.8265309929847717,ちょっとお手元の時計、合っているかどうかお確かめください。,"(VERB_ROOT
+  (ADV_advmod
+    (VERB_advcl
+      ADV_advmod
+      (NOUN_obl (NOUN_nmod ADP_case) PUNCT_punct)
+      (SCONJ_mark VERB_fixed)
+      PART_mark)
+    ADP_case)
+  NOUN_compound
+  AUX_aux
+  PUNCT_punct)","['ちょっと', 'お手元', 'の', '時計', '、', '合っ', 'て', 'いる', 'か', 'どう', 'か', 'お', '確かめ', 'ください', '。']",0.6980953225381803,0.9370842572062084,0.8175897898721943,0.822060391428483,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N4
+サイズが合っていないようだ。,307451,,N4,1.0,0.7223629,0.8611814379692078,サイズが合っていないようだ。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['サイズ', 'が', '合っ', 'て', 'い', 'ない', 'よう', 'だ', '。']",0.6468980580741437,0.88219448540269,0.7645462717384168,0.8128638548538123,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N4
+ドアが枠に合わなければ合うまでドアにかんなをかけなければならない。,267786,,N4,1.0,0.6469579,0.8234789371490479,ドアが枠に合わなければ合うまでドアにかんなをかけなければならない。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      SCONJ_mark)
+    PART_mark)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  (AUX_aux SCONJ_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['ドア', 'が', '枠', 'に', '合わ', 'なけれ', 'ば', '合う', 'まで', 'ドア', 'に', 'かんな', 'を', 'かけ', 'なけれ', 'ば', 'なら', 'ない', '。']",0.6314327180379347,0.8818281259238612,0.7566304219808979,0.7900546795649729,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N4
+この眼鏡、度が合わなくなってきて見づらいんだ。,308598,,N4,1.0,0.68340254,0.8417012691497803,この眼鏡、度が合わなくなってきて見づらいんだ。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl DET_det PUNCT_punct)
+      (NOUN_nsubj ADP_case)
+      AUX_aux)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark)
+  AUX_aux
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['この', '眼鏡', '、', '度', 'が', '合わ', 'なく', 'なっ', 'て', 'き', 'て', '見', 'づらい', 'ん', 'だ', '。']",0.577690877443715,0.8775990697364253,0.7276449735900701,0.7846731213699252,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N4

@@ -1,0 +1,105 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分の意思で、内部に入ろうと思わなければ、中には入れない。,-1,20001.0,N3,0.8,0.0,0.4,自分の意思で、内部に入ろうと思わなければ、中には入れない。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_ccomp
+      (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop PUNCT_punct)
+      (NOUN_obl ADP_case)
+      ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['自分', 'の', '意思', 'で', '、', '内部', 'に', '入ろう', 'と', '思わ', 'なけれ', 'ば', '、', '中', 'に', 'は', '入れ', 'ない', '。']",,,,,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N2
+なお結界は僧事をなすために設けたものであり、本来、女性が入る事を禁ずるためではない。,1249212,,N2,1.0,0.6939914,0.8469957113265991,なお結界は僧事をなすために設けたものであり、本来、女性が入る事を禁ずるためではない。,"(NOUN_ROOT
+  CCONJ_cc
+  (NOUN_acl
+    (NOUN_nsubj ADP_case)
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obj NOUN_compound ADP_case)
+        (SCONJ_mark SCONJ_fixed))
+      AUX_aux)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (VERB_acl
+    (ADV_advmod PUNCT_punct)
+    (NOUN_obj (VERB_acl (NOUN_nsubj ADP_case)) ADP_case))
+  (AUX_cop ADP_fixed AUX_fixed)
+  PUNCT_punct)","['なお', '結界', 'は', '僧', '事', 'を', 'なす', 'ため', 'に', '設け', 'た', 'もの', 'で', 'あり', '、', '本来', '、', '女性', 'が', '入る', '事', 'を', '禁ずる', 'ため', 'で', 'は', 'ない', '。']",0.7813186745931012,0.914420803782506,0.8478697391878036,0.8474327252572014,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N2
+この破壊波は皇帝とその嫡子のみがもつ波長を感知すると無力化されるようになっており、それ以外の者が保管室に入るとたちまちその肉体が破壊されてしまう。,1278109,,N2,1.0,0.75442445,0.8772122263908386,この破壊波は皇帝とその嫡子のみがもつ波長を感知すると無力化されるようになっており、それ以外の者が保管室に入るとたちまちその肉体が破壊されてしまう。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj DET_det NOUN_compound ADP_case)
+    (NOUN_advcl
+      (VERB_acl
+        (NOUN_obj
+          (VERB_acl
+            (NOUN_obl (NOUN_nmod ADP_case) DET_det ADP_case ADP_case))
+          ADP_case)
+        AUX_aux
+        SCONJ_mark)
+      NOUN_compound
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    (SCONJ_mark VERB_fixed)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_nmod PRON_nmod ADP_case) ADP_case)
+    (NOUN_obl NOUN_compound ADP_case)
+    SCONJ_mark)
+  ADV_advmod
+  (NOUN_nsubj DET_det ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['この', '破壊', '波', 'は', '皇帝', 'と', 'その', '嫡子', 'のみ', 'が', 'もつ', '波長', 'を', '感知', 'する', 'と', '無力', '化', 'さ', 'れる', 'よう', 'に', 'なっ', 'て', 'おり', '、', 'それ', '以外', 'の', '者', 'が', '保管', '室', 'に', '入る', 'と', 'たちまち', 'その', '肉体', 'が', '破壊', 'さ', 'れ', 'て', 'しまう', '。']",0.7580091904669325,0.9084229390681005,0.8332160647675164,0.8552141455791775,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N2
+掃除が行き届いており、小ざっぱりとしていて彼らの家の中に入るのは楽しい。,1294271,,N2,1.0,0.74539727,0.8726986348628998,掃除が行き届いており、小ざっぱりとしていて彼らの家の中に入るのは楽しい。,"(ADJ_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_nsubj ADP_case)
+        (SCONJ_mark VERB_fixed)
+        PUNCT_punct)
+      (ADV_advmod ADP_case)
+      (SCONJ_mark VERB_fixed)
+      SCONJ_mark)
+    (NOUN_obl
+      (NOUN_nmod (NOUN_nmod PRON_nmod ADP_case) ADP_case)
+      ADP_case)
+    SCONJ_mark
+    ADP_case)
+  PUNCT_punct)","['掃除', 'が', '行き届い', 'て', 'おり', '、', '小ざっぱり', 'と', 'し', 'て', 'い', 'て', '彼', 'ら', 'の', '家', 'の', '中', 'に', '入る', 'の', 'は', '楽しい', '。']",0.7507980427727202,0.8840047353078124,0.8174013890402663,0.845050011951583,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N2
+ダンスパーティの帰りにセドリックから卵を持って監督生のバスルームに入るよう言われていたため、意を決しそれを実行する。,853243,,N2,1.0,0.6952796,0.847639799118042,ダンスパーティの帰りにセドリックから卵を持って監督生のバスルームに入るよう言われていたため、意を決しそれを実行する。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+  (NOUN_obj (PROPN_nmod ADP_case) ADP_case)
+  SCONJ_mark
+  NOUN_punct)","['ダンス', 'パーティ', 'の', '帰り', 'に', 'セドリック', 'から', '卵', 'を', '持っ', 'て', '監督', '生', 'の', 'バスルーム', 'に', '入る', 'よう', '言わ', 'れ', 'て', 'い', 'た', 'ため', '、', '意', 'を', '決し', 'それ', 'を', '実行', 'する', '。']",0.7834486981936961,0.8726970443349754,0.8280728712643357,0.8378563351911889,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N2
+なお、ミイラを取るためには墳墓の中に入ったり、砂漠を越えたりする必要があることから危険がつきまとい、ミイラを探す人間が行き倒れることもあった。,979468,,N2,1.0,0.75631636,0.8781581819057465,なお、ミイラを取るためには墳墓の中に入ったり、砂漠を越えたりする必要があることから危険がつきまとい、ミイラを探す人間が行き倒れることもあった。,"(NOUN_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_nsubj
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_obj ADP_case)
+            (SCONJ_mark SCONJ_fixed)
+            ADP_case)
+          (VERB_advcl
+            (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+            PART_mark
+            PUNCT_punct)
+          (VERB_advcl (NOUN_obj ADP_case) PART_mark))
+        ADP_case))
+    ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (ADJ_advmod (NOUN_nsubj ADP_case) PUNCT_punct)
+      (NOUN_obj ADP_case))
+    ADP_case)
+  ADV_acl
+  ADP_case
+  VERB_compound
+  AUX_aux
+  PUNCT_punct)","['なお', '、', 'ミイラ', 'を', '取る', 'ため', 'に', 'は', '墳墓', 'の', '中', 'に', '入っ', 'たり', '、', '砂漠', 'を', '越え', 'たり', 'する', '必要', 'が', 'ある', 'こと', 'から', '危険', 'が', 'つきまとい', '、', 'ミイラ', 'を', '探す', '人間', 'が', '行き倒れる', 'こと', 'も', 'あっ', 'た', '。']",0.7707840088070584,0.8583008189134291,0.8145424138602437,0.8463502978829951,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N2

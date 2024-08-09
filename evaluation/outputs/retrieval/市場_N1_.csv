@@ -1,0 +1,106 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+この四月以来市場には、前代未聞だと云う恐慌が来ている。,-1,20001.0,N1,1.0,0.0,0.5,この四月以来市場には、前代未聞だと云う恐慌が来ている。,"(VERB_ROOT
+  (NOUN_advmod DET_det NUM_compound NOUN_compound)
+  (NOUN_obl ADP_case ADP_case PUNCT_punct)
+  (NOUN_nsubj (NOUN_acl AUX_aux (ADP_case VERB_fixed)) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['この', '四', '月', '以来', '市場', 'に', 'は', '、', '前代未聞', 'だ', 'と', '云う', '恐慌', 'が', '来', 'て', 'いる', '。']",,,,,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N1
+現物の移動を省くモルガンの名案によってロンドン市場の機関化が鮮明化するのは第二次世界大戦後である。,1286834,,N1,1.0,0.73851913,0.8692595660686493,現物の移動を省くモルガンの名案によってロンドン市場の機関化が鮮明化するのは第二次世界大戦後である。,(VERB_ROOT (NOUN_obj (NOUN_nmod ADP_case) ADP_case)),"['現物', 'の', '移動', 'を', '省く', 'モルガン', 'の', '名案', 'に', 'よっ', 'て', 'ロンドン', '市場', 'の', '機関', '化', 'が', '鮮明', '化', 'する', 'の', 'は', '第', '二', '次', '世界', '大戦', '後', 'で', 'ある', '。']",1.0,0.9489795918367347,0.9744897959183674,0.9218746809935084,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N1
+市場では続く数ヶ月間活発な取引が展開されたが、これは焼け石に水で、やがて現代史上最悪の経済危機が投資家を呑み込んだ。,5723800,,N1,1.0,0.8521736,0.926086813211441,市場では続く数ヶ月間活発な取引が展開されたが、これは焼け石に水で、やがて現代史上最悪の経済危機が投資家を呑み込んだ。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_advcl
+      (NOUN_obl (VERB_acl (NOUN_obl ADP_case ADP_case) NOUN_mark))
+      (NOUN_nsubj (ADJ_acl AUX_aux) ADP_case)
+      AUX_aux
+      AUX_aux
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (PRON_nsubj ADP_case)
+    (VERB_obl ADP_case)
+    AUX_cop
+    PUNCT_punct)
+  ADV_advmod
+  (NOUN_nsubj
+    (ADJ_nmod NOUN_obl NOUN_compound ADP_case)
+    NOUN_compound
+    ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['市場', 'で', 'は', '続く', '数ヶ月', '間', '活発', 'な', '取引', 'が', '展開', 'さ', 'れ', 'た', 'が', '、', 'これ', 'は', '焼け石', 'に', '水', 'で', '、', 'やがて', '現代', '史上', '最悪', 'の', '経済', '危機', 'が', '投資家', 'を', '呑み込ん', 'だ', '。']",0.868005709211686,0.9264705882352942,0.8972381487234901,0.9116624809674656,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N1
+2000年に、日本銀行は政府の反対を押し切りゼロ金利政策を解除し、市場に多大な混乱を招きデフレを加速させてしまった。,486761,,N1,1.0,0.8215773,0.9107886552810668,2000年に、日本銀行は政府の反対を押し切りゼロ金利政策を解除し、市場に多大な混乱を招きデフレを加速させてしまった。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl NUM_nummod ADP_case PUNCT_punct)
+    (PROPN_nsubj ADP_case)
+    (NOUN_obj
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      NOUN_compound
+      NUM_compound
+      NOUN_compound
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (VERB_advcl (NOUN_obj (ADJ_acl AUX_aux) ADP_case))
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['2000', '年', 'に', '、', '日本銀行', 'は', '政府', 'の', '反対', 'を', '押し切り', 'ゼロ', '金利', '政策', 'を', '解除', 'し', '、', '市場', 'に', '多大', 'な', '混乱', 'を', '招き', 'デフレ', 'を', '加速', 'さ', 'せ', 'て', 'しまっ', 'た', '。']",0.8036975906869653,0.9116916331750092,0.8576946119309872,0.884241633606027,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N1
+不況と過剰投機の問題と組み合わされ、恐慌はアメリカ経済史の新たな局面を始めさせ、成熟した市場が好況から不況と循環を繰り返すようになったとしている。,9203535,,N1,1.0,0.80200154,0.9010007679462432,不況と過剰投機の問題と組み合わされ、恐慌はアメリカ経済史の新たな局面を始めさせ、成熟した市場が好況から不況と循環を繰り返すようになったとしている。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl
+            (NOUN_nmod (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+            ADP_case)
+          AUX_aux
+          PUNCT_punct)
+        (NOUN_nsubj ADP_case)
+        (NOUN_obj
+          (NOUN_nmod PROPN_compound ADP_case)
+          (ADJ_acl AUX_aux)
+          ADP_case)
+        AUX_aux
+        PUNCT_punct)
+      (NOUN_nsubj (VERB_acl AUX_aux AUX_aux) ADP_case)
+      (NOUN_obl ADP_case)
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      AUX_aux
+      AUX_aux)
+    AUX_aux
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['不況', 'と', '過剰', '投機', 'の', '問題', 'と', '組み合わさ', 'れ', '、', '恐慌', 'は', 'アメリカ', '経済史', 'の', '新た', 'な', '局面', 'を', '始め', 'させ', '、', '成熟', 'し', 'た', '市場', 'が', '好況', 'から', '不況', 'と', '循環', 'を', '繰り返す', 'よう', 'に', 'なっ', 'た', 'と', 'し', 'て', 'いる', '。']",0.7852084904023731,0.8901339845544505,0.8376712374784118,0.8693360027123276,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N1
+そのため藩は藩札（銀札）を濫発し、厳しい財政を補填しようとしたが、勢い市場を混乱に陥れ、藩の信用は失墜することになった。,2971386,,N1,1.0,0.79715693,0.8985784649848938,そのため藩は藩札（銀札）を濫発し、厳しい財政を補填しようとしたが、勢い市場を混乱に陥れ、藩の信用は失墜することになった。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_nmod
+      (VERB_acl
+        (VERB_advcl
+          (VERB_advcl
+            (NOUN_obl DET_det)
+            (NOUN_nsubj ADP_case)
+            (NOUN_obj
+              PUNCT_punct
+              PROPN_compound
+              PUNCT_punct
+              ADP_case)
+            AUX_aux
+            PUNCT_punct)
+          (NOUN_obj ADJ_acl ADP_case)
+          AUX_aux
+          ADP_case)
+        AUX_aux
+        SCONJ_mark
+        PUNCT_punct)
+      ADV_advmod
+      (ADJ_obl (NOUN_obj ADP_case) AUX_case)
+      PUNCT_punct)
+    (NOUN_nmod ADP_case)
+    ADP_case)
+  AUX_aux
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['その', 'ため', '藩', 'は', '藩札', '（', '銀札', '）', 'を', '濫発', 'し', '、', '厳しい', '財政', 'を', '補填', 'しよう', 'と', 'し', 'た', 'が', '、', '勢い', '市場', 'を', '混乱', 'に', '陥れ', '、', '藩', 'の', '信用', 'は', '失墜', 'する', 'こと', 'に', 'なっ', 'た', '。']",0.7681251040878246,0.8705979942784827,0.8193615491831536,0.8589700070840237,1,この四月以来市場には、前代未聞だと云う恐慌が来ている。,市場,N1

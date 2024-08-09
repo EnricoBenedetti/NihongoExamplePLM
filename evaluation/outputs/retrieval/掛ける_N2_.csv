@@ -1,0 +1,110 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+罪人はおとなしく椅子に腰を掛ける。,-1,7774.0,N3,0.8,0.0,0.4,罪人はおとなしく椅子に腰を掛ける。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADJ_advcl
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['罪人', 'は', 'おとなしく', '椅子', 'に', '腰', 'を', '掛ける', '。']",,,,,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N2
+なおこのとき、梓の次が出番であった南沙織等を除いたほぼすべての紅組出演者が、梓を囲む形で一緒に胡坐をかいたり段差に腰を掛けるなどして応援した。,6371636,,N2,1.0,0.8211164,0.9105581939220428,なおこのとき、梓の次が出番であった南沙織等を除いたほぼすべての紅組出演者が、梓を囲む形で一緒に胡坐をかいたり段差に腰を掛けるなどして応援した。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl DET_det PUNCT_punct)
+      (NOUN_obj
+        (NOUN_acl
+          (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+          (AUX_cop VERB_fixed)
+          AUX_aux)
+        PROPN_compound
+        NOUN_compound
+        ADP_case)
+      AUX_aux)
+    (NOUN_nmod ADV_advmod ADP_case)
+    NOUN_compound
+    ADP_case
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_obl (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+        (NOUN_obl ADP_case)
+        (NOUN_obj ADP_case)
+        PART_mark)
+      (ADJ_advcl ADP_case)
+      (NOUN_obj ADP_case)
+      PART_mark)
+    SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['なお', 'この', 'とき', '、', '梓', 'の', '次', 'が', '出番', 'で', 'あっ', 'た', '南沙', '織', '等', 'を', '除い', 'た', 'ほぼ', 'すべて', 'の', '紅組', '出演者', 'が', '、', '梓', 'を', '囲む', '形', 'で', '一緒', 'に', '胡坐', 'を', 'かい', 'たり', '段差', 'に', '腰', 'を', '掛ける', 'など', 'し', 'て', '応援', 'し', 'た', '。']",0.6971651548978381,0.8929208552609452,0.7950430050793917,0.8528005995007173,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N2
+薬師堂の縁端に腰を掛けて独り言したという。,8210339,,N2,1.0,0.7442155,0.872107744216919,薬師堂の縁端に腰を掛けて独り言したという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      (NOUN_obj ADP_case)
+      SCONJ_mark)
+    AUX_aux
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['薬師堂', 'の', '縁端', 'に', '腰', 'を', '掛け', 'て', '独り言', 'し', 'た', 'と', 'いう', '。']",0.7345666286294913,0.8706658172652908,0.802616222947391,0.837361983582155,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N2
+それを真似て助六は「冷えもんでござい」と言いながら長椅子に腰を掛ける。,2498661,,N2,1.0,0.8973996,0.9486998021602632,それを真似て助六は「冷えもんでござい」と言いながら長椅子に腰を掛ける。,"(VERB_ROOT
+  (VERB_advcl (PRON_obj ADP_case) SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  (VERB_advcl
+    (VERB_ccomp
+      (VERB_advcl PUNCT_punct PART_mark AUX_aux)
+      PUNCT_punct
+      ADP_case)
+    SCONJ_mark)
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['それ', 'を', '真似', 'て', '助六', 'は', '「', '冷え', 'もん', 'で', 'ござい', '」', 'と', '言い', 'ながら', '長椅子', 'に', '腰', 'を', '掛ける', '。']",0.6683225390395258,0.8464091614906831,0.7573658502651044,0.8530328262126837,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N2
+ラストは将軍後継を決めた綱吉が右衛門佐の元へ向かう道で吉保と会い、吉保は彼女の化粧を直したあと、綱吉の首に手を掛ける。,8447696,,N2,1.0,0.7961577,0.8980788588523865,ラストは将軍後継を決めた綱吉が右衛門佐の元へ向かう道で吉保と会い、吉保は彼女の化粧を直したあと、綱吉の首に手を掛ける。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl
+      (VERB_acl
+        (ADJ_advcl
+          (PROPN_nsubj
+            (VERB_acl (NOUN_obj NOUN_compound ADP_case) AUX_aux)
+            ADP_case))
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+      ADP_case)
+    (PROPN_obl ADP_case)
+    PUNCT_punct)
+  (PROPN_nsubj ADP_case)
+  (NOUN_obl
+    (VERB_acl (NOUN_obj (PRON_nmod ADP_case) ADP_case) AUX_aux)
+    PUNCT_punct)
+  (NOUN_obl (PROPN_nmod ADP_case) ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['ラスト', 'は', '将軍', '後継', 'を', '決め', 'た', '綱吉', 'が', '右衛門', '佐', 'の', '元', 'へ', '向かう', '道', 'で', '吉保', 'と', '会い', '、', '吉保', 'は', '彼女', 'の', '化粧', 'を', '直し', 'た', 'あと', '、', '綱吉', 'の', '首', 'に', '手', 'を', '掛ける', '。']",0.6504458157897803,0.8483161899865458,0.7493810028881631,0.8237299308702748,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N2
+福音書の記述によると、イエス加えられた処罰として考えられるのは、むち打ちの他には、衣をはいで体を杭に掛ける、ローマの最も単純な形式の磔刑（たっけい）だけである。,2744437,,N2,1.0,0.7328555,0.8664277493953705,福音書の記述によると、イエス加えられた処罰として考えられるのは、むち打ちの他には、衣をはいで体を杭に掛ける、ローマの最も単純な形式の磔刑（たっけい）だけである。,"(SYM_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_obl
+          (PROPN_nmod ADP_case)
+          (ADP_case VERB_fixed SCONJ_fixed)
+          PUNCT_punct)
+        PROPN_obl
+        AUX_aux
+        AUX_aux)
+      (ADP_case AUX_fixed SCONJ_fixed))
+    AUX_aux
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (VERB_acl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case PUNCT_punct)
+    (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+    (NOUN_obj ADP_case)
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (NOUN_nmod
+    (PROPN_nmod ADP_case)
+    (ADJ_acl ADV_advmod AUX_aux)
+    ADP_case)
+  ADP_case
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['福音書', 'の', '記述', 'に', 'よる', 'と', '、', 'イエス', '加え', 'られ', 'た', '処罰', 'と', 'し', 'て', '考え', 'られる', 'の', 'は', '、', 'むち打ち', 'の', '他', 'に', 'は', '、', '衣', 'を', 'はい', 'で', '体', 'を', '杭', 'に', '掛ける', '、', 'ローマ', 'の', '最も', '単純', 'な', '形式', 'の', '磔刑（たっけい）', 'だけ', 'で', 'ある', '。']",0.675925715681301,0.8514544288372109,0.7636900722592559,0.8150589108273132,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N2

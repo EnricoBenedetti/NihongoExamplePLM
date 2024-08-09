@@ -1,0 +1,79 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,-1,20001.0,N3,0.6,0.0,0.3,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl
+      (NOUN_nmod
+        (VERB_acl (PROPN_obl ADP_case) (SCONJ_mark VERB_fixed))
+        ADP_case)
+      ADP_case
+      PUNCT_punct)
+    (VERB_advcl (NOUN_nsubj ADP_case) SCONJ_mark)
+    (NOUN_obl ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['新之助', 'に', '向っ', 'て', 'いる', '輪', 'の', '中', 'から', '、', '一人', 'が', '抜け', 'て', '前方', 'に', '走ろう', 'と', 'し', 'た', '。']",,,,,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N1
+スタートするなりウサギは道を走り出す。,2384913,,N1,1.0,0.7237696,0.8618848025798798,スタートするなりウサギは道を走り出す。,"(VERB_ROOT
+  (VERB_advcl AUX_aux VERB_mark)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_advcl
+  PUNCT_punct)","['スタート', 'する', 'なり', 'ウサギ', 'は', '道', 'を', '走り', '出す', '。']",0.7318446545348996,0.9758064516129032,0.8538255530739014,0.8578551778268906,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N1
+しかしトゥーリンは彼らの遙か先を走り、追いつけなかった。,1598962,,N1,1.0,0.7437333,0.8718666434288025,しかしトゥーリンは彼らの遙か先を走り、追いつけなかった。,"(VERB_ROOT
+  CCONJ_cc
+  (PROPN_nsubj ADP_case)
+  (VERB_advcl
+    (NOUN_obj (VERB_acl (NOUN_nmod PRON_nmod ADP_case)) ADP_case)
+    PUNCT_punct)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['しかし', 'トゥーリン', 'は', '彼', 'ら', 'の', '遙か', '先', 'を', '走り', '、', '追いつけ', 'なかっ', 'た', '。']",0.699461674721938,0.9340242669362993,0.8167429708291186,0.8443048071289605,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N1
+スケート靴を履かされたとも知らないプルートは怒って氷の上を走ろうとするも、スケート靴の足でうまく立つことができず、何度も転んでしまう。,9005942,,N1,1.0,0.8007396,0.900369793176651,スケート靴を履かされたとも知らないプルートは怒って氷の上を走ろうとするも、スケート靴の足でうまく立つことができず、何度も転んでしまう。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_nsubj
+          (VERB_acl
+            (VERB_advcl
+              NOUN_obl
+              (PROPN_obj ADP_case)
+              AUX_aux
+              AUX_aux
+              AUX_aux
+              ADP_case
+              ADP_case)
+            AUX_aux)
+          ADP_case)
+        SCONJ_mark)
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+      (ADP_case VERB_fixed SCONJ_fixed)
+      PUNCT_punct)
+    (NOUN_obl (PROPN_nmod NOUN_compound ADP_case) ADP_case)
+    ADJ_advcl
+    (NOUN_compound ADP_fixed AUX_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['スケート', '靴', 'を', '履か', 'さ', 'れ', 'た', 'と', 'も', '知ら', 'ない', 'プルート', 'は', '怒っ', 'て', '氷', 'の', '上', 'を', '走ろう', 'と', 'する', 'も', '、', 'スケート', '靴', 'の', '足', 'で', 'うまく', '立つ', 'こと', 'が', 'でき', 'ず', '、', '何度', 'も', '転ん', 'で', 'しまう', '。']",0.6869082751791808,0.9028679653679652,0.7948881202735731,0.8476289567251121,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N1
+我々は角を曲がり北へと車を走らせた。,251991,,N1,1.0,0.7582924,0.8791461884975433,我々は角を曲がり北へと車を走らせた。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obl (VERB_acl (NOUN_obj ADP_case)) ADP_case ADP_case)
+  (NOUN_obj ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['我々', 'は', '角', 'を', '曲がり', '北', 'へ', 'と', '車', 'を', '走ら', 'せ', 'た', '。']",0.6637728255284296,0.8988781079442086,0.7813254667363192,0.8302358276169313,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N1
+すぐ後ろを走っていた3人はなす術もなく激突し落車する。,9857592,,N1,1.0,0.7667953,0.88339763879776,すぐ後ろを走っていた3人はなす術もなく激突し落車する。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        ADV_advmod
+        (NOUN_obj ADP_case)
+        (SCONJ_mark VERB_fixed)
+        AUX_aux)
+      NUM_nummod
+      ADP_case)
+    (ADJ_advcl (NOUN_nsubj VERB_acl ADP_case))
+    AUX_aux)
+  NOUN_compound
+  AUX_aux
+  PUNCT_punct)","['すぐ', '後ろ', 'を', '走っ', 'て', 'い', 'た', '3', '人', 'は', 'なす', '術', 'も', 'なく', '激突', 'し', '落', '車', 'する', '。']",0.6427789269674389,0.8970110231769362,0.7698949750721875,0.8266463069349738,1,新之助に向っている輪の中から、一人が抜けて前方に走ろうとした。,走る,N1

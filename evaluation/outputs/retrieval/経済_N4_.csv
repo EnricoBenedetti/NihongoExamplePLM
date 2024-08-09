@@ -1,0 +1,65 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,-1,20001.0,N2,0.1999999999999999,0.0,0.0999999999999999,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,"(ADJ_ROOT
+  (NOUN_obl
+    (NOUN_nmod PROPN_compound NUM_nummod ADP_case)
+    (ADP_case VERB_fixed SCONJ_fixed)
+    ADP_case
+    PUNCT_punct
+    (NOUN_dep
+      (ADV_advmod PUNCT_punct)
+      (ADJ_nmod NOUN_compound ADP_case)))
+  (NOUN_obl
+    (NOUN_nmod NUM_nummod ADP_case)
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (PRON_advcl AUX_case ADP_case)
+  PUNCT_punct)","['加州', '一', '藩', 'の', '経済', 'に', 'とっ', 'て', 'は', '、', '勿論', '、', '金', '無垢', 'の', '煙管', '一', '本', 'の', '費用', 'くらい', 'は', '、', '何', 'で', 'も', 'ない', '。']",,,,,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N4
+経済効果はそれ程ありませんですね。,101288,,N4,1.0,0.6613864,0.8306931853294373,経済効果はそれ程ありませんですね。,"(VERB_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case)
+  (PRON_obl ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['経済', '効果', 'は', 'それ', '程', 'あり', 'ませ', 'ん', 'です', 'ね', '。']",0.8571428571428572,0.9355509355509356,0.8963468963468963,0.8635200408381668,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N4
+彼らがしているのは経済をだめにすることです。,178399,,N4,1.0,0.74815977,0.8740798830986023,彼らがしているのは経済をだめにすることです。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl
+      (NOUN_nsubj PRON_nmod ADP_case)
+      (SCONJ_mark VERB_fixed)
+      SCONJ_mark
+      ADP_case)
+    (NOUN_obj ADP_case)
+    (ADJ_advcl AUX_aux))
+  AUX_cop
+  PUNCT_punct)","['彼', 'ら', 'が', 'し', 'て', 'いる', 'の', 'は', '経済', 'を', 'だめ', 'に', 'する', 'こと', 'です', '。']",0.8099762285717867,0.922465034965035,0.8662206317684109,0.8701502574335066,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N4
+それで生産が伸びなくて経済が苦しくなった。,78136,,N4,1.0,0.7718881,0.8859440386295319,それで生産が伸びなくて経済が苦しくなった。,"(VERB_ROOT
+  (ADJ_advcl
+    (VERB_advcl
+      (PRON_obl ADP_case)
+      (NOUN_nsubj ADP_case)
+      AUX_aux
+      SCONJ_mark)
+    (NOUN_nsubj ADP_case))
+  AUX_aux
+  PUNCT_punct)","['それ', 'で', '生産', 'が', '伸び', 'なく', 'て', '経済', 'が', '苦しく', 'なっ', 'た', '。']",0.724819432510708,0.9115349264705882,0.818177179490648,0.85206060906009,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N4
+これを一番使っていたのも、経済の発達した関西でした。,103128,,N4,1.0,0.74982697,0.8749134838581085,これを一番使っていたのも、経済の発達した関西でした。,"(PROPN_ROOT
+  (VERB_obl
+    (PRON_obj ADP_case)
+    ADV_advmod
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (VERB_acl (NOUN_nmod ADP_case) AUX_aux AUX_aux)
+  AUX_cop
+  AUX_aux
+  PUNCT_punct)","['これ', 'を', '一番', '使っ', 'て', 'い', 'た', 'の', 'も', '、', '経済', 'の', '発達', 'し', 'た', '関西', 'でし', 'た', '。']",0.7011406454225679,0.8933277263807121,0.7972341859016401,0.8360738348798743,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N4
+経済はどうなるのか。,136312,,N4,1.0,0.72380143,0.8619007170200348,経済はどうなるのか。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  SCONJ_mark
+  PART_mark
+  PUNCT_punct)","['経済', 'は', 'どう', 'なる', 'の', 'か', '。']",0.7018421717105184,0.8905947775628626,0.7962184746366905,0.8290595958283626,1,加州一藩の経済にとっては、勿論、金無垢の煙管一本の費用くらいは、何でもない。,経済,N4

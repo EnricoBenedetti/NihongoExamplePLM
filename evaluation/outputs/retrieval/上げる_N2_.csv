@@ -1,0 +1,74 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,-1,16630.0,N2,1.0,0.0,0.5,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (VERB_acl
+          (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark)
+          (NOUN_obl ADP_case)
+          AUX_aux)
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl ADP_case)
+      (NOUN_obl ADP_case)
+      (ADP_case VERB_fixed))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['その', '汗', 'を', '流し', 'て', '手', 'に', '入れ', 'た', 'もの', 'を', '、', 'ただ', 'で', '他', 'に', '上げる', 'と', 'いう', 'こと', 'は', '出来', 'ない', '。']",,,,,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N2
+ご当地料理」は食材一つで調理可能なうえ、二つの能力を同時に上げることができる。,10267472,,N2,1.0,0.6262772,0.8131386041641235,ご当地料理」は食材一つで調理可能なうえ、二つの能力を同時に上げることができる。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nsubj PROPN_nmod PUNCT_punct ADP_case)
+    (NOUN_nmod NOUN_compound NUM_nummod ADP_case)
+    (ADJ_acl NOUN_compound AUX_aux)
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed PUNCT_punct))","['ご当地', '料理', '」', 'は', '食材', '一', 'つ', 'で', '調理', '可能', 'な', 'うえ', '、', '二', 'つ', 'の', '能力', 'を', '同時', 'に', '上げる', 'こと', 'が', 'できる', '。']",0.8935728077310215,0.938558402084238,0.9160656049076296,0.8646021045358766,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N2
+レバノンは大晦日の真夜中にユニークな物を落としあるいは上げることで、ペンシルベニア州の数少ない町の1つである。,9722258,,N2,1.0,0.7218078,0.8609038889408112,レバノンは大晦日の真夜中にユニークな物を落としあるいは上げることで、ペンシルベニア州の数少ない町の1つである。,"(NOUN_ROOT
+  (NOUN_acl
+    (PROPN_nsubj ADP_case)
+    (VERB_acl
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+      (VERB_advcl (NOUN_obj (ADJ_acl AUX_aux) ADP_case))
+      CCONJ_cc)
+    ADP_cop
+    PUNCT_punct)
+  (NOUN_nmod (PROPN_nmod ADP_case) (ADJ_acl NOUN_compound) ADP_case)
+  NUM_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['レバノン', 'は', '大晦日', 'の', '真夜中', 'に', 'ユニーク', 'な', '物', 'を', '落とし', 'あるいは', '上げる', 'こと', 'で', '、', 'ペンシルベニア州', 'の', '数', '少ない', '町', 'の', '1', 'つ', 'で', 'ある', '。']",0.8208065159808252,0.9074891852919972,0.8641478506364111,0.8625258697886111,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N2
+バレンタインデーのチョコレートは上げるのももらうのも手作り反対派で絶対買うことにしている。,6703677,,N2,1.0,0.70841837,0.8542091846466064,バレンタインデーのチョコレートは上げるのももらうのも手作り反対派で絶対買うことにしている。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (VERB_obl (VERB_advcl SCONJ_mark ADP_case) SCONJ_mark ADP_case)
+    NOUN_compound
+    ADP_case)
+  ADV_advmod
+  (NOUN_compound ADP_fixed AUX_fixed)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['バレンタインデー', 'の', 'チョコレート', 'は', '上げる', 'の', 'も', 'もらう', 'の', 'も', '手作り', '反対派', 'で', '絶対', '買う', 'こと', 'に', 'し', 'て', 'いる', '。']",0.7814044220931551,0.8964638066733178,0.8389341143832365,0.8465716495149215,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N2
+実在しない生物を作りあげる「架空種」と呼ばれる魔物もいるが、実在の生物を魔物化させたものより性能を上げるには生物学的センスが必要である。,6804940,,N2,1.0,0.6368444,0.8184221982955933,実在しない生物を作りあげる「架空種」と呼ばれる魔物もいるが、実在の生物を魔物化させたものより性能を上げるには生物学的センスが必要である。,(VERB_ROOT AUX_aux AUX_aux),"['実在', 'し', 'ない', '生物', 'を', '作りあげる', '「', '架空', '種', '」', 'と', '呼ば', 'れる', '魔物', 'も', 'いる', 'が', '、', '実在', 'の', '生物', 'を', '魔物', '化', 'さ', 'せ', 'た', 'もの', 'より', '性能', 'を', '上げる', 'に', 'は', '生物学', '的', 'センス', 'が', '必要', 'で', 'ある', '。']",0.8355093199225597,0.8752229733047994,0.8553661466136795,0.8368941724546364,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N2
+祖父と同様に乞食によく金貨をあげていたが、お礼を言われるのが苦手で、金貨を上げるとそそくさとその場を逃げ去ることが多かったという。,9038562,,N2,1.0,0.6903875,0.8451937437057495,祖父と同様に乞食によく金貨をあげていたが、お礼を言われるのが苦手で、金貨を上げるとそそくさとその場を逃げ去ることが多かったという。,"(VERB_ROOT
+  (ADJ_ccomp
+    (VERB_advcl
+      (ADJ_advcl (NOUN_obl ADP_case) AUX_aux)
+      (NOUN_obl ADP_case)
+      ADV_advmod
+      (NOUN_obj ADP_case)
+      (SCONJ_mark VERB_fixed)
+      AUX_aux
+      SCONJ_mark
+      PUNCT_punct)
+    (ADJ_advcl
+      (VERB_csubj (NOUN_obj ADP_case) AUX_aux SCONJ_mark ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_nsubj
+      (VERB_acl
+        (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+        (ADV_advmod ADP_case)
+        (NOUN_obj DET_det ADP_case))
+      ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['祖父', 'と', '同様', 'に', '乞食', 'に', 'よく', '金貨', 'を', 'あげ', 'て', 'い', 'た', 'が', '、', 'お礼', 'を', '言わ', 'れる', 'の', 'が', '苦手', 'で', '、', '金貨', 'を', '上げる', 'と', 'そそくさ', 'と', 'その', '場', 'を', '逃げ去る', 'こと', 'が', '多かっ', 'た', 'と', 'いう', '。']",0.8291492480277806,0.8561268472906405,0.8426380476592106,0.84391589568248,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N2

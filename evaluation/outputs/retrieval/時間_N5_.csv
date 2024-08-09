@@ -1,0 +1,34 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+俺はそこで二時間ほど調べられた。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,俺はそこで二時間ほど調べられた。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (PRON_obl ADP_case)
+  (NOUN_obl NUM_nummod ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['俺', 'は', 'そこ', 'で', '二', '時間', 'ほど', '調べ', 'られ', 'た', '。']",,,,,1,俺はそこで二時間ほど調べられた。,時間,N5,23,E
+１時間ぐらいですかね。,138441,,N5,1.0,0.76040196,0.880200982093811,１時間ぐらいですかね。,"(NOUN_ROOT
+  NUM_nummod
+  ADP_case
+  AUX_cop
+  PART_mark
+  PART_mark
+  PUNCT_punct)","['１', '時間', 'ぐらい', 'です', 'か', 'ね', '。']",0.8333333333333334,0.9722222222222222,0.9027777777777778,0.8914893799357944,1,俺はそこで二時間ほど調べられた。,時間,N5,23,E
+３時間待った。,341372,,N5,1.0,0.84810334,0.92405167222023,３時間待った。,(VERB_ROOT (NOUN_obl NUM_nummod) AUX_aux PUNCT_punct),"['３', '時間', '待っ', 'た', '。']",0.7222222222222223,0.9331521739130436,0.8276871980676329,0.8758694351439316,1,俺はそこで二時間ほど調べられた。,時間,N5,23,E
+私は一時間その本をさがした。,226623,,N5,1.0,0.8222679,0.9111339449882508,私は一時間その本をさがした。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  (NOUN_obj (NOUN_nmod NUM_nummod) DET_det ADP_case)
+  AUX_aux
+  PUNCT_punct)","['私', 'は', '一', '時間', 'その', '本', 'を', 'さがし', 'た', '。']",0.6666666666666667,0.914576802507837,0.7906217345872519,0.8508778397877513,1,俺はそこで二時間ほど調べられた。,時間,N5,23,E
+昨日彼氏と三時間も電話で話しちゃった。,307766,,N5,1.0,0.7853594,0.8926796913146973,昨日彼氏と三時間も電話で話しちゃった。,"(VERB_ROOT
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj NUM_nummod ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['昨日', '彼氏', 'と', '三', '時間', 'も', '電話', 'で', '話し', 'ちゃっ', 'た', '。']",0.6571428571428571,0.9090277777777778,0.7830853174603174,0.8378825043875073,1,俺はそこで二時間ほど調べられた。,時間,N5,23,E
+３時間待たなければいけなかった。,341371,,N5,1.0,0.822865,0.9114325046539308,３時間待たなければいけなかった。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obl NUM_nummod) AUX_aux SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['３', '時間', '待た', 'なけれ', 'ば', 'いけ', 'なかっ', 'た', '。']",0.6124681464097461,0.8952546296296297,0.7538613880196878,0.8326469463368092,1,俺はそこで二時間ほど調べられた。,時間,N5,23,E

@@ -1,0 +1,36 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,-1,616.0,N1,0.0,0.0,0.0,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_acl (NOUN_obj ADP_case) AUX_aux)
+    ADJ_acl
+    ADJ_acl
+    ADP_case
+    PUNCT_punct)
+  (ADJ_acl (NOUN_obl ADP_case AUX_cop ADP_case) AUX_aux AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['貝殻', 'を', '敷い', 'た', '細い', '汚い', '横町', 'で', '、', '貧民窟', 'と', 'で', 'も', 'いい', 'そう', 'な', '家並', 'だ', '。']",,,,,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29,E
+汚い想像しないでね。,87563,,N5,1.0,0.58993965,0.7949698269367218,汚い想像しないでね。,(VERB_ROOT ADJ_acl AUX_aux AUX_aux SCONJ_mark PART_mark PUNCT_punct),"['汚い', '想像', 'し', 'ない', 'で', 'ね', '。']",0.7624978749043703,0.9615384615384616,0.8620181682214159,0.8284939975790688,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29,E
+その汚い犬を台所に入れないで。,278002,,N5,1.0,0.68100756,0.8405037820339203,その汚い犬を台所に入れないで。,"(VERB_ROOT
+  (NOUN_obj DET_det ADJ_acl ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['その', '汚い', '犬', 'を', '台所', 'に', '入れ', 'ない', 'で', '。']",0.6415288643543879,0.9299242424242424,0.7857265533893152,0.8131151677116177,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29,E
+汚い手で私の本に触らないで。,254591,,N5,1.0,0.613549,0.8067744970321655,汚い手で私の本に触らないで。,"(VERB_ROOT
+  (NOUN_obl ADJ_acl ADP_case)
+  (NOUN_obl (PRON_nmod ADP_case) ADP_case)
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['汚い', '手', 'で', '私', 'の', '本', 'に', '触ら', 'ない', 'で', '。']",0.5546249008050561,0.8963606490820741,0.7254927749435651,0.7661336359878653,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29,E
+そんな汚い手で触らないで。,364457,,N5,1.0,0.62447894,0.8122394680976868,そんな汚い手で触らないで。,"(VERB_ROOT
+  (NOUN_obl PRON_nmod ADJ_acl ADP_case)
+  AUX_aux
+  SCONJ_mark
+  PUNCT_punct)","['そんな', '汚い', '手', 'で', '触ら', 'ない', 'で', '。']",0.4843650845249007,0.8315277777777778,0.6579464311513392,0.735092949624513,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29,E
+それらは暗くて、汚い建物の中で星の様に輝きました。,270578,,N4,0.6,0.81286466,0.706432330608368,それらは暗くて、汚い建物の中で星の様に輝きました。,"(VERB_ROOT
+  (ADJ_advcl (NOUN_nsubj PRON_nmod ADP_case) SCONJ_mark PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADJ_acl ADP_case) ADP_case)
+  (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['それ', 'ら', 'は', '暗く', 'て', '、', '汚い', '建物', 'の', '中', 'で', '星', 'の', '様', 'に', '輝き', 'まし', 'た', '。']",0.5102361187453905,0.8486435659704161,0.6794398423579033,0.6929360864831356,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N5,29,E

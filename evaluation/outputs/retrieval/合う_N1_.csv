@@ -1,0 +1,112 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,-1,8553.0,N3,0.6,0.0,0.3,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det ADP_case ADP_case)
+    (NOUN_nsubj
+      (NOUN_nmod NOUN_compound ADP_case)
+      VERB_compound
+      ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['この', '段階', 'で', 'は', '主', '鏡', 'の', '位置', '合わせ', 'が', '行わ', 'れ', 'て', 'おら', 'ず', '、', '焦点', 'は', '合っ', 'て', 'い', 'ない', '。']",,,,,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2,I
+またマクロレンズと違い無限遠にピントが合わなくなる等、ピントあわせに制約がある。,2715561,,N2,0.8,0.7946419,0.797320955991745,またマクロレンズと違い無限遠にピントが合わなくなる等、ピントあわせに制約がある。,"(NOUN_ROOT
+  CCONJ_dep
+  (NOUN_nmod
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl (NOUN_nmod ADP_case))
+        (NOUN_obl ADP_case)
+        (NOUN_nsubj ADP_case)
+        AUX_aux))
+    PUNCT_punct))","['また', 'マクロレンズ', 'と', '違い', '無限遠', 'に', 'ピント', 'が', '合わ', 'なく', 'なる', '等', '、', 'ピント', 'あわせ', 'に', '制約', 'が', 'ある', '。']",0.9070999251733736,0.9534883720930232,0.9302941486331984,0.8638075523124717,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2,I
+そのような状態は実現できないのであるが、実用上は仮想的な点光源からの光が結像面上でもっとも強く収束するような条件をもって、ピントが合っていると考える。,3082867,,N1,1.0,0.87095696,0.9354784786701202,そのような状態は実現できないのであるが、実用上は仮想的な点光源からの光が結像面上でもっとも強く収束するような条件をもって、ピントが合っていると考える。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj (NOUN_acl DET_det AUX_cop) ADP_case)
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark AUX_fixed VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_ccomp
+    (VERB_advcl
+      (NOUN_nsubj NOUN_compound ADP_case)
+      (NOUN_obj
+        (VERB_acl
+          (NOUN_nsubj
+            (NOUN_nmod
+              (ADJ_acl AUX_aux)
+              NOUN_compound
+              ADP_case
+              ADP_case)
+            ADP_case)
+          (ADJ_advcl (NOUN_obl NOUN_compound ADP_case) ADV_advmod)
+          AUX_aux
+          AUX_aux
+          AUX_aux)
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    ADP_case)
+  PUNCT_punct)","['その', 'よう', 'な', '状態', 'は', '実現', 'でき', 'ない', 'の', 'で', 'ある', 'が', '、', '実用', '上', 'は', '仮想的', 'な', '点', '光源', 'から', 'の', '光', 'が', '結像', '面上', 'で', 'もっとも', '強く', '収束', 'する', 'よう', 'な', '条件', 'を', 'もっ', 'て', '、', 'ピント', 'が', '合っ', 'て', 'いる', 'と', '考える', '。']",0.8312548196472812,0.9041024301019076,0.8676786248745944,0.9015785517723574,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2,I
+ただし、自キャラとマンホールの間に地形がある場合、座標が合っていても障害物ごしに開閉は出来ない。,4480060,,N1,1.0,0.7801082,0.8900541067123413,ただし、自キャラとマンホールの間に地形がある場合、座標が合っていても障害物ごしに開閉は出来ない。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod NOUN_compound ADP_case (NOUN_dep ADP_case))
+        ADP_case)
+      (NOUN_nsubj ADP_case))
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark
+    ADP_case)
+  (NOUN_obl NOUN_compound ADP_case)
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ただし', '、', '自', 'キャラ', 'と', 'マンホール', 'の', '間', 'に', '地形', 'が', 'ある', '場合', '、', '座標', 'が', '合っ', 'て', 'い', 'て', 'も', '障害', '物ごし', 'に', '開閉', 'は', '出来', 'ない', '。']",0.7932859548202659,0.8782600762306383,0.8357730155254521,0.8629135611188967,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2,I
+しかしながら、東急では2020年までに各駅へ可動式ホーム柵を設置することとなり、扉の位置が合わない田園都市線の6扉車は廃止を余儀なくされた。,2390181,,N1,1.0,0.72915196,0.864575982093811,しかしながら、東急では2020年までに各駅へ可動式ホーム柵を設置することとなり、扉の位置が合わない田園都市線の6扉車は廃止を余儀なくされた。,"(VERB_ROOT
+  (CCONJ_cc SCONJ_fixed PUNCT_punct)
+  (VERB_advcl
+    (PROPN_obl ADP_case ADP_case)
+    (NOUN_obl NUM_nummod ADP_case ADP_case)
+    (NOUN_obl ADP_case)
+    (NOUN_obj NOUN_compound NOUN_compound NOUN_compound ADP_case)
+    AUX_aux
+    (NOUN_compound ADP_fixed VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case) AUX_aux)
+    (PROPN_nmod ADP_case)
+    NUM_compound
+    NOUN_compound
+    ADP_case)
+  (NOUN_obj ADP_case)
+  (ADJ_advcl NOUN_compound)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['しかし', 'ながら', '、', '東急', 'で', 'は', '2020', '年', 'まで', 'に', '各駅', 'へ', '可動', '式', 'ホーム', '柵', 'を', '設置', 'する', 'こと', 'と', 'なり', '、', '扉', 'の', '位置', 'が', '合わ', 'ない', '田園都市線', 'の', '6', '扉', '車', 'は', '廃止', 'を', '余儀', 'なく', 'さ', 'れ', 'た', '。']",0.7657895850281732,0.8749735004413957,0.8203815427347845,0.8424787624142978,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2,I
+と怒るのだが、毎回カメラのスイッチングのタイミングが合わず、タイミングが合ったら合ったでピンボケを起こしている。,4903833,,N1,1.0,0.68181133,0.8409056663513184,と怒るのだが、毎回カメラのスイッチングのタイミングが合わず、タイミングが合ったら合ったでピンボケを起こしている。,"(VERB_ROOT
+  ADP_dep
+  (VERB_advcl (SCONJ_mark AUX_fixed) SCONJ_mark PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    (NOUN_nsubj (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl (NOUN_nsubj ADP_case) AUX_aux)
+    AUX_aux
+    SCONJ_mark)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['と', '怒る', 'の', 'だ', 'が', '、', '毎回', 'カメラ', 'の', 'スイッチング', 'の', 'タイミング', 'が', '合わ', 'ず', '、', 'タイミング', 'が', '合っ', 'たら', '合っ', 'た', 'で', 'ピンボケ', 'を', '起こし', 'て', 'いる', '。']",0.7558567818531307,0.8595765947599825,0.8077166883065565,0.8243111773289374,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N1,2,I

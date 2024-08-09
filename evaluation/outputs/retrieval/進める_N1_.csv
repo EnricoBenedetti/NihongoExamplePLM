@@ -1,0 +1,100 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,-1,20001.0,N1,1.0,0.0,0.5,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    (ADP_case SCONJ_fixed SCONJ_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj DET_det ADP_case)
+  AUX_aux
+  AUX_aux
+  (AUX_aux SCONJ_fixed ADP_fixed VERB_fixed AUX_fixed)
+  PUNCT_punct)","['写実', 'の', '歩', 'を', '進める', 'と', 'すれ', 'ば', '、', 'この', '点', 'も', '考慮', 'せ', 'られ', 'なく', 'て', 'は', 'なら', 'ぬ', '。']",,,,,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N1
+だが前述の通り北部同盟内でも共通言語として団結するのか、それとも更なる分権を進めるのかで対立が生じており、足並みは揃っていない。,6326429,,N1,1.0,0.70554495,0.8527724742889404,だが前述の通り北部同盟内でも共通言語として団結するのか、それとも更なる分権を進めるのかで対立が生じており、足並みは揃っていない。,(NOUN_ROOT (CCONJ_dep SCONJ_fixed) (NOUN_nmod ADP_case)),"['だ', 'が', '前述', 'の', '通り', '北部', '同盟', '内', 'で', 'も', '共通', '言語', 'と', 'し', 'て', '団結', 'する', 'の', 'か', '、', 'それ', 'と', 'も', '更なる', '分', '権', 'を', '進める', 'の', 'か', 'で', '対立', 'が', '生じ', 'て', 'おり', '、', '足並み', 'は', '揃っ', 'て', 'い', 'ない', '。']",0.9389652511995464,0.918986568986569,0.9289759100930576,0.8908741921909991,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N1
+このため形態主義派はその後、朝鮮語学会（現・ハングル学会）を舞台にして、形態主義的な表記をさらに進め、1933年に「朝鮮語綴字法統一案」を定めることになる。,5609239,,N1,1.0,0.6975935,0.8487967550754547,このため形態主義派はその後、朝鮮語学会（現・ハングル学会）を舞台にして、形態主義的な表記をさらに進め、1933年に「朝鮮語綴字法統一案」を定めることになる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl DET_det)
+      (NOUN_nsubj NOUN_compound NOUN_compound ADP_case)
+      (NOUN_obl DET_det PUNCT_punct)
+      (NOUN_obl
+        (NOUN_obj
+          PROPN_compound
+          NOUN_compound
+          PUNCT_punct
+          NOUN_compound
+          SYM_compound
+          NOUN_compound
+          NOUN_compound
+          PUNCT_punct
+          ADP_case)
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_obj (NOUN_acl NOUN_compound PART_mark AUX_cop) ADP_case)
+    ADV_advmod
+    PUNCT_punct)
+  (NOUN_obl NUM_nummod ADP_case)
+  (NOUN_obj
+    PUNCT_punct
+    NOUN_compound
+    NOUN_compound
+    NOUN_compound
+    PUNCT_punct
+    ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['この', 'ため', '形態', '主義', '派', 'は', 'その', '後', '、', '朝鮮', '語学', '会', '（', '現', '・', 'ハングル', '学会', '）', 'を', '舞台', 'に', 'し', 'て', '、', '形態', '主義', '的', 'な', '表記', 'を', 'さらに', '進め', '、', '1933', '年', 'に', '「', '朝鮮語', '綴字', '法統', '一案', '」', 'を', '定める', 'こと', 'に', 'なる', '。']",0.8902290869539661,0.915687851971038,0.902958469462502,0.8758776122689783,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N1
+具体的証拠なしに考えを進めると、進化の議論はどうにでもなるという一例である。,2716662,,N1,1.0,0.704983,0.8524914979934692,具体的証拠なしに考えを進めると、進化の議論はどうにでもなるという一例である。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl
+      (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+      (NOUN_obj ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+    (ADV_advmod ADP_case AUX_aux ADP_case)
+    (ADP_case VERB_fixed))
+  NOUN_nummod
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['具体的', '証拠', 'なし', 'に', '考え', 'を', '進める', 'と', '、', '進化', 'の', '議論', 'は', 'どう', 'に', 'で', 'も', 'なる', 'と', 'いう', '一', '例', 'で', 'ある', '。']",0.8505946049507112,0.8980606998452554,0.8743276523979833,0.8634095751957263,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N1
+その統制を一歩進める形で、日本全国の仏教の諸宗派・寺院・僧侶を網羅した法度を制定したのであった。,5278519,,N1,1.0,0.7397265,0.8698632419109344,その統制を一歩進める形で、日本全国の仏教の諸宗派・寺院・僧侶を網羅した法度を制定したのであった。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl (NOUN_obj DET_det ADP_case) ADV_advmod)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_nmod
+          (NOUN_nmod (NOUN_nmod PROPN_compound ADP_case) ADP_case)
+          NOUN_compound)
+        SYM_compound
+        NOUN_compound
+        SYM_compound
+        ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark AUX_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['その', '統制', 'を', '一歩', '進める', '形', 'で', '、', '日本', '全国', 'の', '仏教', 'の', '諸宗', '派', '・', '寺院', '・', '僧侶', 'を', '網羅', 'し', 'た', '法度', 'を', '制定', 'し', 'た', 'の', 'で', 'あっ', 'た', '。']",0.791618987254341,0.8884457958235907,0.8400323915389658,0.8549478167249501,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N1
+これを達成するためには思想の自由や研究の公正を踏まえて軍事研究を批判的に進める必要がある。,7151937,,N1,1.0,0.69739807,0.8486990332603455,これを達成するためには思想の自由や研究の公正を踏まえて軍事研究を批判的に進める必要がある。,"(VERB_ROOT
+  (VERB_advcl
+    (PRON_obj ADP_case)
+    AUX_aux
+    (SCONJ_mark SCONJ_fixed)
+    ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obj
+          (NOUN_nmod
+            (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+            ADP_case)
+          ADP_case)
+        SCONJ_mark)
+      (NOUN_obj NOUN_compound ADP_case)
+      (ADJ_advcl AUX_cop))
+    ADP_case)
+  PUNCT_punct)","['これ', 'を', '達成', 'する', 'ため', 'に', 'は', '思想', 'の', '自由', 'や', '研究', 'の', '公正', 'を', '踏まえ', 'て', '軍事', '研究', 'を', '批判的', 'に', '進める', '必要', 'が', 'ある', '。']",0.766588337184523,0.8821391841805148,0.8243637606825189,0.8365313969714322,1,写実の歩を進めるとすれば、この点も考慮せられなくてはならぬ。,進める,N1

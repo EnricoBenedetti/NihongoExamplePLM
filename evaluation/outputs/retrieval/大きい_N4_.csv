@@ -1,0 +1,36 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,-1,20001.0,N3,0.6,0.0,0.3,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_obl DET_det)
+    (NOUN_obl
+      (VERB_acl
+        (NOUN_obj ADJ_amod ADP_case)
+        (NOUN_obl ADP_case)
+        AUX_aux)
+      ADP_case)
+    (NOUN_nsubj ADP_case))
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['その', '結果', '同じ', '画像', 'を', 'GIF', 'に', 'し', 'た', '場合', 'より', 'サイズ', 'が', '大きく', 'なっ', 'て', 'しまう', '。']",,,,,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N4
+このサイズだと私には大きすぎますね。,318349,,N4,1.0,0.699309,0.849654495716095,このサイズだと私には大きすぎますね。,"(ADJ_ROOT
+  (NOUN_advcl DET_det AUX_cop ADP_case)
+  (PRON_obl ADP_case ADP_case)
+  VERB_advcl
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['この', 'サイズ', 'だ', 'と', '私', 'に', 'は', '大き', 'すぎ', 'ます', 'ね', '。']",0.8333333333333334,0.975,0.9041666666666668,0.8769105811913809,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N4
+文字が大きすぎ。,398106,,N4,1.0,0.81789947,0.9089497327804564,文字が大きすぎ。,(ADJ_ROOT (NOUN_nsubj ADP_case) PART_mark PUNCT_punct),"['文字', 'が', '大き', 'すぎ', '。']",0.6990382102924568,0.9421875,0.8206128551462284,0.8647812939633425,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N4
+ポインタを当てると画像が大きくなります。,34860,,N4,1.0,0.83417016,0.9170850813388824,ポインタを当てると画像が大きくなります。,"(VERB_ROOT
+  (ADJ_advcl
+    (VERB_advcl (NOUN_obj ADP_case) SCONJ_mark)
+    (NOUN_nsubj ADP_case))
+  AUX_aux
+  PUNCT_punct)","['ポインタ', 'を', '当てる', 'と', '画像', 'が', '大きく', 'なり', 'ます', '。']",0.6345496367792227,0.9100271002710028,0.7722883685251127,0.8446867249319976,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N4
+フォントが大きすぎます。,398105,,N4,1.0,0.81977016,0.9098850786685944,フォントが大きすぎます。,(ADJ_ROOT (NOUN_nsubj ADP_case) VERB_advcl AUX_aux PUNCT_punct),"['フォント', 'が', '大き', 'すぎ', 'ます', '。']",0.5906754332892652,0.8620589274946457,0.7263671803919555,0.8181261295302749,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N4
+さらに水平部分を大きくしてみました。,105872,,N4,1.0,0.6951488,0.8475744128227234,さらに水平部分を大きくしてみました。,"(VERB_ROOT
+  CCONJ_cc
+  (NOUN_obj NOUN_compound ADP_case)
+  ADJ_advcl
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['さらに', '水平', '部分', 'を', '大きく', 'し', 'て', 'み', 'まし', 'た', '。']",0.6356676798011222,0.8624078341013826,0.7490377569512523,0.7983060848869878,1,その結果同じ画像をGIFにした場合よりサイズが大きくなってしまう。,大きい,N4

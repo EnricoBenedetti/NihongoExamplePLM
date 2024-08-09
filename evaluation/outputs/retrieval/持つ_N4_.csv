@@ -1,0 +1,40 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,-1,20001.0,N3,0.6,0.0,0.3,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (VERB_ccomp
+      (NOUN_nsubj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+      AUX_aux
+      PART_mark
+      ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl ADV_advmod (NOUN_obl ADP_case) SCONJ_mark PUNCT_punct)
+  (VERB_advcl ADV_advmod SCONJ_mark)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['また', 'お', '箸', 'の', '手', 'が', '違っ', 'た', 'よ', 'と', 'いえ', 'ば', '、', 'すぐ', '右', 'に', '直す', 'けれど', '、', '少し', 'する', 'と', 'また', '左', 'に', '持つ', '。']",,,,,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N4
+バットを長めに持ってください。,156223,,N4,1.0,0.76413035,0.8820651769638062,バットを長めに持ってください。,"(VERB_ROOT
+  (NOUN_obj ADP_case)
+  (ADJ_advcl AUX_aux)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['バット', 'を', '長め', 'に', '持っ', 'て', 'ください', '。']",0.8571428571428572,0.9571428571428572,0.9071428571428573,0.8946040170533317,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N4
+花瓶は両手で持ちなさい。,252604,,N4,1.0,0.7685994,0.8842996954917908,花瓶は両手で持ちなさい。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl ADP_case)
+  AUX_aux
+  PUNCT_punct)","['花瓶', 'は', '両手', 'で', '持ち', 'なさい', '。']",0.7557672451282047,0.9583333333333334,0.857050289230769,0.8706749923612799,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N4
+袋は僕が持つよ。,361324,,N4,1.0,0.710745,0.8553724884986877,袋は僕が持つよ。,"(VERB_ROOT
+  (NOUN_dislocated ADP_case)
+  (PRON_nsubj ADP_case)
+  PART_mark
+  PUNCT_punct)","['袋', 'は', '僕', 'が', '持つ', 'よ', '。']",0.7707407654212453,0.9387755102040816,0.8547581378126634,0.8550653131556756,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N4
+茶碗を持つ手が重いです。,150870,,N4,1.0,0.76381826,0.8819091320037842,茶碗を持つ手が重いです。,"(ADJ_ROOT
+  (NOUN_nsubj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+  AUX_aux
+  PUNCT_punct)","['茶碗', 'を', '持つ', '手', 'が', '重い', 'です', '。']",0.7176067437774866,0.9206309041835358,0.8191188239805112,0.8505139779921477,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N4
+お前さぁ、箸の持ち方違うだろう？,372220,,N4,1.0,0.74126965,0.8706348240375519,お前さぁ、箸の持ち方違うだろう？,"(VERB_ROOT
+  (NOUN_obl PRON_nmod PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADP_case) VERB_nmod)
+  AUX_aux
+  PUNCT_punct)","['お前', 'さぁ', '、', '箸', 'の', '持ち', '方', '違う', 'だろう', '？']",0.6735077766087858,0.9134450697333008,0.7934764231710433,0.8320556236042975,1,またお箸の手が違ったよといえば、すぐ右に直すけれど、少しするとまた左に持つ。,持つ,N4

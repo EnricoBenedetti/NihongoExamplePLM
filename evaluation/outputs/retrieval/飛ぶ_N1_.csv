@@ -1,0 +1,96 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,-1,6600.0,N1,1.0,0.0,0.5,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (NOUN_nmod ADP_case)
+      AUX_aux
+      ADP_case)
+    (NOUN_obj (NOUN_nmod DET_det ADP_case) ADP_case)
+    VERB_advmod
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj (VERB_acl (PRON_obj ADP_case)) ADP_case)
+  (ADJ_aux AUX_aux PUNCT_punct))","['心', 'は', '光り', 'の', '飛ぶ', 'ごとく', 'に', 'あらゆる', '道理', 'の', '中', 'を', '駈', '巡っ', 'た', 'が', '、', '何', 'を', 'とらえる', 'こと', 'も', '出来', '無かっ', 'た', '。']",,,,,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N1
+その速きこと、飛ぶが如し。,681436,,N1,1.0,0.67936915,0.8396845757961273,その速きこと、飛ぶが如し。,"(AUX_ROOT
+  (VERB_nsubj
+    (NOUN_obl DET_det NOUN_compound ADP_case PUNCT_punct)
+    ADP_case)
+  PUNCT_punct)","['その', '速', 'きこ', 'と', '、', '飛ぶ', 'が', '如し', '。']",1.0,0.95,0.975,0.9073422878980636,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N1
+その後、矢の飛ぶような音が聞こえ、その響きは内の兵庫にまで達した」と記述されている。,5144741,,N1,1.0,0.75047517,0.8752375841140747,その後、矢の飛ぶような音が聞こえ、その響きは内の兵庫にまで達した」と記述されている。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl DET_det PUNCT_punct)
+      (NOUN_nsubj
+        (VERB_acl (NOUN_nmod ADP_case) AUX_aux AUX_aux)
+        ADP_case)
+      PUNCT_punct)
+    (NOUN_nsubj DET_det ADP_case)
+    (PROPN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['その', '後', '、', '矢', 'の', '飛ぶ', 'よう', 'な', '音', 'が', '聞こえ', '、', 'その', '響き', 'は', '内', 'の', '兵庫', 'に', 'まで', '達し', 'た', '」', 'と', '記述', 'さ', 'れ', 'て', 'いる', '。']",0.9055776243600696,0.9190446650124068,0.9123111446862382,0.8937743644001565,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N1
+上天井は、格天井式で雲彩に金箔唐草散らし及び鳳凰の飛ぶ様を表した絹張り、下天井は、木組みで菊の文様の絹張りである。,3395290,,N1,1.0,0.7171073,0.8585536479949951,上天井は、格天井式で雲彩に金箔唐草散らし及び鳳凰の飛ぶ様を表した絹張り、下天井は、木組みで菊の文様の絹張りである。,"(NOUN_ROOT
+  NOUN_nmod
+  (NOUN_nsubj ADP_case PUNCT_punct)
+  (NOUN_nsubj
+    (NOUN_nmod
+      (VERB_acl
+        (NOUN_obl NOUN_compound NOUN_compound ADP_case)
+        (NOUN_obl NOUN_compound ADP_case)
+        (NOUN_obj
+          (NOUN_nmod NOUN_compound NOUN_compound)
+          CCONJ_cc
+          (VERB_acl (NOUN_nmod ADP_case))
+          ADP_case)
+        AUX_aux)
+      PUNCT_punct)
+    NOUN_compound
+    ADP_case
+    PUNCT_punct)
+  (NOUN_acl ADP_case)
+  (NOUN_nmod (NOUN_nmod ADP_case) ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['上', '天井', 'は', '、', '格', '天井', '式', 'で', '雲', '彩', 'に', '金箔', '唐草', '散らし', '及び', '鳳凰', 'の', '飛ぶ', '様', 'を', '表し', 'た', '絹張り', '、', '下', '天井', 'は', '、', '木組み', 'で', '菊', 'の', '文様', 'の', '絹張り', 'で', 'ある', '。']",0.8700626620669405,0.8950344012428836,0.882548531654912,0.8705510898249536,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N1
+その姿は、走馬が飛ぶ如く、左に旋回し右に転じ、きらめく剣は雲に入り、高さ数十丈、電光の如く下を射った。,11402330,,N1,1.0,0.7770468,0.8885233998298645,その姿は、走馬が飛ぶ如く、左に旋回し右に転じ、きらめく剣は雲に入り、高さ数十丈、電光の如く下を射った。,"(VERB_ROOT
+  (NOUN_nsubj DET_det ADP_case PUNCT_punct)
+  (AUX_advcl
+    (NOUN_nmod
+      (NOUN_nmod
+        (VERB_acl
+          (VERB_advcl
+            (VERB_advcl (NOUN_nsubj ADP_case) AUX_aux PUNCT_punct)
+            (VERB_advcl (NOUN_obl ADP_case) AUX_aux)
+            (NOUN_obl ADP_case)
+            PUNCT_punct)
+          (NOUN_nsubj NOUN_acl ADP_case)
+          (NOUN_obl ADP_case)
+          PUNCT_punct)
+        ADJ_amod
+        PART_mark
+        NUM_nummod
+        PUNCT_punct)
+      ADP_case))
+  (NOUN_obj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['その', '姿', 'は', '、', '走馬', 'が', '飛ぶ', '如く', '、', '左', 'に', '旋回', 'し', '右', 'に', '転じ', '、', 'きらめく', '剣', 'は', '雲', 'に', '入り', '、', '高', 'さ', '数十', '丈', '、', '電光', 'の', '如く', '下', 'を', '射っ', 'た', '。']",0.7988286137934725,0.8816086691086691,0.8402186414510708,0.8643710206404677,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N1
+南宋を代表する詞人であり、その詞は「野雲の孤り飛ぶがごとく去留迹なし」と評される。,10045119,,N1,1.0,0.7220517,0.8610258400440216,南宋を代表する詞人であり、その詞は「野雲の孤り飛ぶがごとく去留迹なし」と評される。,"(VERB_ROOT
+  (NOUN_advcl
+    (VERB_acl (NOUN_obj ADP_case) AUX_aux)
+    NOUN_compound
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (NOUN_nsubj DET_det ADP_case)
+  (VERB_advcl
+    (NOUN_nmod PUNCT_punct NOUN_compound ADP_case)
+    ADJ_compound
+    ADP_case
+    AUX_aux)
+  (NOUN_obl ADJ_acl NOUN_compound PUNCT_punct ADP_case)
+  AUX_aux
+  PUNCT_punct)","['南宋', 'を', '代表', 'する', '詞', '人', 'で', 'あり', '、', 'その', '詞', 'は', '「', '野', '雲', 'の', '孤り', '飛ぶ', 'が', 'ごとく', '去留', '迹', 'なし', '」', 'と', '評さ', 'れる', '。']",0.7404661198454132,0.8758775946275946,0.808171857236504,0.8345988486402628,1,心は光りの飛ぶごとくにあらゆる道理の中を駈巡ったが、何をとらえることも出来無かった。,飛ぶ,N1

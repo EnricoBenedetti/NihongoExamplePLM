@@ -1,0 +1,139 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,-1,616.0,N1,1.0,0.0,0.5,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,"(NOUN_ROOT
+  (NOUN_nmod
+    (VERB_acl (NOUN_obj ADP_case) AUX_aux)
+    ADJ_acl
+    ADJ_acl
+    ADP_case
+    PUNCT_punct)
+  (ADJ_acl (NOUN_obl ADP_case AUX_cop ADP_case) AUX_aux AUX_aux)
+  AUX_cop
+  PUNCT_punct)","['貝殻', 'を', '敷い', 'た', '細い', '汚い', '横町', 'で', '、', '貧民窟', 'と', 'で', 'も', 'いい', 'そう', 'な', '家並', 'だ', '。']",,,,,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9,E
+そこは社長の住まいとは思えぬ汚い安マンションの一室だった。,1216481,,N1,1.0,0.82344294,0.9117214679718018,そこは社長の住まいとは思えぬ汚い安マンションの一室だった。,"(PRON_ROOT
+  ADP_case
+  (VERB_compound
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    AUX_aux
+    (ADJ_dep NOUN_punct)))","['そこ', 'は', '社長', 'の', '住まい', 'と', 'は', '思え', 'ぬ', '汚い', '安', 'マンション', 'の', '一室', 'だっ', 'た', '。']",0.9008361497674712,0.9513888888888888,0.92611251932818,0.9189169936499908,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9,E
+一方トムは、飲んだくれで乱暴者の父親を持ち、汚いあばら家に住み、金も無い為にパン一つ買う事すら出来ず、常に寒さに震え、飢えと乾きに苛まれていた。,4662805,,N1,1.0,0.8500976,0.9250487983226776,一方トムは、飲んだくれで乱暴者の父親を持ち、汚いあばら家に住み、金も無い為にパン一つ買う事すら出来ず、常に寒さに震え、飢えと乾きに苛まれていた。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_acl
+          (VERB_advcl
+            (NOUN_nsubj ADP_case PUNCT_punct)
+            (VERB_advcl
+              (PROPN_obl ADP_case)
+              (NOUN_obj (NOUN_nmod ADJ_amod ADP_case) ADP_case)
+              PUNCT_punct)
+            (NOUN_obl ADJ_acl ADP_case)
+            PUNCT_punct)
+          (ADJ_advcl (NOUN_nsubj ADP_case) (SCONJ_mark SCONJ_fixed))
+          (NOUN_obl NOUN_compound NUM_nummod))
+        ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obl ADP_case)
+    (ADJ_obl PART_mark ADP_case)
+    PUNCT_punct)
+  (NOUN_obl (NOUN_obl ADP_case) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['一方', 'トム', 'は', '、', '飲んだくれ', 'で', '乱暴', '者', 'の', '父親', 'を', '持ち', '、', '汚い', 'あばら家', 'に', '住み', '、', '金', 'も', '無い', '為', 'に', 'パン', '一', 'つ', '買う', '事', 'すら', '出来', 'ず', '、', '常', 'に', '寒', 'さ', 'に', '震え', '、', '飢え', 'と', '乾き', 'に', '苛ま', 'れ', 'て', 'い', 'た', '。']",0.8670479800492439,0.9234218077474892,0.8952348938983665,0.910141846110522,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9,E
+1855年1月26日、ヴィエイユ＝ランテルヌ（古いランタン）通り――ボードレールに言わせると見出し得る最も汚い一角――の下水道の鉄格子で首を吊っているネルヴァルが発見された。,6339042,,N1,1.0,0.80775017,0.903875082731247,1855年1月26日、ヴィエイユ＝ランテルヌ（古いランタン）通り――ボードレールに言わせると見出し得る最も汚い一角――の下水道の鉄格子で首を吊っているネルヴァルが発見された。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        NUM_compound
+        NOUN_compound
+        NUM_compound
+        NOUN_compound
+        NUM_nummod
+        PUNCT_punct)
+      (NOUN_obl
+        (NOUN_nmod
+          (NOUN_nmod
+            NOUN_compound
+            SYM_compound
+            PUNCT_punct
+            ADJ_amod
+            NOUN_compound
+            PUNCT_punct
+            NOUN_nmod
+            SYM_dep
+            SYM_dep
+            (PROPN_compound ADP_case))
+          (ADJ_acl
+            (VERB_advcl AUX_aux SCONJ_mark)
+            (VERB_obl VERB_advcl)
+            ADV_advmod)
+          SYM_dep
+          SYM_dep
+          ADP_case)
+        (NOUN_nmod ADP_case)
+        ADP_case)
+      (NOUN_obj ADP_case)
+      (SCONJ_mark VERB_fixed))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['1855', '年', '1', '月', '26', '日', '、', 'ヴィエイユ', '＝', 'ランテルヌ', '（', '古い', 'ランタン', '）', '通り', '―', '―', 'ボードレール', 'に', '言わ', 'せる', 'と', '見出し', '得る', '最も', '汚い', '一角', '―', '―', 'の', '下水道', 'の', '鉄格子', 'で', '首', 'を', '吊っ', 'て', 'いる', 'ネルヴァル', 'が', '発見', 'さ', 'れ', 'た', '。']",0.8244867134239358,0.915850213379816,0.8701684634018759,0.8870217730665615,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9,E
+東京オリンピックに合わせ、暗くて汚いイメージが強い公共トイレのイメージを刷新すべく、日本財団が著名な建築家やデザイナーを起用して新設するプロジェクトが進行中である。,1046970,,N1,1.0,0.7330508,0.866525411605835,東京オリンピックに合わせ、暗くて汚いイメージが強い公共トイレのイメージを刷新すべく、日本財団が著名な建築家やデザイナーを起用して新設するプロジェクトが進行中である。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obj
+      (NOUN_nmod
+        (ADJ_acl
+          (VERB_advcl (NOUN_obl PROPN_compound ADP_case) PUNCT_punct)
+          (NOUN_nsubj (ADJ_acl (ADJ_advcl SCONJ_mark)) ADP_case))
+        ADP_case)
+      ADP_case)
+    VERB_advcl
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_nsubj PROPN_compound ADP_case (ADJ_dep AUX_aux))
+      (VERB_advcl
+        (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+        AUX_aux
+        SCONJ_mark)
+      AUX_aux)
+    ADP_case)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['東京', 'オリンピック', 'に', '合わせ', '、', '暗く', 'て', '汚い', 'イメージ', 'が', '強い', '公共トイレ', 'の', 'イメージ', 'を', '刷新', 'す', 'べく', '、', '日本', '財団', 'が', '著名', 'な', '建築家', 'や', 'デザイナー', 'を', '起用', 'し', 'て', '新設', 'する', 'プロジェクト', 'が', '進行中', 'で', 'ある', '。']",0.7854316505298394,0.9116310160427809,0.84853133328631,0.8575283724460725,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9,E
+対照的に南部の者達は自由労働者のことを「グリースにまみれた機械工、汚い運転者、拳の小さい（けちな）農夫、および気の触れた理論家達」と呼んでいた。,5684005,,N1,1.0,0.7391351,0.8695675432682037,対照的に南部の者達は自由労働者のことを「グリースにまみれた機械工、汚い運転者、拳の小さい（けちな）農夫、および気の触れた理論家達」と呼んでいた。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod
+      (ADJ_acl
+        (ADJ_advcl AUX_cop)
+        (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+        (NOUN_nmod
+          (NOUN_nmod
+            (NOUN_nmod
+              (VERB_acl
+                (NOUN_obj
+                  (NOUN_nmod NOUN_compound ADP_case)
+                  ADP_case)
+                (NOUN_obl PUNCT_punct ADP_case)
+                AUX_aux)
+              NOUN_compound
+              PUNCT_punct)
+            ADJ_acl
+            PUNCT_punct)
+          ADP_case)
+        PUNCT_punct
+        ADJ_advcl
+        PART_mark
+        PUNCT_punct)
+      PUNCT_punct)
+    CCONJ_cc
+    (VERB_acl (NOUN_nmod ADP_case) AUX_aux)
+    NOUN_compound
+    PUNCT_punct
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['対照的', 'に', '南部', 'の', '者', '達', 'は', '自由', '労働者', 'の', 'こと', 'を', '「', 'グリース', 'に', 'まみれ', 'た', '機械', '工', '、', '汚い', '運転者', '、', '拳', 'の', '小さい', '（', 'けち', 'な', '）', '農夫', '、', 'および', '気', 'の', '触れ', 'た', '理論家', '達', '」', 'と', '呼ん', 'で', 'い', 'た', '。']",0.7549064927555027,0.8978816526610645,0.8263940727082836,0.8479808079882436,1,貝殻を敷いた細い汚い横町で、貧民窟とでもいいそうな家並だ。,汚い,N1,9,E

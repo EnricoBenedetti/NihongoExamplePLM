@@ -1,0 +1,100 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+一方で投機にも手を出しては失敗を重ねていた。,-1,20001.0,N1,1.0,0.0,0.5,一方で投機にも手を出しては失敗を重ねていた。,"(VERB_ROOT
+  (NOUN_obl ADP_case)
+  (VERB_advcl
+    (NOUN_obl ADP_case ADP_case)
+    (NOUN_obj ADP_case)
+    SCONJ_mark
+    ADP_case)
+  (NOUN_obj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['一方', 'で', '投機', 'に', 'も', '手', 'を', '出し', 'て', 'は', '失敗', 'を', '重ね', 'て', 'い', 'た', '。']",,,,,1,一方で投機にも手を出しては失敗を重ねていた。,手,N1
+その後は賭博で身を持ち崩し、その資金稼ぎのために盗人稼業に手を染めるようになったと伝わる。,1858061,,N1,1.0,0.8070341,0.9035170376300812,その後は賭博で身を持ち崩し、その資金稼ぎのために盗人稼業に手を染めるようになったと伝わる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl ADP_case)
+      (NOUN_obl ADP_case)
+      (NOUN_obj ADP_case)
+      PUNCT_punct)
+    (NOUN_obl (NOUN_nmod DET_det NOUN_compound ADP_case) ADP_case)
+    (VERB_advcl
+      (NOUN_obl NOUN_compound ADP_case)
+      (NOUN_obj ADP_case)
+      AUX_aux
+      AUX_aux)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['その後', 'は', '賭博', 'で', '身', 'を', '持ち崩し', '、', 'その', '資金', '稼ぎ', 'の', 'ため', 'に', '盗人', '稼業', 'に', '手', 'を', '染める', 'よう', 'に', 'なっ', 'た', 'と', '伝わる', '。']",0.748254267891221,0.9258658008658008,0.8370600343785108,0.870288536004296,1,一方で投機にも手を出しては失敗を重ねていた。,手,N1
+そこで、再起を期すべく北海道に渡り、小売業を手がけるも長続きせず、今度はにしん漁投機に手を出しまたしても大損失をこうむってしまう。,3040254,,N1,1.0,0.9040398,0.952019900083542,そこで、再起を期すべく北海道に渡り、小売業を手がけるも長続きせず、今度はにしん漁投機に手を出しまたしても大損失をこうむってしまう。,"(VERB_ROOT
+  (PRON_obl ADP_case PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        (VERB_advcl
+          (VERB_advcl (NOUN_obj ADP_case) AUX_aux)
+          (PROPN_obl ADP_case)
+          PUNCT_punct)
+        (VERB_nsubj (NOUN_obj ADP_case) ADP_case)
+        AUX_aux
+        AUX_aux
+        PUNCT_punct)
+      (NOUN_obl ADP_case)
+      (NOUN_obl PROPN_compound ADP_case)
+      (NOUN_obj ADP_case)
+      ADV_punct)
+    SCONJ_mark
+    ADP_case)
+  (NOUN_obj NOUN_compound ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['そこ', 'で', '、', '再起', 'を', '期す', 'べく', '北海道', 'に', '渡り', '、', '小売業', 'を', '手がける', 'も', '長続き', 'せ', 'ず', '、', '今度', 'は', 'にしん漁', '投機', 'に', '手', 'を', '出し', 'また', 'し', 'て', 'も', '大', '損失', 'を', 'こうむっ', 'て', 'しまう', '。']",0.6338206045138117,0.8830860726995011,0.7584533386066564,0.8552366193450991,1,一方で投機にも手を出しては失敗を重ねていた。,手,N1
+この頃、麻薬取引にも手を染め、蓄財をしたとも言われる。,1885472,,N1,1.0,0.87818253,0.9390912652015686,この頃、麻薬取引にも手を染め、蓄財をしたとも言われる。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (NOUN_obl DET_det PUNCT_punct)
+      (NOUN_obl NOUN_compound ADP_case ADP_case)
+      (NOUN_obj ADP_case)
+      PUNCT_punct)
+    (NOUN_obj ADP_case)
+    AUX_aux
+    ADP_case
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['この', '頃', '、', '麻薬', '取引', 'に', 'も', '手', 'を', '染め', '、', '蓄財', 'を', 'し', 'た', 'と', 'も', '言わ', 'れる', '。']",0.6298554286171241,0.8582325838136674,0.7440440062153957,0.8415676357084821,1,一方で投機にも手を出しては失敗を重ねていた。,手,N1
+同社において庶務課長を務めるも、株式相場に手を出し大損失をこうむる。,3040253,,N1,1.0,0.90118456,0.950592279434204,同社において庶務課長を務めるも、株式相場に手を出し大損失をこうむる。,"(NOUN_ROOT
+  (VERB_advcl
+    (NOUN_obl (ADP_case VERB_fixed SCONJ_fixed))
+    (NOUN_obj (NOUN_nmod NOUN_nmod) ADP_case)
+    ADP_case
+    PUNCT_punct
+    (VERB_dep (NOUN_obl NOUN_compound ADP_case) (NOUN_obj ADP_case)))
+  (NOUN_obj NOUN_compound ADP_case)
+  PUNCT_punct)","['同社', 'に', 'おい', 'て', '庶務', '課', '長', 'を', '務める', 'も', '、', '株式', '相場', 'に', '手', 'を', '出し', '大', '損失', 'を', 'こうむる', '。']",0.5863472539775443,0.8377469763313808,0.7120471151544625,0.8313196972943333,1,一方で投機にも手を出しては失敗を重ねていた。,手,N1
+レンブラントは絵画制作のためにまたも美術品の蒐集などに手を出して借金を作っており、ついには、1662年にサスキアが眠るアウデ教会の墓所を売却するまでして金策に走っていた。,449112,,N1,1.0,0.85940176,0.929700881242752,レンブラントは絵画制作のためにまたも美術品の蒐集などに手を出して借金を作っており、ついには、1662年にサスキアが眠るアウデ教会の墓所を売却するまでして金策に走っていた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (VERB_advcl
+        (NOUN_obl (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+        (ADV_advmod ADP_case)
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+        (NOUN_obj ADP_case)
+        SCONJ_mark)
+      (NOUN_obj ADP_case)
+      (SCONJ_mark VERB_fixed)
+      PUNCT_punct)
+    (VERB_advcl
+      (NOUN_obj
+        (VERB_acl
+          (ADV_advmod ADP_case PUNCT_punct)
+          (NOUN_obl NUM_nummod ADP_case)
+          (PROPN_nsubj ADP_case))
+        (NOUN_nmod NOUN_compound ADP_case)
+        ADP_case)
+      AUX_aux
+      PART_mark)
+    SCONJ_mark)
+  (VERB_advcl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['レンブラント', 'は', '絵画', '制作', 'の', 'ため', 'に', 'また', 'も', '美術品', 'の', '蒐集', 'など', 'に', '手', 'を', '出し', 'て', '借金', 'を', '作っ', 'て', 'おり', '、', 'ついに', 'は', '、', '1662', '年', 'に', 'サスキア', 'が', '眠る', 'アウデ', '教会', 'の', '墓所', 'を', '売却', 'する', 'まで', 'し', 'て', '金策', 'に', '走っ', 'て', 'い', 'た', '。']",0.5781044297024814,0.8169582918146137,0.6975313607585476,0.8136161210006498,1,一方で投機にも手を出しては失敗を重ねていた。,手,N1

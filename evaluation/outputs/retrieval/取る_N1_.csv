@@ -1,0 +1,107 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,-1,20001.0,N1,1.0,0.0,0.5,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,"(VERB_ROOT
+  (NOUN_dislocated PRON_nmod ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_acl
+          (VERB_advcl
+            (NOUN_obj
+              (NOUN_nmod ADP_case)
+              (NOUN_nmod DET_det ADP_case)
+              NOUN_compound
+              (ADP_case VERB_fixed SCONJ_fixed))
+            SCONJ_mark
+            ADP_case))
+        (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+        ADP_case))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark AUX_fixed VERB_fixed)
+  PUNCT_punct)","['彼', 'ら', 'は', 'じつ', 'に', 'その', '生涯', 'の', '勤勉', '努力', 'を', 'もっ', 'て', 'し', 'て', 'も', 'なおかつ', '三十', '円', '以上', 'の', '月給', 'を', '取る', 'こと', 'が', '許さ', 'れ', 'ない', 'の', 'で', 'ある', '。']",,,,,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N1
+その発見者は絵を携え、話を交えてそ見物料を取って巡業したそうである。,3323526,,N1,1.0,0.6745607,0.8372803628444672,その発見者は絵を携え、話を交えてそ見物料を取って巡業したそうである。,"(NOUN_ROOT
+  DET_det
+  ADP_case
+  (VERB_dep
+    (VERB_advcl
+      (VERB_advcl (NOUN_obj ADP_case) PUNCT_punct)
+      (NOUN_obj ADP_case)
+      SCONJ_mark)
+    (NOUN_obj NOUN_compound NOUN_compound ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    AUX_aux
+    AUX_aux
+    (AUX_aux VERB_fixed)
+    PUNCT_punct))","['その', '発見者', 'は', '絵', 'を', '携え', '、', '話', 'を', '交え', 'て', 'そ', '見物', '料', 'を', '取っ', 'て', '巡業', 'し', 'た', 'そう', 'で', 'ある', '。']",0.9652832550397002,0.9204026360928048,0.9428429455662526,0.8900616542053599,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N1
+この販売価格からギャラリストは5割の手数料を取るが（ギャラリストの努力なしに売れる有名作家の場合この手数料は下がる）、こうして新作を売ることを一次流通（プライマリー・マーケット）という。,3586241,,N1,1.0,0.7646525,0.8823262453079224,この販売価格からギャラリストは5割の手数料を取るが（ギャラリストの努力なしに売れる有名作家の場合この手数料は下がる）、こうして新作を売ることを一次流通（プライマリー・マーケット）という。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj
+      (NOUN_nmod
+        (NOUN_nmod
+          (VERB_acl
+            (NOUN_obl
+              (VERB_nmod
+                (NOUN_obl DET_det ADP_case)
+                (NOUN_nsubj NOUN_compound ADP_case)
+                (NOUN_obj (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+                SCONJ_mark
+                PUNCT_punct
+                NOUN_compound
+                NOUN_compound
+                ADP_case)
+              NOUN_compound
+              ADP_case))
+          ADJ_amod
+          ADP_case))
+      DET_det
+      ADP_case)
+    PUNCT_punct
+    PUNCT_punct)
+  (NOUN_obj
+    (VERB_acl (VERB_advcl ADV_advmod SCONJ_mark) (NOUN_obj ADP_case))
+    ADP_case)
+  (NOUN_obl
+    NUM_compound
+    NOUN_compound
+    PUNCT_punct
+    NOUN_compound
+    SYM_compound
+    NOUN_compound
+    PUNCT_punct
+    ADP_case)
+  PUNCT_punct)","['この', '販売価格', 'から', 'ギャラ', 'リスト', 'は', '5', '割', 'の', '手数料', 'を', '取る', 'が', '（', 'ギャラ', 'リスト', 'の', '努力', 'なし', 'に', '売れる', '有名', '作家', 'の', '場合', 'この', '手数料', 'は', '下がる', '）', '、', 'こう', 'し', 'て', '新作', 'を', '売る', 'こと', 'を', '一', '次', '流通', '（', 'プライマリー', '・', 'マーケット', '）', 'と', 'いう', '。']",0.8943547113708272,0.8967204749770448,0.895537593173936,0.8889319192409292,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N1
+春秋時代の老子道徳経第75章には「民之飢以其上食税之多是以飢（民が飢えるのは政府が税を多く取りすぎるからである）」とある。,537941,,N1,1.0,0.6627843,0.8313921391963959,春秋時代の老子道徳経第75章には「民之飢以其上食税之多是以飢（民が飢えるのは政府が税を多く取りすぎるからである）」とある。,"(NOUN_ROOT
+  (VERB_acl (NOUN_nmod NOUN_compound ADP_case))
+  NOUN_compound)","['春秋', '時代', 'の', '老子', '道', '徳経', '第', '75', '章', 'に', 'は', '「', '民之', '飢', '以', '其', '上食', '税', '之', '多', '是', '以', '飢', '（', '民', 'が', '飢える', 'の', 'は', '政府', 'が', '税', 'を', '多く', '取り', 'すぎる', 'から', 'で', 'ある', '）', '」', 'と', 'ある', '。']",0.9254517300646466,0.891976125419834,0.9087139277422402,0.8700530334693181,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N1
+この中では、有給休暇を取ることすら罪悪のようにみなされた。,3115296,,N1,1.0,0.77391326,0.8869566321372986,この中では、有給休暇を取ることすら罪悪のようにみなされた。,"(VERB_ROOT
+  (NOUN_obl DET_det ADP_case ADP_case PUNCT_punct)
+  (NOUN_obl (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+  (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['この', '中', 'で', 'は', '、', '有給休暇', 'を', '取る', 'こと', 'すら', '罪悪', 'の', 'よう', 'に', 'みなさ', 'れ', 'た', '。']",0.8464800165399682,0.881064827799668,0.8637724221698181,0.8753645271535584,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N1
+変わったところでは、紀州藩の「熊野三山寄付貸付」があり、大名自らが金融業者になり利子を取るということまでしている。,459240,,N1,1.0,0.7270325,0.863516241312027,変わったところでは、紀州藩の「熊野三山寄付貸付」があり、大名自らが金融業者になり利子を取るということまでしている。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl (VERB_acl AUX_aux) ADP_case ADP_case PUNCT_punct)
+          (NOUN_nsubj
+            (NOUN_nmod PROPN_compound ADP_case)
+            PUNCT_punct
+            PROPN_compound
+            NUM_compound
+            NOUN_compound
+            VERB_compound
+            PUNCT_punct
+            ADP_case)
+          PUNCT_punct)
+        (NOUN_nsubj NOUN_compound ADP_case)
+        (NOUN_obl NOUN_compound ADP_case))
+      (NOUN_obj ADP_case)
+      (ADP_case VERB_fixed))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['変わっ', 'た', 'ところ', 'で', 'は', '、', '紀州', '藩', 'の', '「', '熊野', '三', '山', '寄付', '貸付', '」', 'が', 'あり', '、', '大名', '自ら', 'が', '金融業', '者', 'に', 'なり', '利子', 'を', '取る', 'と', 'いう', 'こと', 'まで', 'し', 'て', 'いる', '。']",0.8279203956829715,0.8718379041137023,0.8498791498983369,0.8566976956051819,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N1

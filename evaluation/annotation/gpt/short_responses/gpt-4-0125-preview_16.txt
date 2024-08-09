@@ -1,0 +1,81 @@
+System 1 sentences:
+1. Difficulty: N2; Sense: "similar"; Reject: "No"
+2. Difficulty: N2; Sense: "similar"; Reject: "No"
+3. Difficulty: N2; Sense: "similar"; Reject: "No"
+4. Difficulty: N3; Sense: "similar"; Reject: "No"
+5. Difficulty: N2; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System 2 sentences:
+1. Difficulty: N4; Sense: "not similar"; Reject: "No"
+2. Difficulty: N4; Sense: "not similar"; Reject: "No"
+3. Difficulty: N4; Sense: "not similar"; Reject: "No"
+4. Difficulty: N4; Sense: "not similar"; Reject: "No"
+5. Difficulty: N4; Sense: "not similar"; Reject: "No"
+Sentence diversity: "Low"
+
+System 3 sentences:
+1. Difficulty: N4; Sense: "not similar"; Reject: "No"
+2. Difficulty: N3; Sense: "not similar"; Reject: "No"
+3. Difficulty: N3; Sense: "similar"; Reject: "No"
+4. Difficulty: N3; Sense: "similar"; Reject: "No"
+5. Difficulty: N3; Sense: "similar"; Reject: "No"
+Sentence diversity: "Medium"
+
+System ranking: System 1 > System 3 > System 2
+
+Comment: System 1 provides sentences that are closer to the target difficulty level (N3) and maintain a similar sense to the context sentence, focusing on the aspect of being "the earliest" or "the first" in various contexts, which aligns well with the original sentence's theme. System 3, while not as closely aligned with the target difficulty level, offers a mix of sentences that are somewhat relevant to the context, especially sentences 3, 4, and 5, which directly address the concept of cities reaching population milestones. System 2's sentences, although easy to understand, diverge significantly in sense from the context sentence, focusing on speed and quickness in a more general and less contextually relevant manner, and the diversity in sentence structure and usage is low.
+System 1 sentences:
+1. Difficulty: N2; Sense: similar; Reject: No
+2. Difficulty: N2; Sense: similar; Reject: No
+3. Difficulty: N2; Sense: similar; Reject: No
+4. Difficulty: N2; Sense: similar; Reject: No
+5. Difficulty: N2; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N4; Sense: not similar; Reject: No
+2. Difficulty: N4; Sense: not similar; Reject: No
+3. Difficulty: N4; Sense: not similar; Reject: No
+4. Difficulty: N4; Sense: not similar; Reject: No
+5. Difficulty: N4; Sense: not similar; Reject: No
+Sentence diversity: Low
+
+System 3 sentences:
+1. Difficulty: N4; Sense: not similar; Reject: No
+2. Difficulty: N3; Sense: not similar; Reject: No
+3. Difficulty: N3; Sense: similar; Reject: No
+4. Difficulty: N3; Sense: similar; Reject: No
+5. Difficulty: N3; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides the best balance between difficulty level and relevance to the target context, with sentences that are more closely related to the original context of population growth and city development. System 1 offers sentences that are slightly more complex and also relevant but might be a bit challenging for N3 learners. System 2, while providing sentences at an easier level, diverges significantly in the sense of the target word, focusing on speed and quickness in a more general context rather than in relation to development or achievement milestones, making it the least useful for learners at the N3 level looking for contextually similar examples.
+System 1 sentences:
+1. Difficulty: N2; Sense: similar; Reject: No
+2. Difficulty: N2; Sense: similar; Reject: No
+3. Difficulty: N2; Sense: similar; Reject: No
+4. Difficulty: N3; Sense: similar; Reject: No
+5. Difficulty: N2; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System 2 sentences:
+1. Difficulty: N5; Sense: not similar; Reject: No
+2. Difficulty: N5; Sense: not similar; Reject: No
+3. Difficulty: N4; Sense: not similar; Reject: No
+4. Difficulty: N5; Sense: not similar; Reject: No
+5. Difficulty: N4; Sense: not similar; Reject: No
+Sentence diversity: Low
+
+System 3 sentences:
+1. Difficulty: N4; Sense: not similar; Reject: No
+2. Difficulty: N3; Sense: not similar; Reject: No
+3. Difficulty: N3; Sense: similar; Reject: No
+4. Difficulty: N3; Sense: similar; Reject: No
+5. Difficulty: N3; Sense: similar; Reject: No
+Sentence diversity: Medium
+
+System ranking: System 3 > System 1 > System 2
+
+Comment: System 3 provides sentences that are closest to the target difficulty level (N3) and maintains a good sense similarity with the context sentence, especially in sentences 3, 4, and 5, which directly address the concept of population growth and comparisons among cities. System 1 offers sentences that are slightly more complex (N2 level) but still relevant in terms of the usage of "早い" in contexts of development and establishment, showing a good sense similarity. System 2, however, presents very basic sentences (N5-N4 level) with uses of "早い" that diverge significantly from the original context of population growth and city development, thus being the least useful for learners aiming for N3 proficiency.

@@ -1,0 +1,56 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,-1,20001.0,N2,0.1999999999999999,0.0,0.0999999999999999,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,"(VERB_ROOT
+  (NOUN_advcl
+    (PRON_nsubj ADP_case)
+    (ADJ_acl AUX_cop PUNCT_punct)
+    (NOUN_nmod
+      (VERB_acl (NOUN_nmod ADP_case) NOUN_compound AUX_aux)
+      ADP_case)
+    NUM_nummod
+    AUX_cop
+    AUX_aux
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['これ', 'は', '結果的', 'に', '、', '後', 'の', 'メンバー', '昇格', 'する', '要因', 'の', '一', 'つ', 'だっ', 'た', 'と', '思わ', 'れる', '。']",,,,,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N4
+狙い目コレクションの一つになりました。,78407,,N5,0.8,0.76224136,0.7811206817626953,狙い目コレクションの一つになりました。,NOUN_ROOT,"['狙い目', 'コレクション', 'の', '一', 'つ', 'に', 'なり', 'まし', 'た', '。']",1.0,0.9141941391941392,0.9570970695970696,0.8691088756798825,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N4
+いつかどこかで使いたい言葉の一つです。,151985,,N4,1.0,0.71287274,0.8564363718032837,いつかどこかで使いたい言葉の一つです。,"(NOUN_ROOT
+  (PRON_nmod ADP_case)
+  (NOUN_nmod
+    (VERB_acl (PRON_obl ADP_case ADP_case) AUX_aux)
+    ADP_case)
+  NUM_nummod
+  AUX_cop
+  PUNCT_punct)","['いつ', 'か', 'どこ', 'か', 'で', '使い', 'たい', '言葉', 'の', '一', 'つ', 'です', '。']",0.9063847478481812,0.8917190446260214,0.8990518962371012,0.8777441340201925,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N4
+ドラえもん』のエピソードの一つである「シャーロックホームズセット」では、ホームズの推理法の紹介で、このパイプの持ち主当てが引用されている。,1399576,,N4,1.0,0.6670335,0.8335167467594147,ドラえもん』のエピソードの一つである「シャーロックホームズセット」では、ホームズの推理法の紹介で、このパイプの持ち主当てが引用されている。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_acl
+      (NOUN_nmod (PROPN_nmod PUNCT_punct ADP_case) ADP_case)
+      NUM_nummod
+      (AUX_cop VERB_fixed))
+    PUNCT_punct
+    PUNCT_punct
+    ADP_case
+    ADP_case
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod (PROPN_nmod ADP_case) NOUN_compound ADP_case)
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nsubj (NOUN_nmod DET_det ADP_case) VERB_acl ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['ドラえもん', '』', 'の', 'エピソード', 'の', '一', 'つ', 'で', 'ある', '「', 'シャーロックホームズセット', '」', 'で', 'は', '、', 'ホームズ', 'の', '推理', '法', 'の', '紹介', 'で', '、', 'この', 'パイプ', 'の', '持ち主', '当て', 'が', '引用', 'さ', 'れ', 'て', 'いる', '。']",0.8662872861035348,0.8856821106821107,0.8759846983928228,0.8547507225761187,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N4
+それが一つですよね。,150664,,N4,1.0,0.6625115,0.8312557637691498,それが一つですよね。,"(NOUN_ROOT
+  (PRON_nsubj ADP_case)
+  NUM_nummod
+  AUX_cop
+  PART_mark
+  PART_mark
+  PUNCT_punct)","['それ', 'が', '一', 'つ', 'です', 'よ', 'ね', '。']",0.8341579875211067,0.8720344681686991,0.8530962278449029,0.8421759958070263,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N4
+今朝の新聞の記事の一つがこれ。,59091,,N4,1.0,0.6634913,0.8317456543445587,今朝の新聞の記事の一つがこれ。,"(PRON_ROOT
+  (NOUN_nsubj
+    (NOUN_nmod (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    NUM_nummod
+    ADP_case)
+  PUNCT_punct)","['今朝', 'の', '新聞', 'の', '記事', 'の', '一', 'つ', 'が', 'これ', '。']",0.8134424240371736,0.8573061262570056,0.8353742751470896,0.8335599647458242,1,これは結果的に、後のメンバー昇格する要因の一つだったと思われる。,一つ,N4

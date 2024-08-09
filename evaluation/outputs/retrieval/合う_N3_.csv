@@ -1,0 +1,109 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level,block_id,random_ordering
+この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,-1,8553.0,N3,1.0,0.0,0.5,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det ADP_case ADP_case)
+    (NOUN_nsubj
+      (NOUN_nmod NOUN_compound ADP_case)
+      VERB_compound
+      ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['この', '段階', 'で', 'は', '主', '鏡', 'の', '位置', '合わせ', 'が', '行わ', 'れ', 'て', 'おら', 'ず', '、', '焦点', 'は', '合っ', 'て', 'い', 'ない', '。']",,,,,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12,I
+反射したビームの位相が合っているとき（上図）、結果生じるビームは比較的強くなる。,5518688,,N3,1.0,0.8130269,0.9065134525299072,反射したビームの位相が合っているとき（上図）、結果生じるビームは比較的強くなる。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_nsubj
+        (PROPN_nmod (VERB_acl AUX_aux AUX_aux) ADP_case)
+        ADP_case)
+      (SCONJ_mark VERB_fixed))
+    PUNCT_punct
+    NOUN_nmod
+    PUNCT_punct
+    PUNCT_punct)
+  (PROPN_nsubj (VERB_acl ADV_advmod) ADP_case)
+  (ADJ_advcl NOUN_obl)
+  PUNCT_punct)","['反射', 'し', 'た', 'ビーム', 'の', '位相', 'が', '合っ', 'て', 'いる', 'とき', '（', '上図', '）', '、', '結果', '生じる', 'ビーム', 'は', '比較的', '強く', 'なる', '。']",0.7572264804367651,0.9399703557312252,0.8485984180839952,0.8775559353069512,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12,I
+このように、実際にはピントが合っていてもいなくても点光源からの光が結像面上で結ぶ像は円形となり、この円のことを錯乱円と呼ぶ。,3082868,,N3,1.0,0.86436796,0.9321839809417723,このように、実際にはピントが合っていてもいなくても点光源からの光が結像面上で結ぶ像は円形となり、この円のことを錯乱円と呼ぶ。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_advcl DET_det AUX_cop PUNCT_punct)
+    (VERB_advcl
+      (VERB_advcl
+        (NOUN_obl ADP_case ADP_case)
+        (NOUN_nsubj ADP_case)
+        (SCONJ_mark VERB_fixed)
+        SCONJ_mark
+        ADP_case)
+      AUX_aux
+      SCONJ_mark
+      ADP_case)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_nsubj
+          (NOUN_nmod NOUN_compound ADP_case ADP_case)
+          ADP_case)
+        (NOUN_obl NOUN_compound ADP_case))
+      ADP_case)
+    (NOUN_obl ADP_case)
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod DET_det ADP_case) ADP_case)
+  (NOUN_obl NUM_compound ADP_case)
+  PUNCT_punct)","['この', 'よう', 'に', '、', '実際', 'に', 'は', 'ピント', 'が', '合っ', 'て', 'い', 'て', 'も', 'い', 'なく', 'て', 'も', '点', '光源', 'から', 'の', '光', 'が', '結像', '面上', 'で', '結ぶ', '像', 'は', '円形', 'と', 'なり', '、', 'この', '円', 'の', 'こと', 'を', '錯乱', '円', 'と', '呼ぶ', '。']",0.7124215493608368,0.8907909140667761,0.8016062317138064,0.8668951063277894,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12,I
+一方、下の写真では花の「シベ」の部分にしか焦点が合っておらず、花びらでさえ奥側と手前側はぼけている。,3082863,,N3,1.0,0.86158144,0.9307907223701476,一方、下の写真では花の「シベ」の部分にしか焦点が合っておらず、花びらでさえ奥側と手前側はぼけている。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+    (NOUN_obl
+      (NOUN_nmod
+        (NOUN_nmod ADP_case)
+        PUNCT_punct
+        PUNCT_punct
+        ADP_case)
+      ADP_case
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_advcl AUX_case ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['一方', '、', '下', 'の', '写真', 'で', 'は', '花', 'の', '「', 'シベ', '」', 'の', '部分', 'に', 'しか', '焦点', 'が', '合っ', 'て', 'おら', 'ず', '、', '花びら', 'で', 'さえ', '奥側', 'と', '手前', '側', 'は', 'ぼけ', 'て', 'いる', '。']",0.6883075184987089,0.8583104615059562,0.7733089900023326,0.8520498561862402,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12,I
+調整前の段階では、それぞれの主鏡を構成する18個のセグメントは位置や焦点が合っていないため、画像にはぼやけた18個の撮像が見られる。,2980465,,N3,1.0,0.9209631,0.9604815542697906,調整前の段階では、それぞれの主鏡を構成する18個のセグメントは位置や焦点が合っていないため、画像にはぼやけた18個の撮像が見られる。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl
+        (NOUN_nmod NOUN_compound ADP_case)
+        ADP_case
+        ADP_case
+        PUNCT_punct)
+      (NOUN_dislocated
+        (VERB_acl
+          (NOUN_obj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+          AUX_aux)
+        (NOUN_nmod NUM_nummod ADP_case)
+        ADP_case)
+      (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      (SCONJ_mark VERB_fixed)
+      AUX_aux)
+    PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl (NOUN_obl ADP_case ADP_case) AUX_aux)
+    (NOUN_nmod NUM_nummod ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['調整', '前', 'の', '段階', 'で', 'は', '、', 'それぞれ', 'の', '主', '鏡', 'を', '構成', 'する', '18', '個', 'の', 'セグメント', 'は', '位置', 'や', '焦点', 'が', '合っ', 'て', 'い', 'ない', 'ため', '、', '画像', 'に', 'は', 'ぼやけ', 'た', '18', '個', 'の', '撮像', 'が', '見', 'られる', '。']",0.6469913793357442,0.8221478288503139,0.7345696040930291,0.8475255791814098,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12,I
+被写界深度が深く、近景から遠景まですべてピントが合って見える。,3082886,,N3,1.0,0.8710805,0.93554025888443,被写界深度が深く、近景から遠景まですべてピントが合って見える。,"(VERB_ROOT
+  (ADJ_advcl
+    (NOUN_nsubj NOUN_compound NOUN_compound ADP_case)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    ADV_advmod
+    (NOUN_nsubj ADP_case)
+    SCONJ_mark)
+  PUNCT_punct)","['被写', '界', '深度', 'が', '深く', '、', '近景', 'から', '遠景', 'まで', 'すべて', 'ピント', 'が', '合っ', 'て', '見える', '。']",0.6272891596958792,0.8188511550091483,0.7230701573525138,0.8293052081184719,1,この段階では主鏡の位置合わせが行われておらず、焦点は合っていない。,合う,N3,12,I

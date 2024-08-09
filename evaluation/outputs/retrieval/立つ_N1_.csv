@@ -1,0 +1,100 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+しかし自分ながら、なぜそんなに腹が立つのだか分からない。,-1,20001.0,N2,0.8,0.0,0.4,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl SCONJ_mark PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    (ADJ_advcl AUX_aux)
+    (NOUN_nsubj ADP_case)
+    (SCONJ_mark AUX_fixed)
+    PART_mark)
+  AUX_aux
+  PUNCT_punct)","['しかし', '自分', 'ながら', '、', 'なぜ', 'そんな', 'に', '腹', 'が', '立つ', 'の', 'だ', 'か', '分から', 'ない', '。']",,,,,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N1
+その角の立つ性格故に一緒に働くことを難しくさせ、小さな任務に追い遣られた。,6852235,,N1,1.0,0.6862784,0.8431392014026642,その角の立つ性格故に一緒に働くことを難しくさせ、小さな任務に追い遣られた。,(NOUN_ROOT (VERB_acl (NOUN_nmod DET_det ADP_case))),"['その', '角', 'の', '立つ', '性格', '故', 'に', '一緒', 'に', '働く', 'こと', 'を', '難しく', 'さ', 'せ', '、', '小さな', '任務', 'に', '追い遣ら', 'れ', 'た', '。']",1.0,0.9551282051282052,0.9775641025641024,0.9103516519833834,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N1
+神は人から本来の姿になれれば大変お喜びになるが、そこらにいる人間は「本地」（本音、本性）を現わせば腹の立つ事にしかならないのがおかしい。,8968779,,N1,1.0,0.8078991,0.9039495587348938,神は人から本来の姿になれれば大変お喜びになるが、そこらにいる人間は「本地」（本音、本性）を現わせば腹の立つ事にしかならないのがおかしい。,"(ADJ_ROOT
+  (VERB_csubj
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (VERB_advcl
+        (NOUN_obl ADP_case)
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+        SCONJ_mark)
+      (NOUN_obl ADV_advmod NOUN_compound ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_nsubj (VERB_acl (NOUN_obl PRON_nmod ADP_case)) ADP_case)
+    (VERB_advcl
+      (NOUN_obj
+        (NOUN_nmod
+          PUNCT_punct
+          NOUN_compound
+          PUNCT_punct
+          PUNCT_punct
+          PUNCT_punct)
+        PUNCT_punct
+        ADP_case)
+      SCONJ_mark)
+    (NOUN_obl (VERB_acl (NOUN_nmod ADP_case)) ADP_case ADP_case)
+    AUX_aux
+    SCONJ_mark
+    ADP_case)
+  PUNCT_punct)","['神', 'は', '人', 'から', '本来', 'の', '姿', 'に', 'なれれ', 'ば', '大変', 'お', '喜び', 'に', 'なる', 'が', '、', 'そこ', 'ら', 'に', 'いる', '人間', 'は', '「', '本地', '」', '（', '本音', '、', '本性', '）', 'を', '現わせ', 'ば', '腹', 'の', '立つ', '事', 'に', 'しか', 'なら', 'ない', 'の', 'が', 'おかしい', '。']",0.8882111384876564,0.9234218077474892,0.9058164731175729,0.9048830159262332,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N1
+ロケで金屏風立てて小便しよるんダ、アホクサイやら腹が立つやら、指差して笑ろうたら付人に見つかって告げ口された」「ここで思い入れあって大石泣くという芝居ダ。,7238661,,N1,1.0,0.75212044,0.8760602176189423,ロケで金屏風立てて小便しよるんダ、アホクサイやら腹が立つやら、指差して笑ろうたら付人に見つかって告げ口された」「ここで思い入れあって大石泣くという芝居ダ。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_advcl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl ADP_case)
+          (VERB_obl PART_mark)
+          SCONJ_mark)
+        AUX_mark
+        VERB_case
+        SCONJ_mark
+        NUM_compound
+        PUNCT_punct)
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    PART_mark
+    PUNCT_punct)
+  SCONJ_mark
+  NOUN_dep)","['ロケ', 'で', '金屏', '風', '立て', 'て', '小便', 'し', 'よる', 'ん', 'ダ', '、', 'アホクサイ', 'やら', '腹', 'が', '立つ', 'やら', '、', '指差し', 'て', '笑', 'ろう', 'たら', '付人', 'に', '見つかっ', 'て', '告げ口', 'さ', 'れ', 'た', '」', '「', 'ここ', 'で', '思い入れ', 'あっ', 'て', '大石', '泣く', 'と', 'いう', '芝居', 'ダ', '。']",0.8974301509783179,0.9080323952244752,0.9027312731013966,0.8893957453601694,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N1
+マラソンのトップ選手に至るまでの過程から、勝負にこだわるのがマラソンであり、楽しそうに走っている市民ランナーを見ると腹が立つと発言したこともあった。,2582705,,N1,1.0,0.78974056,0.8948702812194824,マラソンのトップ選手に至るまでの過程から、勝負にこだわるのがマラソンであり、楽しそうに走っている市民ランナーを見ると腹が立つと発言したこともあった。,"(VERB_ROOT
+  (NOUN_advcl
+    (VERB_csubj
+      (NOUN_obl
+        (NOUN_nmod
+          (NOUN_nmod ADP_case)
+          NOUN_compound
+          (ADP_case VERB_fixed ADP_fixed)
+          ADP_case)
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl ADP_case)
+      SCONJ_mark
+      ADP_case)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obj
+        (VERB_acl
+          (ADJ_advcl AUX_aux AUX_aux)
+          (SCONJ_mark VERB_fixed))
+        NOUN_compound
+        ADP_case)
+      SCONJ_mark)
+    (NOUN_nsubj ADP_case)
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (NOUN_compound ADP_fixed VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['マラソン', 'の', 'トップ', '選手', 'に', '至る', 'まで', 'の', '過程', 'から', '、', '勝負', 'に', 'こだわる', 'の', 'が', 'マラソン', 'で', 'あり', '、', '楽し', 'そう', 'に', '走っ', 'て', 'いる', '市民', 'ランナー', 'を', '見る', 'と', '腹', 'が', '立つ', 'と', '発言', 'し', 'た', 'こと', 'も', 'あっ', 'た', '。']",0.8770410617359502,0.8859789689510851,0.8815100153435176,0.8881901482815,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N1
+度胸のない自分に、我ながらひどく腹が立った。,203468,,N1,1.0,0.78724134,0.8936206698417664,度胸のない自分に、我ながらひどく腹が立った。,"(VERB_ROOT
+  (PRON_advcl
+    (NOUN_obl (ADJ_acl (NOUN_nmod ADP_case)) ADP_case PUNCT_punct)
+    SCONJ_mark)
+  ADJ_advcl
+  (NOUN_nsubj ADP_case)
+  AUX_aux
+  PUNCT_punct)","['度胸', 'の', 'ない', '自分', 'に', '、', '我', 'ながら', 'ひどく', '腹', 'が', '立っ', 'た', '。']",0.842021928717355,0.8783696356834655,0.8601957822004103,0.8769082260210883,1,しかし自分ながら、なぜそんなに腹が立つのだか分からない。,立つ,N1

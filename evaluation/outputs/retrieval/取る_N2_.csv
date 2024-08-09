@@ -1,0 +1,76 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,-1,20001.0,N1,0.6,0.0,0.3,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,"(VERB_ROOT
+  (NOUN_dislocated PRON_nmod ADP_case)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_acl
+          (VERB_advcl
+            (NOUN_obj
+              (NOUN_nmod ADP_case)
+              (NOUN_nmod DET_det ADP_case)
+              NOUN_compound
+              (ADP_case VERB_fixed SCONJ_fixed))
+            SCONJ_mark
+            ADP_case))
+        (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+        ADP_case))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark AUX_fixed VERB_fixed)
+  PUNCT_punct)","['彼', 'ら', 'は', 'じつ', 'に', 'その', '生涯', 'の', '勤勉', '努力', 'を', 'もっ', 'て', 'し', 'て', 'も', 'なおかつ', '三十', '円', '以上', 'の', '月給', 'を', '取る', 'こと', 'が', '許さ', 'れ', 'ない', 'の', 'で', 'ある', '。']",,,,,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N2
+貧乏画学生から高額なお金は取りたくないと、セツの意向で授業料は他の専門学校と比べても安かった。,4102260,,N2,1.0,0.7596191,0.879809558391571,貧乏画学生から高額なお金は取りたくないと、セツの意向で授業料は他の専門学校と比べても安かった。,(NOUN_ROOT NOUN_compound),"['貧乏', '画学', '生', 'から', '高額', 'な', 'お金', 'は', '取り', 'たく', 'ない', 'と', '、', 'セツ', 'の', '意向', 'で', '授業料', 'は', '他', 'の', '専門学校', 'と', '比べ', 'て', 'も', '安かっ', 'た', '。']",1.0,0.9393817204301076,0.9696908602150538,0.9247502093033124,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N2
+研究費を取るにも差別はなかったし、ほとんど不便は感じない」と述べる。,2085196,,N2,1.0,0.80862284,0.9043114185333252,研究費を取るにも差別はなかったし、ほとんど不便は感じない」と述べる。,"(VERB_ROOT
+  (ADJ_advcl
+    (VERB_advcl (NOUN_obj ADP_case) ADP_case ADP_case)
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    ADV_advmod
+    (NOUN_nsubj ADP_case)
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  PUNCT_punct)","['研究費', 'を', '取る', 'に', 'も', '差別', 'は', 'なかっ', 'た', 'し', '、', 'ほとんど', '不便', 'は', '感じ', 'ない', '」', 'と', '述べる', '。']",0.9301985612944854,0.9144025933930224,0.922300577343754,0.9133059979385396,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N2
+住宅金融公庫の融資を受けて建築された物件も礼金を取ることを禁じられている。,2037292,,N2,1.0,0.8110663,0.9055331647396088,住宅金融公庫の融資を受けて建築された物件も礼金を取ることを禁じられている。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obj
+          (NOUN_nmod NOUN_compound NOUN_compound ADP_case)
+          ADP_case)
+        SCONJ_mark)
+      AUX_aux
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  (NOUN_obj (VERB_acl (NOUN_obj ADP_case)) ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['住宅', '金融', '公庫', 'の', '融資', 'を', '受け', 'て', '建築', 'さ', 'れ', 'た', '物件', 'も', '礼金', 'を', '取る', 'こと', 'を', '禁じ', 'られ', 'て', 'いる', '。']",0.8252050271843594,0.8980224165137753,0.8616137218490674,0.8835734432943381,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N2
+収入はチップによる歩合を取ることもある。,4251078,,N2,1.0,0.79981923,0.8999096155166626,収入はチップによる歩合を取ることもある。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  (NOUN_obj (NOUN_nmod (ADP_case VERB_fixed)) ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['収入', 'は', 'チップ', 'に', 'よる', '歩合', 'を', '取る', 'こと', 'も', 'ある', '。']",0.767781371038142,0.8824260175880095,0.8251036943130758,0.8625066549148692,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N2
+また、一般の大学生と違い陸軍の軍事教練の単位を取る必要も無く、この面でも優遇されていた。,2206653,,N2,1.0,0.7565402,0.8782700896263123,また、一般の大学生と違い陸軍の軍事教練の単位を取る必要も無く、この面でも優遇されていた。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (ADJ_advcl
+    (NOUN_nsubj
+      (VERB_acl
+        (VERB_advcl (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+        (NOUN_obj
+          (NOUN_nmod (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+          ADP_case))
+      ADP_case)
+    PUNCT_punct)
+  (NOUN_obl DET_det ADP_case ADP_case)
+  AUX_aux
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['また', '、', '一般', 'の', '大学生', 'と', '違い', '陸軍', 'の', '軍事', '教練', 'の', '単位', 'を', '取る', '必要', 'も', '無く', '、', 'この', '面', 'で', 'も', '優遇', 'さ', 'れ', 'て', 'い', 'た', '。']",0.7652619602263254,0.8739881658792181,0.8196250630527717,0.848947576339542,1,彼らはじつにその生涯の勤勉努力をもってしてもなおかつ三十円以上の月給を取ることが許されないのである。,取る,N2

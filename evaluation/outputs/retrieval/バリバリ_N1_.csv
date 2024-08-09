@@ -1,0 +1,82 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分の将来の目的に向かってバリバリ勉強していた。,-1,82.0,N2,0.8,0.0,0.4,自分の将来の目的に向かってバリバリ勉強していた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    SCONJ_mark)
+  ADV_advmod
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['自分', 'の', '将来', 'の', '目的', 'に', '向かっ', 'て', 'バリバリ', '勉強', 'し', 'て', 'い', 'た', '。']",,,,,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N1
+ベンチャー企業でヘッドハンティングされた小野寺優芽子は仕事もバリバリこなす女性として通っているが、プライベートでは家事もファッションも適当という極めつき残念女子である。,12202268,,N1,1.0,0.70377654,0.8518882691860199,ベンチャー企業でヘッドハンティングされた小野寺優芽子は仕事もバリバリこなす女性として通っているが、プライベートでは家事もファッションも適当という極めつき残念女子である。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_nsubj
+      (VERB_acl (NOUN_obl ADP_case) AUX_aux AUX_aux AUX_aux)
+      PROPN_compound
+      ADP_case)
+    (NOUN_nsubj ADP_case)
+    (NOUN_obl (VERB_acl ADV_advmod) (ADP_case AUX_fixed SCONJ_fixed))
+    (SCONJ_mark VERB_fixed)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_nmod
+    (NOUN_nsubj (NOUN_nsubj ADP_case) ADP_case)
+    (ADP_case VERB_fixed))
+  (ADJ_acl ADJ_advcl)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['ベンチャー企業', 'で', 'ヘッドハンティング', 'さ', 'れ', 'た', '小野寺', '優芽子', 'は', '仕事', 'も', 'バリバリ', 'こなす', '女性', 'と', 'し', 'て', '通っ', 'て', 'いる', 'が', '、', 'プライベート', 'で', 'は', '家事', 'も', 'ファッション', 'も', '適当', 'と', 'いう', '極めつき', '残念', '女子', 'で', 'ある', '。']",0.7299160115960505,0.9290603033666296,0.82948815748134,0.8406882133336799,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N1
+バリバリ仕事をこなす傍らで、健太に密かな想いを寄せていた。,2716449,,N1,1.0,0.66166747,0.8308337330818176,バリバリ仕事をこなす傍らで、健太に密かな想いを寄せていた。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl ADV_advmod (NOUN_obj ADP_case))
+    ADP_case
+    PUNCT_punct)
+  (PROPN_obl ADP_case)
+  (NOUN_obj (ADJ_acl AUX_aux) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['バリバリ', '仕事', 'を', 'こなす', '傍ら', 'で', '、', '健太', 'に', '密か', 'な', '想い', 'を', '寄せ', 'て', 'い', 'た', '。']",0.5990022364914203,0.8855413828761505,0.7422718096837854,0.7865527713828016,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N1
+幹夫はクレーム係の仕事をバリバリこなし、毎朝お弁当まで作る。,6835635,,N2,0.8,0.7554596,0.7777298033237457,幹夫はクレーム係の仕事をバリバリこなし、毎朝お弁当まで作る。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_nsubj ADP_case)
+    (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) ADP_case)
+    ADV_advmod
+    PUNCT_punct)
+  ADV_advmod
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['幹夫', 'は', 'クレーム', '係', 'の', '仕事', 'を', 'バリバリ', 'こなし', '、', '毎朝', 'お弁当', 'まで', '作る', '。']",0.6217210516661131,0.8819442069583873,0.7518326293122501,0.7647812163179979,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N1
+海賊精神を発揮してお互いバリバリやりましょう」といわれた。,4621544,,N2,0.8,0.739393,0.7696964979171753,海賊精神を発揮してお互いバリバリやりましょう」といわれた。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl (NOUN_obj NOUN_compound ADP_case) AUX_aux SCONJ_mark)
+    (NOUN_obl NOUN_compound)
+    ADV_advmod
+    AUX_aux
+    PUNCT_punct
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['海賊', '精神', 'を', '発揮', 'し', 'て', 'お', '互い', 'バリバリ', 'やり', 'ましょう', '」', 'と', 'いわ', 'れ', 'た', '。']",0.6312313040131637,0.8742872049169866,0.7527592544650752,0.7612278761911253,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N1
+体脂肪がまったくないと言ってもいい程のその身体には、縦横無尽に筋繊維のストリエーションが走り、その様は「バリバリ伝説」と評され、ボディビル界の一時代を築いた。,10650335,,N1,1.0,0.5346189,0.7673094570636749,体脂肪がまったくないと言ってもいい程のその身体には、縦横無尽に筋繊維のストリエーションが走り、その様は「バリバリ伝説」と評され、ボディビル界の一時代を築いた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (VERB_nmod
+          (ADJ_ccomp (NOUN_nsubj ADP_case) ADV_advmod ADP_case)
+          (SCONJ_mark ADP_fixed AUX_fixed)
+          PART_mark
+          ADP_case)
+        DET_det
+        ADP_case
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl ADP_case)
+      (PROPN_nsubj (NOUN_nmod ADP_case) ADP_case)
+      PUNCT_punct)
+    (NOUN_obl DET_det ADP_case)
+    (ADV_advmod PUNCT_punct)
+    (NOUN_obl PUNCT_punct ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obj (NOUN_nmod NOUN_compound ADP_case) NUM_nummod ADP_case)
+  AUX_aux
+  PUNCT_punct)","['体脂肪', 'が', 'まったく', 'ない', 'と', '言っ', 'て', 'も', 'いい', '程', 'の', 'その', '身体', 'に', 'は', '、', '縦横無尽', 'に', '筋繊維', 'の', 'ストリエーション', 'が', '走り', '、', 'その', '様', 'は', '「', 'バリバリ', '伝説', '」', 'と', '評さ', 'れ', '、', 'ボディビル', '界', 'の', '一', '時代', 'を', '築い', 'た', '。']",0.6150749800800241,0.8694849582034143,0.7422799691417192,0.7547947131026971,1,自分の将来の目的に向かってバリバリ勉強していた。,バリバリ,N1

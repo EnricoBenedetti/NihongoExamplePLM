@@ -1,0 +1,33 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,-1,1221.0,N3,0.6,0.0,0.3,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_nmod ADP_case) ADP_case PUNCT_punct)
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (PROPN_nmod
+          (ADJ_acl (NOUN_obl ADV_advmod NUM_nummod) ADV_advmod)
+          ADP_case)
+        ADP_case))
+    ADP_case)
+  PUNCT_punct)","['作家', 'と', '読者', 'は', '、', 'もう', 'いち', 'ど', '全然', 'あたらしく', '地割り', 'の', '協定', 'を', 'やり直す', '必要', 'が', 'ある', '。']",,,,,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N4
+今、それは全然違うんですよ。,132578,,N4,1.0,0.7384232,0.8692116141319275,今、それは全然違うんですよ。,"(VERB_ROOT
+  (ADV_advmod PUNCT_punct)
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (SCONJ_mark AUX_fixed)
+  PART_mark
+  PUNCT_punct)","['今', '、', 'それ', 'は', '全然', '違う', 'ん', 'です', 'よ', '。']",0.8333333333333334,0.9655172413793104,0.8994252873563218,0.8843184507441246,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N4
+左右全然違って感じました。,92493,,N4,1.0,0.7213811,0.86069056391716,左右全然違って感じました。,"(VERB_ROOT
+  (VERB_advcl (ADV_advmod NOUN_compound) SCONJ_mark)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['左右', '全然', '違っ', 'て', '感じ', 'まし', 'た', '。']",0.7732645447933836,0.9594594594594594,0.8663620021264216,0.8635262830217908,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N4
+この本は全然おもしろくない。,285351,,N4,1.0,0.70138514,0.8506925702095032,この本は全然おもしろくない。,"(ADJ_ROOT
+  (ADJ_advcl (NOUN_nsubj DET_det ADP_case) ADV_advmod)
+  PUNCT_punct)","['この', '本', 'は', '全然', 'おもしろく', 'ない', '。']",0.7490759249483449,0.9426136363636364,0.8458447806559906,0.8482686754327469,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N4
+いや、全然違う。,11197524,,N4,1.0,0.7220465,0.8610232472419739,いや、全然違う。,(VERB_ROOT (INTJ_dep PUNCT_punct) ADV_advmod PUNCT_punct),"['いや', '、', '全然', '違う', '。']",0.7099146001260295,0.9223098330241188,0.816112216575074,0.838567731908524,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N4
+以下は記憶なので実際とは全然違うと思います。,96834,,N4,1.0,0.72149795,0.8607489764690399,以下は記憶なので実際とは全然違うと思います。,"(VERB_ROOT
+  (NOUN_advcl (NOUN_obl ADP_case) AUX_cop (SCONJ_mark AUX_fixed))
+  (VERB_ccomp (NOUN_obl ADP_case ADP_case) ADV_advmod ADP_case)
+  AUX_aux
+  PUNCT_punct)","['以下', 'は', '記憶', 'な', 'の', 'で', '実際', 'と', 'は', '全然', '違う', 'と', '思い', 'ます', '。']",0.7046715348542609,0.8959196783819628,0.8002956066181119,0.8305222915435759,1,作家と読者は、もういちど全然あたらしく地割りの協定をやり直す必要がある。,全然,N4

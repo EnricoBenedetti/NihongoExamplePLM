@@ -1,0 +1,61 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+自分の意思で、内部に入ろうと思わなければ、中には入れない。,-1,20001.0,N3,0.6,0.0,0.3,自分の意思で、内部に入ろうと思わなければ、中には入れない。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_ccomp
+      (NOUN_advcl (NOUN_nmod ADP_case) AUX_cop PUNCT_punct)
+      (NOUN_obl ADP_case)
+      ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl ADP_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['自分', 'の', '意思', 'で', '、', '内部', 'に', '入ろう', 'と', '思わ', 'なけれ', 'ば', '、', '中', 'に', 'は', '入れ', 'ない', '。']",,,,,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N4
+トムが玄関にいるのでなかに入るように言ってください。,266159,,N4,1.0,0.7655864,0.8827931880950928,トムが玄関にいるのでなかに入るように言ってください。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl ADP_case)
+      (SCONJ_mark AUX_fixed))
+    (NOUN_obl ADP_case)
+    AUX_aux
+    AUX_aux)
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['トム', 'が', '玄関', 'に', 'いる', 'の', 'で', 'なか', 'に', '入る', 'よう', 'に', '言っ', 'て', 'ください', '。']",0.6410432638575663,0.9428571428571428,0.7919502033573546,0.8373716957262236,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N4
+吸い終わったらすぐ部屋の中に入るなら問題ないですか？,303781,,N4,1.0,0.7805229,0.8902614414691925,吸い終わったらすぐ部屋の中に入るなら問題ないですか？,"(ADJ_ROOT
+  (VERB_advcl VERB_advcl AUX_aux)
+  (VERB_advcl
+    ADV_advmod
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux)
+  NOUN_compound
+  AUX_aux
+  PART_mark
+  PUNCT_punct)","['吸い', '終わっ', 'たら', 'すぐ', '部屋', 'の', '中', 'に', '入る', 'なら', '問題', 'ない', 'です', 'か', '？']",0.6061253479262467,0.9243617021276596,0.7652435250269531,0.8277524832480728,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N4
+今まで誰もその部屋へ入ることはできなかった。,240445,,N4,1.0,0.78748935,0.8937446773052216,今まで誰もその部屋へ入ることはできなかった。,"(VERB_ROOT
+  NOUN_obl
+  (NOUN_nsubj
+    (VERB_acl (PRON_nsubj ADP_case) (NOUN_obl DET_det ADP_case))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['今まで', '誰', 'も', 'その', '部屋', 'へ', '入る', 'こと', 'は', 'でき', 'なかっ', 'た', '。']",0.5854464440072487,0.924065106268496,0.7547557751378724,0.824250226221547,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N4
+君が中へ入ってくるとき僕を起こさないほうがいい。,246691,,N4,1.0,0.744215,0.8721075057983398,君が中へ入ってくるとき僕を起こさないほうがいい。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obl
+        (VERB_acl
+          (VERB_advcl
+            (PRON_nsubj ADP_case)
+            (NOUN_obl ADP_case)
+            SCONJ_mark)))
+      (PRON_obj ADP_case)
+      AUX_aux)
+    ADP_case)
+  PUNCT_punct)","['君', 'が', '中', 'へ', '入っ', 'て', 'くる', 'とき', '僕', 'を', '起こさ', 'ない', 'ほう', 'が', 'いい', '。']",0.6121299467536949,0.9172938761546356,0.7647119114541653,0.8184097086262525,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N4
+さて、中に入ってみましょう。,100295,,N4,1.0,0.78408134,0.8920406699180603,さて、中に入ってみましょう。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['さて', '、', '中', 'に', '入っ', 'て', 'み', 'ましょう', '。']",0.5813589578207639,0.8962393511494924,0.7387991544851281,0.8154199122015942,1,自分の意思で、内部に入ろうと思わなければ、中には入れない。,入る,N4

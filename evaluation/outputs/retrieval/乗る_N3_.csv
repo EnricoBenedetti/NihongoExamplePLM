@@ -1,0 +1,79 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,-1,18305.0,N2,0.6,0.0,0.3,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl INTJ_advmod (NOUN_nsubj ADP_case) ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj ADP_case)
+  (NOUN_obl PRON_nmod (ADJ_acl AUX_aux) ADP_case AUX_cop ADP_case)
+  PUNCT_punct)","['いざ', '金', 'が', 'いる', 'と', 'なる', 'と', '、', 'ポルジイ', 'は', 'どんな', '危険', 'な', '相談', 'に', 'で', 'も', '乗る', '。']",,,,,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N3
+調子に乗る」を意味する動詞「いちびる」が名詞化したものである。,5421506,,N3,1.0,0.6298968,0.8149484097957611,調子に乗る」を意味する動詞「いちびる」が名詞化したものである。,"(NOUN_ROOT
+  (VERB_acl
+    (VERB_advcl (NOUN_obl ADP_case) PUNCT_punct ADP_case)
+    AUX_aux))","['調子', 'に', '乗る', '」', 'を', '意味', 'する', '動詞', '「', 'い', 'ちびる', '」', 'が', '名詞', '化', 'し', 'た', 'もの', 'で', 'ある', '。']",0.9137311181857244,0.95625,0.9349905590928622,0.8749694844443117,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N3
+卒園者たちの結婚や生活の悩みの相談にも乗っていた。,10665717,,N3,1.0,0.7778338,0.8889169096946716,卒園者たちの結婚や生活の悩みの相談にも乗っていた。,"(VERB_ROOT
+  (NOUN_obl
+    (NOUN_nmod
+      (NOUN_nmod
+        (NOUN_nmod NOUN_compound NOUN_compound ADP_case)
+        ADP_case)
+      (NOUN_nmod ADP_case)
+      ADP_case)
+    ADP_case
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['卒園', '者', 'たち', 'の', '結婚', 'や', '生活', 'の', '悩み', 'の', '相談', 'に', 'も', '乗っ', 'て', 'い', 'た', '。']",0.8655162048488998,0.9307993730407524,0.898157788944826,0.8935373493197488,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N3
+しかし皐月は惚れ薬の調合方法は知らないし、自身も恋人がいたことがないため、娘の相談に乗ることができなかった。,10141974,,N3,1.0,0.78113544,0.8905677199363708,しかし皐月は惚れ薬の調合方法は知らないし、自身も恋人がいたことがないため、娘の相談に乗ることができなかった。,"(VERB_ROOT
+  CCONJ_cc
+  (VERB_advcl
+    (PROPN_nsubj ADP_case)
+    (NOUN_nsubj (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obl
+    (ADJ_acl
+      (NOUN_nsubj ADP_case)
+      (NOUN_nsubj (VERB_acl (NOUN_nsubj ADP_case) AUX_aux) ADP_case))
+    PUNCT_punct)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['しかし', '皐月', 'は', '惚れ薬', 'の', '調合', '方法', 'は', '知ら', 'ない', 'し', '、', '自身', 'も', '恋人', 'が', 'い', 'た', 'こと', 'が', 'ない', 'ため', '、', '娘', 'の', '相談', 'に', '乗る', 'こと', 'が', 'でき', 'なかっ', 'た', '。']",0.8175384167818521,0.8820287502352719,0.8497835835085621,0.8701756517224665,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N3
+一部資料によると、引退する時にカポネから10年間利益の25％をもらい、カポネの相談には乗るという約束をしたという。,4558139,,N3,1.0,0.77874637,0.8893731832504272,一部資料によると、引退する時にカポネから10年間利益の25％をもらい、カポネの相談には乗るという約束をしたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obj
+      (VERB_acl
+        (VERB_advcl
+          (NOUN_obl
+            NOUN_compound
+            (ADP_case VERB_fixed SCONJ_fixed)
+            PUNCT_punct)
+          (NOUN_obl (VERB_acl AUX_aux) ADP_case)
+          (NOUN_obl ADP_case)
+          (NOUN_obj
+            (NOUN_nmod NUM_compound NOUN_compound ADP_case)
+            NUM_nummod
+            ADP_case)
+          PUNCT_punct)
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case ADP_case)
+        (ADP_case VERB_fixed))
+      ADP_case)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['一部', '資料', 'に', 'よる', 'と', '、', '引退', 'する', '時', 'に', 'カポネ', 'から', '10', '年間', '利益', 'の', '25', '％', 'を', 'もらい', '、', 'カポネ', 'の', '相談', 'に', 'は', '乗る', 'と', 'いう', '約束', 'を', 'し', 'た', 'と', 'いう', '。']",0.8029780816765182,0.8619974679619677,0.832487774819243,0.8609304790348351,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N3
+妻から頼りにされ、政治的な相談にもよく乗っていたという。,10584790,,N3,1.0,0.7960411,0.8980205357074738,妻から頼りにされ、政治的な相談にもよく乗っていたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (VERB_advcl
+      (NOUN_obl ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_obl (ADJ_acl AUX_cop) ADP_case ADP_case)
+    ADV_advmod
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['妻', 'から', '頼り', 'に', 'さ', 'れ', '、', '政治的', 'な', '相談', 'に', 'も', 'よく', '乗っ', 'て', 'い', 'た', 'と', 'いう', '。']",0.7643750862898921,0.8262328895717462,0.7953039879308192,0.8466622618191465,1,いざ金がいるとなると、ポルジイはどんな危険な相談にでも乗る。,乗る,N3

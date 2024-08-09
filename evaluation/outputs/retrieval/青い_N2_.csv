@@ -1,0 +1,69 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,-1,3936.0,N3,0.8,0.0,0.4,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,"(VERB_ROOT
+  (VERB_advcl (NOUN_obj ADP_case) AUX_aux ADP_case)
+  (NOUN_obl ADP_case)
+  (NOUN_obl ADJ_amod ADP_case)
+  (NOUN_nsubj (NOUN_nmod ADJ_acl ADP_case) ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['クリスタル', 'を', '取得', 'する', 'と', '以降', 'は', '同じ', '位置', 'に', '青い', '星', 'の', 'かけら', 'が', '配置', 'さ', 'れる', '。']",,,,,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N2
+どの演出とも、復活演出として青い炎の後、四号機に乗ったカヲルが登場したら確変大当たり確定となる。,6051827,,N2,1.0,0.76205695,0.8810284733772278,どの演出とも、復活演出として青い炎の後、四号機に乗ったカヲルが登場したら確変大当たり確定となる。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl DET_det ADP_case ADP_case PUNCT_punct)
+    (NOUN_nsubj
+      (VERB_acl
+        (NOUN_obl NOUN_compound (ADP_case AUX_fixed SCONJ_fixed))
+        (NOUN_obl (NOUN_nmod ADJ_acl ADP_case) PUNCT_punct)
+        (NOUN_obl NUM_nummod ADP_case)
+        AUX_aux)
+      ADP_case)
+    AUX_aux
+    AUX_aux)
+  NOUN_compound)","['どの', '演出', 'と', 'も', '、', '復活', '演出', 'と', 'し', 'て', '青い', '炎', 'の', '後', '、', '四', '号機', 'に', '乗っ', 'た', 'カヲル', 'が', '登場', 'し', 'たら', '確変', '大当たり', '確定', 'と', 'なる', '。']",0.9380716566653132,0.9397916666666668,0.93893166166599,0.9099800675216088,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N2
+頭には青い星が付いており、キノコのような形状した、黄色い宇宙人の男の子で、主人公である。,5604226,,N2,1.0,0.84994036,0.9249701797962188,頭には青い星が付いており、キノコのような形状した、黄色い宇宙人の男の子で、主人公である。,"(NOUN_ROOT
+  (NOUN_acl
+    (VERB_acl
+      (NOUN_obl ADP_case ADP_case)
+      (NOUN_nsubj ADJ_acl ADP_case)
+      (SCONJ_mark VERB_fixed)
+      PUNCT_punct)
+    (VERB_acl
+      (NOUN_acl (NOUN_nmod ADP_case) AUX_cop)
+      AUX_aux
+      AUX_aux
+      PUNCT_punct)
+    (NOUN_nmod ADJ_acl NOUN_compound ADP_case)
+    AUX_cop
+    PUNCT_punct)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['頭', 'に', 'は', '青い', '星', 'が', '付い', 'て', 'おり', '、', 'キノコ', 'の', 'よう', 'な', '形状', 'し', 'た', '、', '黄色い', '宇宙', '人', 'の', '男の子', 'で', '、', '主人公', 'で', 'ある', '。']",0.895474966005321,0.9111425716189208,0.9033087688121209,0.91413947430417,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N2
+角には青い石の付いた金のリングを着けている。,7135364,,N2,1.0,0.86234343,0.931171715259552,角には青い石の付いた金のリングを着けている。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (NOUN_obj
+    (VERB_acl (NOUN_nmod ADJ_acl ADP_case) AUX_aux)
+    (NOUN_nmod ADP_case)
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['角', 'に', 'は', '青い', '石', 'の', '付い', 'た', '金', 'の', 'リング', 'を', '着け', 'て', 'いる', '。']",0.8183420830198096,0.8914005836873351,0.8548713333535723,0.8930215243065622,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N2
+また、エンブレムも左胸についており、リボンではなく青いバラがあしらわれ、ここから飛行能力を備えた白いマントを生み出すことができる。,7883456,,N2,1.0,0.80059844,0.9002992212772369,また、エンブレムも左胸についており、リボンではなく青いバラがあしらわれ、ここから飛行能力を備えた白いマントを生み出すことができる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (CCONJ_cc PUNCT_punct)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl ADP_case)
+      (SCONJ_mark VERB_fixed)
+      PUNCT_punct)
+    (NOUN_nsubj
+      (NOUN_acl (AUX_cop ADP_fixed AUX_fixed))
+      ADJ_acl
+      ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (PRON_obl ADP_case)
+  (NOUN_obj
+    (VERB_acl (NOUN_obj NOUN_compound ADP_case) AUX_aux)
+    ADJ_acl
+    ADP_case)
+  (NOUN_compound ADP_fixed AUX_fixed)
+  PUNCT_punct)","['また', '、', 'エンブレム', 'も', '左胸', 'に', 'つい', 'て', 'おり', '、', 'リボン', 'で', 'は', 'なく', '青い', 'バラ', 'が', 'あしらわ', 'れ', '、', 'ここ', 'から', '飛行', '能力', 'を', '備え', 'た', '白い', 'マント', 'を', '生み出す', 'こと', 'が', 'できる', '。']",0.7849344408859737,0.8838333333333334,0.8343838871096536,0.8673415541934453,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N2
+さらに、明石とさくらは青い宝玉を持つ臨獣殿のメンバー、リオとメレ、そしてリンリンシー臨獣ヒポポタマス拳バーカーに共闘を申し込む。,6748175,,N2,1.0,0.7628987,0.8814493417739868,さらに、明石とさくらは青い宝玉を持つ臨獣殿のメンバー、リオとメレ、そしてリンリンシー臨獣ヒポポタマス拳バーカーに共闘を申し込む。,(CCONJ_ROOT PUNCT_punct),"['さらに', '、', '明石', 'と', 'さくら', 'は', '青い', '宝玉', 'を', '持つ', '臨', '獣', '殿', 'の', 'メンバー', '、', 'リオ', 'と', 'メレ', '、', 'そして', 'リンリンシー', '臨', '獣', 'ヒポポタマス', '拳', 'バーカー', 'に', '共闘', 'を', '申し込む', '。']",0.7948769288446175,0.881994301994302,0.8384356154194597,0.8599424785967232,1,クリスタルを取得すると以降は同じ位置に青い星のかけらが配置される。,青い,N2

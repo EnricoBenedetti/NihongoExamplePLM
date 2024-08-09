@@ -1,0 +1,25 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+このような動物は頭の真ん中に角が生えている。,-1,20001.0,N3,0.1999999999999999,0.0,0.0999999999999999,このような動物は頭の真ん中に角が生えている。,"(VERB_ROOT
+  (NOUN_dislocated (NOUN_acl DET_det AUX_cop) ADP_case)
+  (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_nsubj ADP_case)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['この', 'よう', 'な', '動物', 'は', '頭', 'の', '真ん中', 'に', '角', 'が', '生え', 'て', 'いる', '。']",,,,,1,このような動物は頭の真ん中に角が生えている。,頭,N5
+頭をぶつけました。,391956,,N5,1.0,0.6195694,0.8097847104072571,頭をぶつけました。,(VERB_ROOT (NOUN_obj ADP_case) AUX_aux AUX_aux PUNCT_punct),"['頭', 'を', 'ぶつけ', 'まし', 'た', '。']",0.8,0.9761904761904762,0.888095238095238,0.8489399742512476,1,このような動物は頭の真ん中に角が生えている。,頭,N5
+頭が真っ白です。,391354,,N5,1.0,0.7136821,0.8568410575389862,頭が真っ白です。,(ADJ_ROOT (NOUN_nsubj ADP_case) AUX_aux PUNCT_punct),"['頭', 'が', '真っ白', 'です', '。']",0.6333333333333333,0.9519230769230768,0.7926282051282051,0.8247346313335957,1,このような動物は頭の真ん中に角が生えている。,頭,N5
+自分の頭、触ってみ。,395112,,N5,1.0,0.6622079,0.8311039507389069,自分の頭、触ってみ。,"(VERB_ROOT
+  (NOUN_obl (NOUN_nmod ADP_case) PUNCT_punct)
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['自分', 'の', '頭', '、', '触っ', 'て', 'み', '。']",0.6257507507507507,0.9338235294117648,0.7797871400812577,0.8054455454100823,1,このような動物は頭の真ん中に角が生えている。,頭,N5
+猫って、犬より頭がいいの？,346491,,N5,1.0,0.6417771,0.8208885490894318,猫って、犬より頭がいいの？,"(ADJ_ROOT
+  (NOUN_obl ADP_case PUNCT_punct)
+  (NOUN_obl ADP_case)
+  (NOUN_nsubj ADP_case)
+  PART_mark
+  PUNCT_punct)","['猫', 'って', '、', '犬', 'より', '頭', 'が', 'いい', 'の', '？']",0.6229011116021811,0.9197261072261071,0.7713136094141442,0.796101079251788,1,このような動物は頭の真ん中に角が生えている。,頭,N5
+頭はもう痛くないです。,306264,,N5,1.0,0.6231236,0.811561793088913,頭はもう痛くないです。,"(ADJ_ROOT
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  ADJ_advcl
+  AUX_aux
+  PUNCT_punct)","['頭', 'は', 'もう', '痛く', 'ない', 'です', '。']",0.6152674077347873,0.9055555555555556,0.7604114816451715,0.7859866373670422,1,このような動物は頭の真ん中に角が生えている。,頭,N5

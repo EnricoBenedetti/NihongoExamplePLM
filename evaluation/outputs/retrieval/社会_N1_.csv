@@ -1,0 +1,76 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+僕は勿論社会科学に何の知識も持っていなかった。,-1,20001.0,N2,0.8,0.0,0.4,僕は勿論社会科学に何の知識も持っていなかった。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl NOUN_compound ADP_case)
+  (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['僕', 'は', '勿論', '社会', '科学', 'に', '何', 'の', '知識', 'も', '持っ', 'て', 'い', 'なかっ', 'た', '。']",,,,,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N1
+アーノルドが歴史家として特異だったのは、文献による実証と社会改革家としての関心を合わせもったことであろう。,918138,,N1,1.0,0.8027514,0.9013757109642028,アーノルドが歴史家として特異だったのは、文献による実証と社会改革家としての関心を合わせもったことであろう。,"(NOUN_ROOT
+  (ADJ_dep
+    (PROPN_nsubj ADP_case)
+    (NOUN_obl (ADP_case AUX_fixed SCONJ_fixed))
+    AUX_cop
+    AUX_aux
+    SCONJ_mark
+    ADP_case
+    PUNCT_punct)
+  (NOUN_nmod (NOUN_nmod (ADP_case VERB_fixed)) ADP_case)
+  NOUN_compound)","['アーノルド', 'が', '歴史家', 'と', 'し', 'て', '特異', 'だっ', 'た', 'の', 'は', '、', '文献', 'に', 'よる', '実証', 'と', '社会', '改革', '家', 'と', 'し', 'て', 'の', '関心', 'を', '合わせもっ', 'た', 'こと', 'で', 'あろう', '。']",0.9550336143811702,0.9157402832674572,0.9353869488243136,0.9183813298942582,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N1
+部分社会工学的ですまそ。,61622,,N1,1.0,0.75866115,0.879330575466156,部分社会工学的ですまそ。,"(VERB_ROOT
+  (NOUN_advcl NOUN_compound NOUN_compound PART_mark AUX_cop)
+  PUNCT_punct)","['部分', '社会', '工学', '的', 'で', 'すまそ', '。']",0.9433445381270568,0.9125553018410162,0.9279499199840364,0.9036402477250962,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N1
+同年、北京大学学長だった蔡元培に招かれて帰国、20歳代半ばにして北京大学教授となり、プラグマティズムにもとづく近代的学問研究と社会改革を進めた。,2654832,,N1,1.0,0.79657966,0.898289829492569,同年、北京大学学長だった蔡元培に招かれて帰国、20歳代半ばにして北京大学教授となり、プラグマティズムにもとづく近代的学問研究と社会改革を進めた。,"(ADJ_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl
+        (NOUN_nmod
+          (ADV_advmod PUNCT_punct)
+          (VERB_acl
+            (PROPN_obl
+              (NOUN_acl PROPN_compound AUX_cop AUX_aux)
+              PROPN_compound
+              ADP_case)
+            AUX_aux
+            SCONJ_mark)
+          PUNCT_punct)
+        NUM_compound
+        NOUN_compound
+        NOUN_compound
+        ADP_case)
+      SCONJ_mark)
+    (NOUN_obl PROPN_compound ADP_case)
+    PUNCT_punct)
+  (NOUN_obl ADP_case))","['同年', '、', '北京大学', '学長', 'だっ', 'た', '蔡', '元培', 'に', '招か', 'れ', 'て', '帰国', '、', '20', '歳', '代', '半ば', 'に', 'し', 'て', '北京大学', '教授', 'と', 'なり', '、', 'プラグマティズム', 'に', 'もとづく', '近代的', '学問', '研究', 'と', '社会', '改革', 'を', '進め', 'た', '。']",0.923164360639251,0.8816564956842048,0.902410428161728,0.9003501288271485,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N1
+エンゲルスは、自然科学分野への関心に留まらず、社会科学分野についての理論的考察を提示していった。,1032494,,N1,1.0,0.868991,0.9344955086708068,エンゲルスは、自然科学分野への関心に留まらず、社会科学分野についての理論的考察を提示していった。,"(VERB_ROOT
+  (VERB_advcl
+    (PROPN_nsubj ADP_case PUNCT_punct)
+    (NOUN_obl (NOUN_nmod NOUN_compound ADP_case ADP_case) ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obj
+    (NOUN_nmod
+      NOUN_compound
+      NOUN_compound
+      (ADP_case VERB_fixed SCONJ_fixed)
+      ADP_case)
+    NOUN_compound
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['エンゲルス', 'は', '、', '自然科学', '分野', 'へ', 'の', '関心', 'に', '留まら', 'ず', '、', '社会', '科学', '分野', 'に', 'つい', 'て', 'の', '理論的', '考察', 'を', '提示', 'し', 'て', 'いっ', 'た', '。']",0.8635519922664538,0.8612005594587562,0.862376275862605,0.898435892266706,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N1
+こうした業績は、広く社会の一般理論に組み込まれるべきもの、そのために提起されたものである。,2904578,,N1,1.0,0.80093205,0.9004660248756409,こうした業績は、広く社会の一般理論に組み込まれるべきもの、そのために提起されたものである。,"(NOUN_ROOT
+  (NOUN_nsubj (VERB_acl ADV_advmod AUX_aux) ADP_case PUNCT_punct)
+  (NOUN_nmod
+    (VERB_acl
+      ADJ_advcl
+      (NOUN_obl (NOUN_nmod ADP_case) NOUN_compound ADP_case)
+      AUX_aux
+      AUX_aux)
+    PUNCT_punct)
+  (VERB_acl (NOUN_obl DET_det ADP_case) AUX_aux AUX_aux AUX_aux)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['こう', 'し', 'た', '業績', 'は', '、', '広く', '社会', 'の', '一般', '理論', 'に', '組み込ま', 'れる', 'べき', 'もの', '、', 'その', 'ため', 'に', '提起', 'さ', 'れ', 'た', 'もの', 'で', 'ある', '。']",0.8528454207121378,0.8620712560386473,0.8574583383753925,0.8789621816255166,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N1

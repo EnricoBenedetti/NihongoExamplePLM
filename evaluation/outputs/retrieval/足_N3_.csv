@@ -1,0 +1,85 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+ハードルに手や足をかけても問題ない。,-1,16615.0,N3,1.0,0.0,0.5,ハードルに手や足をかけても問題ない。,"(ADJ_ROOT
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark
+    ADP_case)
+  NOUN_compound
+  PUNCT_punct)","['ハードル', 'に', '手', 'や', '足', 'を', 'かけ', 'て', 'も', '問題', 'ない', '。']",,,,,1,ハードルに手や足をかけても問題ない。,足,N3
+このクラブはトリッピング（足を掛けて転ばす）を禁止していたが、プッシング、ホールディング、ボールを拾い上げる行為は許されていた。,1520585,,N3,1.0,0.8636014,0.9318006932735444,このクラブはトリッピング（足を掛けて転ばす）を禁止していたが、プッシング、ホールディング、ボールを拾い上げる行為は許されていた。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_nsubj DET_det ADP_case)
+    (NOUN_obj
+      PUNCT_punct
+      NOUN_compound
+      ADP_case
+      VERB_compound
+      SCONJ_mark
+      VERB_compound
+      PUNCT_punct
+      ADP_case)
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_nsubj
+    (PROPN_nmod (PROPN_nmod PUNCT_punct) PUNCT_punct)
+    (VERB_acl (NOUN_obj ADP_case))
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['この', 'クラブ', 'は', 'トリッピング', '（', '足', 'を', '掛け', 'て', '転ばす', '）', 'を', '禁止', 'し', 'て', 'い', 'た', 'が', '、', 'プッシング', '、', 'ホールディング', '、', 'ボール', 'を', '拾い上げる', '行為', 'は', '許さ', 'れ', 'て', 'い', 'た', '。']",0.7847107434084659,0.906349990589121,0.8455303669987935,0.8886655301361689,1,ハードルに手や足をかけても問題ない。,足,N3
+また、体が場外に出た状態で手や足がロープに引っ掛かって自力での脱出が不可能となった場合もリングアウト負けとなる。,6359068,,N3,1.0,0.8548151,0.9274075627326964,また、体が場外に出た状態で手や足がロープに引っ掛かって自力での脱出が不可能となった場合もリングアウト負けとなる。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl
+          (VERB_acl
+            (NOUN_nsubj ADP_case)
+            (NOUN_obl ADP_case)
+            AUX_aux)
+          ADP_case)
+        (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+        (NOUN_obl ADP_case)
+        SCONJ_mark)
+      (ADJ_advcl
+        (NOUN_nsubj (NOUN_nmod ADP_case ADP_case) ADP_case)
+        ADP_case)
+      AUX_aux)
+    ADP_case)
+  (NOUN_obl NOUN_compound ADP_case)
+  PUNCT_punct)","['また', '、', '体', 'が', '場外', 'に', '出', 'た', '状態', 'で', '手', 'や', '足', 'が', 'ロープ', 'に', '引っ掛かっ', 'て', '自力', 'で', 'の', '脱出', 'が', '不可能', 'と', 'なっ', 'た', '場合', 'も', 'リングアウト', '負け', 'と', 'なる', '。']",0.769845507484574,0.8863844770094771,0.8281149922470256,0.8777612774898611,1,ハードルに手や足をかけても問題ない。,足,N3
+ロープ登りと同じように足を一切絡ませないで登ることも可能。,3719497,,N3,1.0,0.8319185,0.9159592390060424,ロープ登りと同じように足を一切絡ませないで登ることも可能。,"(ADJ_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_advcl
+          (ADJ_amod (NOUN_obl NOUN_compound ADP_case))
+          AUX_cop)
+        (NOUN_obj ADP_case)
+        ADV_advmod
+        AUX_aux
+        AUX_aux
+        SCONJ_mark))
+    ADP_case)
+  PUNCT_punct)","['ロープ', '登り', 'と', '同じ', 'よう', 'に', '足', 'を', '一切', '絡ま', 'せ', 'ない', 'で', '登る', 'こと', 'も', '可能', '。']",0.7364417273750161,0.8815482221257297,0.8089949747503729,0.8624771068782077,1,ハードルに手や足をかけても問題ない。,足,N3
+この際に状況などにより手や足も使うことがある。,1092722,,N3,1.0,0.85976595,0.9298829734325408,この際に状況などにより手や足も使うことがある。,"(VERB_ROOT
+  (NOUN_obl DET_det ADP_case)
+  (NOUN_obl ADP_case (ADP_case VERB_fixed))
+  (NOUN_nsubj (NOUN_nmod ADP_case) ADP_case)
+  (NOUN_compound ADP_fixed VERB_fixed)
+  PUNCT_punct)","['この', '際', 'に', '状況', 'など', 'に', 'より', '手', 'や', '足', 'も', '使う', 'こと', 'が', 'ある', '。']",0.7005311888253687,0.8691766797905137,0.7848539343079413,0.8573684538702411,1,ハードルに手や足をかけても問題ない。,足,N3
+手や足などを投げ出すような動きと表現する。,5819368,,N3,1.0,0.8578098,0.9289048910140992,手や足などを投げ出すような動きと表現する。,"(VERB_ROOT
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obj (NOUN_nmod ADP_case) ADP_case ADP_case)
+      AUX_aux
+      AUX_aux)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['手', 'や', '足', 'など', 'を', '投げ出す', 'よう', 'な', '動き', 'と', '表現', 'する', '。']",0.6850687442776993,0.8604069703288526,0.7727378573032759,0.8508213741586875,1,ハードルに手や足をかけても問題ない。,足,N3

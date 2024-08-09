@@ -1,0 +1,80 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+画家はただ自分の本当の仕事だけをやればよい事となってしまった。,-1,20001.0,N1,0.1999999999999999,0.0,0.0999999999999999,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obj
+        (NOUN_nmod ADP_case)
+        (NOUN_nmod ADP_case)
+        ADP_case
+        ADP_case)
+      (SCONJ_mark AUX_fixed))
+    ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  PUNCT_punct)","['画家', 'は', 'ただ', '自分', 'の', '本当', 'の', '仕事', 'だけ', 'を', 'やれ', 'ば', 'よい', '事', 'と', 'なっ', 'て', 'しまっ', 'た', '。']",,,,,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N3
+もっと（勝負を）やればよかった」とも語っている。,2233455,,N3,1.0,0.73315704,0.8665785193443298,もっと（勝負を）やればよかった」とも語っている。,(ADV_ROOT (NOUN_compound PUNCT_punct ADP_case PUNCT_punct)),"['もっと', '（', '勝負', 'を', '）', 'やれ', 'ば', 'よかっ', 'た', '」', 'と', 'も', '語っ', 'て', 'いる', '。']",1.0,0.937091503267974,0.9685457516339868,0.9175621354891584,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N3
+逆にイマイチ方向性が定まらない場合は「もう一週様子を見てみましょうか」や「（職人に対して）君らはやればできる子なんだから」ということがある。,4157546,,N3,1.0,0.74051005,0.8702550232410431,逆にイマイチ方向性が定まらない場合は「もう一週様子を見てみましょうか」や「（職人に対して）君らはやればできる子なんだから」ということがある。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (NOUN_obl
+          (VERB_acl
+            (ADJ_advcl AUX_aux)
+            ADV_advmod
+            (NOUN_nsubj ADP_case)
+            AUX_aux)
+          ADP_case)
+        (NOUN_obl (ADV_advmod PUNCT_punct) NUM_nummod)
+        (NOUN_obj ADP_case)
+        (SCONJ_mark VERB_fixed)
+        AUX_aux
+        PART_mark
+        PUNCT_punct
+        ADP_case)
+      (NOUN_advcl
+        (NOUN_obl
+          PUNCT_punct
+          PUNCT_punct
+          (ADP_case VERB_fixed SCONJ_fixed)
+          PUNCT_punct)
+        (NOUN_nsubj PRON_nmod ADP_case)
+        (VERB_acl (VERB_advcl SCONJ_mark))
+        AUX_cop
+        (SCONJ_mark AUX_fixed)
+        SCONJ_mark
+        PUNCT_punct
+        ADP_case))
+    ADP_case)
+  PUNCT_punct)","['逆', 'に', 'イマイチ', '方向性', 'が', '定まら', 'ない', '場合', 'は', '「', 'もう', '一', '週', '様子', 'を', '見', 'て', 'み', 'ましょう', 'か', '」', 'や', '「', '（', '職人', 'に', '対し', 'て', '）', '君', 'ら', 'は', 'やれ', 'ば', 'できる', '子', 'な', 'ん', 'だ', 'から', '」', 'と', 'いう', 'こと', 'が', 'ある', '。']",0.9401381584422484,0.918335843373494,0.9292370009078712,0.8997460120744571,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N3
+好きにやればいい。,709908,,N3,1.0,0.7808193,0.8904096484184265,好きにやればいい。,(VERB_ROOT (ADJ_advcl AUX_aux) (SCONJ_mark AUX_fixed) PUNCT_punct),"['好き', 'に', 'やれ', 'ば', 'いい', '。']",0.8564248586969567,0.9095836087243886,0.8830042337106727,0.8867069410645496,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N3
+その後、「ちゃんとやれば、もうちょっと行けるんじゃないかな」と思い立ち大学の漫研へ行き、そこで小池と出会う。,417624,,N3,1.0,0.74557203,0.8727860152721405,その後、「ちゃんとやれば、もうちょっと行けるんじゃないかな」と思い立ち大学の漫研へ行き、そこで小池と出会う。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl DET_det PUNCT_punct)
+      (VERB_advcl (ADV_advmod PUNCT_punct) SCONJ_mark PUNCT_punct)
+      (ADV_advmod ADV_advmod)
+      (SCONJ_mark AUX_fixed AUX_fixed)
+      PART_mark
+      PART_mark
+      PUNCT_punct
+      ADP_case)
+    (NOUN_obl (NOUN_nmod VERB_acl ADP_case) ADP_case)
+    PUNCT_punct)
+  (PRON_obl ADP_case)
+  (NOUN_obl ADP_case)
+  PUNCT_punct)","['その', '後', '、', '「', 'ちゃんと', 'やれ', 'ば', '、', 'もう', 'ちょっと', '行ける', 'ん', 'じゃ', 'ない', 'か', 'な', '」', 'と', '思い立ち', '大学', 'の', '漫研', 'へ', '行き', '、', 'そこ', 'で', '小池', 'と', '出会う', '。']",0.8349608799807067,0.8973731884057972,0.8661670341932519,0.8694765247326962,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N3
+また、この姿勢について「作品を一所懸命やってるんだなと思ったんだ。,470477,,N3,1.0,0.7487517,0.8743758499622345,また、この姿勢について「作品を一所懸命やってるんだなと思ったんだ。,"(VERB_ROOT
+  CCONJ_cc
+  PUNCT_punct
+  (VERB_ccomp
+    (NOUN_obl DET_det (ADP_case VERB_fixed SCONJ_fixed))
+    (NOUN_obl (NOUN_obj PUNCT_punct ADP_case))
+    AUX_aux
+    (SCONJ_mark AUX_fixed)
+    PART_mark
+    ADP_case)
+  AUX_aux
+  (SCONJ_mark AUX_fixed)
+  PUNCT_punct)","['また', '、', 'この', '姿勢', 'に', 'つい', 'て', '「', '作品', 'を', '一所懸命', 'やっ', 'てる', 'ん', 'だ', 'な', 'と', '思っ', 'た', 'ん', 'だ', '。']",0.802962476008693,0.8867025683512841,0.8448325221799886,0.8596041860711116,1,画家はただ自分の本当の仕事だけをやればよい事となってしまった。,やる,N3

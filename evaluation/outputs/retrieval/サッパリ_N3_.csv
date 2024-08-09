@@ -1,0 +1,67 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,-1,22.0,N2,0.6,0.0,0.3,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,"(ADV_ROOT
+  ADV_cc
+  (NOUN_obl
+    (VERB_acl (SCONJ_mark VERB_fixed) PRON_mark)
+    (NOUN_nmod ADP_case)
+    PUNCT_punct)
+  (ADJ_advcl (NOUN_obl ADP_case) SCONJ_mark)
+  AUX_aux
+  (SCONJ_mark VERB_fixed)
+  PUNCT_punct)","['また', '聞こえ', 'て', 'くる', '君', '尾', 'の', '笑い声', '、', 'はなやか', 'で', '明るく', 'て', 'サッパリ', 'し', 'て', 'いる', '。']",,,,,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N3
+味は鶏モモ肉に似ておりサッパリしているという。,8692099,,N3,1.0,0.71581674,0.8579083681106567,味は鶏モモ肉に似ておりサッパリしているという。,"(VERB_ROOT
+  (ADV_ccomp
+    (VERB_advcl
+      (NOUN_nsubj ADP_case)
+      (NOUN_obl NOUN_compound ADP_case)
+      (SCONJ_mark VERB_fixed))
+    AUX_aux
+    (SCONJ_mark VERB_fixed)
+    ADP_case)
+  PUNCT_punct)","['味', 'は', '鶏', 'モモ肉', 'に', '似', 'て', 'おり', 'サッパリ', 'し', 'て', 'いる', 'と', 'いう', '。']",0.7457951511806931,0.8886997524372384,0.8172474518089657,0.8375779099598113,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N3
+■ドーナツフライオイルにはメーカーと共同開発した植物性のオイルを使用することで、油分の吸収を抑え、ベタつかずサッパリと食べやすく仕上げました。,7413909,,N3,1.0,0.65211624,0.8260581195354462,■ドーナツフライオイルにはメーカーと共同開発した植物性のオイルを使用することで、油分の吸収を抑え、ベタつかずサッパリと食べやすく仕上げました。,"(VERB_ROOT
+  SYM_dep
+  (NOUN_obl
+    (VERB_acl
+      (NOUN_obl NOUN_compound NOUN_compound ADP_case ADP_case)
+      (NOUN_obj
+        (VERB_acl (NOUN_obl ADP_case) NOUN_compound AUX_aux AUX_aux)
+        (NOUN_nmod ADP_case)
+        ADP_case)
+      AUX_aux)
+    ADP_case
+    PUNCT_punct)
+  (VERB_advcl (NOUN_obj (NOUN_nmod ADP_case) ADP_case) PUNCT_punct)
+  (VERB_advcl AUX_aux)
+  (ADV_advmod ADP_mark)
+  (VERB_advcl AUX_aux)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['■', 'ドーナツ', 'フライ', 'オイル', 'に', 'は', 'メーカー', 'と', '共同', '開発', 'し', 'た', '植物性', 'の', 'オイル', 'を', '使用', 'する', 'こと', 'で', '、', '油分', 'の', '吸収', 'を', '抑え', '、', 'ベタつか', 'ず', 'サッパリ', 'と', '食べ', 'やすく', '仕上げ', 'まし', 'た', '。']",0.7776974057737405,0.8947522523506588,0.8362248290621996,0.8311414742988229,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N3
+特に後半なんかはサッパリです。,25675,,N3,1.0,0.71491194,0.8574559688568115,特に後半なんかはサッパリです。,"(NOUN_ROOT
+  (NOUN_obl ADV_advmod ADP_case ADP_case)
+  AUX_aux
+  PUNCT_punct)","['特に', '後半', 'なんか', 'は', 'サッパリ', 'です', '。']",0.699462385329167,0.8942179123239278,0.7968401488265474,0.8271480588416795,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N3
+醤油単体に比べサッパリとした味を出す事ができ、主に唐揚げやハンバーグなどの肉料理に対するたれとして使われる。,6876746,,N3,1.0,0.6605109,0.8302554488182068,醤油単体に比べサッパリとした味を出す事ができ、主に唐揚げやハンバーグなどの肉料理に対するたれとして使われる。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl (NOUN_obl NOUN_compound ADP_case))
+    (NOUN_obj (VERB_acl (ADV_advmod ADP_case) AUX_aux) ADP_case)
+    (NOUN_compound ADP_fixed AUX_fixed)
+    PUNCT_punct)
+  (NOUN_obl
+    (NOUN_nmod
+      ADV_advmod
+      (NOUN_nmod (NOUN_nmod ADP_case) ADP_case ADP_case)
+      NOUN_compound
+      (ADP_case VERB_fixed))
+    (ADP_case AUX_fixed SCONJ_fixed))
+  AUX_aux
+  PUNCT_punct)","['醤油', '単体', 'に', '比べ', 'サッパリ', 'と', 'し', 'た', '味', 'を', '出す', '事', 'が', 'でき', '、', '主に', '唐揚げ', 'や', 'ハンバーグ', 'など', 'の', '肉', '料理', 'に', '対する', 'たれ', 'と', 'し', 'て', '使わ', 'れる', '。']",0.6586320041621332,0.8837198781384318,0.7711759411502825,0.8007156949842447,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N3
+ニコールは、一体どういうことだかサッパリ分からなかった。,6413220,,N3,1.0,0.5918342,0.7959170937538147,ニコールは、一体どういうことだかサッパリ分からなかった。,"(VERB_ROOT
+  (PROPN_nsubj ADP_case PUNCT_punct)
+  ADV_advmod
+  (NOUN_advcl DET_acl AUX_cop ADP_case)
+  ADV_advmod
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ニコール', 'は', '、', '一体', 'どういう', 'こと', 'だ', 'か', 'サッパリ', '分から', 'なかっ', 'た', '。']",0.6738131266841705,0.8815470249083873,0.777680075796279,0.7867985847750468,1,また聞こえてくる君尾の笑い声、はなやかで明るくてサッパリしている。,サッパリ,N3

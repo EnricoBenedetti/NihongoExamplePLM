@@ -1,0 +1,87 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,-1,16630.0,N2,0.8,0.0,0.4,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,"(VERB_ROOT
+  (NOUN_nsubj
+    (VERB_acl
+      (NOUN_obj
+        (VERB_acl
+          (VERB_advcl (NOUN_obj DET_det ADP_case) SCONJ_mark)
+          (NOUN_obl ADP_case)
+          AUX_aux)
+        ADP_case
+        PUNCT_punct)
+      (NOUN_obl ADP_case)
+      (NOUN_obl ADP_case)
+      (ADP_case VERB_fixed))
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['その', '汗', 'を', '流し', 'て', '手', 'に', '入れ', 'た', 'もの', 'を', '、', 'ただ', 'で', '他', 'に', '上げる', 'と', 'いう', 'こと', 'は', '出来', 'ない', '。']",,,,,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N1
+の「みなみお姉さん」こと高崎三奈美であり、翔二は図らずも初対面のカナの相手になってもらったお礼をするべく、三奈美を自宅に上げてしまう。,11940908,,N1,1.0,0.6305622,0.815281093120575,の「みなみお姉さん」こと高崎三奈美であり、翔二は図らずも初対面のカナの相手になってもらったお礼をするべく、三奈美を自宅に上げてしまう。,ADP_ROOT,"['の', '「', 'みなみ', 'お姉さん', '」', 'こと', '高崎', '三奈美', 'で', 'あり', '、', '翔二', 'は', '図ら', 'ず', 'も', '初対面', 'の', 'カナ', 'の', '相手', 'に', 'なっ', 'て', 'もらっ', 'た', 'お礼', 'を', 'する', 'べく', '、', '三奈美', 'を', '自宅', 'に', '上げ', 'て', 'しまう', '。']",1.0,0.9285714285714286,0.9642857142857144,0.8897834037031447,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N1
+自歩道は、本来歩行者のために設置される歩道を、自転車交通にも供する（自転車を“歩道に上げる”）ものである。,5416262,,N1,1.0,0.69502795,0.8475139737129211,自歩道は、本来歩行者のために設置される歩道を、自転車交通にも供する（自転車を“歩道に上げる”）ものである。,"(NOUN_ROOT
+  (NOUN_nsubj NOUN_compound ADP_case PUNCT_punct)
+  (VERB_acl
+    (NOUN_obj
+      (VERB_acl
+        ADV_advmod
+        (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+        AUX_aux
+        AUX_aux)
+      ADP_case
+      PUNCT_punct)
+    (NOUN_obl NOUN_compound ADP_case ADP_case)
+    PUNCT_punct
+    NOUN_compound
+    ADP_case
+    (VERB_advcl (NOUN_obl PUNCT_punct ADP_case))
+    PUNCT_punct
+    PUNCT_punct)
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['自', '歩道', 'は', '、', '本来', '歩行者', 'の', 'ため', 'に', '設置', 'さ', 'れる', '歩道', 'を', '、', '自転車', '交通', 'に', 'も', '供する', '（', '自転車', 'を', '“', '歩道', 'に', '上げる', '”', '）', 'もの', 'で', 'ある', '。']",0.8923876263062609,0.9034778225806452,0.897932724443453,0.872723349078187,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N1
+2人に恐怖を与えて陸に上げるための罠であり、乗ったら敵の思う壺と結論付ける。,12171750,,N1,1.0,0.6675254,0.8337627053260803,2人に恐怖を与えて陸に上げるための罠であり、乗ったら敵の思う壺と結論付ける。,"(VERB_ROOT
+  (NOUN_advcl
+    (NOUN_nmod
+      (VERB_acl (NOUN_obl ADP_case) (NOUN_obj ADP_case) SCONJ_mark)
+      (NOUN_obl ADP_case)
+      VERB_compound
+      ADP_fixed)
+    (AUX_cop VERB_fixed)
+    PUNCT_punct)
+  (VERB_advcl AUX_aux)
+  (NOUN_obl (VERB_acl (NOUN_nmod ADP_case)) ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['2人', 'に', '恐怖', 'を', '与え', 'て', '陸', 'に', '上げる', 'ため', 'の', '罠', 'で', 'あり', '、', '乗っ', 'たら', '敵', 'の', '思う', '壺', 'と', '結論', '付ける', '。']",0.8506196487480193,0.8879302962167002,0.8692749724823597,0.8515188389042201,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N1
+ゲームと違ってくにおとりきが（みすずを除く）女性に手を上げる事は最後まで無く、たとえ敵であっても防戦以上の事はしなかった。,5931247,,N1,1.0,0.60335255,0.8016762733459473,ゲームと違ってくにおとりきが（みすずを除く）女性に手を上げる事は最後まで無く、たとえ敵であっても防戦以上の事はしなかった。,"(PART_ROOT
+  (VERB_obl (NOUN_obl ADP_case) AUX_aux ADP_case)
+  NOUN_compound
+  VERB_advmod
+  ADP_case
+  PUNCT_punct
+  NOUN_compound
+  ADP_case
+  VERB_nmod
+  PUNCT_punct)","['ゲーム', 'と', '違っ', 'てく', 'に', 'お', 'とり', 'き', 'が', '（', 'みすず', 'を', '除く', '）', '女性', 'に', '手', 'を', '上げる', '事', 'は', '最後', 'まで', '無く', '、', 'たとえ', '敵', 'で', 'あっ', 'て', 'も', '防戦', '以上', 'の', '事', 'は', 'し', 'なかっ', 'た', '。']",0.8695572837797462,0.8831389241337413,0.8763481039567438,0.8390121886513455,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N1
+不快に思ったストライサンドはその物体が自分の命にかかわるもので、返してくれたらお金を上げるといって、自分のたくらみを成功させるために、カイルらを自らの屋敷に連れて行く。,6518348,,N1,1.0,0.6595751,0.82978755235672,不快に思ったストライサンドはその物体が自分の命にかかわるもので、返してくれたらお金を上げるといって、自分のたくらみを成功させるために、カイルらを自らの屋敷に連れて行く。,"(VERB_ROOT
+  (PROPN_nsubj (VERB_acl (ADJ_advcl AUX_aux) AUX_aux) ADP_case)
+  (NOUN_advcl
+    (VERB_acl
+      (NOUN_nsubj DET_det ADP_case)
+      (NOUN_obl (NOUN_nmod ADP_case) ADP_case))
+    AUX_cop
+    PUNCT_punct)
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_ccomp
+        (VERB_advcl (SCONJ_mark VERB_fixed) AUX_aux)
+        (PROPN_obj ADP_case)
+        ADP_case)
+      SCONJ_mark
+      PUNCT_punct)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    AUX_aux
+    AUX_aux
+    (SCONJ_mark SCONJ_fixed)
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obj PROPN_compound ADP_case)
+    (NOUN_obl (NOUN_nmod ADP_case) ADP_case)
+    SCONJ_mark)
+  PUNCT_punct)","['不快', 'に', '思っ', 'た', 'ストライサンド', 'は', 'その', '物体', 'が', '自分', 'の', '命', 'に', 'かかわる', 'もの', 'で', '、', '返し', 'て', 'くれ', 'たら', 'お金', 'を', '上げる', 'と', 'いっ', 'て', '、', '自分', 'の', 'たくらみ', 'を', '成功', 'さ', 'せる', 'ため', 'に', '、', 'カイル', 'ら', 'を', '自ら', 'の', '屋敷', 'に', '連れ', 'て', '行く', '。']",0.8294005831140597,0.8697807911043205,0.8495906871091901,0.839689119732955,1,その汗を流して手に入れたものを、ただで他に上げるということは出来ない。,上げる,N1

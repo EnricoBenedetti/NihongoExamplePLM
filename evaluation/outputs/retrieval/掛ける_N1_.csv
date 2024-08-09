@@ -1,0 +1,98 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+罪人はおとなしく椅子に腰を掛ける。,-1,7774.0,N3,0.6,0.0,0.3,罪人はおとなしく椅子に腰を掛ける。,"(VERB_ROOT
+  (NOUN_nsubj ADP_case)
+  ADJ_advcl
+  (NOUN_obl ADP_case)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['罪人', 'は', 'おとなしく', '椅子', 'に', '腰', 'を', '掛ける', '。']",,,,,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N1
+しかし前回よりリューアルされた腕力エリアの消耗され、クリフハンガー改の下り段差に手を掛けた瞬間落下した。,4451266,,N1,1.0,0.62255746,0.8112787306308746,しかし前回よりリューアルされた腕力エリアの消耗され、クリフハンガー改の下り段差に手を掛けた瞬間落下した。,"(NOUN_ROOT
+  (VERB_dep
+    CCONJ_cc
+    (NOUN_nmod
+      (VERB_acl (NOUN_obl ADP_case) AUX_aux AUX_aux AUX_aux)
+      NOUN_compound
+      ADP_case)
+    AUX_aux
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_nmod PROPN_compound NOUN_compound ADP_case))","['しかし', '前回', 'より', 'リューアル', 'さ', 'れ', 'た', '腕力', 'エリア', 'の', '消耗', 'さ', 'れ', '、', 'クリフ', 'ハンガー', '改', 'の', '下り', '段差', 'に', '手', 'を', '掛け', 'た', '瞬間', '落下', 'し', 'た', '。']",0.976192336960462,0.941961191961192,0.959076764460827,0.8851777475458509,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N1
+正確には、立った状態から寝床に付く行為もできないほど痛みが甚だしかったため、ソファーの一番柔らかいところにそっと腰を掛けて夜はそこで毛布を掛けて寝ていたという。,2120565,,N1,1.0,0.7414015,0.8707007467746735,正確には、立った状態から寝床に付く行為もできないほど痛みが甚だしかったため、ソファーの一番柔らかいところにそっと腰を掛けて夜はそこで毛布を掛けて寝ていたという。,"(VERB_ROOT
+  (VERB_ccomp
+    (NOUN_obl
+      (VERB_acl
+        (ADJ_advcl AUX_aux ADP_case PUNCT_punct)
+        (VERB_advcl
+          (NOUN_nsubj
+            (VERB_acl
+              (NOUN_obl (VERB_acl AUX_aux) ADP_case)
+              (NOUN_obl ADP_case))
+            ADP_case)
+          AUX_aux
+          PART_mark)
+        (NOUN_nsubj ADP_case)
+        AUX_aux)
+      PUNCT_punct)
+    (VERB_advcl
+      (NOUN_obl (NOUN_nmod ADP_case) (ADJ_acl ADV_advmod) ADP_case)
+      ADV_advmod
+      (NOUN_obj ADP_case)
+      SCONJ_mark)
+    (NOUN_obl ADP_case)
+    (VERB_advcl (PRON_obl ADP_case) (NOUN_obj ADP_case) SCONJ_mark)
+    (SCONJ_mark VERB_fixed)
+    AUX_aux
+    ADP_case)
+  PUNCT_punct)","['正確', 'に', 'は', '、', '立っ', 'た', '状態', 'から', '寝床', 'に', '付く', '行為', 'も', 'でき', 'ない', 'ほど', '痛み', 'が', '甚だしかっ', 'た', 'ため', '、', 'ソファー', 'の', '一番', '柔らかい', 'ところ', 'に', 'そっと', '腰', 'を', '掛け', 'て', '夜', 'は', 'そこ', 'で', '毛布', 'を', '掛け', 'て', '寝', 'て', 'い', 'た', 'と', 'いう', '。']",0.8874866723620762,0.9044464209694094,0.8959665466657428,0.8833336467202082,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N1
+ギシャールは剣帯を吊るし、鞄と雑嚢を肩に掛けると、最後にマスケットを受け取って、そのまま訓練姿勢を取らされた。,7728359,,N1,1.0,0.71202135,0.8560106754302979,ギシャールは剣帯を吊るし、鞄と雑嚢を肩に掛けると、最後にマスケットを受け取って、そのまま訓練姿勢を取らされた。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (PROPN_nsubj ADP_case)
+      (NOUN_obj ADP_case)
+      PUNCT_punct)
+    (NOUN_obj (NOUN_nmod ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl ADP_case)
+    (NOUN_obj ADP_case)
+    SCONJ_mark
+    PUNCT_punct)
+  (NOUN_obj ADJ_amod NOUN_compound ADP_case)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['ギシャール', 'は', '剣帯', 'を', '吊るし', '、', '鞄', 'と', '雑嚢', 'を', '肩', 'に', '掛ける', 'と', '、', '最後', 'に', 'マスケット', 'を', '受け取っ', 'て', '、', 'そのまま', '訓練', '姿勢', 'を', '取らさ', 'れ', 'た', '。']",0.8332267940978755,0.8882026023375378,0.8607146982177066,0.8583626868240022,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N1
+逢えなくて残念な気持ちが在る一方、逢えなくてほっとした気持ちもあり、複雑な気持ちを抱えて入浴していると、後ろから声を掛けられた。,11066565,,N1,1.0,0.64459574,0.8222978711128235,逢えなくて残念な気持ちが在る一方、逢えなくてほっとした気持ちもあり、複雑な気持ちを抱えて入浴していると、後ろから声を掛けられた。,"(VERB_ROOT
+  (NOUN_nsubj
+    (ADJ_acl (VERB_advcl AUX_aux SCONJ_mark) AUX_aux)
+    ADP_case))","['逢え', 'なく', 'て', '残念', 'な', '気持ち', 'が', '在る', '一方', '、', '逢え', 'なく', 'て', 'ほっと', 'し', 'た', '気持ち', 'も', 'あり', '、', '複雑', 'な', '気持ち', 'を', '抱え', 'て', '入浴', 'し', 'て', 'いる', 'と', '、', '後ろ', 'から', '声', 'を', '掛け', 'られ', 'た', '。']",0.8742339107818806,0.8652920688892386,0.8697629898355597,0.8460304304741916,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N1
+ライブでは常にエンターテイメントに徹しており、3人による背面弾きや、清水エスパー光一がモニターに足を掛け、コントラバスをエレキ・ベースのように弾くスラップ・プレイ等のパフォーマンスを展開する。,7616003,,N1,1.0,0.70069224,0.8503461182117462,ライブでは常にエンターテイメントに徹しており、3人による背面弾きや、清水エスパー光一がモニターに足を掛け、コントラバスをエレキ・ベースのように弾くスラップ・プレイ等のパフォーマンスを展開する。,"(VERB_ROOT
+  (NOUN_obj
+    (VERB_acl
+      (VERB_advcl
+        (VERB_advcl
+          (NOUN_obl ADP_case ADP_case)
+          (NOUN_obl ADP_case)
+          (NOUN_obl ADP_case)
+          (SCONJ_mark VERB_fixed)
+          PUNCT_punct)
+        (PROPN_nsubj
+          (NOUN_nmod
+            (NOUN_nmod NUM_nummod (ADP_case VERB_fixed))
+            NOUN_compound
+            ADP_case
+            PUNCT_punct)
+          PROPN_compound
+          NOUN_compound
+          ADP_case)
+        (NOUN_obl ADP_case)
+        (NOUN_obj ADP_case)
+        PUNCT_punct)
+      (PROPN_obj ADP_case)
+      (NOUN_advcl
+        (NOUN_nmod NOUN_compound SYM_compound ADP_case)
+        AUX_cop))
+    (NOUN_nmod NOUN_compound SYM_compound NOUN_compound ADP_case)
+    ADP_case)
+  AUX_aux
+  PUNCT_punct)","['ライブ', 'で', 'は', '常', 'に', 'エンターテイメント', 'に', '徹し', 'て', 'おり', '、', '3', '人', 'に', 'よる', '背面', '弾き', 'や', '、', '清水', 'エスパー', '光一', 'が', 'モニター', 'に', '足', 'を', '掛け', '、', 'コントラバス', 'を', 'エレキ', '・', 'ベース', 'の', 'よう', 'に', '弾く', 'スラップ', '・', 'プレイ', '等', 'の', 'パフォーマンス', 'を', '展開', 'する', '。']",0.8423253342044975,0.8712480321486111,0.8567866831765543,0.8535664006941502,1,罪人はおとなしく椅子に腰を掛ける。,掛ける,N1

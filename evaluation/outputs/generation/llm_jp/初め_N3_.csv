@@ -1,0 +1,4 @@
+sentence,target_word,context_sentence,target_level,system_id
+十一月の初めだった。,初め,十一月の初めだった。,N3,2
+何事も初めが肝心だ。,初め,十一月の初めだった。,N3,2
+．私は、11月の初めに日本を訪れた。,初め,十一月の初めだった。,N3,2

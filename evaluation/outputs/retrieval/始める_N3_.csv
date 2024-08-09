@@ -1,0 +1,75 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+空からはちらほらと、たゆたいながら雪が落ち始める。,-1,20001.0,N2,0.6,0.0,0.3,空からはちらほらと、たゆたいながら雪が落ち始める。,"(VERB_ROOT
+  (NOUN_obl ADP_case ADP_case)
+  (ADV_advmod ADP_case PUNCT_punct)
+  (NOUN_advcl SCONJ_mark)
+  (NOUN_nsubj ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['空', 'から', 'は', 'ちらほら', 'と', '、', 'たゆたい', 'ながら', '雪', 'が', '落ち', '始める', '。']",,,,,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N3
+北極海では、海氷の上部を覆う雪の層が6月の中旬から7月近くの間に融け始める。,2723385,,N3,1.0,0.7870996,0.8935497999191284,北極海では、海氷の上部を覆う雪の層が6月の中旬から7月近くの間に融け始める。,"(VERB_ROOT
+  (ADJ_advcl
+    (PROPN_obl ADP_case ADP_case PUNCT_punct)
+    (NOUN_nsubj
+      (NOUN_nmod
+        (VERB_acl (NOUN_obj (PROPN_nmod ADP_case) ADP_case))
+        ADP_case)
+      ADP_case)
+    (NOUN_obl
+      (NOUN_nmod
+        (NOUN_nmod (NOUN_nmod NUM_nummod ADP_case) ADP_case)
+        NUM_compound
+        NOUN_compound
+        ADP_case)
+      ADP_case))
+  PUNCT_punct)","['北極海', 'で', 'は', '、', '海氷', 'の', '上部', 'を', '覆う', '雪', 'の', '層', 'が', '6', '月', 'の', '中旬', 'から', '7', '月', '近く', 'の', '間', 'に', '融け', '始める', '。']",0.7866912588941812,0.9246710526315788,0.8556811557628801,0.8746154778410042,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N3
+しかし、夜が明けて空が白み始めると、他にもペリリュー島に向かって進んでいる日本兵が望見された。,2709605,,N3,1.0,0.7646237,0.8823118507862091,しかし、夜が明けて空が白み始めると、他にもペリリュー島に向かって進んでいる日本兵が望見された。,"(VERB_ROOT
+  (CCONJ_cc PUNCT_punct)
+  (PROPN_nsubj
+    (VERB_acl
+      (VERB_advcl
+        (VERB_advcl (NOUN_nsubj ADP_case) SCONJ_mark)
+        (NOUN_nsubj ADP_case)
+        VERB_advcl
+        SCONJ_mark
+        PUNCT_punct)
+      (NOUN_obl ADP_case ADP_case)
+      (VERB_advcl (NOUN_obl PROPN_compound ADP_case) SCONJ_mark)
+      (SCONJ_mark VERB_fixed))
+    ADP_case)
+  AUX_aux
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['しかし', '、', '夜', 'が', '明け', 'て', '空', 'が', '白み', '始める', 'と', '、', '他', 'に', 'も', 'ペリリュー', '島', 'に', '向かっ', 'て', '進ん', 'で', 'いる', '日本兵', 'が', '望見', 'さ', 'れ', 'た', '。']",0.7924206571264475,0.90682302771855,0.8496218424224988,0.865966846604354,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N3
+間もなく真っ黒に濁った冷たい水がチョロチョロと出始めた。,1467936,,N3,1.0,0.81814915,0.9090745747089386,間もなく真っ黒に濁った冷たい水がチョロチョロと出始めた。,"(VERB_ROOT
+  (ADJ_advcl (NOUN_nsubj ADP_case))
+  (NOUN_nsubj
+    (VERB_acl (ADJ_advcl AUX_aux) AUX_aux)
+    ADJ_acl
+    ADP_case
+    (VERB_dep ADP_case))
+  VERB_advcl
+  AUX_aux
+  PUNCT_punct)","['間', 'も', 'なく', '真っ黒', 'に', '濁っ', 'た', '冷たい', '水', 'が', 'チョロチョロ', 'と', '出', '始め', 'た', '。']",0.7152285156708703,0.8978304027226318,0.8065294591967511,0.8578020169528449,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N3
+庭のバラの木のつぼみが少しずつ開き始める。,204470,,N3,1.0,0.8269822,0.9134911000728608,庭のバラの木のつぼみが少しずつ開き始める。,"(VERB_ROOT
+  (NOUN_nsubj
+    (NOUN_nmod (NOUN_nmod (NOUN_nmod ADP_case) ADP_case) ADP_case)
+    ADP_case)
+  (ADV_advmod ADP_case)
+  VERB_advcl
+  PUNCT_punct)","['庭', 'の', 'バラ', 'の', '木', 'の', 'つぼみ', 'が', '少し', 'ずつ', '開き', '始める', '。']",0.6638266823300099,0.8934021061680636,0.7786143942490367,0.8460527471609487,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N3
+夜明けが近づき空が赤らみ始めると、ギャオスは頭を紫色に光らせ、にわかに苦しみ出す。,3275733,,N3,1.0,0.79304534,0.8965226709842682,夜明けが近づき空が赤らみ始めると、ギャオスは頭を紫色に光らせ、にわかに苦しみ出す。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (VERB_advcl
+        (VERB_advcl (NOUN_nsubj ADP_case))
+        (NOUN_nsubj ADP_case)
+        VERB_advcl
+        SCONJ_mark
+        PUNCT_punct)
+      (NOUN_nsubj ADP_case)
+      (NOUN_obj ADP_case)
+      (NOUN_obl ADP_case)
+      AUX_aux
+      PUNCT_punct)
+    (ADJ_advcl AUX_aux))
+  PUNCT_punct)","['夜明け', 'が', '近づき', '空', 'が', '赤らみ', '始める', 'と', '、', 'ギャオス', 'は', '頭', 'を', '紫色', 'に', '光ら', 'せ', '、', 'にわか', 'に', '苦しみ', '出す', '。']",0.664018615729996,0.8801820494372784,0.7721003325836372,0.8343115017839526,1,空からはちらほらと、たゆたいながら雪が落ち始める。,始める,N3

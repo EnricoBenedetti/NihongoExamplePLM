@@ -1,0 +1,58 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+僕は勿論社会科学に何の知識も持っていなかった。,-1,20001.0,N2,1.0,0.0,0.5,僕は勿論社会科学に何の知識も持っていなかった。,"(VERB_ROOT
+  (PRON_nsubj ADP_case)
+  ADV_advmod
+  (NOUN_obl NOUN_compound ADP_case)
+  (NOUN_nsubj (PRON_nmod ADP_case) ADP_case)
+  (SCONJ_mark VERB_fixed)
+  AUX_aux
+  AUX_aux
+  PUNCT_punct)","['僕', 'は', '勿論', '社会', '科学', 'に', '何', 'の', '知識', 'も', '持っ', 'て', 'い', 'なかっ', 'た', '。']",,,,,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N2
+は社会科学と人文学の新しい概念である。,2800186,,N2,1.0,0.86278534,0.9313926696777344,は社会科学と人文学の新しい概念である。,ADP_ROOT,"['は', '社会', '科学', 'と', '人文学', 'の', '新しい', '概念', 'で', 'ある', '。']",1.0,0.9437037037037036,0.971851851851852,0.9516222607647932,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N2
+その後退職し、1969年から1976年10月の廃刊まで『社会科学評論』誌の編集長を務め、並行して盛んに創作活動を行なう。,4199582,,N2,1.0,0.8535794,0.9267897009849548,その後退職し、1969年から1976年10月の廃刊まで『社会科学評論』誌の編集長を務め、並行して盛んに創作活動を行なう。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl (NOUN_obl DET_det) AUX_aux PUNCT_punct)
+    (NOUN_obl
+      (NOUN_nmod
+        (NOUN_nmod NUM_nummod ADP_case)
+        NUM_compound
+        NOUN_compound
+        NUM_nummod
+        ADP_case)
+      ADP_case)
+    (NOUN_obj
+      (NOUN_nmod
+        PUNCT_punct
+        NOUN_compound
+        NOUN_compound
+        NOUN_compound
+        PUNCT_punct
+        ADP_case)
+      ADP_case)
+    PUNCT_punct)
+  (VERB_advcl AUX_aux SCONJ_mark)
+  (ADJ_advcl AUX_aux)
+  (NOUN_obj NOUN_compound ADP_case)
+  PUNCT_punct)","['その', '後', '退職', 'し', '、', '1969', '年', 'から', '1976', '年', '10', '月', 'の', '廃刊', 'まで', '『', '社会', '科学', '評論', '』', '誌', 'の', '編集長', 'を', '務め', '、', '並行', 'し', 'て', '盛ん', 'に', '創作', '活動', 'を', '行なう', '。']",0.9441881360736052,0.9281746031746032,0.936181369624104,0.9314855353045296,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N2
+社会科学分野において最も古い歴史をもつ研究機関である。,1918812,,N2,1.0,0.87289906,0.9364495277404784,社会科学分野において最も古い歴史をもつ研究機関である。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obl
+      NOUN_compound
+      NOUN_compound
+      (ADP_case VERB_fixed SCONJ_fixed))
+    (NOUN_obj (ADJ_acl ADV_advmod) ADP_case))
+  NOUN_compound
+  (AUX_cop VERB_fixed)
+  PUNCT_punct)","['社会', '科学', '分野', 'に', 'おい', 'て', '最も', '古い', '歴史', 'を', 'もつ', '研究', '機関', 'で', 'ある', '。']",0.890954520640188,0.9038628394841624,0.8974086800621752,0.9169291039013268,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N2
+1897年（明治30年）桑田熊蔵らにより創設された、同名の日本最初の社会科学研究団体「社会政策学会」（以降、戦前学会）に源流をもつ。,2789348,,N2,1.0,0.83333874,0.9166693687438964,1897年（明治30年）桑田熊蔵らにより創設された、同名の日本最初の社会科学研究団体「社会政策学会」（以降、戦前学会）に源流をもつ。,"(NOUN_ROOT
+  NUM_nummod
+  PUNCT_punct
+  PROPN_compound
+  NUM_compound
+  NOUN_nmod
+  PUNCT_punct)","['1897', '年', '（', '明治', '30', '年', '）', '桑田', '熊蔵', 'ら', 'に', 'より', '創設', 'さ', 'れ', 'た', '、', '同名', 'の', '日本', '最初', 'の', '社会', '科学', '研究', '団体', '「', '社会', '政策', '学会', '」', '（', '以降', '、', '戦前', '学会', '）', 'に', '源流', 'を', 'もつ', '。']",0.8816667804209153,0.8938185656445845,0.8877426730327499,0.9022060208883232,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N2
+その間、社会科学も修めた。,4279282,,N2,1.0,0.8721445,0.9360722601413728,その間、社会科学も修めた。,"(VERB_ROOT
+  (NOUN_obl DET_det PUNCT_punct)
+  (NOUN_nsubj NOUN_compound ADP_case)
+  AUX_aux
+  PUNCT_punct)","['その', '間', '、', '社会', '科学', 'も', '修め', 'た', '。']",0.839913653707978,0.8835823484880346,0.8617480010980063,0.8989101306196895,1,僕は勿論社会科学に何の知識も持っていなかった。,社会,N2

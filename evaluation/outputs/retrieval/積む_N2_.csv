@@ -1,0 +1,75 @@
+sentence,index,index_hits,level,level_score,sense_score,quality_score,sentence_docs,parse_tree,tokenized,syntax_div_score,lexical_div_score,div_score,total_score,system_id,context_sentence,target_word,target_level
+その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,-1,7297.0,N3,0.8,0.0,0.4,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,"(VERB_ROOT
+  (VERB_advcl
+    (NOUN_obl DET_det)
+    (NOUN_obl ADP_case)
+    AUX_aux
+    SCONJ_mark
+    PUNCT_punct)
+  (VERB_advcl
+    (NOUN_obl (PROPN_obj NOUN_compound ADP_case) ADP_case)
+    (NOUN_obl ADP_case)
+    AUX_aux)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['その', '後', 'プロ', 'に', '転向', 'する', 'と', '、', '地元', '大阪', 'を', '中心', 'に', '大会', 'へ', '出場', 'し', '経験', 'を', '積む', '。']",,,,,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N2
+試合出場はなかったものの、練習には参加して大谷晋二郎、高岩竜一、ケンドー・カシンなどとスパーリングを行い、研鑚を積む。,3623200,,N2,1.0,0.89859205,0.9492960274219512,試合出場はなかったものの、練習には参加して大谷晋二郎、高岩竜一、ケンドー・カシンなどとスパーリングを行い、研鑚を積む。,NOUN_ROOT,"['試合', '出場', 'は', 'なかっ', 'た', 'もの', 'の', '、', '練習', 'に', 'は', '参加', 'し', 'て', '大谷', '晋二郎', '、', '高岩', '竜一', '、', 'ケンドー', '・', 'カシン', 'など', 'と', 'スパーリング', 'を', '行い', '、', '研鑚', 'を', '積む', '。']",1.0,0.9159401709401708,0.9579700854700854,0.9536330564460184,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N2
+アイルランド、アルゼンチン、フランス、メキシコなど各国でプレイ経験を積む。,12425476,,N2,1.0,0.87828875,0.9391443729400636,アイルランド、アルゼンチン、フランス、メキシコなど各国でプレイ経験を積む。,"(VERB_ROOT
+  (NOUN_obj
+    (VERB_acl
+      (NOUN_obl
+        (PROPN_nmod
+          (PROPN_nmod
+            (PROPN_nmod (PROPN_nmod PUNCT_punct) PUNCT_punct)
+            PUNCT_punct)
+          ADP_case)
+        ADP_case))
+    ADP_case)
+  PUNCT_punct)","['アイルランド', '、', 'アルゼンチン', '、', 'フランス', '、', 'メキシコ', 'など', '各国', 'で', 'プレイ', '経験', 'を', '積む', '。']",0.896909750307584,0.8816558441558442,0.8892827972317141,0.9142135850858888,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N2
+選手を引退するまでにタイ・バングラデシュ・ウガンダと、本人曰く「裏海外組として、マニアックな国で」キャリアを積む。,7384378,,N2,1.0,0.87154967,0.9357748329639436,選手を引退するまでにタイ・バングラデシュ・ウガンダと、本人曰く「裏海外組として、マニアックな国で」キャリアを積む。,"(NOUN_ROOT
+  (VERB_acl
+    (NOUN_obj ADP_case)
+    AUX_aux
+    PART_mark
+    ADP_case
+    (PROPN_dep
+      PROPN_compound
+      SYM_compound
+      PROPN_compound
+      SYM_compound
+      ADP_case
+      PUNCT_punct))
+  (ADV_advmod NOUN_compound)
+  (ADJ_acl
+    (NOUN_obl
+      (NOUN_nmod PUNCT_punct)
+      NOUN_compound
+      (ADP_case AUX_fixed SCONJ_fixed)
+      PUNCT_punct)
+    AUX_aux)
+  ADP_case
+  PUNCT_punct)","['選手', 'を', '引退', 'する', 'まで', 'に', 'タイ', '・', 'バングラデシュ', '・', 'ウガンダ', 'と', '、', '本人', '曰く', '「', '裏', '海外', '組', 'と', 'し', 'て', '、', 'マニアック', 'な', '国', 'で', '」', 'キャリア', 'を', '積む', '。']",0.8561444326158871,0.8691830408346581,0.8626637367252726,0.8992192848446081,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N2
+同ポジションレギュラーでもあり日本代表でもある路木龍次の怪我もあり試合経験を積む。,2393398,,N2,1.0,0.91729325,0.9586466252803802,同ポジションレギュラーでもあり日本代表でもある路木龍次の怪我もあり試合経験を積む。,"(VERB_ROOT
+  (NOUN_advcl
+    NOUN_compound
+    NOUN_compound
+    (AUX_cop ADP_fixed VERB_fixed))
+  (VERB_advcl
+    (NOUN_nsubj
+      (PROPN_nmod
+        (NOUN_acl PROPN_compound (AUX_cop ADP_fixed VERB_fixed))
+        NOUN_compound
+        ADP_case)
+      ADP_case))
+  (NOUN_obj NOUN_compound ADP_case)
+  PUNCT_punct)","['同', 'ポジション', 'レギュラー', 'で', 'も', 'あり', '日本', '代表', 'で', 'も', 'ある', '路木', '龍次', 'の', '怪我', 'も', 'あり', '試合', '経験', 'を', '積む', '。']",0.8033996284478911,0.8528415212030727,0.8281205748254818,0.893383600052931,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N2
+その後、三重カントリー所属となり、マレーシアツアーに参戦し、経験を積む。,4715845,,N2,1.0,0.9407059,0.9703529477119446,その後、三重カントリー所属となり、マレーシアツアーに参戦し、経験を積む。,"(VERB_ROOT
+  (VERB_advcl
+    (VERB_advcl
+      (NOUN_obl DET_det PUNCT_punct)
+      (NOUN_obl PROPN_compound NOUN_compound ADP_case)
+      PUNCT_punct)
+    (NOUN_obl PROPN_compound ADP_case)
+    AUX_aux
+    PUNCT_punct)
+  (NOUN_obj ADP_case)
+  PUNCT_punct)","['その', '後', '、', '三重', 'カントリー', '所属', 'と', 'なり', '、', 'マレーシア', 'ツアー', 'に', '参戦', 'し', '、', '経験', 'を', '積む', '。']",0.7376168012705797,0.8380843960273097,0.7878505986489447,0.8791017731804447,1,その後プロに転向すると、地元大阪を中心に大会へ出場し経験を積む。,積む,N2
